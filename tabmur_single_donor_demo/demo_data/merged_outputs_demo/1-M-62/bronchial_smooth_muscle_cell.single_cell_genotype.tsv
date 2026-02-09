@@ -1,518 +1,518 @@
-donor	sample	#CHROM	Start	End	REF	ALT_expected	Cell_type_expected	Num_cells_expected	CB	Cell_type_observed	Base_observed	Num_reads
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	CACCAGGAGACGCAAC	bronchial_smooth_muscle_cell	G	143
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	CGAATGTCAAACGTGG	bronchial_smooth_muscle_cell	G	4
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	CGTCCATTCGACAGCC	bronchial_smooth_muscle_cell	G	19
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	TCACGAAGTAGCGCTC	bronchial_smooth_muscle_cell	G	8
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	TGACGGCAGGAGTAGA	bronchial_smooth_muscle_cell	G	35
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	ATCATCTTCAACACGT	bronchial_smooth_muscle_cell	G	2
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	ACAGCTAAGCGTTTAC	bronchial_smooth_muscle_cell	G	5
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	ATCCGAAAGTCTTGCA	bronchial_smooth_muscle_cell	G	1
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	AAGGCAGTCAAGATCC	bronchial_smooth_muscle_cell	G	4
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	CCTACACCACAAGCCC	bronchial_smooth_muscle_cell	G	2
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	GTCGTAATCGAATCCA	bronchial_smooth_muscle_cell	G	6
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	TATGCCCAGTGTCCAT	bronchial_smooth_muscle_cell	G	1
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	CGCGGTACATCCGGGT	bronchial_smooth_muscle_cell	G	2
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	CAAGGCCGTTACCAGT	bronchial_smooth_muscle_cell	G	1
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	CCTTCGATCGAATCCA	bronchial_smooth_muscle_cell	G	1
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	AACTCTTCAGGAATCG	bronchial_smooth_muscle_cell	G	1
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	CATCAGATCGTCTGAA	bronchial_smooth_muscle_cell	G	1
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	CCCATACTCTTCTGGC	bronchial_smooth_muscle_cell	G	1
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	TACCTTAAGGGCATGT	bronchial_smooth_muscle_cell	G	1
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	TATGCCCGTTCAGTAC	bronchial_smooth_muscle_cell	G	1
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	GACACGCAGAAGGTGA	bronchial_smooth_muscle_cell	G	1
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	CGAGCCAAGACGCTTT	bronchial_smooth_muscle_cell	G	1
-1-M-62	10X_P5_13	chr11	102523273	102523273	C	G	classical_monocyte	2	ATTGGACTCACATACG	bronchial_smooth_muscle_cell	C	3
-1-M-62	10X_P5_13	chr11	102523273	102523273	C	G	classical_monocyte	2	GGCGTGTCAAGAAAGG	bronchial_smooth_muscle_cell	C	2
-1-M-62	10X_P5_13	chr11	102523273	102523273	C	G	classical_monocyte	2	CCCATACTCTTCTGGC	bronchial_smooth_muscle_cell	C	3
-1-M-62	10X_P5_13	chr11	102523273	102523273	C	G	classical_monocyte	2	GATCGCGTCCCTGACT	bronchial_smooth_muscle_cell	C	2
-1-M-62	10X_P5_13	chr11	102523273	102523273	C	G	classical_monocyte	2	ATCATCTAGGCATGTG	bronchial_smooth_muscle_cell	C	2
-1-M-62	10X_P5_13	chr11	102523273	102523273	C	G	classical_monocyte	2	AGTGGGACAAGTTCTG	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chr11	102523273	102523273	C	G	classical_monocyte	2	GAAATGAGTCTCAACA	bronchial_smooth_muscle_cell	C	6
-1-M-62	10X_P5_13	chr11	102523273	102523273	C	G	classical_monocyte	2	ACAGCTATCCGTCAAA	bronchial_smooth_muscle_cell	C	2
-1-M-62	10X_P5_13	chr11	102523273	102523273	C	G	classical_monocyte	2	CAACCTCGTCCGTTAA	bronchial_smooth_muscle_cell	C	2
-1-M-62	10X_P5_13	chr11	102523273	102523273	C	G	classical_monocyte	2	GATGCTAAGAGCTGGT	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chr11	102523273	102523273	C	G	classical_monocyte	2	GTACTTTTCGCGCCAA	bronchial_smooth_muscle_cell	C	3
-1-M-62	10X_P5_13	chr11	102523273	102523273	C	G	classical_monocyte	2	GTACTTTAGTGCTGCC	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chr11	102523273	102523273	C	G	classical_monocyte	2	CCTTTCTTCCTACAGA	bronchial_smooth_muscle_cell	C	2
-1-M-62	10X_P5_13	chr11	102523273	102523273	C	G	classical_monocyte	2	CGCGGTACACAAGCCC	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	TGACAACGTTGGTGGA	bronchial_smooth_muscle_cell	A	6
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	TCATTACCAAGCCATT	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	AGCATACGTATCTGCA	bronchial_smooth_muscle_cell	A	3
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	AGCCTAATCGTTTAGG	bronchial_smooth_muscle_cell	A	2
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	CGGCTAGAGAGGTACC	bronchial_smooth_muscle_cell	A	7
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	CAGCAGCAGTGAACGC	bronchial_smooth_muscle_cell	A	2
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	GTGGGTCGTTTGACAC	bronchial_smooth_muscle_cell	A	3
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	CGAATGTCAAACGTGG	bronchial_smooth_muscle_cell	A	4
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	AAACGGGAGCTAAGAT	bronchial_smooth_muscle_cell	A	4
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	CGCTATCTCATCGGAT	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	CACACCTCAATGACCT	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	CGAGCCAGTTCCACGG	bronchial_smooth_muscle_cell	A	4
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	GTACTTTAGCGTAATA	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	CTTACCGTCAACGGGA	bronchial_smooth_muscle_cell	A	3
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	GATGCTAAGAGCTGGT	bronchial_smooth_muscle_cell	A	2
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	TGTCCCAGTCATTAGC	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	ACGGGCTCAAGGTGTG	bronchial_smooth_muscle_cell	A	2
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	TACTCATAGCGCTCCA	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr12	85321194	85321194	T	A	alveolar_macrophage	2	TCAATCTTCAACCATG	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr12	85321194	85321194	T	A	alveolar_macrophage	2	CCAGCGACAAAGCAAT	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	ATTTCTGCATCCGGGT	bronchial_smooth_muscle_cell	C	4
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	GCATGATCACCGTTGG	bronchial_smooth_muscle_cell	C	2
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	TACCTTAAGGGCATGT	bronchial_smooth_muscle_cell	C	3
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	GACGTTATCAGCTTAG	bronchial_smooth_muscle_cell	C	4
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	TACGGTAAGACTAGGC	bronchial_smooth_muscle_cell	C	3
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	CTACGTCAGCACCGTC	bronchial_smooth_muscle_cell	C	2
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	ACGCCGAAGCAACGGT	bronchial_smooth_muscle_cell	C	4
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	CCTCTGAAGACCGGAT	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	CTTACCGTCAACGGGA	bronchial_smooth_muscle_cell	C	2
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	TAAGCGTCAATTCCTT	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	ATTGGACTCACATACG	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	GATCGCGTCCCTGACT	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	ACATGGTCAAGCCTAT	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	ACGCCAGTCCAAATGC	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	TGACGGCAGGAGTAGA	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	TGGGCGTCATCCTTGC	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	GCCAAATAGACTAAGT	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	CGCGGTACATCCGGGT	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	ATGAGGGGTCTCCATC	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	GATCGTACATAAGACA	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	TCAATCTTCAACCATG	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	AACTCTTCAGGAATCG	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr15	79907777	79907777	A	G	B_cell	3	ACGGGTCAGACGACGT	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr15	79907777	79907777	A	G	B_cell	3	AGCTCCTGTATAGTAG	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr15	79907777	79907777	A	G	B_cell	3	GCTGCGATCAGTTGAC	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr15	79907777	79907777	A	G	B_cell	3	CTACACCGTCTTCGTC	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr15	79907777	79907777	A	G	B_cell	3	GATCGCGAGTACGCGA	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr15	79907777	79907777	A	G	B_cell	3	TGACGGCAGGAGTAGA	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr15	79907777	79907777	A	G	B_cell	3	AACTGGTAGGCGTACA	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr16	20691199	20691199	T	C	alveolar_macrophage	2	AGCATACGTATCTGCA	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr16	20691199	20691199	T	C	alveolar_macrophage	2	GTACGTAAGAAACCGC	bronchial_smooth_muscle_cell	T	5
-1-M-62	10X_P5_13	chr16	20691199	20691199	T	C	alveolar_macrophage	2	AGGCCGTAGTGTCCAT	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr16	20691199	20691199	T	C	alveolar_macrophage	2	TGAGCATCAGCCTATA	bronchial_smooth_muscle_cell	T	8
-1-M-62	10X_P5_13	chr16	20691199	20691199	T	C	alveolar_macrophage	2	AAGCCGCCAATAAGCA	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr16	20691199	20691199	T	C	alveolar_macrophage	2	GGGCATCAGGGATGGG	bronchial_smooth_muscle_cell	T	4
-1-M-62	10X_P5_13	chr16	20691199	20691199	T	C	alveolar_macrophage	2	CGAATGTTCCGTCAAA	bronchial_smooth_muscle_cell	T	4
-1-M-62	10X_P5_13	chr16	20691199	20691199	T	C	alveolar_macrophage	2	CTCTGGTTCAACTCTT	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr16	20691199	20691199	T	C	alveolar_macrophage	2	GAAATGAGTCTCAACA	bronchial_smooth_muscle_cell	T	5
-1-M-62	10X_P5_13	chr16	20691199	20691199	T	C	alveolar_macrophage	2	TACACGAAGGTAAACT	bronchial_smooth_muscle_cell	T	5
-1-M-62	10X_P5_13	chr16	20691199	20691199	T	C	alveolar_macrophage	2	CGAGCCAGTTCCACGG	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr16	20691199	20691199	T	C	alveolar_macrophage	2	ATCCGAAGTCATGCCG	bronchial_smooth_muscle_cell	T	5
-1-M-62	10X_P5_13	chr16	20691199	20691199	T	C	alveolar_macrophage	2	ATAACGCGTAAGTAGT	bronchial_smooth_muscle_cell	T	8
-1-M-62	10X_P5_13	chr16	20691199	20691199	T	C	alveolar_macrophage	2	GGGCACTCAGTCGTGC	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr16	20691199	20691199	T	C	alveolar_macrophage	2	GCACATAAGGACCACA	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr16	20691199	20691199	T	C	alveolar_macrophage	2	ATCATCTTCAACACGT	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr16	20691199	20691199	T	C	alveolar_macrophage	2	GGCGTGTCAAGAAAGG	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr17	5161224	5161224	A	G	fibroblast_of_lung	2	AGGGATGTCACGAAGG	bronchial_smooth_muscle_cell	A	5
-1-M-62	10X_P5_13	chr17	5161224	5161224	A	G	fibroblast_of_lung	2	CGAGCACTCATGCTCC	bronchial_smooth_muscle_cell	A	6
-1-M-62	10X_P5_13	chr17	5161224	5161224	A	G	fibroblast_of_lung	2	TGACAACGTTGGTGGA	bronchial_smooth_muscle_cell	A	7
-1-M-62	10X_P5_13	chr17	5161224	5161224	A	G	fibroblast_of_lung	2	AACTGGTAGAGTCGGT	bronchial_smooth_muscle_cell	A	3
-1-M-62	10X_P5_13	chr17	5161224	5161224	A	G	fibroblast_of_lung	2	CCGTTCATCATTGCCC	bronchial_smooth_muscle_cell	A	8
-1-M-62	10X_P5_13	chr17	5161224	5161224	A	G	fibroblast_of_lung	2	ACCTTTAGTTCGTTGA	bronchial_smooth_muscle_cell	A	8
-1-M-62	10X_P5_13	chr17	5161224	5161224	A	G	fibroblast_of_lung	2	GACTGCGCAAAGGTGC	bronchial_smooth_muscle_cell	A	3
-1-M-62	10X_P5_13	chr17	5161224	5161224	A	G	fibroblast_of_lung	2	TACTCATTCTATCGCC	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr17	5161224	5161224	A	G	fibroblast_of_lung	2	CACATTTAGCGGCTTC	bronchial_smooth_muscle_cell	A	4
-1-M-62	10X_P5_13	chr17	5161224	5161224	A	G	fibroblast_of_lung	2	GGAAAGCAGCTGAACG	bronchial_smooth_muscle_cell	A	11
-1-M-62	10X_P5_13	chr17	5161224	5161224	A	G	fibroblast_of_lung	2	GGTATTGTCGGCTTGG	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr17	5161224	5161224	A	G	fibroblast_of_lung	2	AGGGATGGTTACTGAC	bronchial_smooth_muscle_cell	A	3
-1-M-62	10X_P5_13	chr17	5161224	5161224	A	G	fibroblast_of_lung	2	ACTATCTGTTATGCGT	bronchial_smooth_muscle_cell	A	2
-1-M-62	10X_P5_13	chr17	5161224	5161224	A	G	fibroblast_of_lung	2	CTCACACAGGGTCGAT	bronchial_smooth_muscle_cell	A	6
-1-M-62	10X_P5_13	chr17	5161224	5161224	A	G	fibroblast_of_lung	2	CATTCGCTCCCAACGG	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr17	71461142	71461142	T	C	classical_monocyte	2	CTGCCTATCTATCGCC	bronchial_smooth_muscle_cell	T	6
-1-M-62	10X_P5_13	chr17	71461142	71461142	T	C	classical_monocyte	2	GGTGTTAGTACCGTTA	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr17	71461142	71461142	T	C	classical_monocyte	2	GTGGGTCAGAATGTGT	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr17	71461142	71461142	T	C	classical_monocyte	2	ATAACGCGTAAGTAGT	bronchial_smooth_muscle_cell	T	5
-1-M-62	10X_P5_13	chr17	71461142	71461142	T	C	classical_monocyte	2	TGGTTAGGTGATGCCC	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr17	71461142	71461142	T	C	classical_monocyte	2	TCGGTAATCTGCTGTC	bronchial_smooth_muscle_cell	T	5
-1-M-62	10X_P5_13	chr17	71461142	71461142	T	C	classical_monocyte	2	GTGGGTCGTTTGACAC	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr17	71461142	71461142	T	C	classical_monocyte	2	TGAGCATCAGCCTATA	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr17	71461142	71461142	T	C	classical_monocyte	2	TGACGGCAGGAGTAGA	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr17	71461142	71461142	T	C	classical_monocyte	2	TGGGCGTCATCCTTGC	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr17	71461142	71461142	T	C	classical_monocyte	2	TAAGCGTCAATTCCTT	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr18	31691246	31691246	C	T	bronchial_smooth_muscle_cell	2	CAGTCCTGTCTGATCA	bronchial_smooth_muscle_cell	C	9
-1-M-62	10X_P5_13	chr18	31691246	31691246	C	T	bronchial_smooth_muscle_cell	2	TTCTTAGTCCTCGCAT	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chr18	31691246	31691246	C	T	bronchial_smooth_muscle_cell	2	CAGTCCTGTCTGATCA	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr18	31691246	31691246	C	T	bronchial_smooth_muscle_cell	2	GCAGTTAGTATGAATG	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chr18	31691246	31691246	C	T	bronchial_smooth_muscle_cell	2	TACCTTAGTTCGGGCT	bronchial_smooth_muscle_cell	C	2
-1-M-62	10X_P5_13	chr18	31691246	31691246	C	T	bronchial_smooth_muscle_cell	2	ACAGCTATCCGTCAAA	bronchial_smooth_muscle_cell	C	4
-1-M-62	10X_P5_13	chr18	31691246	31691246	C	T	bronchial_smooth_muscle_cell	2	CTAAGACGTCGATTGT	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr18	31691246	31691246	C	T	bronchial_smooth_muscle_cell	2	ATCCGAAGTCATGCCG	bronchial_smooth_muscle_cell	C	3
-1-M-62	10X_P5_13	chr18	31691246	31691246	C	T	bronchial_smooth_muscle_cell	2	ACGGGCTCAAGGTGTG	bronchial_smooth_muscle_cell	C	5
-1-M-62	10X_P5_13	chr19	10587398	10587398	A	G	alveolar_macrophage	2	CTCGGGAAGGGTGTGT	bronchial_smooth_muscle_cell	A	2
-1-M-62	10X_P5_13	chr19	10587398	10587398	A	G	alveolar_macrophage	2	GCAGTTATCTACTCAT	bronchial_smooth_muscle_cell	A	2
-1-M-62	10X_P5_13	chr19	10587398	10587398	A	G	alveolar_macrophage	2	TGAGCATCAGCCTATA	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr19	10587398	10587398	A	G	alveolar_macrophage	2	GACACGCAGAAGGTGA	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	CTAGAGTGTCTTTCAT	bronchial_smooth_muscle_cell	T	4
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	TGGGCGTCATCCTTGC	bronchial_smooth_muscle_cell	T	5
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	CATTATCTCACAATGC	bronchial_smooth_muscle_cell	T	4
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	TACCTTAAGGGCATGT	bronchial_smooth_muscle_cell	T	4
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	ACAGCCGTCAGTGCAT	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	CTCGGGAAGGGTGTGT	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	CCGTACTTCCGCGTTT	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr2	166069158	166069158	T	C	bronchial_smooth_muscle_cell	2	AGCTCCTGTATAGTAG	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr2	166069158	166069158	T	C	bronchial_smooth_muscle_cell	2	CTAGAGTGTCTTTCAT	bronchial_smooth_muscle_cell	C	3
-1-M-62	10X_P5_13	chr2	166069158	166069158	T	C	bronchial_smooth_muscle_cell	2	TACACGAAGGTAAACT	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr2	166069158	166069158	T	C	bronchial_smooth_muscle_cell	2	TATGCCCGTTCAGTAC	bronchial_smooth_muscle_cell	C	2
-1-M-62	10X_P5_13	chr2	166069158	166069158	T	C	bronchial_smooth_muscle_cell	2	GATCGTACATAAGACA	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr2	166069158	166069158	T	C	bronchial_smooth_muscle_cell	2	CTACGTCAGCACCGTC	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr2	166069158	166069158	T	C	bronchial_smooth_muscle_cell	2	GAACCTATCCAAGCCG	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr2	166069158	166069158	T	C	bronchial_smooth_muscle_cell	2	AAACGGGAGCTAAGAT	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr2	166069158	166069158	T	C	bronchial_smooth_muscle_cell	2	ATCATCTTCAACACGT	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr2	166069158	166069158	T	C	bronchial_smooth_muscle_cell	2	GGGAGATTCGGATGTT	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr2	166069158	166069158	T	C	bronchial_smooth_muscle_cell	2	CTAAGACGTCGATTGT	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr3	89167968	89167968	A	G	alveolar_macrophage	2	ATCGAGTAGGTGATTA	bronchial_smooth_muscle_cell	A	4
-1-M-62	10X_P5_13	chr3	89167968	89167968	A	G	alveolar_macrophage	2	CGCTATCTCATCGGAT	bronchial_smooth_muscle_cell	A	2
-1-M-62	10X_P5_13	chr3	89167968	89167968	A	G	alveolar_macrophage	2	ACAGCTAAGCGTTTAC	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr3	89167968	89167968	A	G	alveolar_macrophage	2	GAACCTATCCAAGCCG	bronchial_smooth_muscle_cell	A	2
-1-M-62	10X_P5_13	chr3	89167968	89167968	A	G	alveolar_macrophage	2	TGGTTAGGTGATGCCC	bronchial_smooth_muscle_cell	A	4
-1-M-62	10X_P5_13	chr3	89167968	89167968	A	G	alveolar_macrophage	2	GACACGCAGAAGGTGA	bronchial_smooth_muscle_cell	A	3
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	CATTCGCTCCCAACGG	bronchial_smooth_muscle_cell	T	9
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	CGTCCATTCGACAGCC	bronchial_smooth_muscle_cell	T	15
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	GGGAGATTCGGATGTT	bronchial_smooth_muscle_cell	T	21
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	ACACCAAGTCTTCTCG	bronchial_smooth_muscle_cell	T	14
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	CGCTATCAGTACTTGC	bronchial_smooth_muscle_cell	T	5
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	TACAGTGCAGGTTTCA	bronchial_smooth_muscle_cell	T	10
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	CCTCTGAAGACCGGAT	bronchial_smooth_muscle_cell	T	4
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	GAACCTATCCAAGCCG	bronchial_smooth_muscle_cell	T	19
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	GCGCGATAGGCGACAT	bronchial_smooth_muscle_cell	T	8
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	GGGCATCAGGGATGGG	bronchial_smooth_muscle_cell	T	5
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	GTGCATATCCTGCAGG	bronchial_smooth_muscle_cell	T	5
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	TGACTTTGTCCAGTGC	bronchial_smooth_muscle_cell	C	10
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	AACTGGTAGTACGCCC	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	GGGCACTCAGTCGTGC	bronchial_smooth_muscle_cell	T	14
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	CCGTTCATCATTGCCC	bronchial_smooth_muscle_cell	T	7
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	GACGTTATCAGCTTAG	bronchial_smooth_muscle_cell	T	9
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	GTAACTGCATACAGCT	bronchial_smooth_muscle_cell	T	12
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	TCAATCTTCAACCATG	bronchial_smooth_muscle_cell	T	7
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	ACAGCCGTCAGTGCAT	bronchial_smooth_muscle_cell	T	8
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	ACAGCTATCCGTCAAA	bronchial_smooth_muscle_cell	T	14
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	AGAGCTTTCTTGCCGT	bronchial_smooth_muscle_cell	T	10
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	CGCTATCTCATCGGAT	bronchial_smooth_muscle_cell	T	10
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	CTACACCGTCTTCGTC	bronchial_smooth_muscle_cell	T	14
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	GCAGTTATCTACTCAT	bronchial_smooth_muscle_cell	T	4
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	GTGCATATCCAGAAGG	bronchial_smooth_muscle_cell	T	5
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	TCGGGACGTACAGACG	bronchial_smooth_muscle_cell	T	5
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	TGACTTTGTCCAGTGC	bronchial_smooth_muscle_cell	T	5
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	ATCATCTAGGCATGTG	bronchial_smooth_muscle_cell	T	6
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	CGGAGTCAGTGTACGG	bronchial_smooth_muscle_cell	T	19
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	GGATGTTGTCCAGTAT	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	CACATTTAGCGGCTTC	bronchial_smooth_muscle_cell	T	7
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	GAACGGACAAGTCTGT	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	GTACTTTAGTGCTGCC	bronchial_smooth_muscle_cell	T	6
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	TACGGTAAGACTAGGC	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	AGTGGGACAAGTTCTG	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	ATTGGACTCACATACG	bronchial_smooth_muscle_cell	T	12
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	GATCGCGAGTACGCGA	bronchial_smooth_muscle_cell	T	6
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	GTGTGCGTCCCTCAGT	bronchial_smooth_muscle_cell	T	5
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	ACGGGTCAGACGACGT	bronchial_smooth_muscle_cell	T	4
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	TGCACCTTCTAACCGA	bronchial_smooth_muscle_cell	T	10
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	ACTGCTCGTCACACGC	bronchial_smooth_muscle_cell	T	7
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	TTTATGCAGATGCGAC	bronchial_smooth_muscle_cell	C	8
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	ACAGCTAAGCGTTTAC	bronchial_smooth_muscle_cell	T	12
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	CGAATGTTCCGTCAAA	bronchial_smooth_muscle_cell	T	6
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	CTTCTCTAGACCACGA	bronchial_smooth_muscle_cell	T	6
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	GGCGTGTCAAGAAAGG	bronchial_smooth_muscle_cell	T	10
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	TACTCATTCTATCGCC	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	TCGAGGCTCTGGAGCC	bronchial_smooth_muscle_cell	T	6
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	ATCCGAAAGTCTTGCA	bronchial_smooth_muscle_cell	C	3
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	GATGCTAAGAGCTGGT	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	ACGCCAGTCCAAATGC	bronchial_smooth_muscle_cell	T	4
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	ATTCTACTCTTAGCCC	bronchial_smooth_muscle_cell	T	4
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	GGCAATTCAGACAGGT	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	ACGGGCTGTCGAGATG	bronchial_smooth_muscle_cell	T	5
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	AACTCTTCAGGAATCG	bronchial_smooth_muscle_cell	T	10
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	ACGGGCTCAACCGCCA	bronchial_smooth_muscle_cell	T	5
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	GTACTTTTCGCGCCAA	bronchial_smooth_muscle_cell	C	3
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	GTAGGCCCAGACAAGC	bronchial_smooth_muscle_cell	T	6
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	GAAGCAGGTGAGTGAC	bronchial_smooth_muscle_cell	T	6
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	CGTCAGGGTCATGCCG	bronchial_smooth_muscle_cell	T	5
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	TCGTACCGTTGCCTCT	bronchial_smooth_muscle_cell	T	4
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	CGGCTAGAGAGGTACC	bronchial_smooth_muscle_cell	T	5
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	ACGCAGCAGGCCCTTG	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	CTCGGGACAGCTGCTG	bronchial_smooth_muscle_cell	T	8
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	TCGAGGCTCACGCGGT	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	TGTCCCAGTCATTAGC	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	CGAGCCAAGACGCTTT	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	CGAGCACTCATGCTCC	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	ACGGGTCAGACGACGT	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	TCGAGGCTCACGCGGT	bronchial_smooth_muscle_cell	T	4
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	GTAACTGCATACAGCT	bronchial_smooth_muscle_cell	T	13
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	TGCACCTTCTAACCGA	bronchial_smooth_muscle_cell	T	5
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	AGAGCTTTCTTGCCGT	bronchial_smooth_muscle_cell	C	5
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	CGAATGTTCCGTCAAA	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	CGAGCCAAGACGCTTT	bronchial_smooth_muscle_cell	T	5
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	CTACACCGTCTTCGTC	bronchial_smooth_muscle_cell	T	9
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	GAACCTATCCAAGCCG	bronchial_smooth_muscle_cell	T	7
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	GAAGCAGGTGAGTGAC	bronchial_smooth_muscle_cell	T	6
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	GGGAGATTCGGATGTT	bronchial_smooth_muscle_cell	T	16
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	GGGCATCAGGGATGGG	bronchial_smooth_muscle_cell	T	6
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	CGGAGTCAGTGTACGG	bronchial_smooth_muscle_cell	T	12
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	CGTCAGGGTCATGCCG	bronchial_smooth_muscle_cell	C	4
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	CTCGGGACAGCTGCTG	bronchial_smooth_muscle_cell	T	12
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	ACGGGCTCAACCGCCA	bronchial_smooth_muscle_cell	T	6
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	GATCGCGAGTACGCGA	bronchial_smooth_muscle_cell	T	4
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	ACAGCTAAGCGTTTAC	bronchial_smooth_muscle_cell	T	5
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	ACGGGCTGTCGAGATG	bronchial_smooth_muscle_cell	T	4
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	TCAATCTTCAACCATG	bronchial_smooth_muscle_cell	T	6
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	ACACCAAGTCTTCTCG	bronchial_smooth_muscle_cell	T	6
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	ATTGGACTCACATACG	bronchial_smooth_muscle_cell	T	4
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	CGCTATCAGTACTTGC	bronchial_smooth_muscle_cell	T	5
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	CGGCTAGAGAGGTACC	bronchial_smooth_muscle_cell	T	4
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	CGTCCATTCGACAGCC	bronchial_smooth_muscle_cell	T	5
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	ACAGCTATCCGTCAAA	bronchial_smooth_muscle_cell	T	9
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	ACGCCAGTCCAAATGC	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	GGCAATTCAGACAGGT	bronchial_smooth_muscle_cell	T	4
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	TGACTTTGTCCAGTGC	bronchial_smooth_muscle_cell	T	9
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	GACGTTATCAGCTTAG	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	CATTCGCTCCCAACGG	bronchial_smooth_muscle_cell	T	7
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	GTACTTTAGTGCTGCC	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	TCGTACCGTTGCCTCT	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	ATTCTACTCTTAGCCC	bronchial_smooth_muscle_cell	T	6
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	CGCTATCTCATCGGAT	bronchial_smooth_muscle_cell	T	6
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	CTTCTCTAGACCACGA	bronchial_smooth_muscle_cell	T	4
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	GGCGTGTCAAGAAAGG	bronchial_smooth_muscle_cell	T	4
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	GTACTTTTCGCGCCAA	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	GTAGGCCCAGACAAGC	bronchial_smooth_muscle_cell	T	4
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	ACAGCCGTCAGTGCAT	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	CACATTTAGCGGCTTC	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	GTGCATATCCAGAAGG	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	CCGTTCATCATTGCCC	bronchial_smooth_muscle_cell	T	5
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	TACGGTAAGACTAGGC	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	ATCCGAAAGTCTTGCA	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	GCGCGATAGGCGACAT	bronchial_smooth_muscle_cell	T	6
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	AACTCTTCAGGAATCG	bronchial_smooth_muscle_cell	T	5
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	ATCATCTAGGCATGTG	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	CGAGCACTCATGCTCC	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	GGGCACTCAGTCGTGC	bronchial_smooth_muscle_cell	T	5
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	GTGCATATCCTGCAGG	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	TACAGTGCAGGTTTCA	bronchial_smooth_muscle_cell	T	4
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	TCGAGGCTCTGGAGCC	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	AACTGGTAGTACGCCC	bronchial_smooth_muscle_cell	T	8
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	CCTCTGAAGACCGGAT	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	ACTGCTCGTCACACGC	bronchial_smooth_muscle_cell	C	4
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	GCAGTTATCTACTCAT	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	GTGTGCGTCCCTCAGT	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	ACGCAGCAGGCCCTTG	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	GGGCACTCAGTCGTGC	bronchial_smooth_muscle_cell	C	3
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	TGTCCCAGTCATTAGC	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	TCGGGACGTACAGACG	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	GATGCTAAGAGCTGGT	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	GGATGTTGTCCAGTAT	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	TTTATGCAGATGCGAC	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chr4	11158870	11158870	A	G	fibroblast_of_lung	2	CTGATAGGTCAGTGGA	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr4	11158870	11158870	A	G	fibroblast_of_lung	2	GACACGCAGAAGGTGA	bronchial_smooth_muscle_cell	A	4
-1-M-62	10X_P5_13	chr4	11158870	11158870	A	G	fibroblast_of_lung	2	CCTTTCTTCCTACAGA	bronchial_smooth_muscle_cell	A	9
-1-M-62	10X_P5_13	chr4	11158870	11158870	A	G	fibroblast_of_lung	2	CTAAGACGTCGATTGT	bronchial_smooth_muscle_cell	A	3
-1-M-62	10X_P5_13	chr4	11158870	11158870	A	G	fibroblast_of_lung	2	GCATGATCACCGTTGG	bronchial_smooth_muscle_cell	A	2
-1-M-62	10X_P5_13	chr4	11158870	11158870	A	G	fibroblast_of_lung	2	AGAGCTTTCTTGCCGT	bronchial_smooth_muscle_cell	A	2
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	GTGCATATCCAGAAGG	bronchial_smooth_muscle_cell	T	6
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	CTACGTCCAATCGGTT	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	AGGTCCGTCTTGTTTG	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	GCTGCGATCAGTTGAC	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	TACACGAAGGTAAACT	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	GTACTTTAGTGCTGCC	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	ACATGGTCAAGCCTAT	bronchial_smooth_muscle_cell	T	5
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	CATCAGATCGTCTGAA	bronchial_smooth_muscle_cell	T	5
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	CCTTTCTTCCTACAGA	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	GGGAGATTCGGATGTT	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	ATTGGACTCACATACG	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	TCAATCTTCAACCATG	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	CTAGAGTGTCTTTCAT	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	GATGCTAAGAGCTGGT	bronchial_smooth_muscle_cell	T	4
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	GGGCACTCAGTCGTGC	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	CTGCCTATCTATCGCC	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	ACGGGCTGTCGAGATG	bronchial_smooth_muscle_cell	T	4
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	CACACCTCAATGACCT	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	TACTCATAGCGCTCCA	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	TCATTACCAAGCCATT	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	TCACGAAGTAGCGCTC	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	CGTAGCGGTTTCGCTC	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	GCAGTTAGTATGAATG	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	ATCATCTTCAACACGT	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	CGCGTTTTCTGTACGA	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	CGTCCATTCGACAGCC	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	CTGCGGAAGAGCCCAA	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	TAAGCGTCAATTCCTT	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr5	92878224	92878224	A	G	fibroblast_of_lung	2	CATTATCTCACAATGC	bronchial_smooth_muscle_cell	A	8
-1-M-62	10X_P5_13	chr5	92878224	92878224	A	G	fibroblast_of_lung	2	TACGGGCAGCAATATG	bronchial_smooth_muscle_cell	A	8
-1-M-62	10X_P5_13	chr5	92878224	92878224	A	G	fibroblast_of_lung	2	AGGGATGTCACGAAGG	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr5	92878224	92878224	A	G	fibroblast_of_lung	2	CCTCTGAAGACCGGAT	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr5	92878224	92878224	A	G	fibroblast_of_lung	2	TACCTTAAGGGCATGT	bronchial_smooth_muscle_cell	A	3
-1-M-62	10X_P5_13	chr5	92878224	92878224	A	G	fibroblast_of_lung	2	CTCTGGTTCAACTCTT	bronchial_smooth_muscle_cell	A	2
-1-M-62	10X_P5_13	chr5	92878224	92878224	A	G	fibroblast_of_lung	2	ACATGGTCAAGCCTAT	bronchial_smooth_muscle_cell	A	2
-1-M-62	10X_P5_13	chr5	92878224	92878224	A	G	fibroblast_of_lung	2	ATAACGCGTAAGTAGT	bronchial_smooth_muscle_cell	A	3
-1-M-62	10X_P5_13	chr5	92878224	92878224	A	G	fibroblast_of_lung	2	GTACTTTAGCGTAATA	bronchial_smooth_muscle_cell	A	4
-1-M-62	10X_P5_13	chr5	92878224	92878224	A	G	fibroblast_of_lung	2	AGAGCTTTCTTGCCGT	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr5	92878224	92878224	A	G	fibroblast_of_lung	2	CACCAGGAGACGCAAC	bronchial_smooth_muscle_cell	A	3
-1-M-62	10X_P5_13	chr5	92878224	92878224	A	G	fibroblast_of_lung	2	TCATTACCAAGCCATT	bronchial_smooth_muscle_cell	A	2
-1-M-62	10X_P5_13	chr5	92878224	92878224	A	G	fibroblast_of_lung	2	CACACCTCAATGACCT	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr5	92878224	92878224	A	G	fibroblast_of_lung	2	TACACGAAGGTAAACT	bronchial_smooth_muscle_cell	A	2
-1-M-62	10X_P5_13	chr5	92878224	92878224	A	G	fibroblast_of_lung	2	CGCGTTTTCTGTACGA	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr5	92878224	92878224	A	G	fibroblast_of_lung	2	CGCTATCTCATCGGAT	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr5	92878224	92878224	A	G	fibroblast_of_lung	2	CCTTTCTTCCTACAGA	bronchial_smooth_muscle_cell	A	2
-1-M-62	10X_P5_13	chr5	92878224	92878224	A	G	fibroblast_of_lung	2	AAACGGGAGCTAAGAT	bronchial_smooth_muscle_cell	A	3
-1-M-62	10X_P5_13	chr5	92878224	92878224	A	G	fibroblast_of_lung	2	GGCCGATAGAATGTTG	bronchial_smooth_muscle_cell	A	3
-1-M-62	10X_P5_13	chr5	92878224	92878224	A	G	fibroblast_of_lung	2	CAGCAGCAGTGAACGC	bronchial_smooth_muscle_cell	A	4
-1-M-62	10X_P5_13	chr5	92878224	92878224	A	G	fibroblast_of_lung	2	CATCAGATCGTCTGAA	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr5	92878237	92878237	A	G	fibroblast_of_lung	2	CATTATCTCACAATGC	bronchial_smooth_muscle_cell	A	4
-1-M-62	10X_P5_13	chr5	92878237	92878237	A	G	fibroblast_of_lung	2	ATAACGCGTAAGTAGT	bronchial_smooth_muscle_cell	A	3
-1-M-62	10X_P5_13	chr5	92878237	92878237	A	G	fibroblast_of_lung	2	GTACTTTAGCGTAATA	bronchial_smooth_muscle_cell	A	4
-1-M-62	10X_P5_13	chr5	92878237	92878237	A	G	fibroblast_of_lung	2	AGAGCTTTCTTGCCGT	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr5	92878237	92878237	A	G	fibroblast_of_lung	2	TACGGGCAGCAATATG	bronchial_smooth_muscle_cell	A	7
-1-M-62	10X_P5_13	chr5	92878237	92878237	A	G	fibroblast_of_lung	2	TCATTACCAAGCCATT	bronchial_smooth_muscle_cell	A	2
-1-M-62	10X_P5_13	chr5	92878237	92878237	A	G	fibroblast_of_lung	2	CACACCTCAATGACCT	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr5	92878237	92878237	A	G	fibroblast_of_lung	2	TACACGAAGGTAAACT	bronchial_smooth_muscle_cell	A	3
-1-M-62	10X_P5_13	chr5	92878237	92878237	A	G	fibroblast_of_lung	2	CGCGTTTTCTGTACGA	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr5	92878237	92878237	A	G	fibroblast_of_lung	2	CGCTATCTCATCGGAT	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr5	92878237	92878237	A	G	fibroblast_of_lung	2	CCTTTCTTCCTACAGA	bronchial_smooth_muscle_cell	A	2
-1-M-62	10X_P5_13	chr5	92878237	92878237	A	G	fibroblast_of_lung	2	TACCTTAAGGGCATGT	bronchial_smooth_muscle_cell	A	2
-1-M-62	10X_P5_13	chr5	92878237	92878237	A	G	fibroblast_of_lung	2	CTCTGGTTCAACTCTT	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr5	92878237	92878237	A	G	fibroblast_of_lung	2	AAACGGGAGCTAAGAT	bronchial_smooth_muscle_cell	A	4
-1-M-62	10X_P5_13	chr5	92878237	92878237	A	G	fibroblast_of_lung	2	CACCAGGAGACGCAAC	bronchial_smooth_muscle_cell	A	3
-1-M-62	10X_P5_13	chr5	92878237	92878237	A	G	fibroblast_of_lung	2	GGCCGATAGAATGTTG	bronchial_smooth_muscle_cell	A	4
-1-M-62	10X_P5_13	chr5	92878237	92878237	A	G	fibroblast_of_lung	2	CAGCAGCAGTGAACGC	bronchial_smooth_muscle_cell	A	6
-1-M-62	10X_P5_13	chr5	92878237	92878237	A	G	fibroblast_of_lung	2	CATCAGATCGTCTGAA	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr5	92878237	92878237	A	G	fibroblast_of_lung	2	GGATGTTTCAAACGGG	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr5	92878237	92878237	A	G	fibroblast_of_lung	2	TGCACCTTCTAACCGA	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr5	111455117	111455117	T	C	adventitial_cell	2	AACTCTTCAGGAATCG	bronchial_smooth_muscle_cell	T	5
-1-M-62	10X_P5_13	chr5	111455117	111455117	T	C	adventitial_cell	2	ATCTACTTCTAACTCT	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr5	111455117	111455117	T	C	adventitial_cell	2	AGTGGGACAAGTTCTG	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr5	111455117	111455117	T	C	adventitial_cell	2	CTCTGGTTCAACTCTT	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr5	111455117	111455117	T	C	adventitial_cell	2	ATGAGGGGTTCAGCGC	bronchial_smooth_muscle_cell	T	5
-1-M-62	10X_P5_13	chr5	111455117	111455117	T	C	adventitial_cell	2	GACGTTATCAGCTTAG	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr5	111455117	111455117	T	C	adventitial_cell	2	GCTCCTACAGATCGGA	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr6	38577211	38577211	A	G	fibroblast_of_lung	3	CATTATCTCACAATGC	bronchial_smooth_muscle_cell	A	3
-1-M-62	10X_P5_13	chr6	38577211	38577211	A	G	fibroblast_of_lung	3	GGAAAGCAGCTGAACG	bronchial_smooth_muscle_cell	A	3
-1-M-62	10X_P5_13	chr6	38577211	38577211	A	G	fibroblast_of_lung	3	ACAGCTAAGCGTTTAC	bronchial_smooth_muscle_cell	A	5
-1-M-62	10X_P5_13	chr6	38577211	38577211	A	G	fibroblast_of_lung	3	ACGCCAGTCCAAATGC	bronchial_smooth_muscle_cell	A	3
-1-M-62	10X_P5_13	chr6	38577211	38577211	A	G	fibroblast_of_lung	3	GCTGCGATCAGTTGAC	bronchial_smooth_muscle_cell	A	3
-1-M-62	10X_P5_13	chr6	38577211	38577211	A	G	fibroblast_of_lung	3	AAACGGGAGCTAAGAT	bronchial_smooth_muscle_cell	A	6
-1-M-62	10X_P5_13	chr6	38577211	38577211	A	G	fibroblast_of_lung	3	ATCCGAAAGTCTTGCA	bronchial_smooth_muscle_cell	A	3
-1-M-62	10X_P5_13	chr6	38577211	38577211	A	G	fibroblast_of_lung	3	CAGTCCTGTCTGATCA	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr6	38577211	38577211	A	G	fibroblast_of_lung	3	AGTCTTTGTTAAGACA	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr6	39202784	39202784	T	C	intermediate_monocyte	2	ACTATCTGTAAACACA	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr6	39202784	39202784	T	C	intermediate_monocyte	2	GGAAAGCAGCTGAACG	bronchial_smooth_muscle_cell	T	5
-1-M-62	10X_P5_13	chr6	39202784	39202784	T	C	intermediate_monocyte	2	ATGAGGGGTTCAGCGC	bronchial_smooth_muscle_cell	T	4
-1-M-62	10X_P5_13	chr6	48079830	48079830	T	C	bronchial_smooth_muscle_cell	4	CAGGTGCTCGCGATCG	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chr6	48079830	48079830	T	C	bronchial_smooth_muscle_cell	4	TACTCATTCTATCGCC	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr6	48079830	48079830	T	C	bronchial_smooth_muscle_cell	4	TACCTTAAGGGCATGT	bronchial_smooth_muscle_cell	T	4
-1-M-62	10X_P5_13	chr6	48079830	48079830	T	C	bronchial_smooth_muscle_cell	4	TCGGTAATCTGCTGTC	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr6	48079830	48079830	T	C	bronchial_smooth_muscle_cell	4	CTTACCGTCAACGGGA	bronchial_smooth_muscle_cell	C	3
-1-M-62	10X_P5_13	chr6	48079830	48079830	T	C	bronchial_smooth_muscle_cell	4	CTACGTCAGCACCGTC	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr6	48079830	48079830	T	C	bronchial_smooth_muscle_cell	4	GAATGAAAGTCGTACT	bronchial_smooth_muscle_cell	C	3
-1-M-62	10X_P5_13	chr6	48079830	48079830	T	C	bronchial_smooth_muscle_cell	4	GGAAAGCAGCTGAACG	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr6	48079830	48079830	T	C	bronchial_smooth_muscle_cell	4	CATCAGATCGTCTGAA	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr6	48079830	48079830	T	C	bronchial_smooth_muscle_cell	4	TAGACCATCAGGTTCA	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr6	48079830	48079830	T	C	bronchial_smooth_muscle_cell	4	AGGGATGTCACGAAGG	bronchial_smooth_muscle_cell	C	4
-1-M-62	10X_P5_13	chr6	48079830	48079830	T	C	bronchial_smooth_muscle_cell	4	GTACTTTGTACTCAAC	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr6	83343347	83343347	T	G	alveolar_macrophage	3	CGCTATCTCATCGGAT	bronchial_smooth_muscle_cell	G	1
-1-M-62	10X_P5_13	chr6	83343347	83343347	T	G	alveolar_macrophage	3	TACGGGCAGCAATATG	bronchial_smooth_muscle_cell	G	1
-1-M-62	10X_P5_13	chr6	83343347	83343347	T	G	alveolar_macrophage	3	TCGCGTTCAAGCTGTT	bronchial_smooth_muscle_cell	G	1
-1-M-62	10X_P5_13	chr7	28363106	28363106	G	A	bronchial_smooth_muscle_cell	2	CGCTTCACATTATCTC	bronchial_smooth_muscle_cell	G	4
-1-M-62	10X_P5_13	chr7	28363106	28363106	G	A	bronchial_smooth_muscle_cell	2	GGATGTTGTCCAGTAT	bronchial_smooth_muscle_cell	G	2
-1-M-62	10X_P5_13	chr7	28363106	28363106	G	A	bronchial_smooth_muscle_cell	2	GAATGAAAGTCGTACT	bronchial_smooth_muscle_cell	G	3
-1-M-62	10X_P5_13	chr7	28363106	28363106	G	A	bronchial_smooth_muscle_cell	2	AACTGGTAGTACGCCC	bronchial_smooth_muscle_cell	G	1
-1-M-62	10X_P5_13	chr7	28363106	28363106	G	A	bronchial_smooth_muscle_cell	2	ATAACGCGTAAGTAGT	bronchial_smooth_muscle_cell	G	6
-1-M-62	10X_P5_13	chr7	28363106	28363106	G	A	bronchial_smooth_muscle_cell	2	GACCAATCACACTGCG	bronchial_smooth_muscle_cell	G	1
-1-M-62	10X_P5_13	chr7	28363106	28363106	G	A	bronchial_smooth_muscle_cell	2	CGGAGTCAGTGTACGG	bronchial_smooth_muscle_cell	G	1
-1-M-62	10X_P5_13	chr7	28363106	28363106	G	A	bronchial_smooth_muscle_cell	2	TTGACTTAGCTAAACA	bronchial_smooth_muscle_cell	G	1
-1-M-62	10X_P5_13	chr7	28363106	28363106	G	A	bronchial_smooth_muscle_cell	2	AAGCCGCCAATAAGCA	bronchial_smooth_muscle_cell	G	1
-1-M-62	10X_P5_13	chr7	28363106	28363106	G	A	bronchial_smooth_muscle_cell	2	GGAAAGCAGCTGAACG	bronchial_smooth_muscle_cell	A	2
-1-M-62	10X_P5_13	chr7	28363106	28363106	G	A	bronchial_smooth_muscle_cell	2	GGATGTTGTCCAGTAT	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	AGAGCTTTCTTGCCGT	bronchial_smooth_muscle_cell	A	3
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	AGCTCCTGTATAGTAG	bronchial_smooth_muscle_cell	A	5
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	GTGTGCGTCCCTCAGT	bronchial_smooth_muscle_cell	A	4
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	GTGCATATCCAGAAGG	bronchial_smooth_muscle_cell	A	6
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	ACTATCTGTTATGCGT	bronchial_smooth_muscle_cell	A	5
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	ATCCGAAGTCATGCCG	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	CGCTATCTCATCGGAT	bronchial_smooth_muscle_cell	A	5
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	GGTATTGTCGGCTTGG	bronchial_smooth_muscle_cell	A	3
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	ATGAGGGGTTCAGCGC	bronchial_smooth_muscle_cell	A	2
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	CTACACCGTCTTCGTC	bronchial_smooth_muscle_cell	A	6
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	GCACATAAGGACCACA	bronchial_smooth_muscle_cell	A	4
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	TGTCCCAGTCATTAGC	bronchial_smooth_muscle_cell	A	2
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	ACTGAGTCAGGTCTCG	bronchial_smooth_muscle_cell	A	4
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	CTAGAGTGTCTTTCAT	bronchial_smooth_muscle_cell	A	3
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	TCGAGGCTCACGCGGT	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	CTTCTCTAGACCACGA	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr7	126790795	126790795	T	C	bronchial_smooth_muscle_cell	5	CGAGCCAGTTCCACGG	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr7	126790795	126790795	T	C	bronchial_smooth_muscle_cell	5	TAGACCATCAGGTTCA	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chr7	126790795	126790795	T	C	bronchial_smooth_muscle_cell	5	TAAGCGTCACATCCGG	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr7	126790795	126790795	T	C	bronchial_smooth_muscle_cell	5	CGCGGTACACAAGCCC	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chr7	126790795	126790795	T	C	bronchial_smooth_muscle_cell	5	CGCGGTACATCCGGGT	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr7	126790795	126790795	T	C	bronchial_smooth_muscle_cell	5	TGACGGCAGGAGTAGA	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chr7	126790795	126790795	T	C	bronchial_smooth_muscle_cell	5	CCGTTCATCATTGCCC	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr7	126790795	126790795	T	C	bronchial_smooth_muscle_cell	5	CTACGTCCAATCGGTT	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr7	126790795	126790795	T	C	bronchial_smooth_muscle_cell	5	CCCTCCTAGTGGACGT	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr7	126790795	126790795	T	C	bronchial_smooth_muscle_cell	5	ACCTTTAGTTCGTTGA	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chr7	126790795	126790795	T	C	bronchial_smooth_muscle_cell	5	AATCGGTAGAATTGTG	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chr8	25239196	25239196	T	C	fibroblast_of_lung	2	CATGACATCCAGAGGA	bronchial_smooth_muscle_cell	T	8
-1-M-62	10X_P5_13	chr8	25239196	25239196	T	C	fibroblast_of_lung	2	AGGGATGTCACGAAGG	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr8	25239196	25239196	T	C	fibroblast_of_lung	2	GGAAAGCAGCTGAACG	bronchial_smooth_muscle_cell	T	5
-1-M-62	10X_P5_13	chr8	25239196	25239196	T	C	fibroblast_of_lung	2	GCGCGATAGGCGACAT	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr8	25239196	25239196	T	C	fibroblast_of_lung	2	TAGGCATGTACCAGTT	bronchial_smooth_muscle_cell	T	4
-1-M-62	10X_P5_13	chr8	25239196	25239196	T	C	fibroblast_of_lung	2	GCCAAATAGACTAAGT	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr8	25239196	25239196	T	C	fibroblast_of_lung	2	GATCGTACATAAGACA	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr8	25239196	25239196	T	C	fibroblast_of_lung	2	AAACCTGGTCTGCAAT	bronchial_smooth_muscle_cell	T	8
-1-M-62	10X_P5_13	chr8	25239196	25239196	T	C	fibroblast_of_lung	2	ACGGGCTCAAGGTGTG	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr8	25239196	25239196	T	C	fibroblast_of_lung	2	AGCCTAATCGTTTAGG	bronchial_smooth_muscle_cell	T	4
-1-M-62	10X_P5_13	chr8	25239196	25239196	T	C	fibroblast_of_lung	2	CACCAGGAGACGCAAC	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr8	25239196	25239196	T	C	fibroblast_of_lung	2	TGTCCCAGTCATTAGC	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr8	25239196	25239196	T	C	fibroblast_of_lung	2	CCCATACAGGTGCTAG	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr8	25239196	25239196	T	C	fibroblast_of_lung	2	CTGCCTATCTATCGCC	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr8	25239196	25239196	T	C	fibroblast_of_lung	2	TAAGCGTCACATCCGG	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr8	25239196	25239196	T	C	fibroblast_of_lung	2	GATGCTAAGAGCTGGT	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr8	25239285	25239285	T	C	fibroblast_of_lung	2	GTACTTTAGTGCTGCC	bronchial_smooth_muscle_cell	T	6
-1-M-62	10X_P5_13	chr8	25239285	25239285	T	C	fibroblast_of_lung	2	CATGACATCCAGAGGA	bronchial_smooth_muscle_cell	T	5
-1-M-62	10X_P5_13	chr8	25239285	25239285	T	C	fibroblast_of_lung	2	AAACCTGGTCTGCAAT	bronchial_smooth_muscle_cell	T	8
-1-M-62	10X_P5_13	chr8	25239285	25239285	T	C	fibroblast_of_lung	2	GGAAAGCAGCTGAACG	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr8	25239285	25239285	T	C	fibroblast_of_lung	2	TAAGCGTCACATCCGG	bronchial_smooth_muscle_cell	T	7
-1-M-62	10X_P5_13	chr8	25239285	25239285	T	C	fibroblast_of_lung	2	TAGGCATGTACCAGTT	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr8	25239285	25239285	T	C	fibroblast_of_lung	2	AGCCTAATCGTTTAGG	bronchial_smooth_muscle_cell	T	7
-1-M-62	10X_P5_13	chr8	25239285	25239285	T	C	fibroblast_of_lung	2	CGCGTTTTCTGTACGA	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr8	25239285	25239285	T	C	fibroblast_of_lung	2	AGGGATGTCACGAAGG	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr8	25239285	25239285	T	C	fibroblast_of_lung	2	CCCATACAGGTGCTAG	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr8	25239285	25239285	T	C	fibroblast_of_lung	2	GCGCGATAGGCGACAT	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr8	40993346	40993346	A	T	bronchial_smooth_muscle_cell	3	GGGCACTCAGTCGTGC	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr8	40993346	40993346	A	T	bronchial_smooth_muscle_cell	3	CGCTATCAGTACTTGC	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr8	40993346	40993346	A	T	bronchial_smooth_muscle_cell	3	CTAAGACGTCGATTGT	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr8	40993346	40993346	A	T	bronchial_smooth_muscle_cell	3	TCGCGTTCAAGCTGTT	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr8	40993346	40993346	A	T	bronchial_smooth_muscle_cell	3	ATTTCTGCATCCGGGT	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr8	40993346	40993346	A	T	bronchial_smooth_muscle_cell	3	AGCTCCTGTATAGTAG	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr8	40993346	40993346	A	T	bronchial_smooth_muscle_cell	3	ATCCGAAGTCATGCCG	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr8	40993346	40993346	A	T	bronchial_smooth_muscle_cell	3	GCTCCTACAGATCGGA	bronchial_smooth_muscle_cell	A	1
-1-M-62	10X_P5_13	chr8	70475092	70475092	T	C	bronchial_smooth_muscle_cell	2	TGCGCAGAGCGATATA	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr8	70475092	70475092	T	C	bronchial_smooth_muscle_cell	2	TACTCATTCTATCGCC	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr8	70475092	70475092	T	C	bronchial_smooth_muscle_cell	2	CAGCAGCAGTGAACGC	bronchial_smooth_muscle_cell	T	3
-1-M-62	10X_P5_13	chr8	70475092	70475092	T	C	bronchial_smooth_muscle_cell	2	CGCGGTACACAAGCCC	bronchial_smooth_muscle_cell	T	4
-1-M-62	10X_P5_13	chr8	70475092	70475092	T	C	bronchial_smooth_muscle_cell	2	GATGCTAAGAGCTGGT	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr8	70475092	70475092	T	C	bronchial_smooth_muscle_cell	2	AGCCTAATCGTTTAGG	bronchial_smooth_muscle_cell	C	5
-1-M-62	10X_P5_13	chr8	70475092	70475092	T	C	bronchial_smooth_muscle_cell	2	CGCTATCTCATCGGAT	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr8	70475092	70475092	T	C	bronchial_smooth_muscle_cell	2	CGCGGTACACAAGCCC	bronchial_smooth_muscle_cell	C	6
-1-M-62	10X_P5_13	chr8	70475092	70475092	T	C	bronchial_smooth_muscle_cell	2	TGACGGCAGGAGTAGA	bronchial_smooth_muscle_cell	T	2
-1-M-62	10X_P5_13	chr8	70475092	70475092	T	C	bronchial_smooth_muscle_cell	2	GTACTTTTCGCGCCAA	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr8	70475092	70475092	T	C	bronchial_smooth_muscle_cell	2	CGAATGTTCCGTCAAA	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr8	70475092	70475092	T	C	bronchial_smooth_muscle_cell	2	ATCTACTTCTAACTCT	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chr8	70475092	70475092	T	C	bronchial_smooth_muscle_cell	2	ACATGGTCAAGCCTAT	bronchial_smooth_muscle_cell	T	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	GATCGTACATAAGACA	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	AGACGTTGTGAGGCTA	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	GCAGTTATCTACTCAT	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	AGCATACGTATCTGCA	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	GACACGCAGAAGGTGA	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	CGAATGTCAAACGTGG	bronchial_smooth_muscle_cell	C	2
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	GACCAATCACACTGCG	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	AATCGGTAGAATTGTG	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	GGATGTTTCAAACGGG	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	CCCATACTCTTCTGGC	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	GTACGTAAGAAACCGC	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	TACAGTGCAGGTTTCA	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	GCGCGATAGGCGACAT	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	GGTGAAGTCAACCAAC	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	TCGCGTTCAAGCTGTT	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	GGGCACTCAGTCGTGC	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	TAGGCATGTACCAGTT	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	CGGAGTCAGTGTACGG	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	CTACACCGTCTTCGTC	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	GTCGTAATCGAATCCA	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	CATCAGATCGTCTGAA	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	GGATGTTGTCCAGTAT	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	AAGCCGCCAATAAGCA	bronchial_smooth_muscle_cell	C	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	CTTAACTGTCTTGCGG	bronchial_smooth_muscle_cell	C	1
+#CHROM	Start	End	REF	ALT_expected	CB	Cell_type_observed	Base_observed	Num_reads
+chr11	32297143	32297143	G	A	CACCAGGAGACGCAAC	bronchial_smooth_muscle_cell	G	143
+chr11	32297143	32297143	G	A	CGAATGTCAAACGTGG	bronchial_smooth_muscle_cell	G	4
+chr11	32297143	32297143	G	A	CGTCCATTCGACAGCC	bronchial_smooth_muscle_cell	G	19
+chr11	32297143	32297143	G	A	TCACGAAGTAGCGCTC	bronchial_smooth_muscle_cell	G	8
+chr11	32297143	32297143	G	A	TGACGGCAGGAGTAGA	bronchial_smooth_muscle_cell	G	35
+chr11	32297143	32297143	G	A	ATCATCTTCAACACGT	bronchial_smooth_muscle_cell	G	2
+chr11	32297143	32297143	G	A	ACAGCTAAGCGTTTAC	bronchial_smooth_muscle_cell	G	5
+chr11	32297143	32297143	G	A	ATCCGAAAGTCTTGCA	bronchial_smooth_muscle_cell	G	1
+chr11	32297143	32297143	G	A	AAGGCAGTCAAGATCC	bronchial_smooth_muscle_cell	G	4
+chr11	32297143	32297143	G	A	CCTACACCACAAGCCC	bronchial_smooth_muscle_cell	G	2
+chr11	32297143	32297143	G	A	GTCGTAATCGAATCCA	bronchial_smooth_muscle_cell	G	6
+chr11	32297143	32297143	G	A	TATGCCCAGTGTCCAT	bronchial_smooth_muscle_cell	G	1
+chr11	32297143	32297143	G	A	CGCGGTACATCCGGGT	bronchial_smooth_muscle_cell	G	2
+chr11	32297143	32297143	G	A	CAAGGCCGTTACCAGT	bronchial_smooth_muscle_cell	G	1
+chr11	32297143	32297143	G	A	CCTTCGATCGAATCCA	bronchial_smooth_muscle_cell	G	1
+chr11	32297143	32297143	G	A	AACTCTTCAGGAATCG	bronchial_smooth_muscle_cell	G	1
+chr11	32297143	32297143	G	A	CATCAGATCGTCTGAA	bronchial_smooth_muscle_cell	G	1
+chr11	32297143	32297143	G	A	CCCATACTCTTCTGGC	bronchial_smooth_muscle_cell	G	1
+chr11	32297143	32297143	G	A	TACCTTAAGGGCATGT	bronchial_smooth_muscle_cell	G	1
+chr11	32297143	32297143	G	A	TATGCCCGTTCAGTAC	bronchial_smooth_muscle_cell	G	1
+chr11	32297143	32297143	G	A	GACACGCAGAAGGTGA	bronchial_smooth_muscle_cell	G	1
+chr11	32297143	32297143	G	A	CGAGCCAAGACGCTTT	bronchial_smooth_muscle_cell	G	1
+chr11	102523273	102523273	C	G	ATTGGACTCACATACG	bronchial_smooth_muscle_cell	C	3
+chr11	102523273	102523273	C	G	GGCGTGTCAAGAAAGG	bronchial_smooth_muscle_cell	C	2
+chr11	102523273	102523273	C	G	CCCATACTCTTCTGGC	bronchial_smooth_muscle_cell	C	3
+chr11	102523273	102523273	C	G	GATCGCGTCCCTGACT	bronchial_smooth_muscle_cell	C	2
+chr11	102523273	102523273	C	G	ATCATCTAGGCATGTG	bronchial_smooth_muscle_cell	C	2
+chr11	102523273	102523273	C	G	AGTGGGACAAGTTCTG	bronchial_smooth_muscle_cell	C	1
+chr11	102523273	102523273	C	G	GAAATGAGTCTCAACA	bronchial_smooth_muscle_cell	C	6
+chr11	102523273	102523273	C	G	ACAGCTATCCGTCAAA	bronchial_smooth_muscle_cell	C	2
+chr11	102523273	102523273	C	G	CAACCTCGTCCGTTAA	bronchial_smooth_muscle_cell	C	2
+chr11	102523273	102523273	C	G	GATGCTAAGAGCTGGT	bronchial_smooth_muscle_cell	C	1
+chr11	102523273	102523273	C	G	GTACTTTTCGCGCCAA	bronchial_smooth_muscle_cell	C	3
+chr11	102523273	102523273	C	G	GTACTTTAGTGCTGCC	bronchial_smooth_muscle_cell	C	1
+chr11	102523273	102523273	C	G	CCTTTCTTCCTACAGA	bronchial_smooth_muscle_cell	C	2
+chr11	102523273	102523273	C	G	CGCGGTACACAAGCCC	bronchial_smooth_muscle_cell	C	1
+chr12	84971731	84971731	A	G	TGACAACGTTGGTGGA	bronchial_smooth_muscle_cell	A	6
+chr12	84971731	84971731	A	G	TCATTACCAAGCCATT	bronchial_smooth_muscle_cell	A	1
+chr12	84971731	84971731	A	G	AGCATACGTATCTGCA	bronchial_smooth_muscle_cell	A	3
+chr12	84971731	84971731	A	G	AGCCTAATCGTTTAGG	bronchial_smooth_muscle_cell	A	2
+chr12	84971731	84971731	A	G	CGGCTAGAGAGGTACC	bronchial_smooth_muscle_cell	A	7
+chr12	84971731	84971731	A	G	CAGCAGCAGTGAACGC	bronchial_smooth_muscle_cell	A	2
+chr12	84971731	84971731	A	G	GTGGGTCGTTTGACAC	bronchial_smooth_muscle_cell	A	3
+chr12	84971731	84971731	A	G	CGAATGTCAAACGTGG	bronchial_smooth_muscle_cell	A	4
+chr12	84971731	84971731	A	G	AAACGGGAGCTAAGAT	bronchial_smooth_muscle_cell	A	4
+chr12	84971731	84971731	A	G	CGCTATCTCATCGGAT	bronchial_smooth_muscle_cell	A	1
+chr12	84971731	84971731	A	G	CACACCTCAATGACCT	bronchial_smooth_muscle_cell	A	1
+chr12	84971731	84971731	A	G	CGAGCCAGTTCCACGG	bronchial_smooth_muscle_cell	A	4
+chr12	84971731	84971731	A	G	GTACTTTAGCGTAATA	bronchial_smooth_muscle_cell	A	1
+chr12	84971731	84971731	A	G	CTTACCGTCAACGGGA	bronchial_smooth_muscle_cell	A	3
+chr12	84971731	84971731	A	G	GATGCTAAGAGCTGGT	bronchial_smooth_muscle_cell	A	2
+chr12	84971731	84971731	A	G	TGTCCCAGTCATTAGC	bronchial_smooth_muscle_cell	A	1
+chr12	84971731	84971731	A	G	ACGGGCTCAAGGTGTG	bronchial_smooth_muscle_cell	A	2
+chr12	84971731	84971731	A	G	TACTCATAGCGCTCCA	bronchial_smooth_muscle_cell	A	1
+chr12	85321194	85321194	T	A	TCAATCTTCAACCATG	bronchial_smooth_muscle_cell	T	1
+chr12	85321194	85321194	T	A	CCAGCGACAAAGCAAT	bronchial_smooth_muscle_cell	T	1
+chr13	101759539	101759539	C	T	ATTTCTGCATCCGGGT	bronchial_smooth_muscle_cell	C	4
+chr13	101759539	101759539	C	T	GCATGATCACCGTTGG	bronchial_smooth_muscle_cell	C	2
+chr13	101759539	101759539	C	T	TACCTTAAGGGCATGT	bronchial_smooth_muscle_cell	C	3
+chr13	101759539	101759539	C	T	GACGTTATCAGCTTAG	bronchial_smooth_muscle_cell	C	4
+chr13	101759539	101759539	C	T	TACGGTAAGACTAGGC	bronchial_smooth_muscle_cell	C	3
+chr13	101759539	101759539	C	T	CTACGTCAGCACCGTC	bronchial_smooth_muscle_cell	C	2
+chr13	101759539	101759539	C	T	ACGCCGAAGCAACGGT	bronchial_smooth_muscle_cell	C	4
+chr13	101759539	101759539	C	T	CCTCTGAAGACCGGAT	bronchial_smooth_muscle_cell	C	1
+chr13	101759539	101759539	C	T	CTTACCGTCAACGGGA	bronchial_smooth_muscle_cell	C	2
+chr13	101759539	101759539	C	T	TAAGCGTCAATTCCTT	bronchial_smooth_muscle_cell	C	1
+chr13	101759539	101759539	C	T	ATTGGACTCACATACG	bronchial_smooth_muscle_cell	C	1
+chr13	101759539	101759539	C	T	GATCGCGTCCCTGACT	bronchial_smooth_muscle_cell	C	1
+chr13	101759539	101759539	C	T	ACATGGTCAAGCCTAT	bronchial_smooth_muscle_cell	C	1
+chr13	101759539	101759539	C	T	ACGCCAGTCCAAATGC	bronchial_smooth_muscle_cell	C	1
+chr14	75230502	75230502	A	G	TGACGGCAGGAGTAGA	bronchial_smooth_muscle_cell	A	1
+chr14	75230502	75230502	A	G	TGGGCGTCATCCTTGC	bronchial_smooth_muscle_cell	A	1
+chr14	75230502	75230502	A	G	GCCAAATAGACTAAGT	bronchial_smooth_muscle_cell	A	1
+chr14	75230502	75230502	A	G	CGCGGTACATCCGGGT	bronchial_smooth_muscle_cell	A	1
+chr14	75230502	75230502	A	G	ATGAGGGGTCTCCATC	bronchial_smooth_muscle_cell	A	1
+chr14	75230502	75230502	A	G	GATCGTACATAAGACA	bronchial_smooth_muscle_cell	A	1
+chr14	75230502	75230502	A	G	TCAATCTTCAACCATG	bronchial_smooth_muscle_cell	A	1
+chr14	75230502	75230502	A	G	AACTCTTCAGGAATCG	bronchial_smooth_muscle_cell	A	1
+chr15	79907777	79907777	A	G	ACGGGTCAGACGACGT	bronchial_smooth_muscle_cell	A	1
+chr15	79907777	79907777	A	G	AGCTCCTGTATAGTAG	bronchial_smooth_muscle_cell	A	1
+chr15	79907777	79907777	A	G	GCTGCGATCAGTTGAC	bronchial_smooth_muscle_cell	A	1
+chr15	79907777	79907777	A	G	CTACACCGTCTTCGTC	bronchial_smooth_muscle_cell	A	1
+chr15	79907777	79907777	A	G	GATCGCGAGTACGCGA	bronchial_smooth_muscle_cell	A	1
+chr15	79907777	79907777	A	G	TGACGGCAGGAGTAGA	bronchial_smooth_muscle_cell	A	1
+chr15	79907777	79907777	A	G	AACTGGTAGGCGTACA	bronchial_smooth_muscle_cell	A	1
+chr16	20691199	20691199	T	C	AGCATACGTATCTGCA	bronchial_smooth_muscle_cell	T	3
+chr16	20691199	20691199	T	C	GTACGTAAGAAACCGC	bronchial_smooth_muscle_cell	T	5
+chr16	20691199	20691199	T	C	AGGCCGTAGTGTCCAT	bronchial_smooth_muscle_cell	T	3
+chr16	20691199	20691199	T	C	TGAGCATCAGCCTATA	bronchial_smooth_muscle_cell	T	8
+chr16	20691199	20691199	T	C	AAGCCGCCAATAAGCA	bronchial_smooth_muscle_cell	T	3
+chr16	20691199	20691199	T	C	GGGCATCAGGGATGGG	bronchial_smooth_muscle_cell	T	4
+chr16	20691199	20691199	T	C	CGAATGTTCCGTCAAA	bronchial_smooth_muscle_cell	T	4
+chr16	20691199	20691199	T	C	CTCTGGTTCAACTCTT	bronchial_smooth_muscle_cell	T	3
+chr16	20691199	20691199	T	C	GAAATGAGTCTCAACA	bronchial_smooth_muscle_cell	T	5
+chr16	20691199	20691199	T	C	TACACGAAGGTAAACT	bronchial_smooth_muscle_cell	T	5
+chr16	20691199	20691199	T	C	CGAGCCAGTTCCACGG	bronchial_smooth_muscle_cell	T	2
+chr16	20691199	20691199	T	C	ATCCGAAGTCATGCCG	bronchial_smooth_muscle_cell	T	5
+chr16	20691199	20691199	T	C	ATAACGCGTAAGTAGT	bronchial_smooth_muscle_cell	T	8
+chr16	20691199	20691199	T	C	GGGCACTCAGTCGTGC	bronchial_smooth_muscle_cell	T	3
+chr16	20691199	20691199	T	C	GCACATAAGGACCACA	bronchial_smooth_muscle_cell	T	2
+chr16	20691199	20691199	T	C	ATCATCTTCAACACGT	bronchial_smooth_muscle_cell	T	1
+chr16	20691199	20691199	T	C	GGCGTGTCAAGAAAGG	bronchial_smooth_muscle_cell	T	3
+chr17	5161224	5161224	A	G	AGGGATGTCACGAAGG	bronchial_smooth_muscle_cell	A	5
+chr17	5161224	5161224	A	G	CGAGCACTCATGCTCC	bronchial_smooth_muscle_cell	A	6
+chr17	5161224	5161224	A	G	TGACAACGTTGGTGGA	bronchial_smooth_muscle_cell	A	7
+chr17	5161224	5161224	A	G	AACTGGTAGAGTCGGT	bronchial_smooth_muscle_cell	A	3
+chr17	5161224	5161224	A	G	CCGTTCATCATTGCCC	bronchial_smooth_muscle_cell	A	8
+chr17	5161224	5161224	A	G	ACCTTTAGTTCGTTGA	bronchial_smooth_muscle_cell	A	8
+chr17	5161224	5161224	A	G	GACTGCGCAAAGGTGC	bronchial_smooth_muscle_cell	A	3
+chr17	5161224	5161224	A	G	TACTCATTCTATCGCC	bronchial_smooth_muscle_cell	A	1
+chr17	5161224	5161224	A	G	CACATTTAGCGGCTTC	bronchial_smooth_muscle_cell	A	4
+chr17	5161224	5161224	A	G	GGAAAGCAGCTGAACG	bronchial_smooth_muscle_cell	A	11
+chr17	5161224	5161224	A	G	GGTATTGTCGGCTTGG	bronchial_smooth_muscle_cell	A	1
+chr17	5161224	5161224	A	G	AGGGATGGTTACTGAC	bronchial_smooth_muscle_cell	A	3
+chr17	5161224	5161224	A	G	ACTATCTGTTATGCGT	bronchial_smooth_muscle_cell	A	2
+chr17	5161224	5161224	A	G	CTCACACAGGGTCGAT	bronchial_smooth_muscle_cell	A	6
+chr17	5161224	5161224	A	G	CATTCGCTCCCAACGG	bronchial_smooth_muscle_cell	A	1
+chr17	71461142	71461142	T	C	CTGCCTATCTATCGCC	bronchial_smooth_muscle_cell	T	6
+chr17	71461142	71461142	T	C	GGTGTTAGTACCGTTA	bronchial_smooth_muscle_cell	T	2
+chr17	71461142	71461142	T	C	GTGGGTCAGAATGTGT	bronchial_smooth_muscle_cell	T	2
+chr17	71461142	71461142	T	C	ATAACGCGTAAGTAGT	bronchial_smooth_muscle_cell	T	5
+chr17	71461142	71461142	T	C	TGGTTAGGTGATGCCC	bronchial_smooth_muscle_cell	T	1
+chr17	71461142	71461142	T	C	TCGGTAATCTGCTGTC	bronchial_smooth_muscle_cell	T	5
+chr17	71461142	71461142	T	C	GTGGGTCGTTTGACAC	bronchial_smooth_muscle_cell	T	2
+chr17	71461142	71461142	T	C	TGAGCATCAGCCTATA	bronchial_smooth_muscle_cell	T	1
+chr17	71461142	71461142	T	C	TGACGGCAGGAGTAGA	bronchial_smooth_muscle_cell	T	1
+chr17	71461142	71461142	T	C	TGGGCGTCATCCTTGC	bronchial_smooth_muscle_cell	T	1
+chr17	71461142	71461142	T	C	TAAGCGTCAATTCCTT	bronchial_smooth_muscle_cell	T	2
+chr18	31691246	31691246	C	T	CAGTCCTGTCTGATCA	bronchial_smooth_muscle_cell	C	9
+chr18	31691246	31691246	C	T	TTCTTAGTCCTCGCAT	bronchial_smooth_muscle_cell	C	1
+chr18	31691246	31691246	C	T	CAGTCCTGTCTGATCA	bronchial_smooth_muscle_cell	T	1
+chr18	31691246	31691246	C	T	GCAGTTAGTATGAATG	bronchial_smooth_muscle_cell	C	1
+chr18	31691246	31691246	C	T	TACCTTAGTTCGGGCT	bronchial_smooth_muscle_cell	C	2
+chr18	31691246	31691246	C	T	ACAGCTATCCGTCAAA	bronchial_smooth_muscle_cell	C	4
+chr18	31691246	31691246	C	T	CTAAGACGTCGATTGT	bronchial_smooth_muscle_cell	T	2
+chr18	31691246	31691246	C	T	ATCCGAAGTCATGCCG	bronchial_smooth_muscle_cell	C	3
+chr18	31691246	31691246	C	T	ACGGGCTCAAGGTGTG	bronchial_smooth_muscle_cell	C	5
+chr19	10587398	10587398	A	G	CTCGGGAAGGGTGTGT	bronchial_smooth_muscle_cell	A	2
+chr19	10587398	10587398	A	G	GCAGTTATCTACTCAT	bronchial_smooth_muscle_cell	A	2
+chr19	10587398	10587398	A	G	TGAGCATCAGCCTATA	bronchial_smooth_muscle_cell	A	1
+chr19	10587398	10587398	A	G	GACACGCAGAAGGTGA	bronchial_smooth_muscle_cell	A	1
+chr19	23759900	23759900	T	C	CTAGAGTGTCTTTCAT	bronchial_smooth_muscle_cell	T	4
+chr19	23759900	23759900	T	C	TGGGCGTCATCCTTGC	bronchial_smooth_muscle_cell	T	5
+chr19	23759900	23759900	T	C	CATTATCTCACAATGC	bronchial_smooth_muscle_cell	T	4
+chr19	23759900	23759900	T	C	TACCTTAAGGGCATGT	bronchial_smooth_muscle_cell	T	4
+chr19	23759900	23759900	T	C	ACAGCCGTCAGTGCAT	bronchial_smooth_muscle_cell	T	3
+chr19	23759900	23759900	T	C	CTCGGGAAGGGTGTGT	bronchial_smooth_muscle_cell	T	3
+chr19	23759900	23759900	T	C	CCGTACTTCCGCGTTT	bronchial_smooth_muscle_cell	T	3
+chr2	166069158	166069158	T	C	AGCTCCTGTATAGTAG	bronchial_smooth_muscle_cell	T	1
+chr2	166069158	166069158	T	C	CTAGAGTGTCTTTCAT	bronchial_smooth_muscle_cell	C	3
+chr2	166069158	166069158	T	C	TACACGAAGGTAAACT	bronchial_smooth_muscle_cell	T	1
+chr2	166069158	166069158	T	C	TATGCCCGTTCAGTAC	bronchial_smooth_muscle_cell	C	2
+chr2	166069158	166069158	T	C	GATCGTACATAAGACA	bronchial_smooth_muscle_cell	T	1
+chr2	166069158	166069158	T	C	CTACGTCAGCACCGTC	bronchial_smooth_muscle_cell	T	2
+chr2	166069158	166069158	T	C	GAACCTATCCAAGCCG	bronchial_smooth_muscle_cell	T	1
+chr2	166069158	166069158	T	C	AAACGGGAGCTAAGAT	bronchial_smooth_muscle_cell	T	2
+chr2	166069158	166069158	T	C	ATCATCTTCAACACGT	bronchial_smooth_muscle_cell	T	2
+chr2	166069158	166069158	T	C	GGGAGATTCGGATGTT	bronchial_smooth_muscle_cell	T	1
+chr2	166069158	166069158	T	C	CTAAGACGTCGATTGT	bronchial_smooth_muscle_cell	T	1
+chr3	89167968	89167968	A	G	ATCGAGTAGGTGATTA	bronchial_smooth_muscle_cell	A	4
+chr3	89167968	89167968	A	G	CGCTATCTCATCGGAT	bronchial_smooth_muscle_cell	A	2
+chr3	89167968	89167968	A	G	ACAGCTAAGCGTTTAC	bronchial_smooth_muscle_cell	A	1
+chr3	89167968	89167968	A	G	GAACCTATCCAAGCCG	bronchial_smooth_muscle_cell	A	2
+chr3	89167968	89167968	A	G	TGGTTAGGTGATGCCC	bronchial_smooth_muscle_cell	A	4
+chr3	89167968	89167968	A	G	GACACGCAGAAGGTGA	bronchial_smooth_muscle_cell	A	3
+chr3	95886986	95886986	T	C	CATTCGCTCCCAACGG	bronchial_smooth_muscle_cell	T	9
+chr3	95886986	95886986	T	C	CGTCCATTCGACAGCC	bronchial_smooth_muscle_cell	T	15
+chr3	95886986	95886986	T	C	GGGAGATTCGGATGTT	bronchial_smooth_muscle_cell	T	21
+chr3	95886986	95886986	T	C	ACACCAAGTCTTCTCG	bronchial_smooth_muscle_cell	T	14
+chr3	95886986	95886986	T	C	CGCTATCAGTACTTGC	bronchial_smooth_muscle_cell	T	5
+chr3	95886986	95886986	T	C	TACAGTGCAGGTTTCA	bronchial_smooth_muscle_cell	T	10
+chr3	95886986	95886986	T	C	CCTCTGAAGACCGGAT	bronchial_smooth_muscle_cell	T	4
+chr3	95886986	95886986	T	C	GAACCTATCCAAGCCG	bronchial_smooth_muscle_cell	T	19
+chr3	95886986	95886986	T	C	GCGCGATAGGCGACAT	bronchial_smooth_muscle_cell	T	8
+chr3	95886986	95886986	T	C	GGGCATCAGGGATGGG	bronchial_smooth_muscle_cell	T	5
+chr3	95886986	95886986	T	C	GTGCATATCCTGCAGG	bronchial_smooth_muscle_cell	T	5
+chr3	95886986	95886986	T	C	TGACTTTGTCCAGTGC	bronchial_smooth_muscle_cell	C	10
+chr3	95886986	95886986	T	C	AACTGGTAGTACGCCC	bronchial_smooth_muscle_cell	T	3
+chr3	95886986	95886986	T	C	GGGCACTCAGTCGTGC	bronchial_smooth_muscle_cell	T	14
+chr3	95886986	95886986	T	C	CCGTTCATCATTGCCC	bronchial_smooth_muscle_cell	T	7
+chr3	95886986	95886986	T	C	GACGTTATCAGCTTAG	bronchial_smooth_muscle_cell	T	9
+chr3	95886986	95886986	T	C	GTAACTGCATACAGCT	bronchial_smooth_muscle_cell	T	12
+chr3	95886986	95886986	T	C	TCAATCTTCAACCATG	bronchial_smooth_muscle_cell	T	7
+chr3	95886986	95886986	T	C	ACAGCCGTCAGTGCAT	bronchial_smooth_muscle_cell	T	8
+chr3	95886986	95886986	T	C	ACAGCTATCCGTCAAA	bronchial_smooth_muscle_cell	T	14
+chr3	95886986	95886986	T	C	AGAGCTTTCTTGCCGT	bronchial_smooth_muscle_cell	T	10
+chr3	95886986	95886986	T	C	CGCTATCTCATCGGAT	bronchial_smooth_muscle_cell	T	10
+chr3	95886986	95886986	T	C	CTACACCGTCTTCGTC	bronchial_smooth_muscle_cell	T	14
+chr3	95886986	95886986	T	C	GCAGTTATCTACTCAT	bronchial_smooth_muscle_cell	T	4
+chr3	95886986	95886986	T	C	GTGCATATCCAGAAGG	bronchial_smooth_muscle_cell	T	5
+chr3	95886986	95886986	T	C	TCGGGACGTACAGACG	bronchial_smooth_muscle_cell	T	5
+chr3	95886986	95886986	T	C	TGACTTTGTCCAGTGC	bronchial_smooth_muscle_cell	T	5
+chr3	95886986	95886986	T	C	ATCATCTAGGCATGTG	bronchial_smooth_muscle_cell	T	6
+chr3	95886986	95886986	T	C	CGGAGTCAGTGTACGG	bronchial_smooth_muscle_cell	T	19
+chr3	95886986	95886986	T	C	GGATGTTGTCCAGTAT	bronchial_smooth_muscle_cell	T	2
+chr3	95886986	95886986	T	C	CACATTTAGCGGCTTC	bronchial_smooth_muscle_cell	T	7
+chr3	95886986	95886986	T	C	GAACGGACAAGTCTGT	bronchial_smooth_muscle_cell	T	2
+chr3	95886986	95886986	T	C	GTACTTTAGTGCTGCC	bronchial_smooth_muscle_cell	T	6
+chr3	95886986	95886986	T	C	TACGGTAAGACTAGGC	bronchial_smooth_muscle_cell	T	2
+chr3	95886986	95886986	T	C	AGTGGGACAAGTTCTG	bronchial_smooth_muscle_cell	T	3
+chr3	95886986	95886986	T	C	ATTGGACTCACATACG	bronchial_smooth_muscle_cell	T	12
+chr3	95886986	95886986	T	C	GATCGCGAGTACGCGA	bronchial_smooth_muscle_cell	T	6
+chr3	95886986	95886986	T	C	GTGTGCGTCCCTCAGT	bronchial_smooth_muscle_cell	T	5
+chr3	95886986	95886986	T	C	ACGGGTCAGACGACGT	bronchial_smooth_muscle_cell	T	4
+chr3	95886986	95886986	T	C	TGCACCTTCTAACCGA	bronchial_smooth_muscle_cell	T	10
+chr3	95886986	95886986	T	C	ACTGCTCGTCACACGC	bronchial_smooth_muscle_cell	T	7
+chr3	95886986	95886986	T	C	TTTATGCAGATGCGAC	bronchial_smooth_muscle_cell	C	8
+chr3	95886986	95886986	T	C	ACAGCTAAGCGTTTAC	bronchial_smooth_muscle_cell	T	12
+chr3	95886986	95886986	T	C	CGAATGTTCCGTCAAA	bronchial_smooth_muscle_cell	T	6
+chr3	95886986	95886986	T	C	CTTCTCTAGACCACGA	bronchial_smooth_muscle_cell	T	6
+chr3	95886986	95886986	T	C	GGCGTGTCAAGAAAGG	bronchial_smooth_muscle_cell	T	10
+chr3	95886986	95886986	T	C	TACTCATTCTATCGCC	bronchial_smooth_muscle_cell	T	2
+chr3	95886986	95886986	T	C	TCGAGGCTCTGGAGCC	bronchial_smooth_muscle_cell	T	6
+chr3	95886986	95886986	T	C	ATCCGAAAGTCTTGCA	bronchial_smooth_muscle_cell	C	3
+chr3	95886986	95886986	T	C	GATGCTAAGAGCTGGT	bronchial_smooth_muscle_cell	T	3
+chr3	95886986	95886986	T	C	ACGCCAGTCCAAATGC	bronchial_smooth_muscle_cell	T	4
+chr3	95886986	95886986	T	C	ATTCTACTCTTAGCCC	bronchial_smooth_muscle_cell	T	4
+chr3	95886986	95886986	T	C	GGCAATTCAGACAGGT	bronchial_smooth_muscle_cell	T	3
+chr3	95886986	95886986	T	C	ACGGGCTGTCGAGATG	bronchial_smooth_muscle_cell	T	5
+chr3	95886986	95886986	T	C	AACTCTTCAGGAATCG	bronchial_smooth_muscle_cell	T	10
+chr3	95886986	95886986	T	C	ACGGGCTCAACCGCCA	bronchial_smooth_muscle_cell	T	5
+chr3	95886986	95886986	T	C	GTACTTTTCGCGCCAA	bronchial_smooth_muscle_cell	C	3
+chr3	95886986	95886986	T	C	GTAGGCCCAGACAAGC	bronchial_smooth_muscle_cell	T	6
+chr3	95886986	95886986	T	C	GAAGCAGGTGAGTGAC	bronchial_smooth_muscle_cell	T	6
+chr3	95886986	95886986	T	C	CGTCAGGGTCATGCCG	bronchial_smooth_muscle_cell	T	5
+chr3	95886986	95886986	T	C	TCGTACCGTTGCCTCT	bronchial_smooth_muscle_cell	T	4
+chr3	95886986	95886986	T	C	CGGCTAGAGAGGTACC	bronchial_smooth_muscle_cell	T	5
+chr3	95886986	95886986	T	C	ACGCAGCAGGCCCTTG	bronchial_smooth_muscle_cell	T	2
+chr3	95886986	95886986	T	C	CTCGGGACAGCTGCTG	bronchial_smooth_muscle_cell	T	8
+chr3	95886986	95886986	T	C	TCGAGGCTCACGCGGT	bronchial_smooth_muscle_cell	T	2
+chr3	95886986	95886986	T	C	TGTCCCAGTCATTAGC	bronchial_smooth_muscle_cell	T	1
+chr3	95886986	95886986	T	C	CGAGCCAAGACGCTTT	bronchial_smooth_muscle_cell	T	3
+chr3	95886986	95886986	T	C	CGAGCACTCATGCTCC	bronchial_smooth_muscle_cell	T	2
+chr3	95887048	95887048	T	C	ACGGGTCAGACGACGT	bronchial_smooth_muscle_cell	T	2
+chr3	95887048	95887048	T	C	TCGAGGCTCACGCGGT	bronchial_smooth_muscle_cell	T	4
+chr3	95887048	95887048	T	C	GTAACTGCATACAGCT	bronchial_smooth_muscle_cell	T	13
+chr3	95887048	95887048	T	C	TGCACCTTCTAACCGA	bronchial_smooth_muscle_cell	T	5
+chr3	95887048	95887048	T	C	AGAGCTTTCTTGCCGT	bronchial_smooth_muscle_cell	C	5
+chr3	95887048	95887048	T	C	CGAATGTTCCGTCAAA	bronchial_smooth_muscle_cell	T	2
+chr3	95887048	95887048	T	C	CGAGCCAAGACGCTTT	bronchial_smooth_muscle_cell	T	5
+chr3	95887048	95887048	T	C	CTACACCGTCTTCGTC	bronchial_smooth_muscle_cell	T	9
+chr3	95887048	95887048	T	C	GAACCTATCCAAGCCG	bronchial_smooth_muscle_cell	T	7
+chr3	95887048	95887048	T	C	GAAGCAGGTGAGTGAC	bronchial_smooth_muscle_cell	T	6
+chr3	95887048	95887048	T	C	GGGAGATTCGGATGTT	bronchial_smooth_muscle_cell	T	16
+chr3	95887048	95887048	T	C	GGGCATCAGGGATGGG	bronchial_smooth_muscle_cell	T	6
+chr3	95887048	95887048	T	C	CGGAGTCAGTGTACGG	bronchial_smooth_muscle_cell	T	12
+chr3	95887048	95887048	T	C	CGTCAGGGTCATGCCG	bronchial_smooth_muscle_cell	C	4
+chr3	95887048	95887048	T	C	CTCGGGACAGCTGCTG	bronchial_smooth_muscle_cell	T	12
+chr3	95887048	95887048	T	C	ACGGGCTCAACCGCCA	bronchial_smooth_muscle_cell	T	6
+chr3	95887048	95887048	T	C	GATCGCGAGTACGCGA	bronchial_smooth_muscle_cell	T	4
+chr3	95887048	95887048	T	C	ACAGCTAAGCGTTTAC	bronchial_smooth_muscle_cell	T	5
+chr3	95887048	95887048	T	C	ACGGGCTGTCGAGATG	bronchial_smooth_muscle_cell	T	4
+chr3	95887048	95887048	T	C	TCAATCTTCAACCATG	bronchial_smooth_muscle_cell	T	6
+chr3	95887048	95887048	T	C	ACACCAAGTCTTCTCG	bronchial_smooth_muscle_cell	T	6
+chr3	95887048	95887048	T	C	ATTGGACTCACATACG	bronchial_smooth_muscle_cell	T	4
+chr3	95887048	95887048	T	C	CGCTATCAGTACTTGC	bronchial_smooth_muscle_cell	T	5
+chr3	95887048	95887048	T	C	CGGCTAGAGAGGTACC	bronchial_smooth_muscle_cell	T	4
+chr3	95887048	95887048	T	C	CGTCCATTCGACAGCC	bronchial_smooth_muscle_cell	T	5
+chr3	95887048	95887048	T	C	ACAGCTATCCGTCAAA	bronchial_smooth_muscle_cell	T	9
+chr3	95887048	95887048	T	C	ACGCCAGTCCAAATGC	bronchial_smooth_muscle_cell	T	2
+chr3	95887048	95887048	T	C	GGCAATTCAGACAGGT	bronchial_smooth_muscle_cell	T	4
+chr3	95887048	95887048	T	C	TGACTTTGTCCAGTGC	bronchial_smooth_muscle_cell	T	9
+chr3	95887048	95887048	T	C	GACGTTATCAGCTTAG	bronchial_smooth_muscle_cell	T	1
+chr3	95887048	95887048	T	C	CATTCGCTCCCAACGG	bronchial_smooth_muscle_cell	T	7
+chr3	95887048	95887048	T	C	GTACTTTAGTGCTGCC	bronchial_smooth_muscle_cell	T	1
+chr3	95887048	95887048	T	C	TCGTACCGTTGCCTCT	bronchial_smooth_muscle_cell	T	3
+chr3	95887048	95887048	T	C	ATTCTACTCTTAGCCC	bronchial_smooth_muscle_cell	T	6
+chr3	95887048	95887048	T	C	CGCTATCTCATCGGAT	bronchial_smooth_muscle_cell	T	6
+chr3	95887048	95887048	T	C	CTTCTCTAGACCACGA	bronchial_smooth_muscle_cell	T	4
+chr3	95887048	95887048	T	C	GGCGTGTCAAGAAAGG	bronchial_smooth_muscle_cell	T	4
+chr3	95887048	95887048	T	C	GTACTTTTCGCGCCAA	bronchial_smooth_muscle_cell	T	2
+chr3	95887048	95887048	T	C	GTAGGCCCAGACAAGC	bronchial_smooth_muscle_cell	T	4
+chr3	95887048	95887048	T	C	ACAGCCGTCAGTGCAT	bronchial_smooth_muscle_cell	T	3
+chr3	95887048	95887048	T	C	CACATTTAGCGGCTTC	bronchial_smooth_muscle_cell	T	3
+chr3	95887048	95887048	T	C	GTGCATATCCAGAAGG	bronchial_smooth_muscle_cell	T	3
+chr3	95887048	95887048	T	C	CCGTTCATCATTGCCC	bronchial_smooth_muscle_cell	T	5
+chr3	95887048	95887048	T	C	TACGGTAAGACTAGGC	bronchial_smooth_muscle_cell	T	3
+chr3	95887048	95887048	T	C	ATCCGAAAGTCTTGCA	bronchial_smooth_muscle_cell	T	1
+chr3	95887048	95887048	T	C	GCGCGATAGGCGACAT	bronchial_smooth_muscle_cell	T	6
+chr3	95887048	95887048	T	C	AACTCTTCAGGAATCG	bronchial_smooth_muscle_cell	T	5
+chr3	95887048	95887048	T	C	ATCATCTAGGCATGTG	bronchial_smooth_muscle_cell	T	2
+chr3	95887048	95887048	T	C	CGAGCACTCATGCTCC	bronchial_smooth_muscle_cell	T	3
+chr3	95887048	95887048	T	C	GGGCACTCAGTCGTGC	bronchial_smooth_muscle_cell	T	5
+chr3	95887048	95887048	T	C	GTGCATATCCTGCAGG	bronchial_smooth_muscle_cell	T	2
+chr3	95887048	95887048	T	C	TACAGTGCAGGTTTCA	bronchial_smooth_muscle_cell	T	4
+chr3	95887048	95887048	T	C	TCGAGGCTCTGGAGCC	bronchial_smooth_muscle_cell	T	2
+chr3	95887048	95887048	T	C	AACTGGTAGTACGCCC	bronchial_smooth_muscle_cell	T	8
+chr3	95887048	95887048	T	C	CCTCTGAAGACCGGAT	bronchial_smooth_muscle_cell	T	1
+chr3	95887048	95887048	T	C	ACTGCTCGTCACACGC	bronchial_smooth_muscle_cell	C	4
+chr3	95887048	95887048	T	C	GCAGTTATCTACTCAT	bronchial_smooth_muscle_cell	T	3
+chr3	95887048	95887048	T	C	GTGTGCGTCCCTCAGT	bronchial_smooth_muscle_cell	T	1
+chr3	95887048	95887048	T	C	ACGCAGCAGGCCCTTG	bronchial_smooth_muscle_cell	T	2
+chr3	95887048	95887048	T	C	GGGCACTCAGTCGTGC	bronchial_smooth_muscle_cell	C	3
+chr3	95887048	95887048	T	C	TGTCCCAGTCATTAGC	bronchial_smooth_muscle_cell	T	3
+chr3	95887048	95887048	T	C	TCGGGACGTACAGACG	bronchial_smooth_muscle_cell	T	2
+chr3	95887048	95887048	T	C	GATGCTAAGAGCTGGT	bronchial_smooth_muscle_cell	T	2
+chr3	95887048	95887048	T	C	GGATGTTGTCCAGTAT	bronchial_smooth_muscle_cell	T	2
+chr3	95887048	95887048	T	C	TTTATGCAGATGCGAC	bronchial_smooth_muscle_cell	C	1
+chr4	11158870	11158870	A	G	CTGATAGGTCAGTGGA	bronchial_smooth_muscle_cell	A	1
+chr4	11158870	11158870	A	G	GACACGCAGAAGGTGA	bronchial_smooth_muscle_cell	A	4
+chr4	11158870	11158870	A	G	CCTTTCTTCCTACAGA	bronchial_smooth_muscle_cell	A	9
+chr4	11158870	11158870	A	G	CTAAGACGTCGATTGT	bronchial_smooth_muscle_cell	A	3
+chr4	11158870	11158870	A	G	GCATGATCACCGTTGG	bronchial_smooth_muscle_cell	A	2
+chr4	11158870	11158870	A	G	AGAGCTTTCTTGCCGT	bronchial_smooth_muscle_cell	A	2
+chr4	42992699	42992699	T	C	GTGCATATCCAGAAGG	bronchial_smooth_muscle_cell	T	6
+chr4	42992699	42992699	T	C	CTACGTCCAATCGGTT	bronchial_smooth_muscle_cell	T	3
+chr4	42992699	42992699	T	C	AGGTCCGTCTTGTTTG	bronchial_smooth_muscle_cell	T	1
+chr4	42992699	42992699	T	C	GCTGCGATCAGTTGAC	bronchial_smooth_muscle_cell	T	3
+chr4	42992699	42992699	T	C	TACACGAAGGTAAACT	bronchial_smooth_muscle_cell	T	3
+chr4	42992699	42992699	T	C	GTACTTTAGTGCTGCC	bronchial_smooth_muscle_cell	T	3
+chr4	42992699	42992699	T	C	ACATGGTCAAGCCTAT	bronchial_smooth_muscle_cell	T	5
+chr4	42992699	42992699	T	C	CATCAGATCGTCTGAA	bronchial_smooth_muscle_cell	T	5
+chr4	42992699	42992699	T	C	CCTTTCTTCCTACAGA	bronchial_smooth_muscle_cell	T	1
+chr4	42992699	42992699	T	C	GGGAGATTCGGATGTT	bronchial_smooth_muscle_cell	T	3
+chr4	42992699	42992699	T	C	ATTGGACTCACATACG	bronchial_smooth_muscle_cell	T	2
+chr4	42992699	42992699	T	C	TCAATCTTCAACCATG	bronchial_smooth_muscle_cell	T	2
+chr4	42992699	42992699	T	C	CTAGAGTGTCTTTCAT	bronchial_smooth_muscle_cell	T	3
+chr4	42992699	42992699	T	C	GATGCTAAGAGCTGGT	bronchial_smooth_muscle_cell	T	4
+chr4	42992699	42992699	T	C	GGGCACTCAGTCGTGC	bronchial_smooth_muscle_cell	T	3
+chr4	42992699	42992699	T	C	CTGCCTATCTATCGCC	bronchial_smooth_muscle_cell	T	1
+chr4	42992699	42992699	T	C	ACGGGCTGTCGAGATG	bronchial_smooth_muscle_cell	T	4
+chr4	42992699	42992699	T	C	CACACCTCAATGACCT	bronchial_smooth_muscle_cell	T	2
+chr4	42992699	42992699	T	C	TACTCATAGCGCTCCA	bronchial_smooth_muscle_cell	T	3
+chr4	42992699	42992699	T	C	TCATTACCAAGCCATT	bronchial_smooth_muscle_cell	T	2
+chr4	42992699	42992699	T	C	TCACGAAGTAGCGCTC	bronchial_smooth_muscle_cell	T	2
+chr4	42992699	42992699	T	C	CGTAGCGGTTTCGCTC	bronchial_smooth_muscle_cell	T	1
+chr4	42992699	42992699	T	C	GCAGTTAGTATGAATG	bronchial_smooth_muscle_cell	T	2
+chr4	42992699	42992699	T	C	ATCATCTTCAACACGT	bronchial_smooth_muscle_cell	T	1
+chr4	42992699	42992699	T	C	CGCGTTTTCTGTACGA	bronchial_smooth_muscle_cell	T	1
+chr4	42992699	42992699	T	C	CGTCCATTCGACAGCC	bronchial_smooth_muscle_cell	T	1
+chr4	42992699	42992699	T	C	CTGCGGAAGAGCCCAA	bronchial_smooth_muscle_cell	T	3
+chr4	42992699	42992699	T	C	TAAGCGTCAATTCCTT	bronchial_smooth_muscle_cell	T	1
+chr5	92878224	92878224	A	G	CATTATCTCACAATGC	bronchial_smooth_muscle_cell	A	8
+chr5	92878224	92878224	A	G	TACGGGCAGCAATATG	bronchial_smooth_muscle_cell	A	8
+chr5	92878224	92878224	A	G	AGGGATGTCACGAAGG	bronchial_smooth_muscle_cell	A	1
+chr5	92878224	92878224	A	G	CCTCTGAAGACCGGAT	bronchial_smooth_muscle_cell	A	1
+chr5	92878224	92878224	A	G	TACCTTAAGGGCATGT	bronchial_smooth_muscle_cell	A	3
+chr5	92878224	92878224	A	G	CTCTGGTTCAACTCTT	bronchial_smooth_muscle_cell	A	2
+chr5	92878224	92878224	A	G	ACATGGTCAAGCCTAT	bronchial_smooth_muscle_cell	A	2
+chr5	92878224	92878224	A	G	ATAACGCGTAAGTAGT	bronchial_smooth_muscle_cell	A	3
+chr5	92878224	92878224	A	G	GTACTTTAGCGTAATA	bronchial_smooth_muscle_cell	A	4
+chr5	92878224	92878224	A	G	AGAGCTTTCTTGCCGT	bronchial_smooth_muscle_cell	A	1
+chr5	92878224	92878224	A	G	CACCAGGAGACGCAAC	bronchial_smooth_muscle_cell	A	3
+chr5	92878224	92878224	A	G	TCATTACCAAGCCATT	bronchial_smooth_muscle_cell	A	2
+chr5	92878224	92878224	A	G	CACACCTCAATGACCT	bronchial_smooth_muscle_cell	A	1
+chr5	92878224	92878224	A	G	TACACGAAGGTAAACT	bronchial_smooth_muscle_cell	A	2
+chr5	92878224	92878224	A	G	CGCGTTTTCTGTACGA	bronchial_smooth_muscle_cell	A	1
+chr5	92878224	92878224	A	G	CGCTATCTCATCGGAT	bronchial_smooth_muscle_cell	A	1
+chr5	92878224	92878224	A	G	CCTTTCTTCCTACAGA	bronchial_smooth_muscle_cell	A	2
+chr5	92878224	92878224	A	G	AAACGGGAGCTAAGAT	bronchial_smooth_muscle_cell	A	3
+chr5	92878224	92878224	A	G	GGCCGATAGAATGTTG	bronchial_smooth_muscle_cell	A	3
+chr5	92878224	92878224	A	G	CAGCAGCAGTGAACGC	bronchial_smooth_muscle_cell	A	4
+chr5	92878224	92878224	A	G	CATCAGATCGTCTGAA	bronchial_smooth_muscle_cell	A	1
+chr5	92878237	92878237	A	G	CATTATCTCACAATGC	bronchial_smooth_muscle_cell	A	4
+chr5	92878237	92878237	A	G	ATAACGCGTAAGTAGT	bronchial_smooth_muscle_cell	A	3
+chr5	92878237	92878237	A	G	GTACTTTAGCGTAATA	bronchial_smooth_muscle_cell	A	4
+chr5	92878237	92878237	A	G	AGAGCTTTCTTGCCGT	bronchial_smooth_muscle_cell	A	1
+chr5	92878237	92878237	A	G	TACGGGCAGCAATATG	bronchial_smooth_muscle_cell	A	7
+chr5	92878237	92878237	A	G	TCATTACCAAGCCATT	bronchial_smooth_muscle_cell	A	2
+chr5	92878237	92878237	A	G	CACACCTCAATGACCT	bronchial_smooth_muscle_cell	A	1
+chr5	92878237	92878237	A	G	TACACGAAGGTAAACT	bronchial_smooth_muscle_cell	A	3
+chr5	92878237	92878237	A	G	CGCGTTTTCTGTACGA	bronchial_smooth_muscle_cell	A	1
+chr5	92878237	92878237	A	G	CGCTATCTCATCGGAT	bronchial_smooth_muscle_cell	A	1
+chr5	92878237	92878237	A	G	CCTTTCTTCCTACAGA	bronchial_smooth_muscle_cell	A	2
+chr5	92878237	92878237	A	G	TACCTTAAGGGCATGT	bronchial_smooth_muscle_cell	A	2
+chr5	92878237	92878237	A	G	CTCTGGTTCAACTCTT	bronchial_smooth_muscle_cell	A	1
+chr5	92878237	92878237	A	G	AAACGGGAGCTAAGAT	bronchial_smooth_muscle_cell	A	4
+chr5	92878237	92878237	A	G	CACCAGGAGACGCAAC	bronchial_smooth_muscle_cell	A	3
+chr5	92878237	92878237	A	G	GGCCGATAGAATGTTG	bronchial_smooth_muscle_cell	A	4
+chr5	92878237	92878237	A	G	CAGCAGCAGTGAACGC	bronchial_smooth_muscle_cell	A	6
+chr5	92878237	92878237	A	G	CATCAGATCGTCTGAA	bronchial_smooth_muscle_cell	A	1
+chr5	92878237	92878237	A	G	GGATGTTTCAAACGGG	bronchial_smooth_muscle_cell	A	1
+chr5	92878237	92878237	A	G	TGCACCTTCTAACCGA	bronchial_smooth_muscle_cell	A	1
+chr5	111455117	111455117	T	C	AACTCTTCAGGAATCG	bronchial_smooth_muscle_cell	T	5
+chr5	111455117	111455117	T	C	ATCTACTTCTAACTCT	bronchial_smooth_muscle_cell	T	3
+chr5	111455117	111455117	T	C	AGTGGGACAAGTTCTG	bronchial_smooth_muscle_cell	T	2
+chr5	111455117	111455117	T	C	CTCTGGTTCAACTCTT	bronchial_smooth_muscle_cell	T	3
+chr5	111455117	111455117	T	C	ATGAGGGGTTCAGCGC	bronchial_smooth_muscle_cell	T	5
+chr5	111455117	111455117	T	C	GACGTTATCAGCTTAG	bronchial_smooth_muscle_cell	T	1
+chr5	111455117	111455117	T	C	GCTCCTACAGATCGGA	bronchial_smooth_muscle_cell	T	1
+chr6	38577211	38577211	A	G	CATTATCTCACAATGC	bronchial_smooth_muscle_cell	A	3
+chr6	38577211	38577211	A	G	GGAAAGCAGCTGAACG	bronchial_smooth_muscle_cell	A	3
+chr6	38577211	38577211	A	G	ACAGCTAAGCGTTTAC	bronchial_smooth_muscle_cell	A	5
+chr6	38577211	38577211	A	G	ACGCCAGTCCAAATGC	bronchial_smooth_muscle_cell	A	3
+chr6	38577211	38577211	A	G	GCTGCGATCAGTTGAC	bronchial_smooth_muscle_cell	A	3
+chr6	38577211	38577211	A	G	AAACGGGAGCTAAGAT	bronchial_smooth_muscle_cell	A	6
+chr6	38577211	38577211	A	G	ATCCGAAAGTCTTGCA	bronchial_smooth_muscle_cell	A	3
+chr6	38577211	38577211	A	G	CAGTCCTGTCTGATCA	bronchial_smooth_muscle_cell	A	1
+chr6	38577211	38577211	A	G	AGTCTTTGTTAAGACA	bronchial_smooth_muscle_cell	A	1
+chr6	39202784	39202784	T	C	ACTATCTGTAAACACA	bronchial_smooth_muscle_cell	T	1
+chr6	39202784	39202784	T	C	GGAAAGCAGCTGAACG	bronchial_smooth_muscle_cell	T	5
+chr6	39202784	39202784	T	C	ATGAGGGGTTCAGCGC	bronchial_smooth_muscle_cell	T	4
+chr6	48079830	48079830	T	C	CAGGTGCTCGCGATCG	bronchial_smooth_muscle_cell	C	1
+chr6	48079830	48079830	T	C	TACTCATTCTATCGCC	bronchial_smooth_muscle_cell	T	3
+chr6	48079830	48079830	T	C	TACCTTAAGGGCATGT	bronchial_smooth_muscle_cell	T	4
+chr6	48079830	48079830	T	C	TCGGTAATCTGCTGTC	bronchial_smooth_muscle_cell	T	3
+chr6	48079830	48079830	T	C	CTTACCGTCAACGGGA	bronchial_smooth_muscle_cell	C	3
+chr6	48079830	48079830	T	C	CTACGTCAGCACCGTC	bronchial_smooth_muscle_cell	T	2
+chr6	48079830	48079830	T	C	GAATGAAAGTCGTACT	bronchial_smooth_muscle_cell	C	3
+chr6	48079830	48079830	T	C	GGAAAGCAGCTGAACG	bronchial_smooth_muscle_cell	T	3
+chr6	48079830	48079830	T	C	CATCAGATCGTCTGAA	bronchial_smooth_muscle_cell	T	2
+chr6	48079830	48079830	T	C	TAGACCATCAGGTTCA	bronchial_smooth_muscle_cell	T	2
+chr6	48079830	48079830	T	C	AGGGATGTCACGAAGG	bronchial_smooth_muscle_cell	C	4
+chr6	48079830	48079830	T	C	GTACTTTGTACTCAAC	bronchial_smooth_muscle_cell	T	1
+chr6	83343347	83343347	T	G	CGCTATCTCATCGGAT	bronchial_smooth_muscle_cell	G	1
+chr6	83343347	83343347	T	G	TACGGGCAGCAATATG	bronchial_smooth_muscle_cell	G	1
+chr6	83343347	83343347	T	G	TCGCGTTCAAGCTGTT	bronchial_smooth_muscle_cell	G	1
+chr7	28363106	28363106	G	A	CGCTTCACATTATCTC	bronchial_smooth_muscle_cell	G	4
+chr7	28363106	28363106	G	A	GGATGTTGTCCAGTAT	bronchial_smooth_muscle_cell	G	2
+chr7	28363106	28363106	G	A	GAATGAAAGTCGTACT	bronchial_smooth_muscle_cell	G	3
+chr7	28363106	28363106	G	A	AACTGGTAGTACGCCC	bronchial_smooth_muscle_cell	G	1
+chr7	28363106	28363106	G	A	ATAACGCGTAAGTAGT	bronchial_smooth_muscle_cell	G	6
+chr7	28363106	28363106	G	A	GACCAATCACACTGCG	bronchial_smooth_muscle_cell	G	1
+chr7	28363106	28363106	G	A	CGGAGTCAGTGTACGG	bronchial_smooth_muscle_cell	G	1
+chr7	28363106	28363106	G	A	TTGACTTAGCTAAACA	bronchial_smooth_muscle_cell	G	1
+chr7	28363106	28363106	G	A	AAGCCGCCAATAAGCA	bronchial_smooth_muscle_cell	G	1
+chr7	28363106	28363106	G	A	GGAAAGCAGCTGAACG	bronchial_smooth_muscle_cell	A	2
+chr7	28363106	28363106	G	A	GGATGTTGTCCAGTAT	bronchial_smooth_muscle_cell	A	1
+chr7	89979976	89979976	A	G	AGAGCTTTCTTGCCGT	bronchial_smooth_muscle_cell	A	3
+chr7	89979976	89979976	A	G	AGCTCCTGTATAGTAG	bronchial_smooth_muscle_cell	A	5
+chr7	89979976	89979976	A	G	GTGTGCGTCCCTCAGT	bronchial_smooth_muscle_cell	A	4
+chr7	89979976	89979976	A	G	GTGCATATCCAGAAGG	bronchial_smooth_muscle_cell	A	6
+chr7	89979976	89979976	A	G	ACTATCTGTTATGCGT	bronchial_smooth_muscle_cell	A	5
+chr7	89979976	89979976	A	G	ATCCGAAGTCATGCCG	bronchial_smooth_muscle_cell	A	1
+chr7	89979976	89979976	A	G	CGCTATCTCATCGGAT	bronchial_smooth_muscle_cell	A	5
+chr7	89979976	89979976	A	G	GGTATTGTCGGCTTGG	bronchial_smooth_muscle_cell	A	3
+chr7	89979976	89979976	A	G	ATGAGGGGTTCAGCGC	bronchial_smooth_muscle_cell	A	2
+chr7	89979976	89979976	A	G	CTACACCGTCTTCGTC	bronchial_smooth_muscle_cell	A	6
+chr7	89979976	89979976	A	G	GCACATAAGGACCACA	bronchial_smooth_muscle_cell	A	4
+chr7	89979976	89979976	A	G	TGTCCCAGTCATTAGC	bronchial_smooth_muscle_cell	A	2
+chr7	89979976	89979976	A	G	ACTGAGTCAGGTCTCG	bronchial_smooth_muscle_cell	A	4
+chr7	89979976	89979976	A	G	CTAGAGTGTCTTTCAT	bronchial_smooth_muscle_cell	A	3
+chr7	89979976	89979976	A	G	TCGAGGCTCACGCGGT	bronchial_smooth_muscle_cell	A	1
+chr7	89979976	89979976	A	G	CTTCTCTAGACCACGA	bronchial_smooth_muscle_cell	A	1
+chr7	126790795	126790795	T	C	CGAGCCAGTTCCACGG	bronchial_smooth_muscle_cell	T	1
+chr7	126790795	126790795	T	C	TAGACCATCAGGTTCA	bronchial_smooth_muscle_cell	C	1
+chr7	126790795	126790795	T	C	TAAGCGTCACATCCGG	bronchial_smooth_muscle_cell	T	1
+chr7	126790795	126790795	T	C	CGCGGTACACAAGCCC	bronchial_smooth_muscle_cell	C	1
+chr7	126790795	126790795	T	C	CGCGGTACATCCGGGT	bronchial_smooth_muscle_cell	T	1
+chr7	126790795	126790795	T	C	TGACGGCAGGAGTAGA	bronchial_smooth_muscle_cell	C	1
+chr7	126790795	126790795	T	C	CCGTTCATCATTGCCC	bronchial_smooth_muscle_cell	T	1
+chr7	126790795	126790795	T	C	CTACGTCCAATCGGTT	bronchial_smooth_muscle_cell	T	1
+chr7	126790795	126790795	T	C	CCCTCCTAGTGGACGT	bronchial_smooth_muscle_cell	T	1
+chr7	126790795	126790795	T	C	ACCTTTAGTTCGTTGA	bronchial_smooth_muscle_cell	C	1
+chr7	126790795	126790795	T	C	AATCGGTAGAATTGTG	bronchial_smooth_muscle_cell	C	1
+chr8	25239196	25239196	T	C	CATGACATCCAGAGGA	bronchial_smooth_muscle_cell	T	8
+chr8	25239196	25239196	T	C	AGGGATGTCACGAAGG	bronchial_smooth_muscle_cell	T	2
+chr8	25239196	25239196	T	C	GGAAAGCAGCTGAACG	bronchial_smooth_muscle_cell	T	5
+chr8	25239196	25239196	T	C	GCGCGATAGGCGACAT	bronchial_smooth_muscle_cell	T	2
+chr8	25239196	25239196	T	C	TAGGCATGTACCAGTT	bronchial_smooth_muscle_cell	T	4
+chr8	25239196	25239196	T	C	GCCAAATAGACTAAGT	bronchial_smooth_muscle_cell	T	2
+chr8	25239196	25239196	T	C	GATCGTACATAAGACA	bronchial_smooth_muscle_cell	T	1
+chr8	25239196	25239196	T	C	AAACCTGGTCTGCAAT	bronchial_smooth_muscle_cell	T	8
+chr8	25239196	25239196	T	C	ACGGGCTCAAGGTGTG	bronchial_smooth_muscle_cell	T	1
+chr8	25239196	25239196	T	C	AGCCTAATCGTTTAGG	bronchial_smooth_muscle_cell	T	4
+chr8	25239196	25239196	T	C	CACCAGGAGACGCAAC	bronchial_smooth_muscle_cell	T	1
+chr8	25239196	25239196	T	C	TGTCCCAGTCATTAGC	bronchial_smooth_muscle_cell	T	3
+chr8	25239196	25239196	T	C	CCCATACAGGTGCTAG	bronchial_smooth_muscle_cell	T	3
+chr8	25239196	25239196	T	C	CTGCCTATCTATCGCC	bronchial_smooth_muscle_cell	T	1
+chr8	25239196	25239196	T	C	TAAGCGTCACATCCGG	bronchial_smooth_muscle_cell	T	1
+chr8	25239196	25239196	T	C	GATGCTAAGAGCTGGT	bronchial_smooth_muscle_cell	T	1
+chr8	25239285	25239285	T	C	GTACTTTAGTGCTGCC	bronchial_smooth_muscle_cell	T	6
+chr8	25239285	25239285	T	C	CATGACATCCAGAGGA	bronchial_smooth_muscle_cell	T	5
+chr8	25239285	25239285	T	C	AAACCTGGTCTGCAAT	bronchial_smooth_muscle_cell	T	8
+chr8	25239285	25239285	T	C	GGAAAGCAGCTGAACG	bronchial_smooth_muscle_cell	T	3
+chr8	25239285	25239285	T	C	TAAGCGTCACATCCGG	bronchial_smooth_muscle_cell	T	7
+chr8	25239285	25239285	T	C	TAGGCATGTACCAGTT	bronchial_smooth_muscle_cell	T	2
+chr8	25239285	25239285	T	C	AGCCTAATCGTTTAGG	bronchial_smooth_muscle_cell	T	7
+chr8	25239285	25239285	T	C	CGCGTTTTCTGTACGA	bronchial_smooth_muscle_cell	T	1
+chr8	25239285	25239285	T	C	AGGGATGTCACGAAGG	bronchial_smooth_muscle_cell	T	3
+chr8	25239285	25239285	T	C	CCCATACAGGTGCTAG	bronchial_smooth_muscle_cell	T	3
+chr8	25239285	25239285	T	C	GCGCGATAGGCGACAT	bronchial_smooth_muscle_cell	T	1
+chr8	40993346	40993346	A	T	GGGCACTCAGTCGTGC	bronchial_smooth_muscle_cell	A	1
+chr8	40993346	40993346	A	T	CGCTATCAGTACTTGC	bronchial_smooth_muscle_cell	A	1
+chr8	40993346	40993346	A	T	CTAAGACGTCGATTGT	bronchial_smooth_muscle_cell	T	1
+chr8	40993346	40993346	A	T	TCGCGTTCAAGCTGTT	bronchial_smooth_muscle_cell	T	1
+chr8	40993346	40993346	A	T	ATTTCTGCATCCGGGT	bronchial_smooth_muscle_cell	T	1
+chr8	40993346	40993346	A	T	AGCTCCTGTATAGTAG	bronchial_smooth_muscle_cell	A	1
+chr8	40993346	40993346	A	T	ATCCGAAGTCATGCCG	bronchial_smooth_muscle_cell	A	1
+chr8	40993346	40993346	A	T	GCTCCTACAGATCGGA	bronchial_smooth_muscle_cell	A	1
+chr8	70475092	70475092	T	C	TGCGCAGAGCGATATA	bronchial_smooth_muscle_cell	T	3
+chr8	70475092	70475092	T	C	TACTCATTCTATCGCC	bronchial_smooth_muscle_cell	T	1
+chr8	70475092	70475092	T	C	CAGCAGCAGTGAACGC	bronchial_smooth_muscle_cell	T	3
+chr8	70475092	70475092	T	C	CGCGGTACACAAGCCC	bronchial_smooth_muscle_cell	T	4
+chr8	70475092	70475092	T	C	GATGCTAAGAGCTGGT	bronchial_smooth_muscle_cell	T	2
+chr8	70475092	70475092	T	C	AGCCTAATCGTTTAGG	bronchial_smooth_muscle_cell	C	5
+chr8	70475092	70475092	T	C	CGCTATCTCATCGGAT	bronchial_smooth_muscle_cell	T	1
+chr8	70475092	70475092	T	C	CGCGGTACACAAGCCC	bronchial_smooth_muscle_cell	C	6
+chr8	70475092	70475092	T	C	TGACGGCAGGAGTAGA	bronchial_smooth_muscle_cell	T	2
+chr8	70475092	70475092	T	C	GTACTTTTCGCGCCAA	bronchial_smooth_muscle_cell	T	1
+chr8	70475092	70475092	T	C	CGAATGTTCCGTCAAA	bronchial_smooth_muscle_cell	T	1
+chr8	70475092	70475092	T	C	ATCTACTTCTAACTCT	bronchial_smooth_muscle_cell	T	1
+chr8	70475092	70475092	T	C	ACATGGTCAAGCCTAT	bronchial_smooth_muscle_cell	T	1
+chrX	12616481	12616481	C	T	GATCGTACATAAGACA	bronchial_smooth_muscle_cell	C	1
+chrX	12616481	12616481	C	T	AGACGTTGTGAGGCTA	bronchial_smooth_muscle_cell	C	1
+chrX	12616481	12616481	C	T	GCAGTTATCTACTCAT	bronchial_smooth_muscle_cell	C	1
+chrX	12616481	12616481	C	T	AGCATACGTATCTGCA	bronchial_smooth_muscle_cell	C	1
+chrX	12616481	12616481	C	T	GACACGCAGAAGGTGA	bronchial_smooth_muscle_cell	C	1
+chrX	12616481	12616481	C	T	CGAATGTCAAACGTGG	bronchial_smooth_muscle_cell	C	2
+chrX	12616481	12616481	C	T	GACCAATCACACTGCG	bronchial_smooth_muscle_cell	C	1
+chrX	12616481	12616481	C	T	AATCGGTAGAATTGTG	bronchial_smooth_muscle_cell	C	1
+chrX	12616481	12616481	C	T	GGATGTTTCAAACGGG	bronchial_smooth_muscle_cell	C	1
+chrX	12616481	12616481	C	T	CCCATACTCTTCTGGC	bronchial_smooth_muscle_cell	C	1
+chrX	12616481	12616481	C	T	GTACGTAAGAAACCGC	bronchial_smooth_muscle_cell	C	1
+chrX	12616481	12616481	C	T	TACAGTGCAGGTTTCA	bronchial_smooth_muscle_cell	C	1
+chrX	12616481	12616481	C	T	GCGCGATAGGCGACAT	bronchial_smooth_muscle_cell	C	1
+chrX	12616481	12616481	C	T	GGTGAAGTCAACCAAC	bronchial_smooth_muscle_cell	C	1
+chrX	12616481	12616481	C	T	TCGCGTTCAAGCTGTT	bronchial_smooth_muscle_cell	C	1
+chrX	12616481	12616481	C	T	GGGCACTCAGTCGTGC	bronchial_smooth_muscle_cell	C	1
+chrX	12616481	12616481	C	T	TAGGCATGTACCAGTT	bronchial_smooth_muscle_cell	C	1
+chrX	12616481	12616481	C	T	CGGAGTCAGTGTACGG	bronchial_smooth_muscle_cell	C	1
+chrX	12616481	12616481	C	T	CTACACCGTCTTCGTC	bronchial_smooth_muscle_cell	C	1
+chrX	12616481	12616481	C	T	GTCGTAATCGAATCCA	bronchial_smooth_muscle_cell	C	1
+chrX	12616481	12616481	C	T	CATCAGATCGTCTGAA	bronchial_smooth_muscle_cell	C	1
+chrX	12616481	12616481	C	T	GGATGTTGTCCAGTAT	bronchial_smooth_muscle_cell	C	1
+chrX	12616481	12616481	C	T	AAGCCGCCAATAAGCA	bronchial_smooth_muscle_cell	C	1
+chrX	12616481	12616481	C	T	CTTAACTGTCTTGCGG	bronchial_smooth_muscle_cell	C	1

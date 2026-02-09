@@ -1,510 +1,510 @@
-donor	sample	#CHROM	Start	End	REF	ALT_expected	Cell_type_expected	Num_cells_expected	CB	Cell_type_observed	Base_observed	Num_reads
-1-M-62	10X_P5_13	chr1	80715420	80715420	T	C	alveolar_macrophage	2	ACGCCGAAGTTAGGTA	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr1	80715420	80715420	T	C	alveolar_macrophage	2	CAAGAAAGTCTCACCT	classical_monocyte	T	5
-1-M-62	10X_P5_13	chr1	80715420	80715420	T	C	alveolar_macrophage	2	AGGTCATGTTAAGACA	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr1	80715420	80715420	T	C	alveolar_macrophage	2	TGACTAGGTTAGAACA	classical_monocyte	T	4
-1-M-62	10X_P5_13	chr1	80715420	80715420	T	C	alveolar_macrophage	2	GATGAAACAGCCACCA	classical_monocyte	T	5
-1-M-62	10X_P5_13	chr1	80715420	80715420	T	C	alveolar_macrophage	2	TCAGCAACATGCCCGA	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr1	80715420	80715420	T	C	alveolar_macrophage	2	CACCACTCAGGACCCT	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr1	80715420	80715420	T	C	alveolar_macrophage	2	AAGTCTGGTACGAAAT	classical_monocyte	T	7
-1-M-62	10X_P5_13	chr1	80715420	80715420	T	C	alveolar_macrophage	2	CCTCTGAGTCGAGATG	classical_monocyte	T	4
-1-M-62	10X_P5_13	chr1	80715420	80715420	T	C	alveolar_macrophage	2	CGAGAAGCAATCTACG	classical_monocyte	T	2
-1-M-62	10X_P5_13	chr1	80715420	80715420	T	C	alveolar_macrophage	2	GTCCTCAAGCGGCTTC	classical_monocyte	T	2
-1-M-62	10X_P5_13	chr1	80715420	80715420	T	C	alveolar_macrophage	2	AAAGTAGGTCATTAGC	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr1	80715420	80715420	T	C	alveolar_macrophage	2	GCTTCCAGTTTGCATG	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr1	80715420	80715420	T	C	alveolar_macrophage	2	TCAGCAATCGTCTGAA	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	TGTGTTTAGATAGTCA	classical_monocyte	G	2
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	CAGCCGACATTCACTT	classical_monocyte	G	1
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	TTGACTTAGAGGTACC	classical_monocyte	G	2
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	ACGGAGACATCAGTAC	classical_monocyte	G	4
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	ATGGGAGCACGTCTCT	classical_monocyte	G	1
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	TTTGGTTAGCAATCTC	classical_monocyte	G	1
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	GGATTACCATACAGCT	classical_monocyte	G	2
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	ACAGCTACAAGCCCAC	classical_monocyte	G	1
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	ATAACGCAGAGCTGCA	classical_monocyte	G	2
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	GCAATCACAGCTGTGC	classical_monocyte	G	2
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	GTATCTTGTGTAATGA	classical_monocyte	G	1
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	TCTCTAACATTACCTT	classical_monocyte	G	1
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	CAAGAAAGTCTCACCT	classical_monocyte	G	1
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	TGGACGCAGTATGACA	classical_monocyte	G	1
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	CCTTACGAGACGACGT	classical_monocyte	G	1
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	TTGTAGGGTTGTCTTT	classical_monocyte	G	1
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	AAAGTAGGTCATTAGC	classical_monocyte	G	1
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	AACGTTGTCCTATGTT	classical_monocyte	G	1
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	GGCTCGATCCCTGACT	classical_monocyte	G	1
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	AAGACCTCATACTACG	classical_monocyte	G	1
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	TCGCGAGGTGCAACGA	classical_monocyte	G	1
-1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	GAACGGAGTTAAGATG	classical_monocyte	G	1
-1-M-62	10X_P5_13	chr11	102523273	102523273	C	G	classical_monocyte	2	CGCGGTAAGGAGTTGC	classical_monocyte	C	3
-1-M-62	10X_P5_13	chr11	102523273	102523273	C	G	classical_monocyte	2	GCATGATCACGGCTAC	classical_monocyte	C	3
-1-M-62	10X_P5_13	chr11	102523273	102523273	C	G	classical_monocyte	2	CCTAAAGAGAGACTTA	classical_monocyte	C	3
-1-M-62	10X_P5_13	chr11	102523273	102523273	C	G	classical_monocyte	2	CGCTGGAGTCGGCTCA	classical_monocyte	C	4
-1-M-62	10X_P5_13	chr11	102523273	102523273	C	G	classical_monocyte	2	GGACGTCGTAAGGGCT	classical_monocyte	G	2
-1-M-62	10X_P5_13	chr11	102523273	102523273	C	G	classical_monocyte	2	CGATCGGAGACCTAGG	classical_monocyte	C	1
-1-M-62	10X_P5_13	chr11	102523273	102523273	C	G	classical_monocyte	2	GGATGTTGTAAGTGGC	classical_monocyte	C	2
-1-M-62	10X_P5_13	chr11	102523273	102523273	C	G	classical_monocyte	2	TTGACTTAGAGGTACC	classical_monocyte	G	3
-1-M-62	10X_P5_13	chr11	102523273	102523273	C	G	classical_monocyte	2	ATCCACCTCACAACGT	classical_monocyte	C	1
-1-M-62	10X_P5_13	chr11	102523273	102523273	C	G	classical_monocyte	2	TCAGCAACATGCCCGA	classical_monocyte	C	1
-1-M-62	10X_P5_13	chr11	102523273	102523273	C	G	classical_monocyte	2	TACCTTAGTGTTGAGG	classical_monocyte	C	1
-1-M-62	10X_P5_13	chr11	102523273	102523273	C	G	classical_monocyte	2	TGAGAGGGTAGGACAC	classical_monocyte	C	1
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	ACTTGTTTCCGTTGTC	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	TAGTTGGCACTTAAGC	classical_monocyte	A	4
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	TGGCGCAAGGGCACTA	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	AACTGGTAGAGCCCAA	classical_monocyte	A	5
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	ACGCCGAAGTTAGGTA	classical_monocyte	A	2
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	GTGTGCGAGGTTCCTA	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	CGACCTTGTACTCAAC	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	CACACAAAGATGTCGG	classical_monocyte	A	2
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	ACACCAAAGCCCGAAA	classical_monocyte	A	5
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	CCTTACGAGACGACGT	classical_monocyte	A	3
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	AACTCAGAGTGTCCCG	classical_monocyte	A	3
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	TCAGGTAAGCCGTCGT	classical_monocyte	A	4
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	CCACGGAAGCCACGCT	classical_monocyte	A	3
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	GCAATCACAGCTGTGC	classical_monocyte	A	5
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	TCTATTGTCCAGTAGT	classical_monocyte	A	3
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	TTCCCAGGTCCAGTTA	classical_monocyte	A	3
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	AACTGGTCATTAGCCA	classical_monocyte	A	2
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	ATCTGCCCACAGGCCT	classical_monocyte	A	4
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	GTCATTTAGAAACGCC	classical_monocyte	A	2
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	CGCGGTAAGGAGTTGC	classical_monocyte	A	8
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	CCTCTGAAGGTACTCT	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	GAGTCCGAGCGGATCA	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	GGATGTTGTAAGTGGC	classical_monocyte	A	2
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	TTCGAAGGTAGCACGA	classical_monocyte	A	2
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	TTGGCAATCCGAAGAG	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	GTCATTTTCTTGTTTG	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr12	85321194	85321194	T	A	alveolar_macrophage	2	GGGCATCAGATCTGCT	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr12	85321194	85321194	T	A	alveolar_macrophage	2	TAAGAGAAGCATGGCA	classical_monocyte	T	2
-1-M-62	10X_P5_13	chr12	85321194	85321194	T	A	alveolar_macrophage	2	GCACTCTCACTCGACG	classical_monocyte	T	3
-1-M-62	10X_P5_13	chr12	85321194	85321194	T	A	alveolar_macrophage	2	CGTAGGCCACAGGCCT	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr12	85321194	85321194	T	A	alveolar_macrophage	2	ACAGCTACAAGCCCAC	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	CGAGAAGCAATCTACG	classical_monocyte	C	1
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	ACGGAGACATCAGTAC	classical_monocyte	C	14
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	GCACTCTCACTCGACG	classical_monocyte	C	2
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	ACACTGACATTCACTT	classical_monocyte	C	5
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	CCTACCACATCCGGGT	classical_monocyte	C	4
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	GCGCAGTCAAGCCATT	classical_monocyte	C	8
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	GCTTCCAGTTTGCATG	classical_monocyte	C	5
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	TCAATCTAGTGCGTGA	classical_monocyte	C	7
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	TGACGGCTCAGGTTCA	classical_monocyte	C	3
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	GGACGTCGTAAGGGCT	classical_monocyte	C	3
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	ATGGGAGCACGTCTCT	classical_monocyte	C	3
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	GCAATCACAGCTGTGC	classical_monocyte	C	1
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	TTCGGTCTCCAGATCA	classical_monocyte	C	7
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	AGCGTATCAAAGCAAT	classical_monocyte	C	4
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	TCATTTGCAGTTCCCT	classical_monocyte	C	4
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	CGTCACTGTTGGGACA	classical_monocyte	C	6
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	AGCATACAGTCATCCA	classical_monocyte	C	1
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	GATTCAGAGATATGGT	classical_monocyte	C	1
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	CACTCCAGTAGCGTCC	classical_monocyte	C	3
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	CCGTACTAGAGGGCTT	classical_monocyte	C	1
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	AAGTCTGGTACGAAAT	classical_monocyte	C	1
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	CACAGTATCCGTTGTC	classical_monocyte	C	2
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	ACATCAGGTGACGCCT	classical_monocyte	C	2
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	CCTTACGAGACGACGT	classical_monocyte	C	1
-1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	GTCACAAGTCGCTTTC	classical_monocyte	C	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	CAAGAAAGTCTCACCT	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	GGTGCGTTCCGTTGCT	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	ACGGAGAAGTTAAGTG	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	CCTACCACATCCGGGT	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	GTGTGCGAGGTTCCTA	classical_monocyte	A	2
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	ACACCGGTCCGTCATC	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	AATCCAGCAATGGAGC	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	TACGGTATCATGTCTT	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	CAAGATCTCGAGCCCA	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	AGGTCCGTCCTCGCAT	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	CGGAGTCTCACCAGGC	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	GTCATTTTCTTGTTTG	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	TCATTTGCAGTTCCCT	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	AGAATAGTCTCGCTTG	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	TCAGCAACATGCCCGA	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	ACGAGCCGTACAGACG	classical_monocyte	G	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	GACTAACTCTAGAGTC	classical_monocyte	G	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	GACGTGCCAGTCGTGC	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	GGTGTTAGTGTTTGTG	classical_monocyte	G	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	TAAACCGCATGGTCTA	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	ACGAGCCGTACAGACG	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	TGACGGCTCAGGTTCA	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	CCCTCCTGTCGCATCG	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	CACACAAAGATGTCGG	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	TAAGAGAAGCATGGCA	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	CGATGTACAAACGTGG	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	TCAGCAATCGTCTGAA	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	GCGCAGTCAAGCCATT	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	AGCATACAGTCATCCA	classical_monocyte	A	2
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	TTGGCAATCCGAAGAG	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	CCACGGAAGCCACGCT	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	CAGCCGACATTCACTT	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	TGAGAGGGTAGGACAC	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	CACAGGCCAAAGTGCG	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	GTCGTAACATGCCTTC	classical_monocyte	G	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	ATCACGAGTCTACCTC	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	ATTCTACGTATATGGA	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	TAGTGGTCAATGCCAT	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	TAGTTGGCACTTAAGC	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	GCGCGATGTTAGATGA	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	GCTCTGTTCCTCAATT	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	ATAACGCAGAGCTGCA	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	TGTGTTTAGATAGTCA	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr15	79907777	79907777	A	G	B_cell	3	GGCAATTGTCCGTTAA	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr15	79907777	79907777	A	G	B_cell	3	CAGCTGGCACGCTTTC	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr15	79907777	79907777	A	G	B_cell	3	AAGACCTCATACTACG	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr15	79907777	79907777	A	G	B_cell	3	TCAATCTAGTGCGTGA	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr15	79907777	79907777	A	G	B_cell	3	GACTAACTCTAGAGTC	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr15	79907777	79907777	A	G	B_cell	3	GCATGTAGTCGAACAG	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr15	79907777	79907777	A	G	B_cell	3	ACTTGTTGTCTAGAGG	classical_monocyte	A	2
-1-M-62	10X_P5_13	chr15	79907777	79907777	A	G	B_cell	3	CTCGGGAGTACGAAAT	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr15	79907777	79907777	A	G	B_cell	3	CCTACCACATCCGCGA	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr15	79907777	79907777	A	G	B_cell	3	CGAGAAGCAATCTACG	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr15	79907777	79907777	A	G	B_cell	3	CCGTACTAGAGGGCTT	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr16	20691199	20691199	T	C	alveolar_macrophage	2	ACGCCGAAGTTAGGTA	classical_monocyte	T	9
-1-M-62	10X_P5_13	chr16	20691199	20691199	T	C	alveolar_macrophage	2	TCGCGAGGTGCAACGA	classical_monocyte	T	8
-1-M-62	10X_P5_13	chr16	20691199	20691199	T	C	alveolar_macrophage	2	AACGTTGTCCTATGTT	classical_monocyte	T	6
-1-M-62	10X_P5_13	chr16	20691199	20691199	T	C	alveolar_macrophage	2	TTCGAAGGTAGCACGA	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr16	20691199	20691199	T	C	alveolar_macrophage	2	AGCATACAGTCATCCA	classical_monocyte	T	2
-1-M-62	10X_P5_13	chr16	20691199	20691199	T	C	alveolar_macrophage	2	GAGTCCGAGCGGATCA	classical_monocyte	T	2
-1-M-62	10X_P5_13	chr16	20691199	20691199	T	C	alveolar_macrophage	2	AGTGAGGAGCCACTAT	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr17	5161224	5161224	A	G	fibroblast_of_lung	2	CTAATGGAGCTGAAAT	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr17	5161224	5161224	A	G	fibroblast_of_lung	2	TGAGAGGGTAGGACAC	classical_monocyte	A	3
-1-M-62	10X_P5_13	chr17	5161224	5161224	A	G	fibroblast_of_lung	2	CGAGAAGCAATCTACG	classical_monocyte	A	6
-1-M-62	10X_P5_13	chr17	5161224	5161224	A	G	fibroblast_of_lung	2	TAAACCGCATGGTCTA	classical_monocyte	A	7
-1-M-62	10X_P5_13	chr17	5161224	5161224	A	G	fibroblast_of_lung	2	AAGGCAGAGGCAGTCA	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr17	5161224	5161224	A	G	fibroblast_of_lung	2	TTATGCTAGGTGCTAG	classical_monocyte	A	4
-1-M-62	10X_P5_13	chr17	5161224	5161224	A	G	fibroblast_of_lung	2	CATTATCTCCCATTTA	classical_monocyte	A	5
-1-M-62	10X_P5_13	chr17	5161224	5161224	A	G	fibroblast_of_lung	2	ATCCACCTCACAACGT	classical_monocyte	A	3
-1-M-62	10X_P5_13	chr17	5161224	5161224	A	G	fibroblast_of_lung	2	CGTGTAAGTACCGAGA	classical_monocyte	A	6
-1-M-62	10X_P5_13	chr17	5161224	5161224	A	G	fibroblast_of_lung	2	CTCGGGAGTACGAAAT	classical_monocyte	A	3
-1-M-62	10X_P5_13	chr17	5161224	5161224	A	G	fibroblast_of_lung	2	ATAACGCAGAGCTGCA	classical_monocyte	A	3
-1-M-62	10X_P5_13	chr17	5161224	5161224	A	G	fibroblast_of_lung	2	GCGCAGTCATGGAATA	classical_monocyte	A	2
-1-M-62	10X_P5_13	chr17	34269091	34269091	A	G	B_cell	3	ATAACGCAGAGCTGCA	classical_monocyte	A	3
-1-M-62	10X_P5_13	chr17	34269091	34269091	A	G	B_cell	3	GGTGCGTTCCGTTGCT	classical_monocyte	A	2
-1-M-62	10X_P5_13	chr17	71461142	71461142	T	C	classical_monocyte	2	CCTACCACATCCGGGT	classical_monocyte	T	2
-1-M-62	10X_P5_13	chr17	71461142	71461142	T	C	classical_monocyte	2	AGGTCATGTTAAGACA	classical_monocyte	C	1
-1-M-62	10X_P5_13	chr17	71461142	71461142	T	C	classical_monocyte	2	GGATTACCATACAGCT	classical_monocyte	T	3
-1-M-62	10X_P5_13	chr17	71461142	71461142	T	C	classical_monocyte	2	GTGCGGTAGAGCCTAG	classical_monocyte	T	2
-1-M-62	10X_P5_13	chr17	71461142	71461142	T	C	classical_monocyte	2	ACATACGCACGAGGTA	classical_monocyte	T	3
-1-M-62	10X_P5_13	chr17	71461142	71461142	T	C	classical_monocyte	2	GTATCTTGTCATATGC	classical_monocyte	C	4
-1-M-62	10X_P5_13	chr17	71461142	71461142	T	C	classical_monocyte	2	AGGTCCGTCCTCGCAT	classical_monocyte	T	2
-1-M-62	10X_P5_13	chr17	71461142	71461142	T	C	classical_monocyte	2	GAAGCAGAGAAGGTTT	classical_monocyte	T	2
-1-M-62	10X_P5_13	chr17	71461142	71461142	T	C	classical_monocyte	2	CACCTTGTCCGCATCT	classical_monocyte	T	2
-1-M-62	10X_P5_13	chr17	71461142	71461142	T	C	classical_monocyte	2	AGGTCATGTTAAGACA	classical_monocyte	T	5
-1-M-62	10X_P5_13	chr17	71461142	71461142	T	C	classical_monocyte	2	AGGTCATTCGACCAGC	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr17	71461142	71461142	T	C	classical_monocyte	2	CGTCACTGTTGGGACA	classical_monocyte	T	2
-1-M-62	10X_P5_13	chr17	71461142	71461142	T	C	classical_monocyte	2	GCATGTAGTCGAACAG	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr17	71461142	71461142	T	C	classical_monocyte	2	GGACGTCGTAAGGGCT	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr17	71461142	71461142	T	C	classical_monocyte	2	GGGCATCAGATCTGCT	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr18	31691246	31691246	C	T	bronchial_smooth_muscle_cell	2	GAACGGAGTTAAGATG	classical_monocyte	C	5
-1-M-62	10X_P5_13	chr18	31691246	31691246	C	T	bronchial_smooth_muscle_cell	2	TAGTTGGCACTTAAGC	classical_monocyte	C	10
-1-M-62	10X_P5_13	chr18	31691246	31691246	C	T	bronchial_smooth_muscle_cell	2	AACTCAGAGTGTCCCG	classical_monocyte	C	3
-1-M-62	10X_P5_13	chr18	31691246	31691246	C	T	bronchial_smooth_muscle_cell	2	CACCTTGTCCGCATCT	classical_monocyte	C	3
-1-M-62	10X_P5_13	chr19	10587398	10587398	A	G	alveolar_macrophage	2	TACCTTAGTGTTGAGG	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	CAGCCGATCACCTTAT	classical_monocyte	T	7
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	GGTGCGTTCCGTTGCT	classical_monocyte	T	8
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	CATGACAGTTCATGGT	classical_monocyte	T	7
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	CCTAAAGAGAGACTTA	classical_monocyte	T	8
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	TTGGCAATCCGAAGAG	classical_monocyte	T	12
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	CCATTCGCAATGGACG	classical_monocyte	T	7
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	TCTCTAACATTACCTT	classical_monocyte	T	7
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	AGCATACAGTCATCCA	classical_monocyte	T	10
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	GTATCTTGTCATATGC	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	TACGGTATCATGTCTT	classical_monocyte	T	4
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	ACGCCGAAGTTAGGTA	classical_monocyte	T	3
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	ATAACGCAGAGCTGCA	classical_monocyte	T	12
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	TTGACTTAGAGGTACC	classical_monocyte	T	7
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	GCTCTGTTCCTCAATT	classical_monocyte	T	4
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	GTCACAAGTCGCTTTC	classical_monocyte	T	6
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	TGGCGCAAGGGCACTA	classical_monocyte	T	3
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	AGTGAGGAGCCACTAT	classical_monocyte	T	5
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	CACCACTCAGGACCCT	classical_monocyte	T	8
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	GTTACAGAGCGTTGCC	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	AAGGAGCCACTGTGTA	classical_monocyte	T	4
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	CAAGAAAGTCTCACCT	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	CTGAAGTCAATGGACG	classical_monocyte	T	7
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	GTCCTCAAGCGGCTTC	classical_monocyte	T	9
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	TACCTTAGTGTTGAGG	classical_monocyte	T	6
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	AAGGCAGAGGCAGTCA	classical_monocyte	T	9
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	TCAGCAATCGTCTGAA	classical_monocyte	T	4
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	CTAGCCTGTAAGGGAA	classical_monocyte	T	6
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	GTGTGCGAGGTTCCTA	classical_monocyte	T	2
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	TCATTTGCAGTATCTG	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	AAGGTTCCAGTTTACG	classical_monocyte	T	11
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	GAACCTAAGGAATCGC	classical_monocyte	T	11
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	CACAGGCCAAAGTGCG	classical_monocyte	T	2
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	AGGTCATGTTAAGACA	classical_monocyte	T	4
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	GGACGTCGTAAGGGCT	classical_monocyte	T	9
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	TCAGCAACATGCCCGA	classical_monocyte	T	8
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	TGTGTTTGTCTTTCAT	classical_monocyte	T	4
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	GTCGTAACATGCCTTC	classical_monocyte	T	6
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	TCGGGACTCATCGGAT	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	CTACCCAGTGGTGTAG	classical_monocyte	T	5
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	AATCCAGCAATGGAGC	classical_monocyte	T	9
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	CGTTCTGCAATGAATG	classical_monocyte	T	4
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	GAATAAGTCAGCACAT	classical_monocyte	T	6
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	GTAACGTTCTGTTGAG	classical_monocyte	T	6
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	GTCAAGTAGTATGACA	classical_monocyte	T	5
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	ACTGCTCGTTCCACAA	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	AAGACCTCATACTACG	classical_monocyte	T	5
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	AGAATAGTCTCGCTTG	classical_monocyte	T	2
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	CGGAGTCTCACCAGGC	classical_monocyte	T	5
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	GGCTCGATCTATCCCG	classical_monocyte	T	4
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	GTCACAAAGTGGAGTC	classical_monocyte	T	5
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	TTCGGTCGTAAGTAGT	classical_monocyte	T	4
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	CCTTACGAGACGACGT	classical_monocyte	T	4
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	GCCAAATAGGCTAGAC	classical_monocyte	T	2
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	TTCGGTCTCCAGATCA	classical_monocyte	T	2
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	CAAGATCTCGAGCCCA	classical_monocyte	T	2
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	ACTTGTTTCTGCGACG	classical_monocyte	T	7
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	TCATTTGCAGTTCCCT	classical_monocyte	T	3
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	CCTACCACATCCGCGA	classical_monocyte	T	3
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	CCTCTGAAGGTACTCT	classical_monocyte	T	3
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	ATCTGCCCACAGGCCT	classical_monocyte	T	2
-1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	TAAGAGAAGCATGGCA	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr19	53923438	53923438	C	G	B_cell	2	GTGAAGGGTATTCGTG	classical_monocyte	C	3
-1-M-62	10X_P5_13	chr19	53923438	53923438	C	G	B_cell	2	GATGAAACAGCCACCA	classical_monocyte	C	2
-1-M-62	10X_P5_13	chr19	53923438	53923438	C	G	B_cell	2	ACTTACTCATGGGACA	classical_monocyte	C	3
-1-M-62	10X_P5_13	chr19	53923438	53923438	C	G	B_cell	2	CCTCTGAGTCGAGATG	classical_monocyte	C	3
-1-M-62	10X_P5_13	chr19	53923438	53923438	C	G	B_cell	2	TCATTTGCAGTATCTG	classical_monocyte	C	1
-1-M-62	10X_P5_13	chr2	43829550	43829550	A	G	CD4-positive,_alpha-beta_T_cell	2	GCCAAATAGGCTAGAC	classical_monocyte	A	3
-1-M-62	10X_P5_13	chr2	43829550	43829550	A	G	CD4-positive,_alpha-beta_T_cell	2	TGCTACCAGCATCATC	classical_monocyte	A	3
-1-M-62	10X_P5_13	chr2	43829550	43829550	A	G	CD4-positive,_alpha-beta_T_cell	2	CCTACACAGGCAATTA	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr2	43829550	43829550	A	G	CD4-positive,_alpha-beta_T_cell	2	GTATCTTGTGTAATGA	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr2	43829550	43829550	A	G	CD4-positive,_alpha-beta_T_cell	2	CAGCCGACATTCACTT	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr2	166069158	166069158	T	C	bronchial_smooth_muscle_cell	2	AACTGGTCATTAGCCA	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr2	166069158	166069158	T	C	bronchial_smooth_muscle_cell	2	TGAGGGAGTCTGGTCG	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr2	166069158	166069158	T	C	bronchial_smooth_muscle_cell	2	AACTCAGAGTGTCCCG	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr3	89167968	89167968	A	G	alveolar_macrophage	2	CACAGGCCAAAGTGCG	classical_monocyte	A	4
-1-M-62	10X_P5_13	chr3	89167968	89167968	A	G	alveolar_macrophage	2	TGGCGCAAGGGCACTA	classical_monocyte	A	3
-1-M-62	10X_P5_13	chr3	89167968	89167968	A	G	alveolar_macrophage	2	TCATTTGCAGTATCTG	classical_monocyte	A	7
-1-M-62	10X_P5_13	chr3	89167968	89167968	A	G	alveolar_macrophage	2	CCACGGAAGCCACGCT	classical_monocyte	A	3
-1-M-62	10X_P5_13	chr3	89167968	89167968	A	G	alveolar_macrophage	2	ACTGCTCGTTCCACAA	classical_monocyte	A	2
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	ACGCCGAGTGTTCGAT	classical_monocyte	T	5
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	AAGACCTCATACTACG	classical_monocyte	T	15
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	GTTACAGAGCGTTGCC	classical_monocyte	T	7
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	CACACAAAGATGTCGG	classical_monocyte	T	6
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	CTGCTGTAGAAGGCCT	classical_monocyte	T	4
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	GAATAAGTCAGCACAT	classical_monocyte	T	3
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	ACTGCTCGTTCCACAA	classical_monocyte	T	7
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	GTCGTAACATGCCTTC	classical_monocyte	T	4
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	TCTATTGTCCAGTAGT	classical_monocyte	T	4
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	TGCTACCAGCATCATC	classical_monocyte	T	8
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	GACTAACTCTAGAGTC	classical_monocyte	T	5
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	GTCATTTTCTTGTTTG	classical_monocyte	T	6
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	CTAGCCTGTAAGGGAA	classical_monocyte	T	6
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	CTCGGGAGTACGAAAT	classical_monocyte	C	4
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	GACGTGCCAGTCGTGC	classical_monocyte	T	7
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	AGCATACAGTCATCCA	classical_monocyte	T	5
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	TGACTAGGTTAGAACA	classical_monocyte	T	3
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	CAGCCGACATTCACTT	classical_monocyte	T	5
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	TAGTGGTCAATGCCAT	classical_monocyte	T	3
-1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	CAACCTCTCATGTCCC	classical_monocyte	T	2
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	AGCATACAGTCATCCA	classical_monocyte	T	4
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	GTCGTAACATGCCTTC	classical_monocyte	T	5
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	AAGACCTCATACTACG	classical_monocyte	T	8
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	CAGCCGACATTCACTT	classical_monocyte	T	11
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	ACGCCGAGTGTTCGAT	classical_monocyte	T	6
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	TAGTGGTCAATGCCAT	classical_monocyte	T	2
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	TGACTAGGTTAGAACA	classical_monocyte	T	6
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	CACACAAAGATGTCGG	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	GTCATTTTCTTGTTTG	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	TCTATTGTCCAGTAGT	classical_monocyte	T	4
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	CTGCTGTAGAAGGCCT	classical_monocyte	T	3
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	CAACCTCTCATGTCCC	classical_monocyte	T	4
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	GACTAACTCTAGAGTC	classical_monocyte	T	3
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	GTTACAGAGCGTTGCC	classical_monocyte	T	3
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	ACTGCTCGTTCCACAA	classical_monocyte	T	4
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	GACGTGCCAGTCGTGC	classical_monocyte	T	5
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	CTAGCCTGTAAGGGAA	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	GAATAAGTCAGCACAT	classical_monocyte	T	3
-1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	CTCGGGAGTACGAAAT	classical_monocyte	T	3
-1-M-62	10X_P5_13	chr4	11158870	11158870	A	G	fibroblast_of_lung	2	GGTGCGTTCCGTTGCT	classical_monocyte	A	3
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	TGTGTTTGTCTTTCAT	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	CAGCTAAAGTCGTACT	classical_monocyte	T	5
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	GTCGTAACATGCCTTC	classical_monocyte	T	5
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	GGTGTTAGTGTTTGTG	classical_monocyte	T	4
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	GGCTCGATCTATCCCG	classical_monocyte	T	3
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	CCATTCGCAATGGACG	classical_monocyte	T	3
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	GTCATTTTCTTGTTTG	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	TGGACGCAGTATGACA	classical_monocyte	T	2
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	AACTGGTAGAGCCCAA	classical_monocyte	T	2
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	AAGTCTGGTACGAAAT	classical_monocyte	T	5
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	ATCTGCCCACAGGCCT	classical_monocyte	T	3
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	TCAGCAACATGCCCGA	classical_monocyte	T	2
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	CAAGAAAGTCTCACCT	classical_monocyte	T	5
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	CGTAGGCCACAGGCCT	classical_monocyte	T	5
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	CCTACCACATCCGGGT	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	TCAGGTAAGCCGTCGT	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	AACGTTGTCCTATGTT	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr5	32149620	32149620	T	C	classical_monocyte	2	ACTTGTTTCCGTTGTC	classical_monocyte	T	3
-1-M-62	10X_P5_13	chr5	32149620	32149620	T	C	classical_monocyte	2	CTAGCCTGTAAGGGAA	classical_monocyte	T	3
-1-M-62	10X_P5_13	chr5	32149620	32149620	T	C	classical_monocyte	2	CACCTTGTCCGCATCT	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr5	32149620	32149620	T	C	classical_monocyte	2	CGGAGTCTCACCAGGC	classical_monocyte	T	6
-1-M-62	10X_P5_13	chr5	32149620	32149620	T	C	classical_monocyte	2	GGCCGATTCACATAGC	classical_monocyte	C	3
-1-M-62	10X_P5_13	chr5	32149620	32149620	T	C	classical_monocyte	2	CACCACTCAGGACCCT	classical_monocyte	T	2
-1-M-62	10X_P5_13	chr5	32149620	32149620	T	C	classical_monocyte	2	GCTCTGTTCCTCAATT	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr5	32149620	32149620	T	C	classical_monocyte	2	GCTTCCAGTTTGCATG	classical_monocyte	C	3
-1-M-62	10X_P5_13	chr5	32149620	32149620	T	C	classical_monocyte	2	GTCACAACAGTAACGG	classical_monocyte	T	2
-1-M-62	10X_P5_13	chr5	32149620	32149620	T	C	classical_monocyte	2	AACGTTGTCCTATGTT	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr5	32149620	32149620	T	C	classical_monocyte	2	CCCATACGTGACCAAG	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr5	111455117	111455117	T	C	adventitial_cell	2	AAGTCTGGTACGAAAT	classical_monocyte	T	14
-1-M-62	10X_P5_13	chr6	38577211	38577211	A	G	fibroblast_of_lung	3	AGTTGGTTCCGTCAAA	classical_monocyte	A	4
-1-M-62	10X_P5_13	chr6	38577211	38577211	A	G	fibroblast_of_lung	3	GGATTACCATACAGCT	classical_monocyte	A	5
-1-M-62	10X_P5_13	chr6	38577211	38577211	A	G	fibroblast_of_lung	3	TGATTTCGTCGGCTCA	classical_monocyte	A	3
-1-M-62	10X_P5_13	chr6	38577211	38577211	A	G	fibroblast_of_lung	3	GTCATTTTCTTGTTTG	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr6	38577211	38577211	A	G	fibroblast_of_lung	3	CACCTTGTCCGCATCT	classical_monocyte	A	5
-1-M-62	10X_P5_13	chr6	38577211	38577211	A	G	fibroblast_of_lung	3	TGGCGCAAGGGCACTA	classical_monocyte	A	4
-1-M-62	10X_P5_13	chr6	38577211	38577211	A	G	fibroblast_of_lung	3	AGCATACAGTCATCCA	classical_monocyte	A	4
-1-M-62	10X_P5_13	chr6	38577211	38577211	A	G	fibroblast_of_lung	3	TGGGCGTGTTCTGTTT	classical_monocyte	A	7
-1-M-62	10X_P5_13	chr6	38577211	38577211	A	G	fibroblast_of_lung	3	AAGTCTGGTACGAAAT	classical_monocyte	A	3
-1-M-62	10X_P5_13	chr6	38577211	38577211	A	G	fibroblast_of_lung	3	ACGCCGAGTGTTCGAT	classical_monocyte	A	7
-1-M-62	10X_P5_13	chr6	38577211	38577211	A	G	fibroblast_of_lung	3	CCTTACGAGACGACGT	classical_monocyte	A	2
-1-M-62	10X_P5_13	chr6	38577211	38577211	A	G	fibroblast_of_lung	3	AGAATAGTCTCGCTTG	classical_monocyte	A	6
-1-M-62	10X_P5_13	chr6	38577211	38577211	A	G	fibroblast_of_lung	3	TAGTTGGCACTTAAGC	classical_monocyte	A	3
-1-M-62	10X_P5_13	chr6	38577211	38577211	A	G	fibroblast_of_lung	3	GCATGATCACGGCTAC	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr6	38577211	38577211	A	G	fibroblast_of_lung	3	CCCTCCTGTCGCATCG	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr6	39202784	39202784	T	C	intermediate_monocyte	2	AAACCTGAGCAACGGT	classical_monocyte	T	10
-1-M-62	10X_P5_13	chr6	39202784	39202784	T	C	intermediate_monocyte	2	GTTACAGAGCGTTGCC	classical_monocyte	T	6
-1-M-62	10X_P5_13	chr6	39202784	39202784	T	C	intermediate_monocyte	2	TGAGAGGGTAGGACAC	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr6	39202784	39202784	T	C	intermediate_monocyte	2	GTCATTTTCTTGTTTG	classical_monocyte	T	2
-1-M-62	10X_P5_13	chr6	39202784	39202784	T	C	intermediate_monocyte	2	AGCGTATCAAAGCAAT	classical_monocyte	T	7
-1-M-62	10X_P5_13	chr6	39202784	39202784	T	C	intermediate_monocyte	2	CGCGGTAAGGAGTTGC	classical_monocyte	T	7
-1-M-62	10X_P5_13	chr6	39202784	39202784	T	C	intermediate_monocyte	2	CGTAGGCCACAGGCCT	classical_monocyte	T	7
-1-M-62	10X_P5_13	chr6	39202784	39202784	T	C	intermediate_monocyte	2	TCGGGACTCATCGGAT	classical_monocyte	T	2
-1-M-62	10X_P5_13	chr6	39202784	39202784	T	C	intermediate_monocyte	2	CATTATCTCCCATTTA	classical_monocyte	T	9
-1-M-62	10X_P5_13	chr6	39202784	39202784	T	C	intermediate_monocyte	2	AAAGTAGGTCATTAGC	classical_monocyte	T	6
-1-M-62	10X_P5_13	chr6	39202784	39202784	T	C	intermediate_monocyte	2	CTTAGGACACCCATGG	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr6	39202784	39202784	T	C	intermediate_monocyte	2	AACTGGTCATTAGCCA	classical_monocyte	T	8
-1-M-62	10X_P5_13	chr6	39202784	39202784	T	C	intermediate_monocyte	2	AGAATAGTCTCGCTTG	classical_monocyte	T	5
-1-M-62	10X_P5_13	chr6	39202784	39202784	T	C	intermediate_monocyte	2	TGGCGCAAGGGCACTA	classical_monocyte	T	3
-1-M-62	10X_P5_13	chr6	39202784	39202784	T	C	intermediate_monocyte	2	TTATGCTAGGTGCTAG	classical_monocyte	T	5
-1-M-62	10X_P5_13	chr6	39202784	39202784	T	C	intermediate_monocyte	2	CAGCTGGCACGCTTTC	classical_monocyte	T	3
-1-M-62	10X_P5_13	chr6	39202784	39202784	T	C	intermediate_monocyte	2	TTCGGTCTCCAGATCA	classical_monocyte	T	2
-1-M-62	10X_P5_13	chr6	39202784	39202784	T	C	intermediate_monocyte	2	AGTTGGTTCCGTCAAA	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr6	39202784	39202784	T	C	intermediate_monocyte	2	TCTATTGTCCAGTAGT	classical_monocyte	T	5
-1-M-62	10X_P5_13	chr6	39202784	39202784	T	C	intermediate_monocyte	2	TGGTTAGAGAACAACT	classical_monocyte	T	2
-1-M-62	10X_P5_13	chr6	48079830	48079830	T	C	bronchial_smooth_muscle_cell	4	TCATTTGCAGTATCTG	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr6	48079830	48079830	T	C	bronchial_smooth_muscle_cell	4	AACGTTGTCCTATGTT	classical_monocyte	T	5
-1-M-62	10X_P5_13	chr6	48079830	48079830	T	C	bronchial_smooth_muscle_cell	4	CTAAGACGTCAGTGGA	classical_monocyte	T	4
-1-M-62	10X_P5_13	chr6	48079830	48079830	T	C	bronchial_smooth_muscle_cell	4	CATTATCCACACTGCG	classical_monocyte	T	6
-1-M-62	10X_P5_13	chr6	48079830	48079830	T	C	bronchial_smooth_muscle_cell	4	GCGCGATTCTGCGGCA	classical_monocyte	T	2
-1-M-62	10X_P5_13	chr6	48079830	48079830	T	C	bronchial_smooth_muscle_cell	4	TGAGCATCATTCCTCG	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr6	83343347	83343347	T	G	alveolar_macrophage	3	GTCACAAAGTGGAGTC	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr6	83343347	83343347	T	G	alveolar_macrophage	3	ACTTGTTTCTGCGACG	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr6	83343347	83343347	T	G	alveolar_macrophage	3	GCGCAGTCAAGCCATT	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr6	83343347	83343347	T	G	alveolar_macrophage	3	CTTAGGATCGGTCCGA	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr6	83343347	83343347	T	G	alveolar_macrophage	3	TAGTTGGCACTTAAGC	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr6	83343347	83343347	T	G	alveolar_macrophage	3	AAGTCTGGTACGAAAT	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr6	83343347	83343347	T	G	alveolar_macrophage	3	TTTGGTTAGCAATCTC	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr6	83343347	83343347	T	G	alveolar_macrophage	3	GTAACTGTCCTGCCAT	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr6	128968038	128968038	T	A	classical_monocyte	2	GATTCAGAGATATGGT	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr6	128968038	128968038	T	A	classical_monocyte	2	ACATCAGGTGACGCCT	classical_monocyte	A	3
-1-M-62	10X_P5_13	chr6	128968038	128968038	T	A	classical_monocyte	2	TGGGCGTGTTCTGTTT	classical_monocyte	T	2
-1-M-62	10X_P5_13	chr6	128968038	128968038	T	A	classical_monocyte	2	ACGGAGAAGTTAAGTG	classical_monocyte	T	2
-1-M-62	10X_P5_13	chr6	128968038	128968038	T	A	classical_monocyte	2	AGGTCATTCGACCAGC	classical_monocyte	T	2
-1-M-62	10X_P5_13	chr7	28363106	28363106	G	A	bronchial_smooth_muscle_cell	2	ACTTGTTTCCGTTGTC	classical_monocyte	G	9
-1-M-62	10X_P5_13	chr7	28363106	28363106	G	A	bronchial_smooth_muscle_cell	2	GTATCTTGTCATATGC	classical_monocyte	G	1
-1-M-62	10X_P5_13	chr7	28363106	28363106	G	A	bronchial_smooth_muscle_cell	2	CACAGGCCAAAGTGCG	classical_monocyte	G	1
-1-M-62	10X_P5_13	chr7	28363106	28363106	G	A	bronchial_smooth_muscle_cell	2	TTATGCTAGGTGCTAG	classical_monocyte	G	4
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	AAGGAGCAGCCACCTG	classical_monocyte	A	15
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	AGCATACAGTCATCCA	classical_monocyte	A	3
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	CTAAGACGTCAGTGGA	classical_monocyte	A	11
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	TGGCGCAAGGGCACTA	classical_monocyte	A	11
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	AATCCAGCAATGGAGC	classical_monocyte	A	7
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	CATGACAGTTCATGGT	classical_monocyte	A	9
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	CCTTACGAGACGACGT	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	CTGCTGTAGAAGGCCT	classical_monocyte	A	11
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	GTCACAACAGTAACGG	classical_monocyte	A	8
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	TTCGGTCGTAAGTAGT	classical_monocyte	A	4
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	ACACCAAAGCCCGAAA	classical_monocyte	A	3
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	ACTGCTCGTTCCACAA	classical_monocyte	A	5
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	AGGTCATGTTAAGACA	classical_monocyte	A	2
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	GTAACTGTCCTGCCAT	classical_monocyte	A	4
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	ACTTGTTGTCTAGAGG	classical_monocyte	A	4
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	CGGTTAAAGTAGGTGC	classical_monocyte	A	3
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	GACGTGCCAGTCGTGC	classical_monocyte	A	3
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	AAGGAGCAGGTGGGTT	classical_monocyte	A	6
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	ATTCTACGTATATGGA	classical_monocyte	A	6
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	CACACAAAGATGTCGG	classical_monocyte	A	5
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	TCCACACTCTACGAGT	classical_monocyte	A	2
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	TTGGCAATCCGAAGAG	classical_monocyte	A	5
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	AAGTCTGGTACGAAAT	classical_monocyte	A	2
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	CGCTGGAGTCGGCTCA	classical_monocyte	A	4
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	CTGAAGTCAATGGACG	classical_monocyte	A	5
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	TACCTTAGTGTTGAGG	classical_monocyte	A	4
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	CTACATTTCACGACTA	classical_monocyte	A	4
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	GTGTGCGAGGTTCCTA	classical_monocyte	A	5
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	GTAACGTTCTGTTGAG	classical_monocyte	A	5
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	GTCACAAGTCGCTTTC	classical_monocyte	A	3
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	TCAGCAATCGTCTGAA	classical_monocyte	A	3
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	ACAGCTACAAGCCCAC	classical_monocyte	A	2
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	CCTCTGAGTCGAGATG	classical_monocyte	A	5
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	CGAGAAGCAATCTACG	classical_monocyte	A	2
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	ACTTGTTTCCGTTGTC	classical_monocyte	A	3
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	TCATTTGCAGTATCTG	classical_monocyte	A	3
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	TAAGAGAAGCATGGCA	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	GTCACAAAGTGGAGTC	classical_monocyte	A	2
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	CCTACCACATCCGCGA	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	TCTGGAAAGCTCCTCT	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	GATTCAGAGATATGGT	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr7	126790795	126790795	T	C	bronchial_smooth_muscle_cell	5	CGAGAAGCAATCTACG	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr7	126790795	126790795	T	C	bronchial_smooth_muscle_cell	5	TGGTTAGAGAACAACT	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr7	126790795	126790795	T	C	bronchial_smooth_muscle_cell	5	CGACCTTGTACTCAAC	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr7	126790795	126790795	T	C	bronchial_smooth_muscle_cell	5	GTGAAGGGTATTCGTG	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr7	126790795	126790795	T	C	bronchial_smooth_muscle_cell	5	AACTCAGAGTGTCCCG	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr7	126790795	126790795	T	C	bronchial_smooth_muscle_cell	5	AACGTTGTCCTATGTT	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr7	126790795	126790795	T	C	bronchial_smooth_muscle_cell	5	TGAGCATCATTCCTCG	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr7	126790795	126790795	T	C	bronchial_smooth_muscle_cell	5	TGTGTTTGTCTTTCAT	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr7	126790795	126790795	T	C	bronchial_smooth_muscle_cell	5	AAGGCAGAGGCAGTCA	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr7	126790795	126790795	T	C	bronchial_smooth_muscle_cell	5	CGTCACTGTTGGGACA	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr7	126790795	126790795	T	C	bronchial_smooth_muscle_cell	5	ACGAGCCGTACAGACG	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr7	126790795	126790795	T	C	bronchial_smooth_muscle_cell	5	ACATCAGGTGACGCCT	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr7	126790795	126790795	T	C	bronchial_smooth_muscle_cell	5	TGACGGCGTAGGCATG	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr8	25239196	25239196	T	C	fibroblast_of_lung	2	ACGGAGAAGTTAAGTG	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr8	25239196	25239196	T	C	fibroblast_of_lung	2	ACTTACTCATGGGACA	classical_monocyte	T	5
-1-M-62	10X_P5_13	chr8	25239196	25239196	T	C	fibroblast_of_lung	2	CACACAAAGATGTCGG	classical_monocyte	T	4
-1-M-62	10X_P5_13	chr8	25239196	25239196	T	C	fibroblast_of_lung	2	CGTTCTGCAATGAATG	classical_monocyte	T	2
-1-M-62	10X_P5_13	chr8	25239196	25239196	T	C	fibroblast_of_lung	2	CTAAGACGTCAGTGGA	classical_monocyte	T	2
-1-M-62	10X_P5_13	chr8	25239196	25239196	T	C	fibroblast_of_lung	2	TTCGGTCTCCAGATCA	classical_monocyte	T	3
-1-M-62	10X_P5_13	chr8	25239196	25239196	T	C	fibroblast_of_lung	2	GTCATTTTCTTGTTTG	classical_monocyte	T	2
-1-M-62	10X_P5_13	chr8	25239196	25239196	T	C	fibroblast_of_lung	2	AACTCAGAGTGTCCCG	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr8	25239196	25239196	T	C	fibroblast_of_lung	2	CAGCCGATCACCTTAT	classical_monocyte	T	3
-1-M-62	10X_P5_13	chr8	25239196	25239196	T	C	fibroblast_of_lung	2	CAGCTGGCACGCTTTC	classical_monocyte	T	3
-1-M-62	10X_P5_13	chr8	25239196	25239196	T	C	fibroblast_of_lung	2	TTCGAAGGTAGCACGA	classical_monocyte	T	2
-1-M-62	10X_P5_13	chr8	25239285	25239285	T	C	fibroblast_of_lung	2	TTGACTTAGAGGTACC	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr8	25239285	25239285	T	C	fibroblast_of_lung	2	TTCGGTCTCCAGATCA	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr8	25239285	25239285	T	C	fibroblast_of_lung	2	TTCGAAGGTAGCACGA	classical_monocyte	T	5
-1-M-62	10X_P5_13	chr8	25239285	25239285	T	C	fibroblast_of_lung	2	CAGCCGATCACCTTAT	classical_monocyte	T	4
-1-M-62	10X_P5_13	chr8	25239285	25239285	T	C	fibroblast_of_lung	2	CAGCTGGCACGCTTTC	classical_monocyte	T	7
-1-M-62	10X_P5_13	chr8	25239285	25239285	T	C	fibroblast_of_lung	2	TACGGTATCATGTCTT	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr8	25239285	25239285	T	C	fibroblast_of_lung	2	GTCATTTTCTTGTTTG	classical_monocyte	T	2
-1-M-62	10X_P5_13	chr8	40993346	40993346	A	T	bronchial_smooth_muscle_cell	3	TGGACGCAGTATGACA	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr8	40993346	40993346	A	T	bronchial_smooth_muscle_cell	3	ATCCACCTCACAACGT	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr8	40993346	40993346	A	T	bronchial_smooth_muscle_cell	3	GATGAAACAGCCACCA	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr8	40993346	40993346	A	T	bronchial_smooth_muscle_cell	3	ATGGGAGCACGTCTCT	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr8	40993346	40993346	A	T	bronchial_smooth_muscle_cell	3	TTTGGTTAGCAATCTC	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr8	40993346	40993346	A	T	bronchial_smooth_muscle_cell	3	AGGTCATTCGACCAGC	classical_monocyte	A	1
-1-M-62	10X_P5_13	chr8	70475092	70475092	T	C	bronchial_smooth_muscle_cell	2	CGACCTTGTACTCAAC	classical_monocyte	T	3
-1-M-62	10X_P5_13	chr8	70475092	70475092	T	C	bronchial_smooth_muscle_cell	2	CGCTGGAGTCGGCTCA	classical_monocyte	T	6
-1-M-62	10X_P5_13	chr8	70475092	70475092	T	C	bronchial_smooth_muscle_cell	2	GGATGTTGTAAGTGGC	classical_monocyte	T	3
-1-M-62	10X_P5_13	chr8	70475092	70475092	T	C	bronchial_smooth_muscle_cell	2	AAGGAGCCACTGTGTA	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr8	70475092	70475092	T	C	bronchial_smooth_muscle_cell	2	TCTATTGTCCAGTAGT	classical_monocyte	T	3
-1-M-62	10X_P5_13	chr8	70475092	70475092	T	C	bronchial_smooth_muscle_cell	2	TCATTTGCAGTATCTG	classical_monocyte	T	3
-1-M-62	10X_P5_13	chr8	123152192	123152192	T	C	fibroblast_of_lung	3	CGGTTAAAGTAGGTGC	classical_monocyte	T	1
-1-M-62	10X_P5_13	chr8	123152211	123152211	T	C	fibroblast_of_lung	12	CGGTTAAAGTAGGTGC	classical_monocyte	T	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	TAGTGGTCAATGCCAT	classical_monocyte	C	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	CTACATTTCACGACTA	classical_monocyte	C	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	CTGAAGTCAATGGACG	classical_monocyte	C	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	CGTAGGCCACAGGCCT	classical_monocyte	C	2
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	TAAGCGTTCGTTTGCC	classical_monocyte	C	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	ATCACGAGTCTACCTC	classical_monocyte	C	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	GTCATTTTCTTGTTTG	classical_monocyte	C	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	CAGCCGATCACCTTAT	classical_monocyte	T	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	GCTCTGTTCCTCAATT	classical_monocyte	C	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	TACACGACAGCGTTCG	classical_monocyte	C	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	GACGTGCCAGTCGTGC	classical_monocyte	C	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	AGAATAGTCTCGCTTG	classical_monocyte	C	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	GTATCTTGTCATATGC	classical_monocyte	C	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	CAGCTGGCACGCTTTC	classical_monocyte	C	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	CGGTTAAAGTAGGTGC	classical_monocyte	T	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	TGGGCGTGTTCTGTTT	classical_monocyte	C	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	TACGGTATCATGTCTT	classical_monocyte	C	1
-1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	TCTATTGTCCAGTAGT	classical_monocyte	T	1
+#CHROM	Start	End	REF	ALT_expected	CB	Cell_type_observed	Base_observed	Num_reads
+chr1	80715420	80715420	T	C	ACGCCGAAGTTAGGTA	classical_monocyte	T	1
+chr1	80715420	80715420	T	C	CAAGAAAGTCTCACCT	classical_monocyte	T	5
+chr1	80715420	80715420	T	C	AGGTCATGTTAAGACA	classical_monocyte	T	1
+chr1	80715420	80715420	T	C	TGACTAGGTTAGAACA	classical_monocyte	T	4
+chr1	80715420	80715420	T	C	GATGAAACAGCCACCA	classical_monocyte	T	5
+chr1	80715420	80715420	T	C	TCAGCAACATGCCCGA	classical_monocyte	T	1
+chr1	80715420	80715420	T	C	CACCACTCAGGACCCT	classical_monocyte	T	1
+chr1	80715420	80715420	T	C	AAGTCTGGTACGAAAT	classical_monocyte	T	7
+chr1	80715420	80715420	T	C	CCTCTGAGTCGAGATG	classical_monocyte	T	4
+chr1	80715420	80715420	T	C	CGAGAAGCAATCTACG	classical_monocyte	T	2
+chr1	80715420	80715420	T	C	GTCCTCAAGCGGCTTC	classical_monocyte	T	2
+chr1	80715420	80715420	T	C	AAAGTAGGTCATTAGC	classical_monocyte	T	1
+chr1	80715420	80715420	T	C	GCTTCCAGTTTGCATG	classical_monocyte	T	1
+chr1	80715420	80715420	T	C	TCAGCAATCGTCTGAA	classical_monocyte	T	1
+chr11	32297143	32297143	G	A	TGTGTTTAGATAGTCA	classical_monocyte	G	2
+chr11	32297143	32297143	G	A	CAGCCGACATTCACTT	classical_monocyte	G	1
+chr11	32297143	32297143	G	A	TTGACTTAGAGGTACC	classical_monocyte	G	2
+chr11	32297143	32297143	G	A	ACGGAGACATCAGTAC	classical_monocyte	G	4
+chr11	32297143	32297143	G	A	ATGGGAGCACGTCTCT	classical_monocyte	G	1
+chr11	32297143	32297143	G	A	TTTGGTTAGCAATCTC	classical_monocyte	G	1
+chr11	32297143	32297143	G	A	GGATTACCATACAGCT	classical_monocyte	G	2
+chr11	32297143	32297143	G	A	ACAGCTACAAGCCCAC	classical_monocyte	G	1
+chr11	32297143	32297143	G	A	ATAACGCAGAGCTGCA	classical_monocyte	G	2
+chr11	32297143	32297143	G	A	GCAATCACAGCTGTGC	classical_monocyte	G	2
+chr11	32297143	32297143	G	A	GTATCTTGTGTAATGA	classical_monocyte	G	1
+chr11	32297143	32297143	G	A	TCTCTAACATTACCTT	classical_monocyte	G	1
+chr11	32297143	32297143	G	A	CAAGAAAGTCTCACCT	classical_monocyte	G	1
+chr11	32297143	32297143	G	A	TGGACGCAGTATGACA	classical_monocyte	G	1
+chr11	32297143	32297143	G	A	CCTTACGAGACGACGT	classical_monocyte	G	1
+chr11	32297143	32297143	G	A	TTGTAGGGTTGTCTTT	classical_monocyte	G	1
+chr11	32297143	32297143	G	A	AAAGTAGGTCATTAGC	classical_monocyte	G	1
+chr11	32297143	32297143	G	A	AACGTTGTCCTATGTT	classical_monocyte	G	1
+chr11	32297143	32297143	G	A	GGCTCGATCCCTGACT	classical_monocyte	G	1
+chr11	32297143	32297143	G	A	AAGACCTCATACTACG	classical_monocyte	G	1
+chr11	32297143	32297143	G	A	TCGCGAGGTGCAACGA	classical_monocyte	G	1
+chr11	32297143	32297143	G	A	GAACGGAGTTAAGATG	classical_monocyte	G	1
+chr11	102523273	102523273	C	G	CGCGGTAAGGAGTTGC	classical_monocyte	C	3
+chr11	102523273	102523273	C	G	GCATGATCACGGCTAC	classical_monocyte	C	3
+chr11	102523273	102523273	C	G	CCTAAAGAGAGACTTA	classical_monocyte	C	3
+chr11	102523273	102523273	C	G	CGCTGGAGTCGGCTCA	classical_monocyte	C	4
+chr11	102523273	102523273	C	G	GGACGTCGTAAGGGCT	classical_monocyte	G	2
+chr11	102523273	102523273	C	G	CGATCGGAGACCTAGG	classical_monocyte	C	1
+chr11	102523273	102523273	C	G	GGATGTTGTAAGTGGC	classical_monocyte	C	2
+chr11	102523273	102523273	C	G	TTGACTTAGAGGTACC	classical_monocyte	G	3
+chr11	102523273	102523273	C	G	ATCCACCTCACAACGT	classical_monocyte	C	1
+chr11	102523273	102523273	C	G	TCAGCAACATGCCCGA	classical_monocyte	C	1
+chr11	102523273	102523273	C	G	TACCTTAGTGTTGAGG	classical_monocyte	C	1
+chr11	102523273	102523273	C	G	TGAGAGGGTAGGACAC	classical_monocyte	C	1
+chr12	84971731	84971731	A	G	ACTTGTTTCCGTTGTC	classical_monocyte	A	1
+chr12	84971731	84971731	A	G	TAGTTGGCACTTAAGC	classical_monocyte	A	4
+chr12	84971731	84971731	A	G	TGGCGCAAGGGCACTA	classical_monocyte	A	1
+chr12	84971731	84971731	A	G	AACTGGTAGAGCCCAA	classical_monocyte	A	5
+chr12	84971731	84971731	A	G	ACGCCGAAGTTAGGTA	classical_monocyte	A	2
+chr12	84971731	84971731	A	G	GTGTGCGAGGTTCCTA	classical_monocyte	A	1
+chr12	84971731	84971731	A	G	CGACCTTGTACTCAAC	classical_monocyte	A	1
+chr12	84971731	84971731	A	G	CACACAAAGATGTCGG	classical_monocyte	A	2
+chr12	84971731	84971731	A	G	ACACCAAAGCCCGAAA	classical_monocyte	A	5
+chr12	84971731	84971731	A	G	CCTTACGAGACGACGT	classical_monocyte	A	3
+chr12	84971731	84971731	A	G	AACTCAGAGTGTCCCG	classical_monocyte	A	3
+chr12	84971731	84971731	A	G	TCAGGTAAGCCGTCGT	classical_monocyte	A	4
+chr12	84971731	84971731	A	G	CCACGGAAGCCACGCT	classical_monocyte	A	3
+chr12	84971731	84971731	A	G	GCAATCACAGCTGTGC	classical_monocyte	A	5
+chr12	84971731	84971731	A	G	TCTATTGTCCAGTAGT	classical_monocyte	A	3
+chr12	84971731	84971731	A	G	TTCCCAGGTCCAGTTA	classical_monocyte	A	3
+chr12	84971731	84971731	A	G	AACTGGTCATTAGCCA	classical_monocyte	A	2
+chr12	84971731	84971731	A	G	ATCTGCCCACAGGCCT	classical_monocyte	A	4
+chr12	84971731	84971731	A	G	GTCATTTAGAAACGCC	classical_monocyte	A	2
+chr12	84971731	84971731	A	G	CGCGGTAAGGAGTTGC	classical_monocyte	A	8
+chr12	84971731	84971731	A	G	CCTCTGAAGGTACTCT	classical_monocyte	A	1
+chr12	84971731	84971731	A	G	GAGTCCGAGCGGATCA	classical_monocyte	A	1
+chr12	84971731	84971731	A	G	GGATGTTGTAAGTGGC	classical_monocyte	A	2
+chr12	84971731	84971731	A	G	TTCGAAGGTAGCACGA	classical_monocyte	A	2
+chr12	84971731	84971731	A	G	TTGGCAATCCGAAGAG	classical_monocyte	A	1
+chr12	84971731	84971731	A	G	GTCATTTTCTTGTTTG	classical_monocyte	A	1
+chr12	85321194	85321194	T	A	GGGCATCAGATCTGCT	classical_monocyte	T	1
+chr12	85321194	85321194	T	A	TAAGAGAAGCATGGCA	classical_monocyte	T	2
+chr12	85321194	85321194	T	A	GCACTCTCACTCGACG	classical_monocyte	T	3
+chr12	85321194	85321194	T	A	CGTAGGCCACAGGCCT	classical_monocyte	T	1
+chr12	85321194	85321194	T	A	ACAGCTACAAGCCCAC	classical_monocyte	T	1
+chr13	101759539	101759539	C	T	CGAGAAGCAATCTACG	classical_monocyte	C	1
+chr13	101759539	101759539	C	T	ACGGAGACATCAGTAC	classical_monocyte	C	14
+chr13	101759539	101759539	C	T	GCACTCTCACTCGACG	classical_monocyte	C	2
+chr13	101759539	101759539	C	T	ACACTGACATTCACTT	classical_monocyte	C	5
+chr13	101759539	101759539	C	T	CCTACCACATCCGGGT	classical_monocyte	C	4
+chr13	101759539	101759539	C	T	GCGCAGTCAAGCCATT	classical_monocyte	C	8
+chr13	101759539	101759539	C	T	GCTTCCAGTTTGCATG	classical_monocyte	C	5
+chr13	101759539	101759539	C	T	TCAATCTAGTGCGTGA	classical_monocyte	C	7
+chr13	101759539	101759539	C	T	TGACGGCTCAGGTTCA	classical_monocyte	C	3
+chr13	101759539	101759539	C	T	GGACGTCGTAAGGGCT	classical_monocyte	C	3
+chr13	101759539	101759539	C	T	ATGGGAGCACGTCTCT	classical_monocyte	C	3
+chr13	101759539	101759539	C	T	GCAATCACAGCTGTGC	classical_monocyte	C	1
+chr13	101759539	101759539	C	T	TTCGGTCTCCAGATCA	classical_monocyte	C	7
+chr13	101759539	101759539	C	T	AGCGTATCAAAGCAAT	classical_monocyte	C	4
+chr13	101759539	101759539	C	T	TCATTTGCAGTTCCCT	classical_monocyte	C	4
+chr13	101759539	101759539	C	T	CGTCACTGTTGGGACA	classical_monocyte	C	6
+chr13	101759539	101759539	C	T	AGCATACAGTCATCCA	classical_monocyte	C	1
+chr13	101759539	101759539	C	T	GATTCAGAGATATGGT	classical_monocyte	C	1
+chr13	101759539	101759539	C	T	CACTCCAGTAGCGTCC	classical_monocyte	C	3
+chr13	101759539	101759539	C	T	CCGTACTAGAGGGCTT	classical_monocyte	C	1
+chr13	101759539	101759539	C	T	AAGTCTGGTACGAAAT	classical_monocyte	C	1
+chr13	101759539	101759539	C	T	CACAGTATCCGTTGTC	classical_monocyte	C	2
+chr13	101759539	101759539	C	T	ACATCAGGTGACGCCT	classical_monocyte	C	2
+chr13	101759539	101759539	C	T	CCTTACGAGACGACGT	classical_monocyte	C	1
+chr13	101759539	101759539	C	T	GTCACAAGTCGCTTTC	classical_monocyte	C	1
+chr14	75230502	75230502	A	G	CAAGAAAGTCTCACCT	classical_monocyte	A	1
+chr14	75230502	75230502	A	G	GGTGCGTTCCGTTGCT	classical_monocyte	A	1
+chr14	75230502	75230502	A	G	ACGGAGAAGTTAAGTG	classical_monocyte	A	1
+chr14	75230502	75230502	A	G	CCTACCACATCCGGGT	classical_monocyte	A	1
+chr14	75230502	75230502	A	G	GTGTGCGAGGTTCCTA	classical_monocyte	A	2
+chr14	75230502	75230502	A	G	ACACCGGTCCGTCATC	classical_monocyte	A	1
+chr14	75230502	75230502	A	G	AATCCAGCAATGGAGC	classical_monocyte	A	1
+chr14	75230502	75230502	A	G	TACGGTATCATGTCTT	classical_monocyte	A	1
+chr14	75230502	75230502	A	G	CAAGATCTCGAGCCCA	classical_monocyte	A	1
+chr14	75230502	75230502	A	G	AGGTCCGTCCTCGCAT	classical_monocyte	A	1
+chr14	75230502	75230502	A	G	CGGAGTCTCACCAGGC	classical_monocyte	A	1
+chr14	75230502	75230502	A	G	GTCATTTTCTTGTTTG	classical_monocyte	A	1
+chr14	75230502	75230502	A	G	TCATTTGCAGTTCCCT	classical_monocyte	A	1
+chr14	75230502	75230502	A	G	AGAATAGTCTCGCTTG	classical_monocyte	A	1
+chr14	75230502	75230502	A	G	TCAGCAACATGCCCGA	classical_monocyte	A	1
+chr14	75230502	75230502	A	G	ACGAGCCGTACAGACG	classical_monocyte	G	1
+chr14	75230502	75230502	A	G	GACTAACTCTAGAGTC	classical_monocyte	G	1
+chr14	75230502	75230502	A	G	GACGTGCCAGTCGTGC	classical_monocyte	A	1
+chr14	75230502	75230502	A	G	GGTGTTAGTGTTTGTG	classical_monocyte	G	1
+chr14	75230502	75230502	A	G	TAAACCGCATGGTCTA	classical_monocyte	A	1
+chr14	75230502	75230502	A	G	ACGAGCCGTACAGACG	classical_monocyte	A	1
+chr14	75230502	75230502	A	G	TGACGGCTCAGGTTCA	classical_monocyte	A	1
+chr14	75230502	75230502	A	G	CCCTCCTGTCGCATCG	classical_monocyte	A	1
+chr14	75230502	75230502	A	G	CACACAAAGATGTCGG	classical_monocyte	A	1
+chr14	75230502	75230502	A	G	TAAGAGAAGCATGGCA	classical_monocyte	A	1
+chr14	75230502	75230502	A	G	CGATGTACAAACGTGG	classical_monocyte	A	1
+chr14	75230502	75230502	A	G	TCAGCAATCGTCTGAA	classical_monocyte	A	1
+chr14	75230502	75230502	A	G	GCGCAGTCAAGCCATT	classical_monocyte	A	1
+chr14	75230502	75230502	A	G	AGCATACAGTCATCCA	classical_monocyte	A	2
+chr14	75230502	75230502	A	G	TTGGCAATCCGAAGAG	classical_monocyte	A	1
+chr14	75230502	75230502	A	G	CCACGGAAGCCACGCT	classical_monocyte	A	1
+chr14	75230502	75230502	A	G	CAGCCGACATTCACTT	classical_monocyte	A	1
+chr14	75230502	75230502	A	G	TGAGAGGGTAGGACAC	classical_monocyte	A	1
+chr14	75230502	75230502	A	G	CACAGGCCAAAGTGCG	classical_monocyte	A	1
+chr14	75230502	75230502	A	G	GTCGTAACATGCCTTC	classical_monocyte	G	1
+chr14	75230502	75230502	A	G	ATCACGAGTCTACCTC	classical_monocyte	A	1
+chr14	75230502	75230502	A	G	ATTCTACGTATATGGA	classical_monocyte	A	1
+chr14	75230502	75230502	A	G	TAGTGGTCAATGCCAT	classical_monocyte	A	1
+chr14	75230502	75230502	A	G	TAGTTGGCACTTAAGC	classical_monocyte	A	1
+chr14	75230502	75230502	A	G	GCGCGATGTTAGATGA	classical_monocyte	A	1
+chr14	75230502	75230502	A	G	GCTCTGTTCCTCAATT	classical_monocyte	A	1
+chr14	75230502	75230502	A	G	ATAACGCAGAGCTGCA	classical_monocyte	A	1
+chr14	75230502	75230502	A	G	TGTGTTTAGATAGTCA	classical_monocyte	A	1
+chr15	79907777	79907777	A	G	GGCAATTGTCCGTTAA	classical_monocyte	A	1
+chr15	79907777	79907777	A	G	CAGCTGGCACGCTTTC	classical_monocyte	A	1
+chr15	79907777	79907777	A	G	AAGACCTCATACTACG	classical_monocyte	A	1
+chr15	79907777	79907777	A	G	TCAATCTAGTGCGTGA	classical_monocyte	A	1
+chr15	79907777	79907777	A	G	GACTAACTCTAGAGTC	classical_monocyte	A	1
+chr15	79907777	79907777	A	G	GCATGTAGTCGAACAG	classical_monocyte	A	1
+chr15	79907777	79907777	A	G	ACTTGTTGTCTAGAGG	classical_monocyte	A	2
+chr15	79907777	79907777	A	G	CTCGGGAGTACGAAAT	classical_monocyte	A	1
+chr15	79907777	79907777	A	G	CCTACCACATCCGCGA	classical_monocyte	A	1
+chr15	79907777	79907777	A	G	CGAGAAGCAATCTACG	classical_monocyte	A	1
+chr15	79907777	79907777	A	G	CCGTACTAGAGGGCTT	classical_monocyte	A	1
+chr16	20691199	20691199	T	C	ACGCCGAAGTTAGGTA	classical_monocyte	T	9
+chr16	20691199	20691199	T	C	TCGCGAGGTGCAACGA	classical_monocyte	T	8
+chr16	20691199	20691199	T	C	AACGTTGTCCTATGTT	classical_monocyte	T	6
+chr16	20691199	20691199	T	C	TTCGAAGGTAGCACGA	classical_monocyte	T	1
+chr16	20691199	20691199	T	C	AGCATACAGTCATCCA	classical_monocyte	T	2
+chr16	20691199	20691199	T	C	GAGTCCGAGCGGATCA	classical_monocyte	T	2
+chr16	20691199	20691199	T	C	AGTGAGGAGCCACTAT	classical_monocyte	T	1
+chr17	5161224	5161224	A	G	CTAATGGAGCTGAAAT	classical_monocyte	A	1
+chr17	5161224	5161224	A	G	TGAGAGGGTAGGACAC	classical_monocyte	A	3
+chr17	5161224	5161224	A	G	CGAGAAGCAATCTACG	classical_monocyte	A	6
+chr17	5161224	5161224	A	G	TAAACCGCATGGTCTA	classical_monocyte	A	7
+chr17	5161224	5161224	A	G	AAGGCAGAGGCAGTCA	classical_monocyte	A	1
+chr17	5161224	5161224	A	G	TTATGCTAGGTGCTAG	classical_monocyte	A	4
+chr17	5161224	5161224	A	G	CATTATCTCCCATTTA	classical_monocyte	A	5
+chr17	5161224	5161224	A	G	ATCCACCTCACAACGT	classical_monocyte	A	3
+chr17	5161224	5161224	A	G	CGTGTAAGTACCGAGA	classical_monocyte	A	6
+chr17	5161224	5161224	A	G	CTCGGGAGTACGAAAT	classical_monocyte	A	3
+chr17	5161224	5161224	A	G	ATAACGCAGAGCTGCA	classical_monocyte	A	3
+chr17	5161224	5161224	A	G	GCGCAGTCATGGAATA	classical_monocyte	A	2
+chr17	34269091	34269091	A	G	ATAACGCAGAGCTGCA	classical_monocyte	A	3
+chr17	34269091	34269091	A	G	GGTGCGTTCCGTTGCT	classical_monocyte	A	2
+chr17	71461142	71461142	T	C	CCTACCACATCCGGGT	classical_monocyte	T	2
+chr17	71461142	71461142	T	C	AGGTCATGTTAAGACA	classical_monocyte	C	1
+chr17	71461142	71461142	T	C	GGATTACCATACAGCT	classical_monocyte	T	3
+chr17	71461142	71461142	T	C	GTGCGGTAGAGCCTAG	classical_monocyte	T	2
+chr17	71461142	71461142	T	C	ACATACGCACGAGGTA	classical_monocyte	T	3
+chr17	71461142	71461142	T	C	GTATCTTGTCATATGC	classical_monocyte	C	4
+chr17	71461142	71461142	T	C	AGGTCCGTCCTCGCAT	classical_monocyte	T	2
+chr17	71461142	71461142	T	C	GAAGCAGAGAAGGTTT	classical_monocyte	T	2
+chr17	71461142	71461142	T	C	CACCTTGTCCGCATCT	classical_monocyte	T	2
+chr17	71461142	71461142	T	C	AGGTCATGTTAAGACA	classical_monocyte	T	5
+chr17	71461142	71461142	T	C	AGGTCATTCGACCAGC	classical_monocyte	T	1
+chr17	71461142	71461142	T	C	CGTCACTGTTGGGACA	classical_monocyte	T	2
+chr17	71461142	71461142	T	C	GCATGTAGTCGAACAG	classical_monocyte	T	1
+chr17	71461142	71461142	T	C	GGACGTCGTAAGGGCT	classical_monocyte	T	1
+chr17	71461142	71461142	T	C	GGGCATCAGATCTGCT	classical_monocyte	T	1
+chr18	31691246	31691246	C	T	GAACGGAGTTAAGATG	classical_monocyte	C	5
+chr18	31691246	31691246	C	T	TAGTTGGCACTTAAGC	classical_monocyte	C	10
+chr18	31691246	31691246	C	T	AACTCAGAGTGTCCCG	classical_monocyte	C	3
+chr18	31691246	31691246	C	T	CACCTTGTCCGCATCT	classical_monocyte	C	3
+chr19	10587398	10587398	A	G	TACCTTAGTGTTGAGG	classical_monocyte	A	1
+chr19	23759900	23759900	T	C	CAGCCGATCACCTTAT	classical_monocyte	T	7
+chr19	23759900	23759900	T	C	GGTGCGTTCCGTTGCT	classical_monocyte	T	8
+chr19	23759900	23759900	T	C	CATGACAGTTCATGGT	classical_monocyte	T	7
+chr19	23759900	23759900	T	C	CCTAAAGAGAGACTTA	classical_monocyte	T	8
+chr19	23759900	23759900	T	C	TTGGCAATCCGAAGAG	classical_monocyte	T	12
+chr19	23759900	23759900	T	C	CCATTCGCAATGGACG	classical_monocyte	T	7
+chr19	23759900	23759900	T	C	TCTCTAACATTACCTT	classical_monocyte	T	7
+chr19	23759900	23759900	T	C	AGCATACAGTCATCCA	classical_monocyte	T	10
+chr19	23759900	23759900	T	C	GTATCTTGTCATATGC	classical_monocyte	T	1
+chr19	23759900	23759900	T	C	TACGGTATCATGTCTT	classical_monocyte	T	4
+chr19	23759900	23759900	T	C	ACGCCGAAGTTAGGTA	classical_monocyte	T	3
+chr19	23759900	23759900	T	C	ATAACGCAGAGCTGCA	classical_monocyte	T	12
+chr19	23759900	23759900	T	C	TTGACTTAGAGGTACC	classical_monocyte	T	7
+chr19	23759900	23759900	T	C	GCTCTGTTCCTCAATT	classical_monocyte	T	4
+chr19	23759900	23759900	T	C	GTCACAAGTCGCTTTC	classical_monocyte	T	6
+chr19	23759900	23759900	T	C	TGGCGCAAGGGCACTA	classical_monocyte	T	3
+chr19	23759900	23759900	T	C	AGTGAGGAGCCACTAT	classical_monocyte	T	5
+chr19	23759900	23759900	T	C	CACCACTCAGGACCCT	classical_monocyte	T	8
+chr19	23759900	23759900	T	C	GTTACAGAGCGTTGCC	classical_monocyte	T	1
+chr19	23759900	23759900	T	C	AAGGAGCCACTGTGTA	classical_monocyte	T	4
+chr19	23759900	23759900	T	C	CAAGAAAGTCTCACCT	classical_monocyte	T	1
+chr19	23759900	23759900	T	C	CTGAAGTCAATGGACG	classical_monocyte	T	7
+chr19	23759900	23759900	T	C	GTCCTCAAGCGGCTTC	classical_monocyte	T	9
+chr19	23759900	23759900	T	C	TACCTTAGTGTTGAGG	classical_monocyte	T	6
+chr19	23759900	23759900	T	C	AAGGCAGAGGCAGTCA	classical_monocyte	T	9
+chr19	23759900	23759900	T	C	TCAGCAATCGTCTGAA	classical_monocyte	T	4
+chr19	23759900	23759900	T	C	CTAGCCTGTAAGGGAA	classical_monocyte	T	6
+chr19	23759900	23759900	T	C	GTGTGCGAGGTTCCTA	classical_monocyte	T	2
+chr19	23759900	23759900	T	C	TCATTTGCAGTATCTG	classical_monocyte	T	1
+chr19	23759900	23759900	T	C	AAGGTTCCAGTTTACG	classical_monocyte	T	11
+chr19	23759900	23759900	T	C	GAACCTAAGGAATCGC	classical_monocyte	T	11
+chr19	23759900	23759900	T	C	CACAGGCCAAAGTGCG	classical_monocyte	T	2
+chr19	23759900	23759900	T	C	AGGTCATGTTAAGACA	classical_monocyte	T	4
+chr19	23759900	23759900	T	C	GGACGTCGTAAGGGCT	classical_monocyte	T	9
+chr19	23759900	23759900	T	C	TCAGCAACATGCCCGA	classical_monocyte	T	8
+chr19	23759900	23759900	T	C	TGTGTTTGTCTTTCAT	classical_monocyte	T	4
+chr19	23759900	23759900	T	C	GTCGTAACATGCCTTC	classical_monocyte	T	6
+chr19	23759900	23759900	T	C	TCGGGACTCATCGGAT	classical_monocyte	T	1
+chr19	23759900	23759900	T	C	CTACCCAGTGGTGTAG	classical_monocyte	T	5
+chr19	23759900	23759900	T	C	AATCCAGCAATGGAGC	classical_monocyte	T	9
+chr19	23759900	23759900	T	C	CGTTCTGCAATGAATG	classical_monocyte	T	4
+chr19	23759900	23759900	T	C	GAATAAGTCAGCACAT	classical_monocyte	T	6
+chr19	23759900	23759900	T	C	GTAACGTTCTGTTGAG	classical_monocyte	T	6
+chr19	23759900	23759900	T	C	GTCAAGTAGTATGACA	classical_monocyte	T	5
+chr19	23759900	23759900	T	C	ACTGCTCGTTCCACAA	classical_monocyte	T	1
+chr19	23759900	23759900	T	C	AAGACCTCATACTACG	classical_monocyte	T	5
+chr19	23759900	23759900	T	C	AGAATAGTCTCGCTTG	classical_monocyte	T	2
+chr19	23759900	23759900	T	C	CGGAGTCTCACCAGGC	classical_monocyte	T	5
+chr19	23759900	23759900	T	C	GGCTCGATCTATCCCG	classical_monocyte	T	4
+chr19	23759900	23759900	T	C	GTCACAAAGTGGAGTC	classical_monocyte	T	5
+chr19	23759900	23759900	T	C	TTCGGTCGTAAGTAGT	classical_monocyte	T	4
+chr19	23759900	23759900	T	C	CCTTACGAGACGACGT	classical_monocyte	T	4
+chr19	23759900	23759900	T	C	GCCAAATAGGCTAGAC	classical_monocyte	T	2
+chr19	23759900	23759900	T	C	TTCGGTCTCCAGATCA	classical_monocyte	T	2
+chr19	23759900	23759900	T	C	CAAGATCTCGAGCCCA	classical_monocyte	T	2
+chr19	23759900	23759900	T	C	ACTTGTTTCTGCGACG	classical_monocyte	T	7
+chr19	23759900	23759900	T	C	TCATTTGCAGTTCCCT	classical_monocyte	T	3
+chr19	23759900	23759900	T	C	CCTACCACATCCGCGA	classical_monocyte	T	3
+chr19	23759900	23759900	T	C	CCTCTGAAGGTACTCT	classical_monocyte	T	3
+chr19	23759900	23759900	T	C	ATCTGCCCACAGGCCT	classical_monocyte	T	2
+chr19	23759900	23759900	T	C	TAAGAGAAGCATGGCA	classical_monocyte	T	1
+chr19	53923438	53923438	C	G	GTGAAGGGTATTCGTG	classical_monocyte	C	3
+chr19	53923438	53923438	C	G	GATGAAACAGCCACCA	classical_monocyte	C	2
+chr19	53923438	53923438	C	G	ACTTACTCATGGGACA	classical_monocyte	C	3
+chr19	53923438	53923438	C	G	CCTCTGAGTCGAGATG	classical_monocyte	C	3
+chr19	53923438	53923438	C	G	TCATTTGCAGTATCTG	classical_monocyte	C	1
+chr2	43829550	43829550	A	G	GCCAAATAGGCTAGAC	classical_monocyte	A	3
+chr2	43829550	43829550	A	G	TGCTACCAGCATCATC	classical_monocyte	A	3
+chr2	43829550	43829550	A	G	CCTACACAGGCAATTA	classical_monocyte	A	1
+chr2	43829550	43829550	A	G	GTATCTTGTGTAATGA	classical_monocyte	A	1
+chr2	43829550	43829550	A	G	CAGCCGACATTCACTT	classical_monocyte	A	1
+chr2	166069158	166069158	T	C	AACTGGTCATTAGCCA	classical_monocyte	T	1
+chr2	166069158	166069158	T	C	TGAGGGAGTCTGGTCG	classical_monocyte	T	1
+chr2	166069158	166069158	T	C	AACTCAGAGTGTCCCG	classical_monocyte	T	1
+chr3	89167968	89167968	A	G	CACAGGCCAAAGTGCG	classical_monocyte	A	4
+chr3	89167968	89167968	A	G	TGGCGCAAGGGCACTA	classical_monocyte	A	3
+chr3	89167968	89167968	A	G	TCATTTGCAGTATCTG	classical_monocyte	A	7
+chr3	89167968	89167968	A	G	CCACGGAAGCCACGCT	classical_monocyte	A	3
+chr3	89167968	89167968	A	G	ACTGCTCGTTCCACAA	classical_monocyte	A	2
+chr3	95886986	95886986	T	C	ACGCCGAGTGTTCGAT	classical_monocyte	T	5
+chr3	95886986	95886986	T	C	AAGACCTCATACTACG	classical_monocyte	T	15
+chr3	95886986	95886986	T	C	GTTACAGAGCGTTGCC	classical_monocyte	T	7
+chr3	95886986	95886986	T	C	CACACAAAGATGTCGG	classical_monocyte	T	6
+chr3	95886986	95886986	T	C	CTGCTGTAGAAGGCCT	classical_monocyte	T	4
+chr3	95886986	95886986	T	C	GAATAAGTCAGCACAT	classical_monocyte	T	3
+chr3	95886986	95886986	T	C	ACTGCTCGTTCCACAA	classical_monocyte	T	7
+chr3	95886986	95886986	T	C	GTCGTAACATGCCTTC	classical_monocyte	T	4
+chr3	95886986	95886986	T	C	TCTATTGTCCAGTAGT	classical_monocyte	T	4
+chr3	95886986	95886986	T	C	TGCTACCAGCATCATC	classical_monocyte	T	8
+chr3	95886986	95886986	T	C	GACTAACTCTAGAGTC	classical_monocyte	T	5
+chr3	95886986	95886986	T	C	GTCATTTTCTTGTTTG	classical_monocyte	T	6
+chr3	95886986	95886986	T	C	CTAGCCTGTAAGGGAA	classical_monocyte	T	6
+chr3	95886986	95886986	T	C	CTCGGGAGTACGAAAT	classical_monocyte	C	4
+chr3	95886986	95886986	T	C	GACGTGCCAGTCGTGC	classical_monocyte	T	7
+chr3	95886986	95886986	T	C	AGCATACAGTCATCCA	classical_monocyte	T	5
+chr3	95886986	95886986	T	C	TGACTAGGTTAGAACA	classical_monocyte	T	3
+chr3	95886986	95886986	T	C	CAGCCGACATTCACTT	classical_monocyte	T	5
+chr3	95886986	95886986	T	C	TAGTGGTCAATGCCAT	classical_monocyte	T	3
+chr3	95886986	95886986	T	C	CAACCTCTCATGTCCC	classical_monocyte	T	2
+chr3	95887048	95887048	T	C	AGCATACAGTCATCCA	classical_monocyte	T	4
+chr3	95887048	95887048	T	C	GTCGTAACATGCCTTC	classical_monocyte	T	5
+chr3	95887048	95887048	T	C	AAGACCTCATACTACG	classical_monocyte	T	8
+chr3	95887048	95887048	T	C	CAGCCGACATTCACTT	classical_monocyte	T	11
+chr3	95887048	95887048	T	C	ACGCCGAGTGTTCGAT	classical_monocyte	T	6
+chr3	95887048	95887048	T	C	TAGTGGTCAATGCCAT	classical_monocyte	T	2
+chr3	95887048	95887048	T	C	TGACTAGGTTAGAACA	classical_monocyte	T	6
+chr3	95887048	95887048	T	C	CACACAAAGATGTCGG	classical_monocyte	T	1
+chr3	95887048	95887048	T	C	GTCATTTTCTTGTTTG	classical_monocyte	T	1
+chr3	95887048	95887048	T	C	TCTATTGTCCAGTAGT	classical_monocyte	T	4
+chr3	95887048	95887048	T	C	CTGCTGTAGAAGGCCT	classical_monocyte	T	3
+chr3	95887048	95887048	T	C	CAACCTCTCATGTCCC	classical_monocyte	T	4
+chr3	95887048	95887048	T	C	GACTAACTCTAGAGTC	classical_monocyte	T	3
+chr3	95887048	95887048	T	C	GTTACAGAGCGTTGCC	classical_monocyte	T	3
+chr3	95887048	95887048	T	C	ACTGCTCGTTCCACAA	classical_monocyte	T	4
+chr3	95887048	95887048	T	C	GACGTGCCAGTCGTGC	classical_monocyte	T	5
+chr3	95887048	95887048	T	C	CTAGCCTGTAAGGGAA	classical_monocyte	T	1
+chr3	95887048	95887048	T	C	GAATAAGTCAGCACAT	classical_monocyte	T	3
+chr3	95887048	95887048	T	C	CTCGGGAGTACGAAAT	classical_monocyte	T	3
+chr4	11158870	11158870	A	G	GGTGCGTTCCGTTGCT	classical_monocyte	A	3
+chr4	42992699	42992699	T	C	TGTGTTTGTCTTTCAT	classical_monocyte	T	1
+chr4	42992699	42992699	T	C	CAGCTAAAGTCGTACT	classical_monocyte	T	5
+chr4	42992699	42992699	T	C	GTCGTAACATGCCTTC	classical_monocyte	T	5
+chr4	42992699	42992699	T	C	GGTGTTAGTGTTTGTG	classical_monocyte	T	4
+chr4	42992699	42992699	T	C	GGCTCGATCTATCCCG	classical_monocyte	T	3
+chr4	42992699	42992699	T	C	CCATTCGCAATGGACG	classical_monocyte	T	3
+chr4	42992699	42992699	T	C	GTCATTTTCTTGTTTG	classical_monocyte	T	1
+chr4	42992699	42992699	T	C	TGGACGCAGTATGACA	classical_monocyte	T	2
+chr4	42992699	42992699	T	C	AACTGGTAGAGCCCAA	classical_monocyte	T	2
+chr4	42992699	42992699	T	C	AAGTCTGGTACGAAAT	classical_monocyte	T	5
+chr4	42992699	42992699	T	C	ATCTGCCCACAGGCCT	classical_monocyte	T	3
+chr4	42992699	42992699	T	C	TCAGCAACATGCCCGA	classical_monocyte	T	2
+chr4	42992699	42992699	T	C	CAAGAAAGTCTCACCT	classical_monocyte	T	5
+chr4	42992699	42992699	T	C	CGTAGGCCACAGGCCT	classical_monocyte	T	5
+chr4	42992699	42992699	T	C	CCTACCACATCCGGGT	classical_monocyte	T	1
+chr4	42992699	42992699	T	C	TCAGGTAAGCCGTCGT	classical_monocyte	T	1
+chr4	42992699	42992699	T	C	AACGTTGTCCTATGTT	classical_monocyte	T	1
+chr5	32149620	32149620	T	C	ACTTGTTTCCGTTGTC	classical_monocyte	T	3
+chr5	32149620	32149620	T	C	CTAGCCTGTAAGGGAA	classical_monocyte	T	3
+chr5	32149620	32149620	T	C	CACCTTGTCCGCATCT	classical_monocyte	T	1
+chr5	32149620	32149620	T	C	CGGAGTCTCACCAGGC	classical_monocyte	T	6
+chr5	32149620	32149620	T	C	GGCCGATTCACATAGC	classical_monocyte	C	3
+chr5	32149620	32149620	T	C	CACCACTCAGGACCCT	classical_monocyte	T	2
+chr5	32149620	32149620	T	C	GCTCTGTTCCTCAATT	classical_monocyte	T	1
+chr5	32149620	32149620	T	C	GCTTCCAGTTTGCATG	classical_monocyte	C	3
+chr5	32149620	32149620	T	C	GTCACAACAGTAACGG	classical_monocyte	T	2
+chr5	32149620	32149620	T	C	AACGTTGTCCTATGTT	classical_monocyte	T	1
+chr5	32149620	32149620	T	C	CCCATACGTGACCAAG	classical_monocyte	T	1
+chr5	111455117	111455117	T	C	AAGTCTGGTACGAAAT	classical_monocyte	T	14
+chr6	38577211	38577211	A	G	AGTTGGTTCCGTCAAA	classical_monocyte	A	4
+chr6	38577211	38577211	A	G	GGATTACCATACAGCT	classical_monocyte	A	5
+chr6	38577211	38577211	A	G	TGATTTCGTCGGCTCA	classical_monocyte	A	3
+chr6	38577211	38577211	A	G	GTCATTTTCTTGTTTG	classical_monocyte	A	1
+chr6	38577211	38577211	A	G	CACCTTGTCCGCATCT	classical_monocyte	A	5
+chr6	38577211	38577211	A	G	TGGCGCAAGGGCACTA	classical_monocyte	A	4
+chr6	38577211	38577211	A	G	AGCATACAGTCATCCA	classical_monocyte	A	4
+chr6	38577211	38577211	A	G	TGGGCGTGTTCTGTTT	classical_monocyte	A	7
+chr6	38577211	38577211	A	G	AAGTCTGGTACGAAAT	classical_monocyte	A	3
+chr6	38577211	38577211	A	G	ACGCCGAGTGTTCGAT	classical_monocyte	A	7
+chr6	38577211	38577211	A	G	CCTTACGAGACGACGT	classical_monocyte	A	2
+chr6	38577211	38577211	A	G	AGAATAGTCTCGCTTG	classical_monocyte	A	6
+chr6	38577211	38577211	A	G	TAGTTGGCACTTAAGC	classical_monocyte	A	3
+chr6	38577211	38577211	A	G	GCATGATCACGGCTAC	classical_monocyte	A	1
+chr6	38577211	38577211	A	G	CCCTCCTGTCGCATCG	classical_monocyte	A	1
+chr6	39202784	39202784	T	C	AAACCTGAGCAACGGT	classical_monocyte	T	10
+chr6	39202784	39202784	T	C	GTTACAGAGCGTTGCC	classical_monocyte	T	6
+chr6	39202784	39202784	T	C	TGAGAGGGTAGGACAC	classical_monocyte	T	1
+chr6	39202784	39202784	T	C	GTCATTTTCTTGTTTG	classical_monocyte	T	2
+chr6	39202784	39202784	T	C	AGCGTATCAAAGCAAT	classical_monocyte	T	7
+chr6	39202784	39202784	T	C	CGCGGTAAGGAGTTGC	classical_monocyte	T	7
+chr6	39202784	39202784	T	C	CGTAGGCCACAGGCCT	classical_monocyte	T	7
+chr6	39202784	39202784	T	C	TCGGGACTCATCGGAT	classical_monocyte	T	2
+chr6	39202784	39202784	T	C	CATTATCTCCCATTTA	classical_monocyte	T	9
+chr6	39202784	39202784	T	C	AAAGTAGGTCATTAGC	classical_monocyte	T	6
+chr6	39202784	39202784	T	C	CTTAGGACACCCATGG	classical_monocyte	T	1
+chr6	39202784	39202784	T	C	AACTGGTCATTAGCCA	classical_monocyte	T	8
+chr6	39202784	39202784	T	C	AGAATAGTCTCGCTTG	classical_monocyte	T	5
+chr6	39202784	39202784	T	C	TGGCGCAAGGGCACTA	classical_monocyte	T	3
+chr6	39202784	39202784	T	C	TTATGCTAGGTGCTAG	classical_monocyte	T	5
+chr6	39202784	39202784	T	C	CAGCTGGCACGCTTTC	classical_monocyte	T	3
+chr6	39202784	39202784	T	C	TTCGGTCTCCAGATCA	classical_monocyte	T	2
+chr6	39202784	39202784	T	C	AGTTGGTTCCGTCAAA	classical_monocyte	T	1
+chr6	39202784	39202784	T	C	TCTATTGTCCAGTAGT	classical_monocyte	T	5
+chr6	39202784	39202784	T	C	TGGTTAGAGAACAACT	classical_monocyte	T	2
+chr6	48079830	48079830	T	C	TCATTTGCAGTATCTG	classical_monocyte	T	1
+chr6	48079830	48079830	T	C	AACGTTGTCCTATGTT	classical_monocyte	T	5
+chr6	48079830	48079830	T	C	CTAAGACGTCAGTGGA	classical_monocyte	T	4
+chr6	48079830	48079830	T	C	CATTATCCACACTGCG	classical_monocyte	T	6
+chr6	48079830	48079830	T	C	GCGCGATTCTGCGGCA	classical_monocyte	T	2
+chr6	48079830	48079830	T	C	TGAGCATCATTCCTCG	classical_monocyte	T	1
+chr6	83343347	83343347	T	G	GTCACAAAGTGGAGTC	classical_monocyte	T	1
+chr6	83343347	83343347	T	G	ACTTGTTTCTGCGACG	classical_monocyte	T	1
+chr6	83343347	83343347	T	G	GCGCAGTCAAGCCATT	classical_monocyte	T	1
+chr6	83343347	83343347	T	G	CTTAGGATCGGTCCGA	classical_monocyte	T	1
+chr6	83343347	83343347	T	G	TAGTTGGCACTTAAGC	classical_monocyte	T	1
+chr6	83343347	83343347	T	G	AAGTCTGGTACGAAAT	classical_monocyte	T	1
+chr6	83343347	83343347	T	G	TTTGGTTAGCAATCTC	classical_monocyte	T	1
+chr6	83343347	83343347	T	G	GTAACTGTCCTGCCAT	classical_monocyte	T	1
+chr6	128968038	128968038	T	A	GATTCAGAGATATGGT	classical_monocyte	A	1
+chr6	128968038	128968038	T	A	ACATCAGGTGACGCCT	classical_monocyte	A	3
+chr6	128968038	128968038	T	A	TGGGCGTGTTCTGTTT	classical_monocyte	T	2
+chr6	128968038	128968038	T	A	ACGGAGAAGTTAAGTG	classical_monocyte	T	2
+chr6	128968038	128968038	T	A	AGGTCATTCGACCAGC	classical_monocyte	T	2
+chr7	28363106	28363106	G	A	ACTTGTTTCCGTTGTC	classical_monocyte	G	9
+chr7	28363106	28363106	G	A	GTATCTTGTCATATGC	classical_monocyte	G	1
+chr7	28363106	28363106	G	A	CACAGGCCAAAGTGCG	classical_monocyte	G	1
+chr7	28363106	28363106	G	A	TTATGCTAGGTGCTAG	classical_monocyte	G	4
+chr7	89979976	89979976	A	G	AAGGAGCAGCCACCTG	classical_monocyte	A	15
+chr7	89979976	89979976	A	G	AGCATACAGTCATCCA	classical_monocyte	A	3
+chr7	89979976	89979976	A	G	CTAAGACGTCAGTGGA	classical_monocyte	A	11
+chr7	89979976	89979976	A	G	TGGCGCAAGGGCACTA	classical_monocyte	A	11
+chr7	89979976	89979976	A	G	AATCCAGCAATGGAGC	classical_monocyte	A	7
+chr7	89979976	89979976	A	G	CATGACAGTTCATGGT	classical_monocyte	A	9
+chr7	89979976	89979976	A	G	CCTTACGAGACGACGT	classical_monocyte	A	1
+chr7	89979976	89979976	A	G	CTGCTGTAGAAGGCCT	classical_monocyte	A	11
+chr7	89979976	89979976	A	G	GTCACAACAGTAACGG	classical_monocyte	A	8
+chr7	89979976	89979976	A	G	TTCGGTCGTAAGTAGT	classical_monocyte	A	4
+chr7	89979976	89979976	A	G	ACACCAAAGCCCGAAA	classical_monocyte	A	3
+chr7	89979976	89979976	A	G	ACTGCTCGTTCCACAA	classical_monocyte	A	5
+chr7	89979976	89979976	A	G	AGGTCATGTTAAGACA	classical_monocyte	A	2
+chr7	89979976	89979976	A	G	GTAACTGTCCTGCCAT	classical_monocyte	A	4
+chr7	89979976	89979976	A	G	ACTTGTTGTCTAGAGG	classical_monocyte	A	4
+chr7	89979976	89979976	A	G	CGGTTAAAGTAGGTGC	classical_monocyte	A	3
+chr7	89979976	89979976	A	G	GACGTGCCAGTCGTGC	classical_monocyte	A	3
+chr7	89979976	89979976	A	G	AAGGAGCAGGTGGGTT	classical_monocyte	A	6
+chr7	89979976	89979976	A	G	ATTCTACGTATATGGA	classical_monocyte	A	6
+chr7	89979976	89979976	A	G	CACACAAAGATGTCGG	classical_monocyte	A	5
+chr7	89979976	89979976	A	G	TCCACACTCTACGAGT	classical_monocyte	A	2
+chr7	89979976	89979976	A	G	TTGGCAATCCGAAGAG	classical_monocyte	A	5
+chr7	89979976	89979976	A	G	AAGTCTGGTACGAAAT	classical_monocyte	A	2
+chr7	89979976	89979976	A	G	CGCTGGAGTCGGCTCA	classical_monocyte	A	4
+chr7	89979976	89979976	A	G	CTGAAGTCAATGGACG	classical_monocyte	A	5
+chr7	89979976	89979976	A	G	TACCTTAGTGTTGAGG	classical_monocyte	A	4
+chr7	89979976	89979976	A	G	CTACATTTCACGACTA	classical_monocyte	A	4
+chr7	89979976	89979976	A	G	GTGTGCGAGGTTCCTA	classical_monocyte	A	5
+chr7	89979976	89979976	A	G	GTAACGTTCTGTTGAG	classical_monocyte	A	5
+chr7	89979976	89979976	A	G	GTCACAAGTCGCTTTC	classical_monocyte	A	3
+chr7	89979976	89979976	A	G	TCAGCAATCGTCTGAA	classical_monocyte	A	3
+chr7	89979976	89979976	A	G	ACAGCTACAAGCCCAC	classical_monocyte	A	2
+chr7	89979976	89979976	A	G	CCTCTGAGTCGAGATG	classical_monocyte	A	5
+chr7	89979976	89979976	A	G	CGAGAAGCAATCTACG	classical_monocyte	A	2
+chr7	89979976	89979976	A	G	ACTTGTTTCCGTTGTC	classical_monocyte	A	3
+chr7	89979976	89979976	A	G	TCATTTGCAGTATCTG	classical_monocyte	A	3
+chr7	89979976	89979976	A	G	TAAGAGAAGCATGGCA	classical_monocyte	A	1
+chr7	89979976	89979976	A	G	GTCACAAAGTGGAGTC	classical_monocyte	A	2
+chr7	89979976	89979976	A	G	CCTACCACATCCGCGA	classical_monocyte	A	1
+chr7	89979976	89979976	A	G	TCTGGAAAGCTCCTCT	classical_monocyte	A	1
+chr7	89979976	89979976	A	G	GATTCAGAGATATGGT	classical_monocyte	A	1
+chr7	126790795	126790795	T	C	CGAGAAGCAATCTACG	classical_monocyte	T	1
+chr7	126790795	126790795	T	C	TGGTTAGAGAACAACT	classical_monocyte	T	1
+chr7	126790795	126790795	T	C	CGACCTTGTACTCAAC	classical_monocyte	T	1
+chr7	126790795	126790795	T	C	GTGAAGGGTATTCGTG	classical_monocyte	T	1
+chr7	126790795	126790795	T	C	AACTCAGAGTGTCCCG	classical_monocyte	T	1
+chr7	126790795	126790795	T	C	AACGTTGTCCTATGTT	classical_monocyte	T	1
+chr7	126790795	126790795	T	C	TGAGCATCATTCCTCG	classical_monocyte	T	1
+chr7	126790795	126790795	T	C	TGTGTTTGTCTTTCAT	classical_monocyte	T	1
+chr7	126790795	126790795	T	C	AAGGCAGAGGCAGTCA	classical_monocyte	T	1
+chr7	126790795	126790795	T	C	CGTCACTGTTGGGACA	classical_monocyte	T	1
+chr7	126790795	126790795	T	C	ACGAGCCGTACAGACG	classical_monocyte	T	1
+chr7	126790795	126790795	T	C	ACATCAGGTGACGCCT	classical_monocyte	T	1
+chr7	126790795	126790795	T	C	TGACGGCGTAGGCATG	classical_monocyte	T	1
+chr8	25239196	25239196	T	C	ACGGAGAAGTTAAGTG	classical_monocyte	T	1
+chr8	25239196	25239196	T	C	ACTTACTCATGGGACA	classical_monocyte	T	5
+chr8	25239196	25239196	T	C	CACACAAAGATGTCGG	classical_monocyte	T	4
+chr8	25239196	25239196	T	C	CGTTCTGCAATGAATG	classical_monocyte	T	2
+chr8	25239196	25239196	T	C	CTAAGACGTCAGTGGA	classical_monocyte	T	2
+chr8	25239196	25239196	T	C	TTCGGTCTCCAGATCA	classical_monocyte	T	3
+chr8	25239196	25239196	T	C	GTCATTTTCTTGTTTG	classical_monocyte	T	2
+chr8	25239196	25239196	T	C	AACTCAGAGTGTCCCG	classical_monocyte	T	1
+chr8	25239196	25239196	T	C	CAGCCGATCACCTTAT	classical_monocyte	T	3
+chr8	25239196	25239196	T	C	CAGCTGGCACGCTTTC	classical_monocyte	T	3
+chr8	25239196	25239196	T	C	TTCGAAGGTAGCACGA	classical_monocyte	T	2
+chr8	25239285	25239285	T	C	TTGACTTAGAGGTACC	classical_monocyte	T	1
+chr8	25239285	25239285	T	C	TTCGGTCTCCAGATCA	classical_monocyte	T	1
+chr8	25239285	25239285	T	C	TTCGAAGGTAGCACGA	classical_monocyte	T	5
+chr8	25239285	25239285	T	C	CAGCCGATCACCTTAT	classical_monocyte	T	4
+chr8	25239285	25239285	T	C	CAGCTGGCACGCTTTC	classical_monocyte	T	7
+chr8	25239285	25239285	T	C	TACGGTATCATGTCTT	classical_monocyte	T	1
+chr8	25239285	25239285	T	C	GTCATTTTCTTGTTTG	classical_monocyte	T	2
+chr8	40993346	40993346	A	T	TGGACGCAGTATGACA	classical_monocyte	A	1
+chr8	40993346	40993346	A	T	ATCCACCTCACAACGT	classical_monocyte	A	1
+chr8	40993346	40993346	A	T	GATGAAACAGCCACCA	classical_monocyte	A	1
+chr8	40993346	40993346	A	T	ATGGGAGCACGTCTCT	classical_monocyte	A	1
+chr8	40993346	40993346	A	T	TTTGGTTAGCAATCTC	classical_monocyte	A	1
+chr8	40993346	40993346	A	T	AGGTCATTCGACCAGC	classical_monocyte	A	1
+chr8	70475092	70475092	T	C	CGACCTTGTACTCAAC	classical_monocyte	T	3
+chr8	70475092	70475092	T	C	CGCTGGAGTCGGCTCA	classical_monocyte	T	6
+chr8	70475092	70475092	T	C	GGATGTTGTAAGTGGC	classical_monocyte	T	3
+chr8	70475092	70475092	T	C	AAGGAGCCACTGTGTA	classical_monocyte	T	1
+chr8	70475092	70475092	T	C	TCTATTGTCCAGTAGT	classical_monocyte	T	3
+chr8	70475092	70475092	T	C	TCATTTGCAGTATCTG	classical_monocyte	T	3
+chr8	123152192	123152192	T	C	CGGTTAAAGTAGGTGC	classical_monocyte	T	1
+chr8	123152211	123152211	T	C	CGGTTAAAGTAGGTGC	classical_monocyte	T	1
+chrX	12616481	12616481	C	T	TAGTGGTCAATGCCAT	classical_monocyte	C	1
+chrX	12616481	12616481	C	T	CTACATTTCACGACTA	classical_monocyte	C	1
+chrX	12616481	12616481	C	T	CTGAAGTCAATGGACG	classical_monocyte	C	1
+chrX	12616481	12616481	C	T	CGTAGGCCACAGGCCT	classical_monocyte	C	2
+chrX	12616481	12616481	C	T	TAAGCGTTCGTTTGCC	classical_monocyte	C	1
+chrX	12616481	12616481	C	T	ATCACGAGTCTACCTC	classical_monocyte	C	1
+chrX	12616481	12616481	C	T	GTCATTTTCTTGTTTG	classical_monocyte	C	1
+chrX	12616481	12616481	C	T	CAGCCGATCACCTTAT	classical_monocyte	T	1
+chrX	12616481	12616481	C	T	GCTCTGTTCCTCAATT	classical_monocyte	C	1
+chrX	12616481	12616481	C	T	TACACGACAGCGTTCG	classical_monocyte	C	1
+chrX	12616481	12616481	C	T	GACGTGCCAGTCGTGC	classical_monocyte	C	1
+chrX	12616481	12616481	C	T	AGAATAGTCTCGCTTG	classical_monocyte	C	1
+chrX	12616481	12616481	C	T	GTATCTTGTCATATGC	classical_monocyte	C	1
+chrX	12616481	12616481	C	T	CAGCTGGCACGCTTTC	classical_monocyte	C	1
+chrX	12616481	12616481	C	T	CGGTTAAAGTAGGTGC	classical_monocyte	T	1
+chrX	12616481	12616481	C	T	TGGGCGTGTTCTGTTT	classical_monocyte	C	1
+chrX	12616481	12616481	C	T	TACGGTATCATGTCTT	classical_monocyte	C	1
+chrX	12616481	12616481	C	T	TCTATTGTCCAGTAGT	classical_monocyte	T	1

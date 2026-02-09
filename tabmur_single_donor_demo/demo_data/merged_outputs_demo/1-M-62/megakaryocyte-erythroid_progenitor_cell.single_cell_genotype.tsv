@@ -1,141 +1,141 @@
-donor	sample	#CHROM	Start	End	REF	ALT_expected	Cell_type_expected	Num_cells_expected	CB	Cell_type_observed	Base_observed	Num_reads
-1-M-62	10X_P5_10	chr1	88259005	88259005	A	G	granulocytopoietic_cell	3	GAAATGAGTCTTGATG	megakaryocyte-erythroid_progenitor_cell	A	1
-1-M-62	10X_P5_10	chr1	88259005	88259005	A	G	granulocytopoietic_cell	3	TGATTTCGTCCTAGCG	megakaryocyte-erythroid_progenitor_cell	A	3
-1-M-62	10X_P5_10	chr1	88259005	88259005	A	G	granulocytopoietic_cell	3	CCATGTCAGCGTAATA	megakaryocyte-erythroid_progenitor_cell	A	2
-1-M-62	10X_P5_10	chr1	88259005	88259005	A	G	granulocytopoietic_cell	3	GGGAATGAGATATACG	megakaryocyte-erythroid_progenitor_cell	A	2
-1-M-62	10X_P5_10	chr1	88259005	88259005	A	G	granulocytopoietic_cell	3	CATGACAGTCAGAGGT	megakaryocyte-erythroid_progenitor_cell	A	1
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	TCAGCTCTCATCTGCC	megakaryocyte-erythroid_progenitor_cell	G	4
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	TCAGCTCTCATCTGCC	megakaryocyte-erythroid_progenitor_cell	A	2
-1-M-62	10X_P5_10	chr10	62644429	62644429	T	C	macrophage	2	TCGGTAATCCGAAGAG	megakaryocyte-erythroid_progenitor_cell	T	2
-1-M-62	10X_P5_10	chr10	62644429	62644429	T	C	macrophage	2	GTCAAGTCACATCCAA	megakaryocyte-erythroid_progenitor_cell	T	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	TGATTTCGTCCTAGCG	megakaryocyte-erythroid_progenitor_cell	T	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	GGGACCTTCCCATTAT	megakaryocyte-erythroid_progenitor_cell	T	2
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	TGCACCTGTACGCTGC	megakaryocyte-erythroid_progenitor_cell	T	2
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	CATGACAGTCAGAGGT	megakaryocyte-erythroid_progenitor_cell	T	1
-1-M-62	10X_P5_10	chr10	93482249	93482249	G	A	granulocytopoietic_cell	3	TATGCCCAGTATCTCG	megakaryocyte-erythroid_progenitor_cell	G	5
-1-M-62	10X_P5_10	chr10	93482249	93482249	G	A	granulocytopoietic_cell	3	AAGGCAGGTCATCGGC	megakaryocyte-erythroid_progenitor_cell	G	1
-1-M-62	10X_P5_10	chr10	93482249	93482249	G	A	granulocytopoietic_cell	3	CTCGAGGTCACTGGGC	megakaryocyte-erythroid_progenitor_cell	G	1
-1-M-62	10X_P5_10	chr11	21316279	21316279	T	C	granulocytopoietic_cell	2	CTCGAGGTCACTGGGC	megakaryocyte-erythroid_progenitor_cell	T	3
-1-M-62	10X_P5_10	chr11	21316279	21316279	T	C	granulocytopoietic_cell	2	CATTATCGTCTTTCAT	megakaryocyte-erythroid_progenitor_cell	T	1
-1-M-62	10X_P5_10	chr11	21316279	21316279	T	C	granulocytopoietic_cell	2	ATGCGATAGGGAACGG	megakaryocyte-erythroid_progenitor_cell	T	1
-1-M-62	10X_P5_10	chr11	59199562	59199562	T	C	granulocyte	3	AGCGTATAGTTCGCGC	megakaryocyte-erythroid_progenitor_cell	T	5
-1-M-62	10X_P5_10	chr11	59199562	59199562	T	C	granulocyte	3	GCTCTGTGTTCAGTAC	megakaryocyte-erythroid_progenitor_cell	T	4
-1-M-62	10X_P5_10	chr11	59199562	59199562	T	C	granulocyte	3	ATGCGATCAGCCTTGG	megakaryocyte-erythroid_progenitor_cell	T	2
-1-M-62	10X_P5_10	chr11	59199562	59199562	T	C	granulocyte	3	CATGACACATTTGCCC	megakaryocyte-erythroid_progenitor_cell	T	3
-1-M-62	10X_P5_10	chr11	59199562	59199562	T	C	granulocyte	3	ATGCGATAGGGAACGG	megakaryocyte-erythroid_progenitor_cell	T	2
-1-M-62	10X_P5_10	chr11	59199562	59199562	T	C	granulocyte	3	GCTCTGTCAATGGAGC	megakaryocyte-erythroid_progenitor_cell	T	1
-1-M-62	10X_P5_10	chr11	59199562	59199562	T	C	granulocyte	3	TCAGCTCTCATCTGCC	megakaryocyte-erythroid_progenitor_cell	T	1
-1-M-62	10X_P5_10	chr11	59199562	59199562	T	C	granulocyte	3	TTTGGTTAGAGCAATT	megakaryocyte-erythroid_progenitor_cell	T	2
-1-M-62	10X_P5_10	chr11	59199562	59199562	T	C	granulocyte	3	TCAGGATAGTATTGGA	megakaryocyte-erythroid_progenitor_cell	T	2
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	AGTGAGGGTCTTGATG	megakaryocyte-erythroid_progenitor_cell	T	3
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	CTCGAGGTCACTGGGC	megakaryocyte-erythroid_progenitor_cell	T	4
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	TCAGGATAGTATTGGA	megakaryocyte-erythroid_progenitor_cell	T	3
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	AAGGCAGGTCATCGGC	megakaryocyte-erythroid_progenitor_cell	T	1
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	CATGACAGTCAGAGGT	megakaryocyte-erythroid_progenitor_cell	T	3
-1-M-62	10X_P5_10	chr12	4956839	4956839	A	G	granulocytopoietic_cell	2	ACATCAGCAATCGGTT	megakaryocyte-erythroid_progenitor_cell	A	1
-1-M-62	10X_P5_10	chr12	4956839	4956839	A	G	granulocytopoietic_cell	2	ATGGGAGGTATCGCAT	megakaryocyte-erythroid_progenitor_cell	A	3
-1-M-62	10X_P5_10	chr12	4956839	4956839	A	G	granulocytopoietic_cell	2	CTACACCGTTTACTCT	megakaryocyte-erythroid_progenitor_cell	A	5
-1-M-62	10X_P5_10	chr12	4956839	4956839	A	G	granulocytopoietic_cell	2	CATTATCGTCTTTCAT	megakaryocyte-erythroid_progenitor_cell	A	1
-1-M-62	10X_P5_10	chr13	49544816	49544816	C	T	erythroblast	2	CATGACAGTCAGAGGT	megakaryocyte-erythroid_progenitor_cell	C	3
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	GTGCGGTCAATACGCT	megakaryocyte-erythroid_progenitor_cell	A	3
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	TACAGTGAGGCCCTCA	megakaryocyte-erythroid_progenitor_cell	A	4
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	AGCGTATAGTTCGCGC	megakaryocyte-erythroid_progenitor_cell	G	4
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	GAGCAGATCTGCAAGT	megakaryocyte-erythroid_progenitor_cell	A	3
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	ACTGCTCAGTACGATA	megakaryocyte-erythroid_progenitor_cell	A	2
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	CTAGCCTGTCACAAGG	megakaryocyte-erythroid_progenitor_cell	A	1
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	ATTACTCGTAGCTCCG	megakaryocyte-erythroid_progenitor_cell	A	2
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	GACTACATCAGTTGAC	megakaryocyte-erythroid_progenitor_cell	G	1
-1-M-62	10X_P5_10	chr14	78653230	78653230	G	A	naive_T_cell	2	GAGCAGATCTGCAAGT	megakaryocyte-erythroid_progenitor_cell	G	1
-1-M-62	10X_P5_10	chr14	78653230	78653230	G	A	naive_T_cell	2	CTCAGAATCAACACCA	megakaryocyte-erythroid_progenitor_cell	G	2
-1-M-62	10X_P5_10	chr14	78653230	78653230	G	A	naive_T_cell	2	CATATTCTCGGAGCAA	megakaryocyte-erythroid_progenitor_cell	G	1
-1-M-62	10X_P5_10	chr14	78653230	78653230	G	A	naive_T_cell	2	CGAGCCAAGGTGCACA	megakaryocyte-erythroid_progenitor_cell	G	1
-1-M-62	10X_P5_10	chr15	86019605	86019605	A	G	naive_T_cell	2	GTCAAGTCACATCCAA	megakaryocyte-erythroid_progenitor_cell	A	4
-1-M-62	10X_P5_10	chr15	86019605	86019605	A	G	naive_T_cell	2	CATGACAGTCAGAGGT	megakaryocyte-erythroid_progenitor_cell	A	1
-1-M-62	10X_P5_10	chr16	64823848	64823848	A	G	granulocytopoietic_cell	2	CATTATCGTCTTTCAT	megakaryocyte-erythroid_progenitor_cell	A	2
-1-M-62	10X_P5_10	chr16	64823848	64823848	A	G	granulocytopoietic_cell	2	ATGCGATCAGCCTTGG	megakaryocyte-erythroid_progenitor_cell	A	1
-1-M-62	10X_P5_10	chr16	64823848	64823848	A	G	granulocytopoietic_cell	2	GAAATGAGTCTTGATG	megakaryocyte-erythroid_progenitor_cell	A	3
-1-M-62	10X_P5_10	chr16	64823848	64823848	A	G	granulocytopoietic_cell	2	AGTGAGGGTCTTGATG	megakaryocyte-erythroid_progenitor_cell	A	1
-1-M-62	10X_P5_10	chr17	10216516	10216516	A	G	granulocytopoietic_cell	2	TATGCCCAGTATCTCG	megakaryocyte-erythroid_progenitor_cell	A	2
-1-M-62	10X_P5_10	chr17	10216516	10216516	A	G	granulocytopoietic_cell	2	CGTCCATCAAACTGTC	megakaryocyte-erythroid_progenitor_cell	A	1
-1-M-62	10X_P5_10	chr17	10216516	10216516	A	G	granulocytopoietic_cell	2	TATGCCCAGTATCTCG	megakaryocyte-erythroid_progenitor_cell	G	1
-1-M-62	10X_P5_10	chr18	31796444	31796444	T	C	macrophage	3	AGCGTATAGTTCGCGC	megakaryocyte-erythroid_progenitor_cell	T	1
-1-M-62	10X_P5_10	chr18	31796444	31796444	T	C	macrophage	3	AGTGAGGGTCTTGATG	megakaryocyte-erythroid_progenitor_cell	T	1
-1-M-62	10X_P5_10	chr2	48974709	48974709	T	C	granulocyte	2	TGACGGCTCAGTACGT	megakaryocyte-erythroid_progenitor_cell	T	3
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	CGTCACTTCAGTTCGA	megakaryocyte-erythroid_progenitor_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	ACTGAACAGACCTAGG	megakaryocyte-erythroid_progenitor_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	CATATTCTCGGAGCAA	megakaryocyte-erythroid_progenitor_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	CTAATGGAGTAGTGCG	megakaryocyte-erythroid_progenitor_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	GGGACCTTCCCATTAT	megakaryocyte-erythroid_progenitor_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	CTCGAGGTCACTGGGC	megakaryocyte-erythroid_progenitor_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	ACATCAGCAATCGGTT	megakaryocyte-erythroid_progenitor_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	GTCAAGTCACATCCAA	megakaryocyte-erythroid_progenitor_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	AGTGAGGGTCTTGATG	megakaryocyte-erythroid_progenitor_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	TCAGCTCTCATCTGCC	megakaryocyte-erythroid_progenitor_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	TGGGCGTTCAGAGGTG	megakaryocyte-erythroid_progenitor_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	TCGAGGCCAAGTCTGT	megakaryocyte-erythroid_progenitor_cell	C	1
-1-M-62	10X_P5_10	chr2	119609836	119609836	T	C	granulocytopoietic_cell	5	GGGAATGAGATATACG	megakaryocyte-erythroid_progenitor_cell	T	1
-1-M-62	10X_P5_10	chr2	151720301	151720301	A	G	granulocytopoietic_cell	2	GAAATGAGTCTTGATG	megakaryocyte-erythroid_progenitor_cell	A	5
-1-M-62	10X_P5_10	chr2	151720301	151720301	A	G	granulocytopoietic_cell	2	CATCGGGTCAGGCCCA	megakaryocyte-erythroid_progenitor_cell	A	2
-1-M-62	10X_P5_10	chr2	163635040	163635040	C	T	granulocytopoietic_cell	2	CATGACACATTTGCCC	megakaryocyte-erythroid_progenitor_cell	C	1
-1-M-62	10X_P5_10	chr2	163635040	163635040	C	T	granulocytopoietic_cell	2	CTACGTCGTCAAGCGA	megakaryocyte-erythroid_progenitor_cell	C	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	CTACGTCGTCAAGCGA	megakaryocyte-erythroid_progenitor_cell	G	2
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	GGGAATGAGATATACG	megakaryocyte-erythroid_progenitor_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	CTAATGGAGTAGTGCG	megakaryocyte-erythroid_progenitor_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	ACCGTAATCCTAAGTG	megakaryocyte-erythroid_progenitor_cell	G	2
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	GCGGGTTCATTGGTAC	megakaryocyte-erythroid_progenitor_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	AGCGTATAGTTCGCGC	megakaryocyte-erythroid_progenitor_cell	G	2
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	GGTGTTATCGACAGCC	megakaryocyte-erythroid_progenitor_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	CGTCCATCAAACTGTC	megakaryocyte-erythroid_progenitor_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	ACTGCTCAGTACGATA	megakaryocyte-erythroid_progenitor_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	TCGGTAATCCGAAGAG	megakaryocyte-erythroid_progenitor_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	GTGCGGTCAATACGCT	megakaryocyte-erythroid_progenitor_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	CTAGCCTGTCACAAGG	megakaryocyte-erythroid_progenitor_cell	G	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	CTGATAGTCCAATGGT	megakaryocyte-erythroid_progenitor_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	AGTGGGACAGGGTACA	megakaryocyte-erythroid_progenitor_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	CATGACACATTTGCCC	megakaryocyte-erythroid_progenitor_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	CTCAGAATCAACACCA	megakaryocyte-erythroid_progenitor_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	CTCGAGGTCACTGGGC	megakaryocyte-erythroid_progenitor_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	AGCGTATAGTTCGCGC	megakaryocyte-erythroid_progenitor_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	GCTGGGTGTCACCTAA	megakaryocyte-erythroid_progenitor_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	TGGGCGTTCAGAGGTG	megakaryocyte-erythroid_progenitor_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	CTACACCGTTTACTCT	megakaryocyte-erythroid_progenitor_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	GTTCGGGCAATGGAAT	megakaryocyte-erythroid_progenitor_cell	A	1
-1-M-62	10X_P5_10	chr6	39202768	39202768	T	C	granulocytopoietic_cell	2	TCAGATGTCGAGGTAG	megakaryocyte-erythroid_progenitor_cell	T	1
-1-M-62	10X_P5_10	chr6	39202768	39202768	T	C	granulocytopoietic_cell	2	CGAGCCAAGGTGCACA	megakaryocyte-erythroid_progenitor_cell	T	2
-1-M-62	10X_P5_10	chr7	25293938	25293938	A	G	granulocytopoietic_cell	3	TCGGTAATCCGAAGAG	megakaryocyte-erythroid_progenitor_cell	A	1
-1-M-62	10X_P5_10	chr7	25293938	25293938	A	G	granulocytopoietic_cell	3	TGACGGCTCAGTACGT	megakaryocyte-erythroid_progenitor_cell	A	1
-1-M-62	10X_P5_10	chr7	25293938	25293938	A	G	granulocytopoietic_cell	3	ATGCGATAGGGAACGG	megakaryocyte-erythroid_progenitor_cell	A	1
-1-M-62	10X_P5_10	chr7	25293938	25293938	A	G	granulocytopoietic_cell	3	ACTGCTCAGTACGATA	megakaryocyte-erythroid_progenitor_cell	A	1
-1-M-62	10X_P5_10	chr7	25293938	25293938	A	G	granulocytopoietic_cell	3	TCAGGATAGTATTGGA	megakaryocyte-erythroid_progenitor_cell	A	1
-1-M-62	10X_P5_10	chr7	28790036	28790036	G	A	granulocytopoietic_cell	2	CATGACAGTCAGAGGT	megakaryocyte-erythroid_progenitor_cell	G	4
-1-M-62	10X_P5_10	chr7	28790036	28790036	G	A	granulocytopoietic_cell	2	CTACACCGTTTACTCT	megakaryocyte-erythroid_progenitor_cell	G	5
-1-M-62	10X_P5_10	chr7	28790036	28790036	G	A	granulocytopoietic_cell	2	GGGCACTAGAGGGATA	megakaryocyte-erythroid_progenitor_cell	G	1
-1-M-62	10X_P5_10	chr7	28790036	28790036	G	A	granulocytopoietic_cell	2	ACTGCTCAGTACGATA	megakaryocyte-erythroid_progenitor_cell	G	3
-1-M-62	10X_P5_10	chr7	28790036	28790036	G	A	granulocytopoietic_cell	2	CATATTCTCGGAGCAA	megakaryocyte-erythroid_progenitor_cell	G	4
-1-M-62	10X_P5_10	chr7	28790036	28790036	G	A	granulocytopoietic_cell	2	GTGCGGTCAATACGCT	megakaryocyte-erythroid_progenitor_cell	G	2
-1-M-62	10X_P5_10	chr7	28790036	28790036	G	A	granulocytopoietic_cell	2	TACAGTGAGGCCCTCA	megakaryocyte-erythroid_progenitor_cell	G	8
-1-M-62	10X_P5_10	chr7	28790036	28790036	G	A	granulocytopoietic_cell	2	TCGGTAATCCGAAGAG	megakaryocyte-erythroid_progenitor_cell	G	2
-1-M-62	10X_P5_10	chr7	28790036	28790036	G	A	granulocytopoietic_cell	2	ACATCAGCAATCGGTT	megakaryocyte-erythroid_progenitor_cell	G	2
-1-M-62	10X_P5_10	chr7	28790036	28790036	G	A	granulocytopoietic_cell	2	ACTGAACAGACCTAGG	megakaryocyte-erythroid_progenitor_cell	G	1
-1-M-62	10X_P5_10	chr7	28790036	28790036	G	A	granulocytopoietic_cell	2	GAGCAGATCTGCAAGT	megakaryocyte-erythroid_progenitor_cell	G	4
-1-M-62	10X_P5_10	chr7	28790036	28790036	G	A	granulocytopoietic_cell	2	CGTCCATCAAACTGTC	megakaryocyte-erythroid_progenitor_cell	G	3
-1-M-62	10X_P5_10	chr7	28790036	28790036	G	A	granulocytopoietic_cell	2	TCAGGATAGTATTGGA	megakaryocyte-erythroid_progenitor_cell	G	2
-1-M-62	10X_P5_10	chr7	63932321	63932321	T	A	promonocyte	3	TCGGTAATCCGAAGAG	megakaryocyte-erythroid_progenitor_cell	T	1
-1-M-62	10X_P5_10	chr7	63932321	63932321	T	A	promonocyte	3	GAAATGAGTCTTGATG	megakaryocyte-erythroid_progenitor_cell	T	1
-1-M-62	10X_P5_10	chr7	63932321	63932321	T	A	promonocyte	3	ACTGAACAGACCTAGG	megakaryocyte-erythroid_progenitor_cell	T	1
-1-M-62	10X_P5_10	chr7	63932321	63932321	T	A	promonocyte	3	AAGGCAGGTCATCGGC	megakaryocyte-erythroid_progenitor_cell	T	1
-1-M-62	10X_P5_10	chr7	63932321	63932321	T	A	promonocyte	3	CATGACAGTCAGAGGT	megakaryocyte-erythroid_progenitor_cell	T	1
-1-M-62	10X_P5_10	chr9	73093202	73093202	A	G	granulocytopoietic_cell	2	TCAGATGTCGAGGTAG	megakaryocyte-erythroid_progenitor_cell	A	3
-1-M-62	10X_P5_10	chr9	114592136	114592136	A	G	naive_T_cell	2	GACTACATCAGTTGAC	megakaryocyte-erythroid_progenitor_cell	A	5
-1-M-62	10X_P5_10	chr9	114592136	114592136	A	G	naive_T_cell	2	GAAATGAGTCTTGATG	megakaryocyte-erythroid_progenitor_cell	A	1
-1-M-62	10X_P5_10	chr9	114592136	114592136	A	G	naive_T_cell	2	TGACGGCGTGAGCGAT	megakaryocyte-erythroid_progenitor_cell	A	2
-1-M-62	10X_P5_10	chr9	114592136	114592136	A	G	naive_T_cell	2	ATGCGATCAGCCTTGG	megakaryocyte-erythroid_progenitor_cell	A	2
-1-M-62	10X_P5_10	chr9	114592136	114592136	A	G	naive_T_cell	2	CATCGGGTCAGGCCCA	megakaryocyte-erythroid_progenitor_cell	A	1
-1-M-62	10X_P5_10	chr9	114592136	114592136	A	G	naive_T_cell	2	TACAGTGAGGCCCTCA	megakaryocyte-erythroid_progenitor_cell	A	1
-1-M-62	10X_P5_10	chr9	114592136	114592136	A	G	naive_T_cell	2	TCGGTAATCCGAAGAG	megakaryocyte-erythroid_progenitor_cell	A	2
-1-M-62	10X_P5_10	chr9	114592229	114592229	T	C	granulocytopoietic_cell	2	TACAGTGAGGCCCTCA	megakaryocyte-erythroid_progenitor_cell	T	1
-1-M-62	10X_P5_10	chr9	114592229	114592229	T	C	granulocytopoietic_cell	2	GAAATGAGTCTTGATG	megakaryocyte-erythroid_progenitor_cell	T	3
-1-M-62	10X_P5_10	chr9	114592229	114592229	T	C	granulocytopoietic_cell	2	TCGGTAATCCGAAGAG	megakaryocyte-erythroid_progenitor_cell	T	1
-1-M-62	10X_P5_10	chr9	114592229	114592229	T	C	granulocytopoietic_cell	2	TGACGGCGTGAGCGAT	megakaryocyte-erythroid_progenitor_cell	T	1
-1-M-62	10X_P5_10	chr9	114592229	114592229	T	C	granulocytopoietic_cell	2	GACTACATCAGTTGAC	megakaryocyte-erythroid_progenitor_cell	T	2
-1-M-62	10X_P5_10	chr9	114592229	114592229	T	C	granulocytopoietic_cell	2	CATTATCGTCTTTCAT	megakaryocyte-erythroid_progenitor_cell	T	4
+#CHROM	Start	End	REF	ALT_expected	CB	Cell_type_observed	Base_observed	Num_reads
+chr1	88259005	88259005	A	G	GAAATGAGTCTTGATG	megakaryocyte-erythroid_progenitor_cell	A	1
+chr1	88259005	88259005	A	G	TGATTTCGTCCTAGCG	megakaryocyte-erythroid_progenitor_cell	A	3
+chr1	88259005	88259005	A	G	CCATGTCAGCGTAATA	megakaryocyte-erythroid_progenitor_cell	A	2
+chr1	88259005	88259005	A	G	GGGAATGAGATATACG	megakaryocyte-erythroid_progenitor_cell	A	2
+chr1	88259005	88259005	A	G	CATGACAGTCAGAGGT	megakaryocyte-erythroid_progenitor_cell	A	1
+chr10	43605520	43605520	A	G	TCAGCTCTCATCTGCC	megakaryocyte-erythroid_progenitor_cell	G	4
+chr10	43605520	43605520	A	G	TCAGCTCTCATCTGCC	megakaryocyte-erythroid_progenitor_cell	A	2
+chr10	62644429	62644429	T	C	TCGGTAATCCGAAGAG	megakaryocyte-erythroid_progenitor_cell	T	2
+chr10	62644429	62644429	T	C	GTCAAGTCACATCCAA	megakaryocyte-erythroid_progenitor_cell	T	1
+chr10	81136924	81136924	T	G	TGATTTCGTCCTAGCG	megakaryocyte-erythroid_progenitor_cell	T	1
+chr10	81136924	81136924	T	G	GGGACCTTCCCATTAT	megakaryocyte-erythroid_progenitor_cell	T	2
+chr10	81136924	81136924	T	G	TGCACCTGTACGCTGC	megakaryocyte-erythroid_progenitor_cell	T	2
+chr10	81136924	81136924	T	G	CATGACAGTCAGAGGT	megakaryocyte-erythroid_progenitor_cell	T	1
+chr10	93482249	93482249	G	A	TATGCCCAGTATCTCG	megakaryocyte-erythroid_progenitor_cell	G	5
+chr10	93482249	93482249	G	A	AAGGCAGGTCATCGGC	megakaryocyte-erythroid_progenitor_cell	G	1
+chr10	93482249	93482249	G	A	CTCGAGGTCACTGGGC	megakaryocyte-erythroid_progenitor_cell	G	1
+chr11	21316279	21316279	T	C	CTCGAGGTCACTGGGC	megakaryocyte-erythroid_progenitor_cell	T	3
+chr11	21316279	21316279	T	C	CATTATCGTCTTTCAT	megakaryocyte-erythroid_progenitor_cell	T	1
+chr11	21316279	21316279	T	C	ATGCGATAGGGAACGG	megakaryocyte-erythroid_progenitor_cell	T	1
+chr11	59199562	59199562	T	C	AGCGTATAGTTCGCGC	megakaryocyte-erythroid_progenitor_cell	T	5
+chr11	59199562	59199562	T	C	GCTCTGTGTTCAGTAC	megakaryocyte-erythroid_progenitor_cell	T	4
+chr11	59199562	59199562	T	C	ATGCGATCAGCCTTGG	megakaryocyte-erythroid_progenitor_cell	T	2
+chr11	59199562	59199562	T	C	CATGACACATTTGCCC	megakaryocyte-erythroid_progenitor_cell	T	3
+chr11	59199562	59199562	T	C	ATGCGATAGGGAACGG	megakaryocyte-erythroid_progenitor_cell	T	2
+chr11	59199562	59199562	T	C	GCTCTGTCAATGGAGC	megakaryocyte-erythroid_progenitor_cell	T	1
+chr11	59199562	59199562	T	C	TCAGCTCTCATCTGCC	megakaryocyte-erythroid_progenitor_cell	T	1
+chr11	59199562	59199562	T	C	TTTGGTTAGAGCAATT	megakaryocyte-erythroid_progenitor_cell	T	2
+chr11	59199562	59199562	T	C	TCAGGATAGTATTGGA	megakaryocyte-erythroid_progenitor_cell	T	2
+chr11	85038173	85038173	T	C	AGTGAGGGTCTTGATG	megakaryocyte-erythroid_progenitor_cell	T	3
+chr11	85038173	85038173	T	C	CTCGAGGTCACTGGGC	megakaryocyte-erythroid_progenitor_cell	T	4
+chr11	85038173	85038173	T	C	TCAGGATAGTATTGGA	megakaryocyte-erythroid_progenitor_cell	T	3
+chr11	85038173	85038173	T	C	AAGGCAGGTCATCGGC	megakaryocyte-erythroid_progenitor_cell	T	1
+chr11	85038173	85038173	T	C	CATGACAGTCAGAGGT	megakaryocyte-erythroid_progenitor_cell	T	3
+chr12	4956839	4956839	A	G	ACATCAGCAATCGGTT	megakaryocyte-erythroid_progenitor_cell	A	1
+chr12	4956839	4956839	A	G	ATGGGAGGTATCGCAT	megakaryocyte-erythroid_progenitor_cell	A	3
+chr12	4956839	4956839	A	G	CTACACCGTTTACTCT	megakaryocyte-erythroid_progenitor_cell	A	5
+chr12	4956839	4956839	A	G	CATTATCGTCTTTCAT	megakaryocyte-erythroid_progenitor_cell	A	1
+chr13	49544816	49544816	C	T	CATGACAGTCAGAGGT	megakaryocyte-erythroid_progenitor_cell	C	3
+chr14	74909844	74909844	A	G	GTGCGGTCAATACGCT	megakaryocyte-erythroid_progenitor_cell	A	3
+chr14	74909844	74909844	A	G	TACAGTGAGGCCCTCA	megakaryocyte-erythroid_progenitor_cell	A	4
+chr14	74909844	74909844	A	G	AGCGTATAGTTCGCGC	megakaryocyte-erythroid_progenitor_cell	G	4
+chr14	74909844	74909844	A	G	GAGCAGATCTGCAAGT	megakaryocyte-erythroid_progenitor_cell	A	3
+chr14	74909844	74909844	A	G	ACTGCTCAGTACGATA	megakaryocyte-erythroid_progenitor_cell	A	2
+chr14	74909844	74909844	A	G	CTAGCCTGTCACAAGG	megakaryocyte-erythroid_progenitor_cell	A	1
+chr14	74909844	74909844	A	G	ATTACTCGTAGCTCCG	megakaryocyte-erythroid_progenitor_cell	A	2
+chr14	74909844	74909844	A	G	GACTACATCAGTTGAC	megakaryocyte-erythroid_progenitor_cell	G	1
+chr14	78653230	78653230	G	A	GAGCAGATCTGCAAGT	megakaryocyte-erythroid_progenitor_cell	G	1
+chr14	78653230	78653230	G	A	CTCAGAATCAACACCA	megakaryocyte-erythroid_progenitor_cell	G	2
+chr14	78653230	78653230	G	A	CATATTCTCGGAGCAA	megakaryocyte-erythroid_progenitor_cell	G	1
+chr14	78653230	78653230	G	A	CGAGCCAAGGTGCACA	megakaryocyte-erythroid_progenitor_cell	G	1
+chr15	86019605	86019605	A	G	GTCAAGTCACATCCAA	megakaryocyte-erythroid_progenitor_cell	A	4
+chr15	86019605	86019605	A	G	CATGACAGTCAGAGGT	megakaryocyte-erythroid_progenitor_cell	A	1
+chr16	64823848	64823848	A	G	CATTATCGTCTTTCAT	megakaryocyte-erythroid_progenitor_cell	A	2
+chr16	64823848	64823848	A	G	ATGCGATCAGCCTTGG	megakaryocyte-erythroid_progenitor_cell	A	1
+chr16	64823848	64823848	A	G	GAAATGAGTCTTGATG	megakaryocyte-erythroid_progenitor_cell	A	3
+chr16	64823848	64823848	A	G	AGTGAGGGTCTTGATG	megakaryocyte-erythroid_progenitor_cell	A	1
+chr17	10216516	10216516	A	G	TATGCCCAGTATCTCG	megakaryocyte-erythroid_progenitor_cell	A	2
+chr17	10216516	10216516	A	G	CGTCCATCAAACTGTC	megakaryocyte-erythroid_progenitor_cell	A	1
+chr17	10216516	10216516	A	G	TATGCCCAGTATCTCG	megakaryocyte-erythroid_progenitor_cell	G	1
+chr18	31796444	31796444	T	C	AGCGTATAGTTCGCGC	megakaryocyte-erythroid_progenitor_cell	T	1
+chr18	31796444	31796444	T	C	AGTGAGGGTCTTGATG	megakaryocyte-erythroid_progenitor_cell	T	1
+chr2	48974709	48974709	T	C	TGACGGCTCAGTACGT	megakaryocyte-erythroid_progenitor_cell	T	3
+chr2	73909284	73909284	C	T	CGTCACTTCAGTTCGA	megakaryocyte-erythroid_progenitor_cell	C	1
+chr2	73909284	73909284	C	T	ACTGAACAGACCTAGG	megakaryocyte-erythroid_progenitor_cell	C	1
+chr2	73909284	73909284	C	T	CATATTCTCGGAGCAA	megakaryocyte-erythroid_progenitor_cell	C	1
+chr2	73909284	73909284	C	T	CTAATGGAGTAGTGCG	megakaryocyte-erythroid_progenitor_cell	C	1
+chr2	73909284	73909284	C	T	GGGACCTTCCCATTAT	megakaryocyte-erythroid_progenitor_cell	C	1
+chr2	73909284	73909284	C	T	CTCGAGGTCACTGGGC	megakaryocyte-erythroid_progenitor_cell	C	1
+chr2	73909284	73909284	C	T	ACATCAGCAATCGGTT	megakaryocyte-erythroid_progenitor_cell	C	1
+chr2	73909284	73909284	C	T	GTCAAGTCACATCCAA	megakaryocyte-erythroid_progenitor_cell	C	1
+chr2	73909284	73909284	C	T	AGTGAGGGTCTTGATG	megakaryocyte-erythroid_progenitor_cell	C	1
+chr2	73909284	73909284	C	T	TCAGCTCTCATCTGCC	megakaryocyte-erythroid_progenitor_cell	C	1
+chr2	73909284	73909284	C	T	TGGGCGTTCAGAGGTG	megakaryocyte-erythroid_progenitor_cell	C	1
+chr2	73909284	73909284	C	T	TCGAGGCCAAGTCTGT	megakaryocyte-erythroid_progenitor_cell	C	1
+chr2	119609836	119609836	T	C	GGGAATGAGATATACG	megakaryocyte-erythroid_progenitor_cell	T	1
+chr2	151720301	151720301	A	G	GAAATGAGTCTTGATG	megakaryocyte-erythroid_progenitor_cell	A	5
+chr2	151720301	151720301	A	G	CATCGGGTCAGGCCCA	megakaryocyte-erythroid_progenitor_cell	A	2
+chr2	163635040	163635040	C	T	CATGACACATTTGCCC	megakaryocyte-erythroid_progenitor_cell	C	1
+chr2	163635040	163635040	C	T	CTACGTCGTCAAGCGA	megakaryocyte-erythroid_progenitor_cell	C	1
+chr3	105728678	105728678	G	A	CTACGTCGTCAAGCGA	megakaryocyte-erythroid_progenitor_cell	G	2
+chr3	105728678	105728678	G	A	GGGAATGAGATATACG	megakaryocyte-erythroid_progenitor_cell	G	1
+chr3	105728678	105728678	G	A	CTAATGGAGTAGTGCG	megakaryocyte-erythroid_progenitor_cell	G	1
+chr3	105728678	105728678	G	A	ACCGTAATCCTAAGTG	megakaryocyte-erythroid_progenitor_cell	G	2
+chr3	105728678	105728678	G	A	GCGGGTTCATTGGTAC	megakaryocyte-erythroid_progenitor_cell	G	1
+chr3	105728678	105728678	G	A	AGCGTATAGTTCGCGC	megakaryocyte-erythroid_progenitor_cell	G	2
+chr3	105728678	105728678	G	A	GGTGTTATCGACAGCC	megakaryocyte-erythroid_progenitor_cell	G	1
+chr3	105728678	105728678	G	A	CGTCCATCAAACTGTC	megakaryocyte-erythroid_progenitor_cell	G	1
+chr3	105728678	105728678	G	A	ACTGCTCAGTACGATA	megakaryocyte-erythroid_progenitor_cell	G	1
+chr3	105728678	105728678	G	A	TCGGTAATCCGAAGAG	megakaryocyte-erythroid_progenitor_cell	G	1
+chr3	105728678	105728678	G	A	GTGCGGTCAATACGCT	megakaryocyte-erythroid_progenitor_cell	G	1
+chr3	105728678	105728678	G	A	CTAGCCTGTCACAAGG	megakaryocyte-erythroid_progenitor_cell	G	1
+chr5	88783005	88783005	A	G	CTGATAGTCCAATGGT	megakaryocyte-erythroid_progenitor_cell	A	1
+chr5	88783005	88783005	A	G	AGTGGGACAGGGTACA	megakaryocyte-erythroid_progenitor_cell	A	1
+chr5	88783005	88783005	A	G	CATGACACATTTGCCC	megakaryocyte-erythroid_progenitor_cell	A	1
+chr5	88783005	88783005	A	G	CTCAGAATCAACACCA	megakaryocyte-erythroid_progenitor_cell	A	1
+chr5	88783005	88783005	A	G	CTCGAGGTCACTGGGC	megakaryocyte-erythroid_progenitor_cell	A	1
+chr5	88783005	88783005	A	G	AGCGTATAGTTCGCGC	megakaryocyte-erythroid_progenitor_cell	A	1
+chr5	88783005	88783005	A	G	GCTGGGTGTCACCTAA	megakaryocyte-erythroid_progenitor_cell	A	1
+chr5	88783005	88783005	A	G	TGGGCGTTCAGAGGTG	megakaryocyte-erythroid_progenitor_cell	A	1
+chr5	88783005	88783005	A	G	CTACACCGTTTACTCT	megakaryocyte-erythroid_progenitor_cell	A	1
+chr5	88783005	88783005	A	G	GTTCGGGCAATGGAAT	megakaryocyte-erythroid_progenitor_cell	A	1
+chr6	39202768	39202768	T	C	TCAGATGTCGAGGTAG	megakaryocyte-erythroid_progenitor_cell	T	1
+chr6	39202768	39202768	T	C	CGAGCCAAGGTGCACA	megakaryocyte-erythroid_progenitor_cell	T	2
+chr7	25293938	25293938	A	G	TCGGTAATCCGAAGAG	megakaryocyte-erythroid_progenitor_cell	A	1
+chr7	25293938	25293938	A	G	TGACGGCTCAGTACGT	megakaryocyte-erythroid_progenitor_cell	A	1
+chr7	25293938	25293938	A	G	ATGCGATAGGGAACGG	megakaryocyte-erythroid_progenitor_cell	A	1
+chr7	25293938	25293938	A	G	ACTGCTCAGTACGATA	megakaryocyte-erythroid_progenitor_cell	A	1
+chr7	25293938	25293938	A	G	TCAGGATAGTATTGGA	megakaryocyte-erythroid_progenitor_cell	A	1
+chr7	28790036	28790036	G	A	CATGACAGTCAGAGGT	megakaryocyte-erythroid_progenitor_cell	G	4
+chr7	28790036	28790036	G	A	CTACACCGTTTACTCT	megakaryocyte-erythroid_progenitor_cell	G	5
+chr7	28790036	28790036	G	A	GGGCACTAGAGGGATA	megakaryocyte-erythroid_progenitor_cell	G	1
+chr7	28790036	28790036	G	A	ACTGCTCAGTACGATA	megakaryocyte-erythroid_progenitor_cell	G	3
+chr7	28790036	28790036	G	A	CATATTCTCGGAGCAA	megakaryocyte-erythroid_progenitor_cell	G	4
+chr7	28790036	28790036	G	A	GTGCGGTCAATACGCT	megakaryocyte-erythroid_progenitor_cell	G	2
+chr7	28790036	28790036	G	A	TACAGTGAGGCCCTCA	megakaryocyte-erythroid_progenitor_cell	G	8
+chr7	28790036	28790036	G	A	TCGGTAATCCGAAGAG	megakaryocyte-erythroid_progenitor_cell	G	2
+chr7	28790036	28790036	G	A	ACATCAGCAATCGGTT	megakaryocyte-erythroid_progenitor_cell	G	2
+chr7	28790036	28790036	G	A	ACTGAACAGACCTAGG	megakaryocyte-erythroid_progenitor_cell	G	1
+chr7	28790036	28790036	G	A	GAGCAGATCTGCAAGT	megakaryocyte-erythroid_progenitor_cell	G	4
+chr7	28790036	28790036	G	A	CGTCCATCAAACTGTC	megakaryocyte-erythroid_progenitor_cell	G	3
+chr7	28790036	28790036	G	A	TCAGGATAGTATTGGA	megakaryocyte-erythroid_progenitor_cell	G	2
+chr7	63932321	63932321	T	A	TCGGTAATCCGAAGAG	megakaryocyte-erythroid_progenitor_cell	T	1
+chr7	63932321	63932321	T	A	GAAATGAGTCTTGATG	megakaryocyte-erythroid_progenitor_cell	T	1
+chr7	63932321	63932321	T	A	ACTGAACAGACCTAGG	megakaryocyte-erythroid_progenitor_cell	T	1
+chr7	63932321	63932321	T	A	AAGGCAGGTCATCGGC	megakaryocyte-erythroid_progenitor_cell	T	1
+chr7	63932321	63932321	T	A	CATGACAGTCAGAGGT	megakaryocyte-erythroid_progenitor_cell	T	1
+chr9	73093202	73093202	A	G	TCAGATGTCGAGGTAG	megakaryocyte-erythroid_progenitor_cell	A	3
+chr9	114592136	114592136	A	G	GACTACATCAGTTGAC	megakaryocyte-erythroid_progenitor_cell	A	5
+chr9	114592136	114592136	A	G	GAAATGAGTCTTGATG	megakaryocyte-erythroid_progenitor_cell	A	1
+chr9	114592136	114592136	A	G	TGACGGCGTGAGCGAT	megakaryocyte-erythroid_progenitor_cell	A	2
+chr9	114592136	114592136	A	G	ATGCGATCAGCCTTGG	megakaryocyte-erythroid_progenitor_cell	A	2
+chr9	114592136	114592136	A	G	CATCGGGTCAGGCCCA	megakaryocyte-erythroid_progenitor_cell	A	1
+chr9	114592136	114592136	A	G	TACAGTGAGGCCCTCA	megakaryocyte-erythroid_progenitor_cell	A	1
+chr9	114592136	114592136	A	G	TCGGTAATCCGAAGAG	megakaryocyte-erythroid_progenitor_cell	A	2
+chr9	114592229	114592229	T	C	TACAGTGAGGCCCTCA	megakaryocyte-erythroid_progenitor_cell	T	1
+chr9	114592229	114592229	T	C	GAAATGAGTCTTGATG	megakaryocyte-erythroid_progenitor_cell	T	3
+chr9	114592229	114592229	T	C	TCGGTAATCCGAAGAG	megakaryocyte-erythroid_progenitor_cell	T	1
+chr9	114592229	114592229	T	C	TGACGGCGTGAGCGAT	megakaryocyte-erythroid_progenitor_cell	T	1
+chr9	114592229	114592229	T	C	GACTACATCAGTTGAC	megakaryocyte-erythroid_progenitor_cell	T	2
+chr9	114592229	114592229	T	C	CATTATCGTCTTTCAT	megakaryocyte-erythroid_progenitor_cell	T	4

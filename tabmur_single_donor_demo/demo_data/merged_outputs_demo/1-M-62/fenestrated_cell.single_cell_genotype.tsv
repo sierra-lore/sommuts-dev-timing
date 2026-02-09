@@ -1,709 +1,709 @@
-donor	sample	#CHROM	Start	End	REF	ALT_expected	Cell_type_expected	Num_cells_expected	CB	Cell_type_observed	Base_observed	Num_reads
-1-M-62	10X_P5_8	chr1	58415537	58415537	C	T	kidney_cortex_artery_cell	2	GTCCTCAGTCAGAGGT	fenestrated_cell	C	10
-1-M-62	10X_P5_8	chr1	58415537	58415537	C	T	kidney_cortex_artery_cell	2	AGGTCATCAGGTCCAC	fenestrated_cell	C	17
-1-M-62	10X_P5_8	chr1	58415537	58415537	C	T	kidney_cortex_artery_cell	2	CGCTTCAAGGTGATAT	fenestrated_cell	C	5
-1-M-62	10X_P5_8	chr1	58415537	58415537	C	T	kidney_cortex_artery_cell	2	GTTTCTAAGCTGAACG	fenestrated_cell	C	5
-1-M-62	10X_P5_8	chr1	58415537	58415537	C	T	kidney_cortex_artery_cell	2	TTTGGTTCATATACGC	fenestrated_cell	C	4
-1-M-62	10X_P5_8	chr1	58415537	58415537	C	T	kidney_cortex_artery_cell	2	CGGAGTCTCGTCTGCT	fenestrated_cell	C	7
-1-M-62	10X_P5_8	chr1	58415537	58415537	C	T	kidney_cortex_artery_cell	2	GTGAAGGTCCATGAGT	fenestrated_cell	C	8
-1-M-62	10X_P5_8	chr1	58415537	58415537	C	T	kidney_cortex_artery_cell	2	GTAGTCATCGGAGCAA	fenestrated_cell	C	10
-1-M-62	10X_P5_8	chr1	58415537	58415537	C	T	kidney_cortex_artery_cell	2	TACTCGCTCCATGAGT	fenestrated_cell	C	15
-1-M-62	10X_P5_8	chr1	58415537	58415537	C	T	kidney_cortex_artery_cell	2	CACACTCGTCAATGTC	fenestrated_cell	C	6
-1-M-62	10X_P5_8	chr1	58415537	58415537	C	T	kidney_cortex_artery_cell	2	GATCGTAAGGGTTTCT	fenestrated_cell	C	20
-1-M-62	10X_P5_8	chr1	58415537	58415537	C	T	kidney_cortex_artery_cell	2	CACCTTGTCAGAAATG	fenestrated_cell	C	2
-1-M-62	10X_P5_8	chr1	58415537	58415537	C	T	kidney_cortex_artery_cell	2	CTAAGACCAGCTGTAT	fenestrated_cell	C	5
-1-M-62	10X_P5_8	chr1	58415537	58415537	C	T	kidney_cortex_artery_cell	2	AACTCAGTCACTTCAT	fenestrated_cell	C	4
-1-M-62	10X_P5_8	chr1	58415537	58415537	C	T	kidney_cortex_artery_cell	2	AGCTTGAGTGGCTCCA	fenestrated_cell	C	7
-1-M-62	10X_P5_8	chr1	58415537	58415537	C	T	kidney_cortex_artery_cell	2	TTCTACATCATGCTCC	fenestrated_cell	C	9
-1-M-62	10X_P5_8	chr1	58415537	58415537	C	T	kidney_cortex_artery_cell	2	GGGTTGCCAAACTGTC	fenestrated_cell	C	5
-1-M-62	10X_P5_8	chr1	58415537	58415537	C	T	kidney_cortex_artery_cell	2	TAAGTGCGTTGAACTC	fenestrated_cell	C	6
-1-M-62	10X_P5_8	chr1	58415537	58415537	C	T	kidney_cortex_artery_cell	2	TAGTTGGTCTCTGAGA	fenestrated_cell	C	2
-1-M-62	10X_P5_8	chr1	58415537	58415537	C	T	kidney_cortex_artery_cell	2	TCACGAACAAATACAG	fenestrated_cell	C	4
-1-M-62	10X_P5_8	chr1	58415537	58415537	C	T	kidney_cortex_artery_cell	2	GCCTCTATCTGTCTAT	fenestrated_cell	C	1
-1-M-62	10X_P5_8	chr1	58415537	58415537	C	T	kidney_cortex_artery_cell	2	GGGAATGGTAACGTTC	fenestrated_cell	C	6
-1-M-62	10X_P5_8	chr1	82634873	82634873	C	T	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	AACTCCCAGTGCGTGA	fenestrated_cell	C	13
-1-M-62	10X_P5_8	chr1	93441521	93441521	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	2	GAACGGAAGTGGAGAA	fenestrated_cell	A	3
-1-M-62	10X_P5_8	chr1	93441521	93441521	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	2	AGCTCCTAGTGGACGT	fenestrated_cell	A	5
-1-M-62	10X_P5_8	chr1	93441521	93441521	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	2	ACATACGTCGTTTATC	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr1	93441521	93441521	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	2	GTCACAATCCCACTTG	fenestrated_cell	A	5
-1-M-62	10X_P5_8	chr1	93441521	93441521	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	2	TAGTTGGTCTCTGAGA	fenestrated_cell	A	3
-1-M-62	10X_P5_8	chr1	93441521	93441521	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	2	GAACCTAAGCAATCTC	fenestrated_cell	A	4
-1-M-62	10X_P5_8	chr1	93441521	93441521	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	2	CATGACATCTCTAGGA	fenestrated_cell	A	3
-1-M-62	10X_P5_8	chr1	93441521	93441521	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	2	CGTCTACGTACACCGC	fenestrated_cell	A	2
-1-M-62	10X_P5_8	chr1	93441521	93441521	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	2	GTTTCTATCTTGACGA	fenestrated_cell	A	3
-1-M-62	10X_P5_8	chr1	93441521	93441521	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	2	GTGAAGGTCCATGAGT	fenestrated_cell	A	3
-1-M-62	10X_P5_8	chr1	93441521	93441521	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	2	TTTGGTTCATATACGC	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr1	93441521	93441521	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	2	AACTCAGTCACTTCAT	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr1	93441521	93441521	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	2	TTTCCTCAGAGTCGGT	fenestrated_cell	A	4
-1-M-62	10X_P5_8	chr1	93441521	93441521	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	2	GCGCGATGTAAGAGGA	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr1	93441521	93441521	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	2	TACTCGCTCCATGAGT	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr1	151345769	151345769	T	C	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	GATCGCGCATTCCTGC	fenestrated_cell	T	7
-1-M-62	10X_P5_8	chr1	151345769	151345769	T	C	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	CCGTTCATCTCTAAGG	fenestrated_cell	T	6
-1-M-62	10X_P5_8	chr1	151345769	151345769	T	C	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	ATTCTACCAAGTCATC	fenestrated_cell	T	4
-1-M-62	10X_P5_8	chr1	151345769	151345769	T	C	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	CCACGGATCAATCACG	fenestrated_cell	T	13
-1-M-62	10X_P5_8	chr1	151345769	151345769	T	C	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	GTGAAGGTCCATGAGT	fenestrated_cell	T	5
-1-M-62	10X_P5_8	chr1	151345769	151345769	T	C	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	TCACAAGTCTGTTGAG	fenestrated_cell	T	5
-1-M-62	10X_P5_8	chr1	151345769	151345769	T	C	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	CAACCAAAGTCAAGCG	fenestrated_cell	T	5
-1-M-62	10X_P5_8	chr1	151345769	151345769	T	C	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	AGGGATGTCGCGGATC	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr1	171254538	171254538	C	T	kidney_mesangial_cell	2	CAGCATACAGCCTATA	fenestrated_cell	C	9
-1-M-62	10X_P5_8	chr1	171254538	171254538	C	T	kidney_mesangial_cell	2	ATAACGCTCAGGCCCA	fenestrated_cell	C	1
-1-M-62	10X_P5_8	chr1	171254538	171254538	C	T	kidney_mesangial_cell	2	ACGGAGACAAACGTGG	fenestrated_cell	C	5
-1-M-62	10X_P5_8	chr1	171254538	171254538	C	T	kidney_mesangial_cell	2	CACACTCGTCAATGTC	fenestrated_cell	C	5
-1-M-62	10X_P5_8	chr1	171254538	171254538	C	T	kidney_mesangial_cell	2	CGATTGACACACAGAG	fenestrated_cell	C	9
-1-M-62	10X_P5_8	chr1	171254538	171254538	C	T	kidney_mesangial_cell	2	CGAACATCAATCTGCA	fenestrated_cell	C	1
-1-M-62	10X_P5_8	chr1	171254538	171254538	C	T	kidney_mesangial_cell	2	TAGTTGGTCTCTGAGA	fenestrated_cell	C	8
-1-M-62	10X_P5_8	chr1	171254538	171254538	C	T	kidney_mesangial_cell	2	GTTAAGCGTCTCTCTG	fenestrated_cell	C	4
-1-M-62	10X_P5_8	chr1	171254538	171254538	C	T	kidney_mesangial_cell	2	TCACGAAAGGTGCACA	fenestrated_cell	C	3
-1-M-62	10X_P5_8	chr1	171254538	171254538	C	T	kidney_mesangial_cell	2	TACTCGCTCCATGAGT	fenestrated_cell	C	3
-1-M-62	10X_P5_8	chr10	13443654	13443654	T	C	kidney_collecting_duct_principal_cell	2	CACACTCGTGAGTGAC	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr10	95308830	95308830	T	C	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	CACACTCGTGAGTGAC	fenestrated_cell	C	3
-1-M-62	10X_P5_8	chr10	95308830	95308830	T	C	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	TTCGGTCAGAGTCGGT	fenestrated_cell	T	3
-1-M-62	10X_P5_8	chr10	95308830	95308830	T	C	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	GATCGATCATGCTGGC	fenestrated_cell	C	1
-1-M-62	10X_P5_8	chr11	23347097	23347097	A	G	fenestrated_cell	4	TACAGTGTCGTCCGTT	fenestrated_cell	G	3
-1-M-62	10X_P5_8	chr11	23347097	23347097	A	G	fenestrated_cell	4	CTCACACAGGTTCCTA	fenestrated_cell	G	5
-1-M-62	10X_P5_8	chr11	23347097	23347097	A	G	fenestrated_cell	4	GTTAAGCGTCTCTCTG	fenestrated_cell	G	7
-1-M-62	10X_P5_8	chr11	23347097	23347097	A	G	fenestrated_cell	4	GTTAAGCGTCTCTCTG	fenestrated_cell	A	4
-1-M-62	10X_P5_8	chr11	23347097	23347097	A	G	fenestrated_cell	4	TTAGGACTCCTTGCCA	fenestrated_cell	A	4
-1-M-62	10X_P5_8	chr11	23347097	23347097	A	G	fenestrated_cell	4	TTCTACATCATGCTCC	fenestrated_cell	A	7
-1-M-62	10X_P5_8	chr11	23347097	23347097	A	G	fenestrated_cell	4	TTCGGTCAGAGTCGGT	fenestrated_cell	A	4
-1-M-62	10X_P5_8	chr11	23347097	23347097	A	G	fenestrated_cell	4	CACACTCGTGAGTGAC	fenestrated_cell	G	2
-1-M-62	10X_P5_8	chr11	85038163	85038163	T	C	fenestrated_cell	2	CGTCACTCATGGTAGG	fenestrated_cell	C	5
-1-M-62	10X_P5_8	chr11	85038163	85038163	T	C	fenestrated_cell	2	CTCACACAGGTTCCTA	fenestrated_cell	T	9
-1-M-62	10X_P5_8	chr11	85038163	85038163	T	C	fenestrated_cell	2	GGGAATGGTAACGTTC	fenestrated_cell	C	8
-1-M-62	10X_P5_8	chr11	85038163	85038163	T	C	fenestrated_cell	2	TAGAGCTGTGCACGAA	fenestrated_cell	T	10
-1-M-62	10X_P5_8	chr11	85038163	85038163	T	C	fenestrated_cell	2	ATAACGCTCACCCGAG	fenestrated_cell	T	3
-1-M-62	10X_P5_8	chr11	85038163	85038163	T	C	fenestrated_cell	2	AACTCAGTCACTTCAT	fenestrated_cell	T	8
-1-M-62	10X_P5_8	chr11	85038163	85038163	T	C	fenestrated_cell	2	CTAAGACCAGCTGTAT	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr11	85038163	85038163	T	C	fenestrated_cell	2	GTCCTCAGTCAGAGGT	fenestrated_cell	T	2
-1-M-62	10X_P5_8	chr11	113117219	113117219	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	2	TAGAGCTGTGCACGAA	fenestrated_cell	A	11
-1-M-62	10X_P5_8	chr12	4249725	4249725	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	2	CACCTTGTCAGAAATG	fenestrated_cell	G	2
-1-M-62	10X_P5_8	chr12	4249725	4249725	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	2	GTAGGCCAGTAACCCT	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr12	4249725	4249725	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	2	AGGTCATCAGGTCCAC	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr12	4249725	4249725	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	2	TACTCGCTCCATGAGT	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr12	51636408	51636408	T	C	podocyte	2	ACAGCTAAGAGTGAGA	fenestrated_cell	T	10
-1-M-62	10X_P5_8	chr12	51636408	51636408	T	C	podocyte	2	CACCTTGTCAGAAATG	fenestrated_cell	T	2
-1-M-62	10X_P5_8	chr12	51636408	51636408	T	C	podocyte	2	AGCTCTCAGCGCTTAT	fenestrated_cell	T	10
-1-M-62	10X_P5_8	chr12	51636408	51636408	T	C	podocyte	2	GGGTTGCCAAACTGTC	fenestrated_cell	T	6
-1-M-62	10X_P5_8	chr12	51636408	51636408	T	C	podocyte	2	ATAACGCTCACCCGAG	fenestrated_cell	T	3
-1-M-62	10X_P5_8	chr12	51636408	51636408	T	C	podocyte	2	CATGACATCTCTAGGA	fenestrated_cell	T	10
-1-M-62	10X_P5_8	chr12	51636408	51636408	T	C	podocyte	2	ACGGAGACAAACGTGG	fenestrated_cell	T	6
-1-M-62	10X_P5_8	chr12	51636408	51636408	T	C	podocyte	2	CAGTCCTGTTCCCTTG	fenestrated_cell	T	5
-1-M-62	10X_P5_8	chr12	51636408	51636408	T	C	podocyte	2	GATGAAAGTTCGGGCT	fenestrated_cell	T	5
-1-M-62	10X_P5_8	chr12	51636408	51636408	T	C	podocyte	2	TACTCGCTCCATGAGT	fenestrated_cell	T	4
-1-M-62	10X_P5_8	chr12	51636408	51636408	T	C	podocyte	2	GATCGCGCATTCCTGC	fenestrated_cell	T	6
-1-M-62	10X_P5_8	chr12	51636408	51636408	T	C	podocyte	2	GGGAATGGTAACGTTC	fenestrated_cell	T	9
-1-M-62	10X_P5_8	chr12	51636408	51636408	T	C	podocyte	2	CGATTGACACACAGAG	fenestrated_cell	T	8
-1-M-62	10X_P5_8	chr12	51636408	51636408	T	C	podocyte	2	ATTCTACCAAGTCATC	fenestrated_cell	T	8
-1-M-62	10X_P5_8	chr12	51636408	51636408	T	C	podocyte	2	ACATACGTCGTTTATC	fenestrated_cell	T	3
-1-M-62	10X_P5_8	chr12	51636408	51636408	T	C	podocyte	2	TTAGGACTCCTTGCCA	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr12	84971746	84971746	A	G	kidney_mesangial_cell	2	TCACAAGTCTGTTGAG	fenestrated_cell	A	5
-1-M-62	10X_P5_8	chr12	84971746	84971746	A	G	kidney_mesangial_cell	2	CACCTTGAGTGGAGTC	fenestrated_cell	A	8
-1-M-62	10X_P5_8	chr12	84971746	84971746	A	G	kidney_mesangial_cell	2	TGTATTCCAAGTTAAG	fenestrated_cell	A	6
-1-M-62	10X_P5_8	chr12	84971746	84971746	A	G	kidney_mesangial_cell	2	GATGAAAGTTCGGGCT	fenestrated_cell	A	3
-1-M-62	10X_P5_8	chr12	84971746	84971746	A	G	kidney_mesangial_cell	2	ACAGCTAAGAGTGAGA	fenestrated_cell	A	5
-1-M-62	10X_P5_8	chr12	84971746	84971746	A	G	kidney_mesangial_cell	2	GTCCTCAGTCAGAGGT	fenestrated_cell	A	5
-1-M-62	10X_P5_8	chr12	84971746	84971746	A	G	kidney_mesangial_cell	2	TGATTTCGTTGAACTC	fenestrated_cell	A	5
-1-M-62	10X_P5_8	chr12	84971746	84971746	A	G	kidney_mesangial_cell	2	CCGTTCATCTCTAAGG	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	GCGCGATGTAAGAGGA	fenestrated_cell	A	9
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	GGACAAGAGGTGCACA	fenestrated_cell	A	7
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	TAGAGCTGTGCACGAA	fenestrated_cell	A	7
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	CGTCACTCATGGTAGG	fenestrated_cell	A	8
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	GTTAAGCGTCTCTCTG	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	TACGGATTCGCGATCG	fenestrated_cell	A	5
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	CAGTCCTGTTCCCTTG	fenestrated_cell	A	7
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	AGCTCCTAGTGGACGT	fenestrated_cell	A	4
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	GTATTCTAGTCTCAAC	fenestrated_cell	A	8
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	GTCCTCAGTCAGAGGT	fenestrated_cell	A	6
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	CTAGTGATCGGCATCG	fenestrated_cell	A	5
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	TCACGAACAAATACAG	fenestrated_cell	A	4
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	CCTTCGACATGACGGA	fenestrated_cell	A	5
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	GAACCTAAGCAATCTC	fenestrated_cell	A	2
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	AAACCTGTCGGACAAG	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	GATCGATCATGCTGGC	fenestrated_cell	G	2
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	CTAACTTCAAGTCTGT	fenestrated_cell	A	5
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	CACCTTGTCAGAAATG	fenestrated_cell	A	3
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	CTCACACAGGTTCCTA	fenestrated_cell	G	4
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	CATGACATCTCTAGGA	fenestrated_cell	A	3
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	TGTATTCCAAGTTAAG	fenestrated_cell	A	2
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	GTTTCTAAGCTGAACG	fenestrated_cell	A	2
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	CGGAGTCTCGTCTGCT	fenestrated_cell	A	16
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	CACACTCGTCAATGTC	fenestrated_cell	A	36
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	GTTAAGCGTCTCTCTG	fenestrated_cell	A	22
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	AACTCCCAGTGCGTGA	fenestrated_cell	A	39
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	ACATACGTCGTTTATC	fenestrated_cell	A	14
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	ACGGAGACAAACGTGG	fenestrated_cell	A	27
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	ATAACGCTCACCCGAG	fenestrated_cell	A	17
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	CACACTCGTGAGTGAC	fenestrated_cell	A	43
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	CACAGTATCCGCAAGC	fenestrated_cell	A	15
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	CATGACATCTCTAGGA	fenestrated_cell	A	63
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	CCGTGGACAGGGTACA	fenestrated_cell	A	15
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	CGATTGACACACAGAG	fenestrated_cell	A	23
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	GAAGCAGGTGGTACAG	fenestrated_cell	A	20
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	GATGAAAGTTCGGGCT	fenestrated_cell	A	7
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	GGGTTGCCAAACTGTC	fenestrated_cell	A	23
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	GTCACAATCCCACTTG	fenestrated_cell	A	28
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	TCGCGAGCAGACAAGC	fenestrated_cell	A	15
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	GTAGGCCAGTAACCCT	fenestrated_cell	A	23
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	CAGTCCTGTTCCCTTG	fenestrated_cell	A	14
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	TGATTTCGTTGAACTC	fenestrated_cell	A	25
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	TTGAACGTCACCCGAG	fenestrated_cell	A	8
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	ACAGCTAAGAGTGAGA	fenestrated_cell	A	19
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	CCTTCGACATGACGGA	fenestrated_cell	A	7
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	CTTAACTAGAGAACAG	fenestrated_cell	A	8
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	GCGCGATGTAAGAGGA	fenestrated_cell	A	30
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	TCACGAACAAATACAG	fenestrated_cell	A	24
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	TTTGGTTCATATACGC	fenestrated_cell	A	23
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	CCGTTCATCTCTAAGG	fenestrated_cell	A	6
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	CGGCTAGGTTACGGAG	fenestrated_cell	A	31
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	GGAACTTTCCGCATCT	fenestrated_cell	A	5
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	TACTCGCTCCATGAGT	fenestrated_cell	A	26
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	GTTTCTATCTTGACGA	fenestrated_cell	A	13
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	AGCTTGAGTGGCTCCA	fenestrated_cell	A	17
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	CACCTTGTCAGAAATG	fenestrated_cell	A	5
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	CCACGGATCAATCACG	fenestrated_cell	A	14
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	CGTCAGGCAGGATTGG	fenestrated_cell	A	2
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	CTAAGACCAGCTGTAT	fenestrated_cell	A	5
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	TGCCCATCATCTGGTA	fenestrated_cell	A	4
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	TTCGGTCAGAGTCGGT	fenestrated_cell	A	34
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	CATCAAGTCGTCACGG	fenestrated_cell	A	4
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	CACCTTGAGTGGAGTC	fenestrated_cell	A	11
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	CAGCATACAGCCTATA	fenestrated_cell	A	6
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	CGGAGTCCAGGATTGG	fenestrated_cell	A	21
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	GGTGAAGCAGAGTGTG	fenestrated_cell	A	7
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	CTTGGCTCAGTCTTCC	fenestrated_cell	A	12
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	CTCACACAGGTTCCTA	fenestrated_cell	A	27
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	AGGGATGTCGCGGATC	fenestrated_cell	A	7
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	GTAGTCATCGGAGCAA	fenestrated_cell	A	26
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	GTGAAGGTCCATGAGT	fenestrated_cell	A	8
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	GCCTCTATCTGTCTAT	fenestrated_cell	A	15
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	AGCTCTCAGCGCTTAT	fenestrated_cell	A	2
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	ATAACGCTCAGGCCCA	fenestrated_cell	A	8
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	TTCTACATCATGCTCC	fenestrated_cell	A	9
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	CGAACATCAATCTGCA	fenestrated_cell	A	8
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	CTGTGCTAGATCTGAA	fenestrated_cell	A	16
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	AACTCAGTCACTTCAT	fenestrated_cell	A	15
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	GAACGGAAGTGGAGAA	fenestrated_cell	A	13
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	GATCGTAAGGGTTTCT	fenestrated_cell	A	7
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	ATTCTACCAAGTCATC	fenestrated_cell	A	10
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	CCCAGTTCAAAGGAAG	fenestrated_cell	A	7
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	TGTATTCCAAGTTAAG	fenestrated_cell	A	11
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	TTAGGACTCCGATATG	fenestrated_cell	A	2
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	TTAGTTCGTACAAGTA	fenestrated_cell	A	9
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	CGTCTACGTACACCGC	fenestrated_cell	A	8
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	ACGCCGAAGTGAAGTT	fenestrated_cell	A	9
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	TCTTCGGTCAGCTCGG	fenestrated_cell	A	5
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	TCACGAACAAATACAG	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	TCATTTGAGCTTTGGT	fenestrated_cell	A	4
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	GATCGCGCATTCCTGC	fenestrated_cell	A	3
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	TTTCCTCAGAGTCGGT	fenestrated_cell	A	2
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	CGTCACTCATGGTAGG	fenestrated_cell	A	3
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	TAGTTGGTCTCTGAGA	fenestrated_cell	A	3
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	GTGGGTCGTAGTGAAT	fenestrated_cell	A	3
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	TGCGCAGGTGCAGTAG	fenestrated_cell	A	2
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	TTAGGACTCCTTGCCA	fenestrated_cell	A	4
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	CAACCAAAGTCAAGCG	fenestrated_cell	A	4
-1-M-62	10X_P5_8	chr14	47186779	47186779	A	T	fenestrated_cell	2	GCGCGATGTAAGAGGA	fenestrated_cell	A	5
-1-M-62	10X_P5_8	chr14	47186779	47186779	A	T	fenestrated_cell	2	ACATACGTCGTTTATC	fenestrated_cell	A	2
-1-M-62	10X_P5_8	chr14	47186779	47186779	A	T	fenestrated_cell	2	CTAACTTCAAGTCTGT	fenestrated_cell	A	2
-1-M-62	10X_P5_8	chr14	47186779	47186779	A	T	fenestrated_cell	2	GTGAAGGTCCATGAGT	fenestrated_cell	A	4
-1-M-62	10X_P5_8	chr14	47186779	47186779	A	T	fenestrated_cell	2	ATTCTACCAAGTCATC	fenestrated_cell	A	6
-1-M-62	10X_P5_8	chr14	47186779	47186779	A	T	fenestrated_cell	2	TCACGAAAGGTGCACA	fenestrated_cell	A	6
-1-M-62	10X_P5_8	chr14	47186779	47186779	A	T	fenestrated_cell	2	TCGCGAGCAGACAAGC	fenestrated_cell	A	2
-1-M-62	10X_P5_8	chr14	47186779	47186779	A	T	fenestrated_cell	2	ATTCTACCAAGTCATC	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr14	47186779	47186779	A	T	fenestrated_cell	2	CATCAGACACCCTATC	fenestrated_cell	A	6
-1-M-62	10X_P5_8	chr14	47186779	47186779	A	T	fenestrated_cell	2	CAGTCCTGTTCCCTTG	fenestrated_cell	A	3
-1-M-62	10X_P5_8	chr14	47186779	47186779	A	T	fenestrated_cell	2	TAGAGCTGTGCACGAA	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr14	47186779	47186779	A	T	fenestrated_cell	2	GTGAAGGTCCATGAGT	fenestrated_cell	T	2
-1-M-62	10X_P5_8	chr14	56919949	56919949	T	C	kidney_proximal_convoluted_tubule_epithelial_cell	3	CGATTGACACACAGAG	fenestrated_cell	T	9
-1-M-62	10X_P5_8	chr14	56919949	56919949	T	C	kidney_proximal_convoluted_tubule_epithelial_cell	3	TAGTTGGTCTCTGAGA	fenestrated_cell	T	2
-1-M-62	10X_P5_8	chr14	56919949	56919949	T	C	kidney_proximal_convoluted_tubule_epithelial_cell	3	ACAGCTAAGAGTGAGA	fenestrated_cell	T	12
-1-M-62	10X_P5_8	chr14	56919949	56919949	T	C	kidney_proximal_convoluted_tubule_epithelial_cell	3	TTCTACATCATGCTCC	fenestrated_cell	T	7
-1-M-62	10X_P5_8	chr14	56919949	56919949	T	C	kidney_proximal_convoluted_tubule_epithelial_cell	3	CTAAGACCAGCTGTAT	fenestrated_cell	T	4
-1-M-62	10X_P5_8	chr14	56919949	56919949	T	C	kidney_proximal_convoluted_tubule_epithelial_cell	3	GTCACAATCCCACTTG	fenestrated_cell	T	9
-1-M-62	10X_P5_8	chr14	56919949	56919949	T	C	kidney_proximal_convoluted_tubule_epithelial_cell	3	CAGCATACAGCCTATA	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr14	70672157	70672157	A	T	kidney_proximal_convoluted_tubule_epithelial_cell	3	GTCACAATCCCACTTG	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr14	70672157	70672157	A	T	kidney_proximal_convoluted_tubule_epithelial_cell	3	ATTCTACCAAGTCATC	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr14	70672157	70672157	A	T	kidney_proximal_convoluted_tubule_epithelial_cell	3	TGTATTCCAAGTTAAG	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr14	70672157	70672157	A	T	kidney_proximal_convoluted_tubule_epithelial_cell	3	TCTTCGGTCAGCTCGG	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr14	70672157	70672157	A	T	kidney_proximal_convoluted_tubule_epithelial_cell	3	CGTCACTCATGGTAGG	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr14	70672157	70672157	A	T	kidney_proximal_convoluted_tubule_epithelial_cell	3	GTTAAGCGTCTCTCTG	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr14	70672157	70672157	A	T	kidney_proximal_convoluted_tubule_epithelial_cell	3	AGGGATGTCGCGGATC	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr14	70672157	70672157	A	T	kidney_proximal_convoluted_tubule_epithelial_cell	3	GTTTCTATCTTGACGA	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr14	75783278	75783278	T	A	kidney_proximal_convoluted_tubule_epithelial_cell	4	GATCGTAAGGGTTTCT	fenestrated_cell	T	3
-1-M-62	10X_P5_8	chr14	75783278	75783278	T	A	kidney_proximal_convoluted_tubule_epithelial_cell	4	GAACCTAAGCAATCTC	fenestrated_cell	T	4
-1-M-62	10X_P5_8	chr14	75783278	75783278	T	A	kidney_proximal_convoluted_tubule_epithelial_cell	4	CTCACACAGGTTCCTA	fenestrated_cell	T	3
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	TACGGATTCGCGATCG	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	GCGCGATGTAAGAGGA	fenestrated_cell	T	2
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	ACAGCCGGTATTCGTG	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	CGATTGACACACAGAG	fenestrated_cell	T	2
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	CGGCTAGGTTACGGAG	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	CTTAACTAGAGAACAG	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	CATGACATCTCTAGGA	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	GTGGGTCGTAGTGAAT	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	AGCTTGAGTGGCTCCA	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	GATCGTAAGGGTTTCT	fenestrated_cell	T	2
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	TGGACGCAGCTGTTCA	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	TGCCCATCATCTGGTA	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	GTGTTAGAGTCCGGTC	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	ACGCCGAAGTGAAGTT	fenestrated_cell	C	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	CCACGGATCAATCACG	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	GGGAATGGTAACGTTC	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	GTGAAGGTCCATGAGT	fenestrated_cell	T	2
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	TCGCGAGCAGACAAGC	fenestrated_cell	T	2
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	CACACTCGTGAGTGAC	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	TTGAACGTCACCCGAG	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	CTCACACAGGTTCCTA	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	CGAACATCAATCTGCA	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	ATAACGCTCAGGCCCA	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	CCCAGTTCAAAGGAAG	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	ACGCCGAAGTGAAGTT	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	TAGTTGGTCTCTGAGA	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	AGCTCTCAGCGCTTAT	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	TTCGGTCAGAGTCGGT	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr16	4730557	4730557	A	G	fenestrated_cell	2	CCTTCGACATGACGGA	fenestrated_cell	G	5
-1-M-62	10X_P5_8	chr16	4730557	4730557	A	G	fenestrated_cell	2	GGTGAAGCAGAGTGTG	fenestrated_cell	A	9
-1-M-62	10X_P5_8	chr16	4730557	4730557	A	G	fenestrated_cell	2	TACGGATTCGCGATCG	fenestrated_cell	A	7
-1-M-62	10X_P5_8	chr16	4730557	4730557	A	G	fenestrated_cell	2	TAGAGCTGTGCACGAA	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr16	4730557	4730557	A	G	fenestrated_cell	2	GTCCTCAGTCAGAGGT	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr16	57601769	57601769	A	G	kidney_mesangial_cell	2	TTCTACATCATGCTCC	fenestrated_cell	A	5
-1-M-62	10X_P5_8	chr16	57601769	57601769	A	G	kidney_mesangial_cell	2	TTAGGACTCCTTGCCA	fenestrated_cell	A	10
-1-M-62	10X_P5_8	chr16	57601769	57601769	A	G	kidney_mesangial_cell	2	TGTATTCCAAGTTAAG	fenestrated_cell	A	3
-1-M-62	10X_P5_8	chr16	57601769	57601769	A	G	kidney_mesangial_cell	2	ACGGAGACAAACGTGG	fenestrated_cell	A	7
-1-M-62	10X_P5_8	chr16	57601769	57601769	A	G	kidney_mesangial_cell	2	GATCGTAAGGGTTTCT	fenestrated_cell	A	5
-1-M-62	10X_P5_8	chr16	57601769	57601769	A	G	kidney_mesangial_cell	2	AGGGATGTCGCGGATC	fenestrated_cell	A	8
-1-M-62	10X_P5_8	chr16	57601769	57601769	A	G	kidney_mesangial_cell	2	CCGTTCATCTCTAAGG	fenestrated_cell	A	3
-1-M-62	10X_P5_8	chr16	57601769	57601769	A	G	kidney_mesangial_cell	2	CGGAGTCTCGTCTGCT	fenestrated_cell	A	5
-1-M-62	10X_P5_8	chr16	57601769	57601769	A	G	kidney_mesangial_cell	2	GTCCTCAGTCAGAGGT	fenestrated_cell	A	7
-1-M-62	10X_P5_8	chr16	57601769	57601769	A	G	kidney_mesangial_cell	2	TGCGCAGGTGCAGTAG	fenestrated_cell	A	5
-1-M-62	10X_P5_8	chr16	57601769	57601769	A	G	kidney_mesangial_cell	2	ACAGCCGGTATTCGTG	fenestrated_cell	A	6
-1-M-62	10X_P5_8	chr16	57601769	57601769	A	G	kidney_mesangial_cell	2	AGCTCTCAGCGCTTAT	fenestrated_cell	A	2
-1-M-62	10X_P5_8	chr16	57601769	57601769	A	G	kidney_mesangial_cell	2	CACACTCGTCAATGTC	fenestrated_cell	A	2
-1-M-62	10X_P5_8	chr16	57601769	57601769	A	G	kidney_mesangial_cell	2	ATTCTACCAAGTCATC	fenestrated_cell	A	2
-1-M-62	10X_P5_8	chr16	57601769	57601769	A	G	kidney_mesangial_cell	2	TTAGGACTCCGATATG	fenestrated_cell	A	3
-1-M-62	10X_P5_8	chr16	57601769	57601769	A	G	kidney_mesangial_cell	2	TCTTCGGTCAGCTCGG	fenestrated_cell	A	3
-1-M-62	10X_P5_8	chr17	10216516	10216516	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	2	AACTCCCAGTGCGTGA	fenestrated_cell	A	6
-1-M-62	10X_P5_8	chr17	10216516	10216516	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	2	TCGCGAGCAGACAAGC	fenestrated_cell	A	6
-1-M-62	10X_P5_8	chr17	10216516	10216516	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	2	TTAGGACTCCGATATG	fenestrated_cell	A	4
-1-M-62	10X_P5_8	chr17	10216516	10216516	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	2	AGATCTGGTATGAATG	fenestrated_cell	A	3
-1-M-62	10X_P5_8	chr17	10216516	10216516	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	2	GGTGAAGCAGAGTGTG	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr17	10216516	10216516	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	2	GTCCTCAGTCAGAGGT	fenestrated_cell	A	2
-1-M-62	10X_P5_8	chr17	39848243	39848243	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	4	ATAACGCTCAGGCCCA	fenestrated_cell	C	1
-1-M-62	10X_P5_8	chr17	39848243	39848243	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	4	GTGAAGGTCCATGAGT	fenestrated_cell	C	1
-1-M-62	10X_P5_8	chr17	39848243	39848243	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	4	CGGCTAGGTTACGGAG	fenestrated_cell	C	1
-1-M-62	10X_P5_8	chr17	39848243	39848243	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	4	GCGCGATGTAAGAGGA	fenestrated_cell	C	1
-1-M-62	10X_P5_8	chr17	39848243	39848243	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	4	GTAGTCATCGGAGCAA	fenestrated_cell	C	1
-1-M-62	10X_P5_8	chr17	39848255	39848255	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	4	ATAACGCTCAGGCCCA	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr17	39848255	39848255	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	4	GTGAAGGTCCATGAGT	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr17	39848255	39848255	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	4	CGGCTAGGTTACGGAG	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr17	39848255	39848255	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	4	GCGCGATGTAAGAGGA	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr17	39848255	39848255	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	4	GTAGTCATCGGAGCAA	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr17	64604378	64604378	T	C	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	CACCTTGAGTGGAGTC	fenestrated_cell	T	7
-1-M-62	10X_P5_8	chr17	64604378	64604378	T	C	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	TCGCGAGCAGACAAGC	fenestrated_cell	T	3
-1-M-62	10X_P5_8	chr17	64604378	64604378	T	C	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	CCTTCGACATGACGGA	fenestrated_cell	T	3
-1-M-62	10X_P5_8	chr17	64604378	64604378	T	C	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	TCATTTGAGCTTTGGT	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr17	64604378	64604378	T	C	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	CCTTCGACATGACGGA	fenestrated_cell	C	1
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	ACGGAGACAAACGTGG	fenestrated_cell	G	2
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	CTGTGCTAGATCTGAA	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	GTTAAGCGTCTCTCTG	fenestrated_cell	G	18
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	CACCTTGAGTGGAGTC	fenestrated_cell	G	9
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	CAGTCCTGTTCCCTTG	fenestrated_cell	G	20
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	GAACCTAAGCAATCTC	fenestrated_cell	G	10
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	CGATTGACACACAGAG	fenestrated_cell	G	23
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	GTCATTTTCTCGATGA	fenestrated_cell	G	6
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	GTTTCTAAGCTGAACG	fenestrated_cell	G	5
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	TAGTTGGTCTCTGAGA	fenestrated_cell	G	18
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	TCACGAAAGGTGCACA	fenestrated_cell	G	6
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	TTCTACATCATGCTCC	fenestrated_cell	G	8
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	ATTCTACCAAGTCATC	fenestrated_cell	G	10
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	CTAGCCTGTTATCACG	fenestrated_cell	G	13
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	GTTTCTATCTTGACGA	fenestrated_cell	G	18
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	ATGCGATGTACGCTGC	fenestrated_cell	G	5
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	CCCAGTTCAAAGGAAG	fenestrated_cell	G	8
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	GGAACTTTCCGCATCT	fenestrated_cell	G	6
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	GATCGATCATGCTGGC	fenestrated_cell	G	10
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	GTGAAGGTCCATGAGT	fenestrated_cell	G	16
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	TACAGTGTCGTCCGTT	fenestrated_cell	G	7
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	TTAGGACTCCGATATG	fenestrated_cell	G	17
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	GAACGGAAGTGGAGAA	fenestrated_cell	G	5
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	AGGTCATCAGGTCCAC	fenestrated_cell	G	4
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	CATGACATCTCTAGGA	fenestrated_cell	G	15
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	TACCTTATCAGCTTAG	fenestrated_cell	G	3
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	TAGAGCTGTGCACGAA	fenestrated_cell	G	11
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	CGTCTACGTACACCGC	fenestrated_cell	G	5
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	GATGAAAGTTCGGGCT	fenestrated_cell	G	6
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	CATCAGACACCCTATC	fenestrated_cell	G	2
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	CTAACTTCAAGTCTGT	fenestrated_cell	G	9
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	TCTTCGGTCAGCTCGG	fenestrated_cell	G	9
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	AGCTCCTAGTGGACGT	fenestrated_cell	G	8
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	CGAACATCAATCTGCA	fenestrated_cell	G	10
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	CGCTTCAAGGTGATAT	fenestrated_cell	G	12
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	GTATTCTAGTCTCAAC	fenestrated_cell	G	2
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	GTCACAATCCCACTTG	fenestrated_cell	G	8
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	CGGCTAGGTTACGGAG	fenestrated_cell	G	12
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	GATCGTAAGGGTTTCT	fenestrated_cell	G	6
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	GGTGAAGCAGAGTGTG	fenestrated_cell	G	3
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	CCTTCGACATGACGGA	fenestrated_cell	G	6
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	CGTCACTCATGGTAGG	fenestrated_cell	G	8
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	CTTAACTAGAGAACAG	fenestrated_cell	G	3
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	ATAACGCTCAGGCCCA	fenestrated_cell	G	2
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	CACACTCGTGAGTGAC	fenestrated_cell	G	12
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	CTAGTGATCGGCATCG	fenestrated_cell	G	5
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	AACTCAGTCACTTCAT	fenestrated_cell	G	7
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	AGCTTGAGTGGCTCCA	fenestrated_cell	G	2
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	CACACTCGTCAATGTC	fenestrated_cell	G	13
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	CATCAAGTCGTCACGG	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	GGAATAACAGATTGCT	fenestrated_cell	G	10
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	GTGTTAGAGTCCGGTC	fenestrated_cell	G	6
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	TGGACGCAGCTGTTCA	fenestrated_cell	G	7
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	TGATTTCGTTGAACTC	fenestrated_cell	G	12
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	CTCACACAGGTTCCTA	fenestrated_cell	G	6
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	TGTATTCCAAGTTAAG	fenestrated_cell	G	7
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	TTTGGTTCATATACGC	fenestrated_cell	G	6
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	TACGGATTCGCGATCG	fenestrated_cell	G	3
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	ACATACGTCGTTTATC	fenestrated_cell	G	5
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	TTAGTTCGTACAAGTA	fenestrated_cell	G	9
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	CCGTTCATCTCTAAGG	fenestrated_cell	G	6
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	TCACAAGTCTGTTGAG	fenestrated_cell	G	2
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	CGGAGTCTCGTCTGCT	fenestrated_cell	G	5
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	GATCGCGCATTCCTGC	fenestrated_cell	G	4
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	AGGGATGTCGCGGATC	fenestrated_cell	G	5
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	TCACGAACAAATACAG	fenestrated_cell	G	5
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	GTAGTCATCGGAGCAA	fenestrated_cell	G	2
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	TCATTTGAGCTTTGGT	fenestrated_cell	G	9
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	TGCGCAGGTGCAGTAG	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	GGGAATGGTAACGTTC	fenestrated_cell	G	2
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	TTGAACGTCACCCGAG	fenestrated_cell	G	3
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	TTTCCTCAGAGTCGGT	fenestrated_cell	G	3
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	ACAGCTAAGAGTGAGA	fenestrated_cell	G	2
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	CAACCAAAGTCAAGCG	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr18	35672784	35672784	T	C	fenestrated_cell	2	CATGACATCTCTAGGA	fenestrated_cell	T	3
-1-M-62	10X_P5_8	chr18	35672784	35672784	T	C	fenestrated_cell	2	CTTAACTAGAGAACAG	fenestrated_cell	T	2
-1-M-62	10X_P5_8	chr18	35672784	35672784	T	C	fenestrated_cell	2	TAAGTGCGTTGAACTC	fenestrated_cell	C	2
-1-M-62	10X_P5_8	chr18	35672784	35672784	T	C	fenestrated_cell	2	GCCTCTATCTGTCTAT	fenestrated_cell	T	2
-1-M-62	10X_P5_8	chr18	35672784	35672784	T	C	fenestrated_cell	2	GCGCGATGTAAGAGGA	fenestrated_cell	T	3
-1-M-62	10X_P5_8	chr18	35672784	35672784	T	C	fenestrated_cell	2	GTAGTCATCGGAGCAA	fenestrated_cell	C	4
-1-M-62	10X_P5_8	chr18	35672784	35672784	T	C	fenestrated_cell	2	CCTTCGACATGACGGA	fenestrated_cell	T	3
-1-M-62	10X_P5_8	chr18	35672784	35672784	T	C	fenestrated_cell	2	TTCTACATCATGCTCC	fenestrated_cell	T	3
-1-M-62	10X_P5_8	chr18	60812558	60812558	A	C	macrophage	4	TTCGGTCAGAGTCGGT	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr2	84433032	84433032	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	3	ACGGAGACAAACGTGG	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr2	84433032	84433032	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	3	GGGTTGCCAAACTGTC	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr2	130872646	130872646	T	C	kidney_proximal_convoluted_tubule_epithelial_cell	2	TACGGATTCGCGATCG	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr2	152744055	152744055	G	T	kidney_proximal_convoluted_tubule_epithelial_cell	2	TAGTTGGTCTCTGAGA	fenestrated_cell	G	5
-1-M-62	10X_P5_8	chr2	152744055	152744055	G	T	kidney_proximal_convoluted_tubule_epithelial_cell	2	TCACGAAAGGTGCACA	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr2	152744055	152744055	G	T	kidney_proximal_convoluted_tubule_epithelial_cell	2	ACAGCTAAGAGTGAGA	fenestrated_cell	G	3
-1-M-62	10X_P5_8	chr2	152744055	152744055	G	T	kidney_proximal_convoluted_tubule_epithelial_cell	2	GCGCGATGTAAGAGGA	fenestrated_cell	G	4
-1-M-62	10X_P5_8	chr2	152744055	152744055	G	T	kidney_proximal_convoluted_tubule_epithelial_cell	2	TACTCGCTCCATGAGT	fenestrated_cell	G	7
-1-M-62	10X_P5_8	chr2	152744055	152744055	G	T	kidney_proximal_convoluted_tubule_epithelial_cell	2	GAACCTAAGCAATCTC	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr2	152744055	152744055	G	T	kidney_proximal_convoluted_tubule_epithelial_cell	2	AGGTCATCAGGTCCAC	fenestrated_cell	G	2
-1-M-62	10X_P5_8	chr2	152744055	152744055	G	T	kidney_proximal_convoluted_tubule_epithelial_cell	2	GTTAAGCGTCTCTCTG	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr2	152744055	152744055	G	T	kidney_proximal_convoluted_tubule_epithelial_cell	2	GTAGTCATCGGAGCAA	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr2	163641632	163641632	T	C	fenestrated_cell	3	TTCTACATCATGCTCC	fenestrated_cell	T	2
-1-M-62	10X_P5_8	chr2	163641632	163641632	T	C	fenestrated_cell	3	CACCTTGTCAGAAATG	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr2	163641632	163641632	T	C	fenestrated_cell	3	TAAGTGCGTTGAACTC	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr2	163641632	163641632	T	C	fenestrated_cell	3	TACTCGCTCCATGAGT	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr2	163641632	163641632	T	C	fenestrated_cell	3	ATTCTACCAAGTCATC	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr2	163641632	163641632	T	C	fenestrated_cell	3	CATGACATCTCTAGGA	fenestrated_cell	T	2
-1-M-62	10X_P5_8	chr2	163641632	163641632	T	C	fenestrated_cell	3	GCGCGATGTAAGAGGA	fenestrated_cell	C	2
-1-M-62	10X_P5_8	chr2	163641632	163641632	T	C	fenestrated_cell	3	CTGTGCTAGATCTGAA	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr2	163641632	163641632	T	C	fenestrated_cell	3	CGTCACTCATGGTAGG	fenestrated_cell	T	2
-1-M-62	10X_P5_8	chr2	163641632	163641632	T	C	fenestrated_cell	3	GTCCTCAGTCAGAGGT	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr2	163641632	163641632	T	C	fenestrated_cell	3	GTTTCTATCTTGACGA	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr2	163641632	163641632	T	C	fenestrated_cell	3	CTCACACAGGTTCCTA	fenestrated_cell	C	2
-1-M-62	10X_P5_8	chr2	163641632	163641632	T	C	fenestrated_cell	3	GATCGATCATGCTGGC	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr2	163641632	163641632	T	C	fenestrated_cell	3	ACAGCTAAGAGTGAGA	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr2	163641632	163641632	T	C	fenestrated_cell	3	ACATACGTCGTTTATC	fenestrated_cell	C	1
-1-M-62	10X_P5_8	chr2	163641632	163641632	T	C	fenestrated_cell	3	GGACAAGAGGTGCACA	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr2	163641632	163641632	T	C	fenestrated_cell	3	TAGAGCTGTGCACGAA	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr2	163641632	163641632	T	C	fenestrated_cell	3	TTAGGACTCCTTGCCA	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr2	164066005	164066005	T	C	fenestrated_cell	2	CCGTTCATCTCTAAGG	fenestrated_cell	T	11
-1-M-62	10X_P5_8	chr2	164066005	164066005	T	C	fenestrated_cell	2	GGGATGAAGCACCGTC	fenestrated_cell	T	4
-1-M-62	10X_P5_8	chr2	164066005	164066005	T	C	fenestrated_cell	2	GTTTCTAAGCTGAACG	fenestrated_cell	C	8
-1-M-62	10X_P5_8	chr2	164066005	164066005	T	C	fenestrated_cell	2	TCACGAACAAATACAG	fenestrated_cell	T	10
-1-M-62	10X_P5_8	chr2	164066005	164066005	T	C	fenestrated_cell	2	AGCTCCTAGTGGACGT	fenestrated_cell	C	7
-1-M-62	10X_P5_8	chr2	164066005	164066005	T	C	fenestrated_cell	2	AGCTTGAGTGGCTCCA	fenestrated_cell	T	4
-1-M-62	10X_P5_8	chr2	164066005	164066005	T	C	fenestrated_cell	2	CGGAGTCCAGGATTGG	fenestrated_cell	T	6
-1-M-62	10X_P5_8	chr2	164066005	164066005	T	C	fenestrated_cell	2	CGCTTCAAGGTGATAT	fenestrated_cell	T	8
-1-M-62	10X_P5_8	chr2	164066005	164066005	T	C	fenestrated_cell	2	GCGCGATGTAAGAGGA	fenestrated_cell	T	8
-1-M-62	10X_P5_8	chr2	164066005	164066005	T	C	fenestrated_cell	2	CTAGTGATCGGCATCG	fenestrated_cell	T	5
-1-M-62	10X_P5_8	chr2	164066005	164066005	T	C	fenestrated_cell	2	AGGGATGTCGCGGATC	fenestrated_cell	T	3
-1-M-62	10X_P5_8	chr2	164066005	164066005	T	C	fenestrated_cell	2	GTAGGCCAGTAACCCT	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr2	164066005	164066005	T	C	fenestrated_cell	2	GTCATTTTCTCGATGA	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	ACGGAGACAAACGTGG	fenestrated_cell	G	6
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	CACACTCGTGAGTGAC	fenestrated_cell	G	2
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	GCCTCTATCTGTCTAT	fenestrated_cell	G	10
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	TCACAAGTCTGTTGAG	fenestrated_cell	G	4
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	CACACTCGTCAATGTC	fenestrated_cell	G	3
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	CTCACACAGGTTCCTA	fenestrated_cell	G	2
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	GTCCTCAGTCAGAGGT	fenestrated_cell	G	2
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	TGTATTCCAAGTTAAG	fenestrated_cell	G	10
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	TTAGGACTCCTTGCCA	fenestrated_cell	G	7
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	TTTGGTTCATATACGC	fenestrated_cell	G	12
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	CACCTTGTCAGAAATG	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	GGGTTGCCAAACTGTC	fenestrated_cell	G	4
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	TGATTTCGTTGAACTC	fenestrated_cell	G	3
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	AGGGATGTCGCGGATC	fenestrated_cell	G	6
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	CGAACATCAATCTGCA	fenestrated_cell	G	4
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	GTCACAATCCCACTTG	fenestrated_cell	G	8
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	ACATACGTCGTTTATC	fenestrated_cell	G	8
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	CGATTGACACACAGAG	fenestrated_cell	G	7
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	GAACCTAAGCAATCTC	fenestrated_cell	G	2
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	CAGTCCTGTTCCCTTG	fenestrated_cell	G	4
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	TTCTACATCATGCTCC	fenestrated_cell	G	3
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	TAAGTGCGTTGAACTC	fenestrated_cell	G	2
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	GAACGGAAGTGGAGAA	fenestrated_cell	G	3
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	TGGACGCAGCTGTTCA	fenestrated_cell	G	3
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	ACGCCGAAGTGAAGTT	fenestrated_cell	G	2
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	GGAACTTTCCGCATCT	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	CAGCATACAGCCTATA	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	TTAGGCAAGTGTCCAT	fenestrated_cell	G	6
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	TCGCGAGCAGACAAGC	fenestrated_cell	G	2
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	CCGTGGACAGGGTACA	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	TCTTCGGTCAGCTCGG	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	AACTCCCAGTGCGTGA	fenestrated_cell	G	3
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	CATCAAGTCGTCACGG	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr3	96077571	96077571	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	9	CACACTCGTGAGTGAC	fenestrated_cell	G	4
-1-M-62	10X_P5_8	chr3	96077571	96077571	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	9	CAGTCCTGTTCCCTTG	fenestrated_cell	G	3
-1-M-62	10X_P5_8	chr3	96077571	96077571	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	9	GTTTCTATCTTGACGA	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr3	96077571	96077571	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	9	TAAGTGCGTTGAACTC	fenestrated_cell	G	5
-1-M-62	10X_P5_8	chr3	96077571	96077571	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	9	TACGGATTCGCGATCG	fenestrated_cell	G	2
-1-M-62	10X_P5_8	chr3	96077571	96077571	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	9	TAGAGCTGTGCACGAA	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr3	96077571	96077571	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	9	CATGACATCTCTAGGA	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr3	153595823	153595823	T	C	kidney_cortex_artery_cell	2	CGGAGTCTCGTCTGCT	fenestrated_cell	T	2
-1-M-62	10X_P5_8	chr3	153595823	153595823	T	C	kidney_cortex_artery_cell	2	GATCGTAAGGGTTTCT	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr3	153595823	153595823	T	C	kidney_cortex_artery_cell	2	TAGAGCTGTGCACGAA	fenestrated_cell	T	3
-1-M-62	10X_P5_8	chr3	153595823	153595823	T	C	kidney_cortex_artery_cell	2	CACACTCGTCAATGTC	fenestrated_cell	T	4
-1-M-62	10X_P5_8	chr3	153595823	153595823	T	C	kidney_cortex_artery_cell	2	AACTCCCAGTGCGTGA	fenestrated_cell	T	2
-1-M-62	10X_P5_8	chr4	3793319	3793319	A	G	kidney_cortex_artery_cell	2	CATCAGACACCCTATC	fenestrated_cell	A	5
-1-M-62	10X_P5_8	chr4	3793319	3793319	A	G	kidney_cortex_artery_cell	2	GTTTCTATCTTGACGA	fenestrated_cell	A	18
-1-M-62	10X_P5_8	chr4	3793319	3793319	A	G	kidney_cortex_artery_cell	2	CATGACATCTCTAGGA	fenestrated_cell	A	9
-1-M-62	10X_P5_8	chr4	3793319	3793319	A	G	kidney_cortex_artery_cell	2	CGATTGACACACAGAG	fenestrated_cell	A	6
-1-M-62	10X_P5_8	chr4	3793319	3793319	A	G	kidney_cortex_artery_cell	2	GGAACTTTCCGCATCT	fenestrated_cell	A	5
-1-M-62	10X_P5_8	chr4	3793319	3793319	A	G	kidney_cortex_artery_cell	2	GATCGTAAGGGTTTCT	fenestrated_cell	A	12
-1-M-62	10X_P5_8	chr4	3793319	3793319	A	G	kidney_cortex_artery_cell	2	GTAGTCATCGGAGCAA	fenestrated_cell	A	6
-1-M-62	10X_P5_8	chr4	3793319	3793319	A	G	kidney_cortex_artery_cell	2	AGGGATGTCGCGGATC	fenestrated_cell	A	11
-1-M-62	10X_P5_8	chr4	3793319	3793319	A	G	kidney_cortex_artery_cell	2	CGCTTCAAGGTGATAT	fenestrated_cell	A	6
-1-M-62	10X_P5_8	chr4	3793319	3793319	A	G	kidney_cortex_artery_cell	2	CATCAAGTCGTCACGG	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr4	3793319	3793319	A	G	kidney_cortex_artery_cell	2	ATGCGATGTACGCTGC	fenestrated_cell	A	7
-1-M-62	10X_P5_8	chr4	3793319	3793319	A	G	kidney_cortex_artery_cell	2	CCGTGGACAGGGTACA	fenestrated_cell	A	12
-1-M-62	10X_P5_8	chr4	3793319	3793319	A	G	kidney_cortex_artery_cell	2	GTTTCTAAGCTGAACG	fenestrated_cell	A	8
-1-M-62	10X_P5_8	chr4	3793319	3793319	A	G	kidney_cortex_artery_cell	2	TCGCGAGCAGACAAGC	fenestrated_cell	A	5
-1-M-62	10X_P5_8	chr4	3793319	3793319	A	G	kidney_cortex_artery_cell	2	AAACCTGTCGGACAAG	fenestrated_cell	A	14
-1-M-62	10X_P5_8	chr4	3793319	3793319	A	G	kidney_cortex_artery_cell	2	GAAGCAGGTGGTACAG	fenestrated_cell	A	9
-1-M-62	10X_P5_8	chr4	3793319	3793319	A	G	kidney_cortex_artery_cell	2	CACACTCGTCAATGTC	fenestrated_cell	A	5
-1-M-62	10X_P5_8	chr4	3793326	3793326	A	G	kidney_cortex_artery_cell	2	GATCGTAAGGGTTTCT	fenestrated_cell	A	12
-1-M-62	10X_P5_8	chr4	3793326	3793326	A	G	kidney_cortex_artery_cell	2	GTAGTCATCGGAGCAA	fenestrated_cell	A	6
-1-M-62	10X_P5_8	chr4	3793326	3793326	A	G	kidney_cortex_artery_cell	2	AGGGATGTCGCGGATC	fenestrated_cell	A	11
-1-M-62	10X_P5_8	chr4	3793326	3793326	A	G	kidney_cortex_artery_cell	2	CGCTTCAAGGTGATAT	fenestrated_cell	A	6
-1-M-62	10X_P5_8	chr4	3793326	3793326	A	G	kidney_cortex_artery_cell	2	GTTTCTATCTTGACGA	fenestrated_cell	A	15
-1-M-62	10X_P5_8	chr4	3793326	3793326	A	G	kidney_cortex_artery_cell	2	CATCAAGTCGTCACGG	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr4	3793326	3793326	A	G	kidney_cortex_artery_cell	2	GGAACTTTCCGCATCT	fenestrated_cell	A	7
-1-M-62	10X_P5_8	chr4	3793326	3793326	A	G	kidney_cortex_artery_cell	2	ATGCGATGTACGCTGC	fenestrated_cell	A	6
-1-M-62	10X_P5_8	chr4	3793326	3793326	A	G	kidney_cortex_artery_cell	2	CCGTGGACAGGGTACA	fenestrated_cell	A	12
-1-M-62	10X_P5_8	chr4	3793326	3793326	A	G	kidney_cortex_artery_cell	2	GTTTCTAAGCTGAACG	fenestrated_cell	A	9
-1-M-62	10X_P5_8	chr4	3793326	3793326	A	G	kidney_cortex_artery_cell	2	TCGCGAGCAGACAAGC	fenestrated_cell	A	5
-1-M-62	10X_P5_8	chr4	3793326	3793326	A	G	kidney_cortex_artery_cell	2	CATGACATCTCTAGGA	fenestrated_cell	A	8
-1-M-62	10X_P5_8	chr4	3793326	3793326	A	G	kidney_cortex_artery_cell	2	CGATTGACACACAGAG	fenestrated_cell	A	7
-1-M-62	10X_P5_8	chr4	3793326	3793326	A	G	kidney_cortex_artery_cell	2	AAACCTGTCGGACAAG	fenestrated_cell	A	14
-1-M-62	10X_P5_8	chr4	3793326	3793326	A	G	kidney_cortex_artery_cell	2	CATCAGACACCCTATC	fenestrated_cell	A	4
-1-M-62	10X_P5_8	chr4	3793326	3793326	A	G	kidney_cortex_artery_cell	2	GAAGCAGGTGGTACAG	fenestrated_cell	A	9
-1-M-62	10X_P5_8	chr4	3793326	3793326	A	G	kidney_cortex_artery_cell	2	CACACTCGTCAATGTC	fenestrated_cell	A	5
-1-M-62	10X_P5_8	chr4	42992668	42992668	T	C	fenestrated_cell	2	TTAGTTCGTACAAGTA	fenestrated_cell	T	3
-1-M-62	10X_P5_8	chr4	42992668	42992668	T	C	fenestrated_cell	2	AACTCAGTCACTTCAT	fenestrated_cell	T	3
-1-M-62	10X_P5_8	chr4	42992668	42992668	T	C	fenestrated_cell	2	TCGCGAGCAGACAAGC	fenestrated_cell	T	7
-1-M-62	10X_P5_8	chr4	42992668	42992668	T	C	fenestrated_cell	2	TCTTCGGTCAGCTCGG	fenestrated_cell	T	3
-1-M-62	10X_P5_8	chr4	42992668	42992668	T	C	fenestrated_cell	2	AGCTCCTAGTGGACGT	fenestrated_cell	C	2
-1-M-62	10X_P5_8	chr4	42992668	42992668	T	C	fenestrated_cell	2	ATGCGATGTACGCTGC	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr4	42992668	42992668	T	C	fenestrated_cell	2	CGGAGTCTCGTCTGCT	fenestrated_cell	T	2
-1-M-62	10X_P5_8	chr4	42992668	42992668	T	C	fenestrated_cell	2	GTCACAATCCCACTTG	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr4	42992668	42992668	T	C	fenestrated_cell	2	ATTCTACCAAGTCATC	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr4	42992668	42992668	T	C	fenestrated_cell	2	GTCATTTTCTCGATGA	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr4	42992668	42992668	T	C	fenestrated_cell	2	TACGGATTCGCGATCG	fenestrated_cell	C	1
-1-M-62	10X_P5_8	chr4	42992668	42992668	T	C	fenestrated_cell	2	TTAGGACTCCTTGCCA	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr4	116226435	116226435	A	G	fenestrated_cell	3	CGGCTAGGTTACGGAG	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr4	116226435	116226435	A	G	fenestrated_cell	3	CTCACACAGGTTCCTA	fenestrated_cell	G	2
-1-M-62	10X_P5_8	chr4	116226435	116226435	A	G	fenestrated_cell	3	AGGTCATCAGGTCCAC	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr4	116226435	116226435	A	G	fenestrated_cell	3	TAGTTGGTCTCTGAGA	fenestrated_cell	A	2
-1-M-62	10X_P5_8	chr4	116226435	116226435	A	G	fenestrated_cell	3	GTCCTCAGTCAGAGGT	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr4	116226435	116226435	A	G	fenestrated_cell	3	ATGCGATGTACGCTGC	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr4	116226435	116226435	A	G	fenestrated_cell	3	GAACCTAAGCAATCTC	fenestrated_cell	A	2
-1-M-62	10X_P5_8	chr4	116226435	116226435	A	G	fenestrated_cell	3	CGGCTAGGTTACGGAG	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr4	117030410	117030410	T	A	brush_cell	2	CGTCTACGTACACCGC	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr4	117030410	117030410	T	A	brush_cell	2	ACAGCTAAGAGTGAGA	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr4	117030410	117030410	T	A	brush_cell	2	GTAGGCCAGTAACCCT	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr4	135835152	135835152	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	5	GCCTCTATCTGTCTAT	fenestrated_cell	G	23
-1-M-62	10X_P5_8	chr4	135835152	135835152	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	5	ACATACGTCGTTTATC	fenestrated_cell	G	5
-1-M-62	10X_P5_8	chr4	135835152	135835152	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	5	AAACCTGTCGGACAAG	fenestrated_cell	G	2
-1-M-62	10X_P5_8	chr4	135835152	135835152	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	5	TAAGTGCGTTGAACTC	fenestrated_cell	G	2
-1-M-62	10X_P5_8	chr4	136481401	136481401	A	G	fenestrated_cell	3	TCACGAACAAATACAG	fenestrated_cell	A	8
-1-M-62	10X_P5_8	chr4	136481401	136481401	A	G	fenestrated_cell	3	GTTTCTATCTTGACGA	fenestrated_cell	A	7
-1-M-62	10X_P5_8	chr4	136481401	136481401	A	G	fenestrated_cell	3	CATGACATCTCTAGGA	fenestrated_cell	A	7
-1-M-62	10X_P5_8	chr4	136481401	136481401	A	G	fenestrated_cell	3	CGAACATCAATCTGCA	fenestrated_cell	A	4
-1-M-62	10X_P5_8	chr4	136481401	136481401	A	G	fenestrated_cell	3	CAGTCCTGTTCCCTTG	fenestrated_cell	G	5
-1-M-62	10X_P5_8	chr4	136481401	136481401	A	G	fenestrated_cell	3	TTAGTTCGTACAAGTA	fenestrated_cell	A	6
-1-M-62	10X_P5_8	chr4	136481401	136481401	A	G	fenestrated_cell	3	CGATTGACACACAGAG	fenestrated_cell	G	2
-1-M-62	10X_P5_8	chr4	136481401	136481401	A	G	fenestrated_cell	3	TGTATTCCAAGTTAAG	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr4	136481401	136481401	A	G	fenestrated_cell	3	TTTGGTTCATATACGC	fenestrated_cell	A	3
-1-M-62	10X_P5_8	chr4	136481401	136481401	A	G	fenestrated_cell	3	TACTCGCTCCATGAGT	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr4	136481401	136481401	A	G	fenestrated_cell	3	TCACGAAAGGTGCACA	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr4	136481425	136481425	A	G	fenestrated_cell	3	CGAACATCAATCTGCA	fenestrated_cell	G	3
-1-M-62	10X_P5_8	chr4	136481425	136481425	A	G	fenestrated_cell	3	GTTTCTATCTTGACGA	fenestrated_cell	A	6
-1-M-62	10X_P5_8	chr4	136481425	136481425	A	G	fenestrated_cell	3	CGATTGACACACAGAG	fenestrated_cell	G	2
-1-M-62	10X_P5_8	chr4	136481425	136481425	A	G	fenestrated_cell	3	TGTATTCCAAGTTAAG	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr4	136481425	136481425	A	G	fenestrated_cell	3	CAGTCCTGTTCCCTTG	fenestrated_cell	G	4
-1-M-62	10X_P5_8	chr4	136481425	136481425	A	G	fenestrated_cell	3	TCACGAACAAATACAG	fenestrated_cell	A	7
-1-M-62	10X_P5_8	chr4	136481425	136481425	A	G	fenestrated_cell	3	TTTGGTTCATATACGC	fenestrated_cell	A	4
-1-M-62	10X_P5_8	chr4	136481425	136481425	A	G	fenestrated_cell	3	TACTCGCTCCATGAGT	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr4	136481425	136481425	A	G	fenestrated_cell	3	TTAGTTCGTACAAGTA	fenestrated_cell	A	6
-1-M-62	10X_P5_8	chr4	136481425	136481425	A	G	fenestrated_cell	3	CATGACATCTCTAGGA	fenestrated_cell	A	6
-1-M-62	10X_P5_8	chr4	148068073	148068073	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	4	TACTCGCTCCATGAGT	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr5	65542281	65542281	A	G	fenestrated_cell	3	GTTAAGCGTCTCTCTG	fenestrated_cell	A	6
-1-M-62	10X_P5_8	chr5	65542281	65542281	A	G	fenestrated_cell	3	CTAGCCTGTTATCACG	fenestrated_cell	G	2
-1-M-62	10X_P5_8	chr5	65542281	65542281	A	G	fenestrated_cell	3	ATTCTACCAAGTCATC	fenestrated_cell	G	4
-1-M-62	10X_P5_8	chr5	65542281	65542281	A	G	fenestrated_cell	3	CAACCAAAGTCAAGCG	fenestrated_cell	G	2
-1-M-62	10X_P5_8	chr5	65542281	65542281	A	G	fenestrated_cell	3	CAGCATACAGCCTATA	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr5	65542281	65542281	A	G	fenestrated_cell	3	GATCGTAAGGGTTTCT	fenestrated_cell	A	2
-1-M-62	10X_P5_8	chr5	65542281	65542281	A	G	fenestrated_cell	3	CGATTGACACACAGAG	fenestrated_cell	A	3
-1-M-62	10X_P5_8	chr5	65542281	65542281	A	G	fenestrated_cell	3	GCCTCTATCTGTCTAT	fenestrated_cell	A	2
-1-M-62	10X_P5_8	chr5	65542281	65542281	A	G	fenestrated_cell	3	CCCAGTTCAAAGGAAG	fenestrated_cell	A	3
-1-M-62	10X_P5_8	chr5	142870054	142870054	T	C	fenestrated_cell	2	TTCTACATCATGCTCC	fenestrated_cell	T	6
-1-M-62	10X_P5_8	chr5	142870054	142870054	T	C	fenestrated_cell	2	AACTCAGTCACTTCAT	fenestrated_cell	C	3
-1-M-62	10X_P5_8	chr5	142870054	142870054	T	C	fenestrated_cell	2	GAACCTAAGCAATCTC	fenestrated_cell	T	9
-1-M-62	10X_P5_8	chr5	142870054	142870054	T	C	fenestrated_cell	2	GATCGATCATGCTGGC	fenestrated_cell	T	5
-1-M-62	10X_P5_8	chr5	142870054	142870054	T	C	fenestrated_cell	2	ACAGCTAAGAGTGAGA	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr5	142870054	142870054	T	C	fenestrated_cell	2	AGCTTGAGTGGCTCCA	fenestrated_cell	C	2
-1-M-62	10X_P5_8	chr6	55241373	55241373	A	T	kidney_proximal_convoluted_tubule_epithelial_cell	5	GATGAAAGTTCGGGCT	fenestrated_cell	A	5
-1-M-62	10X_P5_8	chr6	55241373	55241373	A	T	kidney_proximal_convoluted_tubule_epithelial_cell	5	AAACCTGTCGGACAAG	fenestrated_cell	A	5
-1-M-62	10X_P5_8	chr6	55241373	55241373	A	T	kidney_proximal_convoluted_tubule_epithelial_cell	5	GGAACTTTCCGCATCT	fenestrated_cell	A	4
-1-M-62	10X_P5_8	chr6	55241373	55241373	A	T	kidney_proximal_convoluted_tubule_epithelial_cell	5	TCACGAACAAATACAG	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr6	55241373	55241373	A	T	kidney_proximal_convoluted_tubule_epithelial_cell	5	ATAACGCTCAGGCCCA	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr6	55348223	55348223	A	G	kidney_cortex_artery_cell	7	GTGAAGGTCCATGAGT	fenestrated_cell	A	4
-1-M-62	10X_P5_8	chr7	16495266	16495266	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	3	GTGAAGGTCCATGAGT	fenestrated_cell	C	1
-1-M-62	10X_P5_8	chr7	16495266	16495266	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	3	ATTCTACCAAGTCATC	fenestrated_cell	C	1
-1-M-62	10X_P5_8	chr7	34225023	34225023	T	C	kidney_mesangial_cell	2	TCGCGAGCAGACAAGC	fenestrated_cell	T	3
-1-M-62	10X_P5_8	chr7	34225023	34225023	T	C	kidney_mesangial_cell	2	CGGCTAGGTTACGGAG	fenestrated_cell	T	10
-1-M-62	10X_P5_8	chr7	34225023	34225023	T	C	kidney_mesangial_cell	2	TACTCGCTCCATGAGT	fenestrated_cell	T	6
-1-M-62	10X_P5_8	chr7	34225023	34225023	T	C	kidney_mesangial_cell	2	GTGAAGGTCCATGAGT	fenestrated_cell	T	8
-1-M-62	10X_P5_8	chr7	34225023	34225023	T	C	kidney_mesangial_cell	2	GGGATGAAGCACCGTC	fenestrated_cell	T	7
-1-M-62	10X_P5_8	chr7	34225023	34225023	T	C	kidney_mesangial_cell	2	GCGCGATGTAAGAGGA	fenestrated_cell	T	4
-1-M-62	10X_P5_8	chr7	34225023	34225023	T	C	kidney_mesangial_cell	2	CAGTCCTGTTCCCTTG	fenestrated_cell	T	4
-1-M-62	10X_P5_8	chr7	34225023	34225023	T	C	kidney_mesangial_cell	2	ACATACGTCGTTTATC	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr7	127969060	127969060	A	G	fenestrated_cell	3	CGTCACTCATGGTAGG	fenestrated_cell	A	3
-1-M-62	10X_P5_8	chr7	127969060	127969060	A	G	fenestrated_cell	3	TGCGCAGGTGCAGTAG	fenestrated_cell	A	5
-1-M-62	10X_P5_8	chr7	127969060	127969060	A	G	fenestrated_cell	3	TTGAACGTCACCCGAG	fenestrated_cell	A	2
-1-M-62	10X_P5_8	chr7	127969060	127969060	A	G	fenestrated_cell	3	CATCAGACACCCTATC	fenestrated_cell	A	5
-1-M-62	10X_P5_8	chr7	127969060	127969060	A	G	fenestrated_cell	3	TTAGTTCGTACAAGTA	fenestrated_cell	A	2
-1-M-62	10X_P5_8	chr7	127969060	127969060	A	G	fenestrated_cell	3	CGAACATCAATCTGCA	fenestrated_cell	A	4
-1-M-62	10X_P5_8	chr7	127969060	127969060	A	G	fenestrated_cell	3	CCGTGGACAGGGTACA	fenestrated_cell	G	4
-1-M-62	10X_P5_8	chr7	127969060	127969060	A	G	fenestrated_cell	3	TTAGGACTCCTTGCCA	fenestrated_cell	A	6
-1-M-62	10X_P5_8	chr7	127969060	127969060	A	G	fenestrated_cell	3	CCGTTCATCTCTAAGG	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr7	127969060	127969060	A	G	fenestrated_cell	3	GTAGGCCAGTAACCCT	fenestrated_cell	A	3
-1-M-62	10X_P5_8	chr7	127969060	127969060	A	G	fenestrated_cell	3	TCACGAACAAATACAG	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr7	127969060	127969060	A	G	fenestrated_cell	3	ACATACGTCGTTTATC	fenestrated_cell	A	3
-1-M-62	10X_P5_8	chr7	127969060	127969060	A	G	fenestrated_cell	3	GGGATGAAGCACCGTC	fenestrated_cell	G	3
-1-M-62	10X_P5_8	chr7	127969060	127969060	A	G	fenestrated_cell	3	CACCTTGAGTGGAGTC	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr7	127969060	127969060	A	G	fenestrated_cell	3	ATTCTACCAAGTCATC	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr7	141171169	141171169	T	C	kidney_cortex_artery_cell	2	CGATTGACACACAGAG	fenestrated_cell	T	3
-1-M-62	10X_P5_8	chr7	141171169	141171169	T	C	kidney_cortex_artery_cell	2	GTGAAGGTCCATGAGT	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr7	141466493	141466493	A	G	fenestrated_cell	4	GAACCTAAGCAATCTC	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr7	141466493	141466493	A	G	fenestrated_cell	4	AGGGATGTCGCGGATC	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr7	141466493	141466493	A	G	fenestrated_cell	4	TGTATTCCAAGTTAAG	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr7	141466493	141466493	A	G	fenestrated_cell	4	CATCAAGTCGTCACGG	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr7	141466493	141466493	A	G	fenestrated_cell	4	GTGAAGGTCCATGAGT	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr7	141466493	141466493	A	G	fenestrated_cell	4	CATGACATCTCTAGGA	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr7	141466493	141466493	A	G	fenestrated_cell	4	TTAGGCAAGTGTCCAT	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr7	141466493	141466493	A	G	fenestrated_cell	4	TTAGTTCGTACAAGTA	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr7	141466493	141466493	A	G	fenestrated_cell	4	TTGAACGTCACCCGAG	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr7	141466493	141466493	A	G	fenestrated_cell	4	TAGAGCTGTGCACGAA	fenestrated_cell	A	2
-1-M-62	10X_P5_8	chr7	141466493	141466493	A	G	fenestrated_cell	4	TCTTCGGTCAGCTCGG	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr7	141466493	141466493	A	G	fenestrated_cell	4	CGGAGTCCAGGATTGG	fenestrated_cell	A	2
-1-M-62	10X_P5_8	chr7	141466493	141466493	A	G	fenestrated_cell	4	CGAACATCAATCTGCA	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr7	141466493	141466493	A	G	fenestrated_cell	4	CTCACACAGGTTCCTA	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr7	141466493	141466493	A	G	fenestrated_cell	4	CGGCTAGGTTACGGAG	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr7	141466493	141466493	A	G	fenestrated_cell	4	TCACAAGTCTGTTGAG	fenestrated_cell	A	2
-1-M-62	10X_P5_8	chr7	141466493	141466493	A	G	fenestrated_cell	4	CAACCAAAGTCAAGCG	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr7	141466493	141466493	A	G	fenestrated_cell	4	AGGTCATCAGGTCCAC	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr7	141466493	141466493	A	G	fenestrated_cell	4	GTCATTTTCTCGATGA	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr7	141466493	141466493	A	G	fenestrated_cell	4	AGATCTGGTATGAATG	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr7	141466493	141466493	A	G	fenestrated_cell	4	GTGAAGGTCCATGAGT	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr7	141466493	141466493	A	G	fenestrated_cell	4	GCAGCCACATGATCCA	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr7	141466493	141466493	A	G	fenestrated_cell	4	AACTCAGTCACTTCAT	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr7	141466493	141466493	A	G	fenestrated_cell	4	GTTAAGCGTCTCTCTG	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr7	141466493	141466493	A	G	fenestrated_cell	4	CTCACACAGGTTCCTA	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr7	141466493	141466493	A	G	fenestrated_cell	4	TCACGAACAAATACAG	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr8	4292186	4292186	T	C	kidney_proximal_convoluted_tubule_epithelial_cell	2	TTTGGTTCATATACGC	fenestrated_cell	T	3
-1-M-62	10X_P5_8	chr8	4292186	4292186	T	C	kidney_proximal_convoluted_tubule_epithelial_cell	2	GTGTTAGAGTCCGGTC	fenestrated_cell	C	1
-1-M-62	10X_P5_8	chr8	25239167	25239167	T	C	kidney_cortex_artery_cell	3	TAGTTGGTCTCTGAGA	fenestrated_cell	T	3
-1-M-62	10X_P5_8	chr8	70475076	70475076	T	C	fenestrated_cell	4	GTGAAGGTCCATGAGT	fenestrated_cell	T	6
-1-M-62	10X_P5_8	chr8	70475076	70475076	T	C	fenestrated_cell	4	AGGTCATCAGGTCCAC	fenestrated_cell	T	3
-1-M-62	10X_P5_8	chr8	70475076	70475076	T	C	fenestrated_cell	4	AGCTCTCAGCGCTTAT	fenestrated_cell	T	3
-1-M-62	10X_P5_8	chr8	70475076	70475076	T	C	fenestrated_cell	4	CACAGTATCCGCAAGC	fenestrated_cell	C	6
-1-M-62	10X_P5_8	chr8	70475076	70475076	T	C	fenestrated_cell	4	TACAGTGTCGTCCGTT	fenestrated_cell	C	3
-1-M-62	10X_P5_8	chr8	70475076	70475076	T	C	fenestrated_cell	4	TCACGAAAGGTGCACA	fenestrated_cell	C	1
-1-M-62	10X_P5_8	chr8	70475076	70475076	T	C	fenestrated_cell	4	GGGAATGGTAACGTTC	fenestrated_cell	T	2
-1-M-62	10X_P5_8	chr8	70475076	70475076	T	C	fenestrated_cell	4	TCACAAGTCTGTTGAG	fenestrated_cell	C	5
-1-M-62	10X_P5_8	chr8	70475076	70475076	T	C	fenestrated_cell	4	CTAGTGATCGGCATCG	fenestrated_cell	T	1
-1-M-62	10X_P5_8	chr8	70475076	70475076	T	C	fenestrated_cell	4	TGTATTCCAAGTTAAG	fenestrated_cell	T	2
-1-M-62	10X_P5_8	chr8	71401307	71401307	A	G	fenestrated_cell	2	TGCGCAGGTGCAGTAG	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr8	71401307	71401307	A	G	fenestrated_cell	2	ACATACGTCGTTTATC	fenestrated_cell	A	2
-1-M-62	10X_P5_8	chr8	71401307	71401307	A	G	fenestrated_cell	2	GCAGCCACATGATCCA	fenestrated_cell	A	2
-1-M-62	10X_P5_8	chr8	71401307	71401307	A	G	fenestrated_cell	2	AAACCTGTCGGACAAG	fenestrated_cell	A	4
-1-M-62	10X_P5_8	chr8	71401307	71401307	A	G	fenestrated_cell	2	GTCCTCAGTCAGAGGT	fenestrated_cell	G	2
-1-M-62	10X_P5_8	chr8	72318728	72318728	A	G	kidney_cortex_artery_cell	2	ACAGCCGGTATTCGTG	fenestrated_cell	A	3
-1-M-62	10X_P5_8	chr8	72318728	72318728	A	G	kidney_cortex_artery_cell	2	GAACCTAAGCAATCTC	fenestrated_cell	A	2
-1-M-62	10X_P5_8	chr8	72318728	72318728	A	G	kidney_cortex_artery_cell	2	TGGACGCAGCTGTTCA	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr8	72318728	72318728	A	G	kidney_cortex_artery_cell	2	ACATACGTCGTTTATC	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr8	72318728	72318728	A	G	kidney_cortex_artery_cell	2	CGTCACTCATGGTAGG	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr8	72550878	72550878	A	G	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	3	GGGATGAAGCACCGTC	fenestrated_cell	G	6
-1-M-62	10X_P5_8	chr8	72550878	72550878	A	G	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	3	CGATTGACACACAGAG	fenestrated_cell	G	2
-1-M-62	10X_P5_8	chr8	72550878	72550878	A	G	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	3	AGGGATGTCGCGGATC	fenestrated_cell	G	3
-1-M-62	10X_P5_8	chr8	72550878	72550878	A	G	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	3	TCACAAGTCTGTTGAG	fenestrated_cell	G	2
-1-M-62	10X_P5_8	chr8	84213011	84213011	A	G	fenestrated_cell	2	CAGTCCTGTTCCCTTG	fenestrated_cell	A	9
-1-M-62	10X_P5_8	chr8	84213011	84213011	A	G	fenestrated_cell	2	TACTCGCTCCATGAGT	fenestrated_cell	G	2
-1-M-62	10X_P5_8	chr8	84213011	84213011	A	G	fenestrated_cell	2	GCGCGATGTAAGAGGA	fenestrated_cell	G	4
-1-M-62	10X_P5_8	chr8	84213011	84213011	A	G	fenestrated_cell	2	ACGGAGACAAACGTGG	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr8	84213011	84213011	A	G	fenestrated_cell	2	TGCCCATCATCTGGTA	fenestrated_cell	A	2
-1-M-62	10X_P5_8	chr9	25101237	25101237	A	T	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	3	CGAACATCAATCTGCA	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr9	109979400	109979400	A	G	fenestrated_cell	2	TTAGTTCGTACAAGTA	fenestrated_cell	G	2
-1-M-62	10X_P5_8	chr9	109979400	109979400	A	G	fenestrated_cell	2	GTCATTTTCTCGATGA	fenestrated_cell	A	4
-1-M-62	10X_P5_8	chr9	109979400	109979400	A	G	fenestrated_cell	2	ATGCGATGTACGCTGC	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr9	109979400	109979400	A	G	fenestrated_cell	2	TAAGTGCGTTGAACTC	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr9	109979400	109979400	A	G	fenestrated_cell	2	CGAACATCAATCTGCA	fenestrated_cell	A	2
-1-M-62	10X_P5_8	chr9	109979400	109979400	A	G	fenestrated_cell	2	ACAGCCGGTATTCGTG	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr9	109979400	109979400	A	G	fenestrated_cell	2	GTCCTCAGTCAGAGGT	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr9	118675017	118675017	G	C	kidney_proximal_convoluted_tubule_epithelial_cell	25	CACCTTGTCAGAAATG	fenestrated_cell	G	3
-1-M-62	10X_P5_8	chr9	118675017	118675017	G	C	kidney_proximal_convoluted_tubule_epithelial_cell	25	ATAACGCTCAGGCCCA	fenestrated_cell	G	3
-1-M-62	10X_P5_8	chr9	118675017	118675017	G	C	kidney_proximal_convoluted_tubule_epithelial_cell	25	CGATTGACACACAGAG	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr9	118675017	118675017	G	C	kidney_proximal_convoluted_tubule_epithelial_cell	25	GAACGGAAGTGGAGAA	fenestrated_cell	G	1
-1-M-62	10X_P5_8	chr9	123717207	123717207	A	G	podocyte	2	CATCAGACACCCTATC	fenestrated_cell	A	8
-1-M-62	10X_P5_8	chr9	123717207	123717207	A	G	podocyte	2	CGGAGTCTCGTCTGCT	fenestrated_cell	A	8
-1-M-62	10X_P5_8	chr9	123717207	123717207	A	G	podocyte	2	TTAGGACTCCTTGCCA	fenestrated_cell	A	4
-1-M-62	10X_P5_8	chr9	123717207	123717207	A	G	podocyte	2	ATTCTACCAAGTCATC	fenestrated_cell	A	15
-1-M-62	10X_P5_8	chr9	123717207	123717207	A	G	podocyte	2	GTCCTCAGTCAGAGGT	fenestrated_cell	A	3
-1-M-62	10X_P5_8	chr9	123717207	123717207	A	G	podocyte	2	GATGAAAGTTCGGGCT	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chr9	123717207	123717207	A	G	podocyte	2	GGGATGAAGCACCGTC	fenestrated_cell	A	4
-1-M-62	10X_P5_8	chr9	123717207	123717207	A	G	podocyte	2	CACACTCGTGAGTGAC	fenestrated_cell	A	5
-1-M-62	10X_P5_8	chr9	123717207	123717207	A	G	podocyte	2	AACTCCCAGTGCGTGA	fenestrated_cell	A	1
-1-M-62	10X_P5_8	chrX	6640897	6640897	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	2	CTTGGCTCAGTCTTCC	fenestrated_cell	G	9
-1-M-62	10X_P5_8	chrX	6640897	6640897	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	2	GTGGGTCGTAGTGAAT	fenestrated_cell	G	3
-1-M-62	10X_P5_8	chrX	12616481	12616481	C	T	macrophage	3	GATCGATCATGCTGGC	fenestrated_cell	C	1
-1-M-62	10X_P5_8	chrX	12616481	12616481	C	T	macrophage	3	ATAACGCTCACCCGAG	fenestrated_cell	C	1
-1-M-62	10X_P5_8	chrX	12616481	12616481	C	T	macrophage	3	CGTCTACGTACACCGC	fenestrated_cell	C	1
-1-M-62	10X_P5_8	chrX	12616481	12616481	C	T	macrophage	3	CAGTCCTGTTCCCTTG	fenestrated_cell	C	5
-1-M-62	10X_P5_8	chrX	12616481	12616481	C	T	macrophage	3	TTTGGTTCATATACGC	fenestrated_cell	C	1
-1-M-62	10X_P5_8	chrX	12616481	12616481	C	T	macrophage	3	CGGAGTCCAGGATTGG	fenestrated_cell	C	1
-1-M-62	10X_P5_8	chrX	12616481	12616481	C	T	macrophage	3	CGGAGTCTCGTCTGCT	fenestrated_cell	C	1
-1-M-62	10X_P5_8	chrX	12616481	12616481	C	T	macrophage	3	CGGCTAGGTTACGGAG	fenestrated_cell	C	1
-1-M-62	10X_P5_8	chrX	12616481	12616481	C	T	macrophage	3	GTAGGCCAGTAACCCT	fenestrated_cell	C	2
-1-M-62	10X_P5_8	chrX	12616481	12616481	C	T	macrophage	3	CGTCACTCATGGTAGG	fenestrated_cell	C	1
-1-M-62	10X_P5_8	chrX	12616481	12616481	C	T	macrophage	3	AGCTCTCAGCGCTTAT	fenestrated_cell	C	1
-1-M-62	10X_P5_8	chrX	12616481	12616481	C	T	macrophage	3	TACAGTGTCGTCCGTT	fenestrated_cell	C	1
-1-M-62	10X_P5_8	chrX	12616481	12616481	C	T	macrophage	3	ACAGCTAAGAGTGAGA	fenestrated_cell	C	1
-1-M-62	10X_P5_8	chrX	12616481	12616481	C	T	macrophage	3	TCACGAACAAATACAG	fenestrated_cell	C	1
-1-M-62	10X_P5_8	chrX	74215264	74215264	G	A	kidney_mesangial_cell	2	CACACTCGTGAGTGAC	fenestrated_cell	G	5
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	TTCGGTCAGAGTCGGT	fenestrated_cell	C	1
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	TCACGAAAGGTGCACA	fenestrated_cell	C	1
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	ACGAGCCCATCACGTA	fenestrated_cell	C	1
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	CCTTCGACATGACGGA	fenestrated_cell	C	1
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	GTTAAGCGTCTCTCTG	fenestrated_cell	C	1
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	TGGACGCAGCTGTTCA	fenestrated_cell	C	2
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	TCTTCGGTCAGCTCGG	fenestrated_cell	C	1
+#CHROM	Start	End	REF	ALT_expected	CB	Cell_type_observed	Base_observed	Num_reads
+chr1	58415537	58415537	C	T	GTCCTCAGTCAGAGGT	fenestrated_cell	C	10
+chr1	58415537	58415537	C	T	AGGTCATCAGGTCCAC	fenestrated_cell	C	17
+chr1	58415537	58415537	C	T	CGCTTCAAGGTGATAT	fenestrated_cell	C	5
+chr1	58415537	58415537	C	T	GTTTCTAAGCTGAACG	fenestrated_cell	C	5
+chr1	58415537	58415537	C	T	TTTGGTTCATATACGC	fenestrated_cell	C	4
+chr1	58415537	58415537	C	T	CGGAGTCTCGTCTGCT	fenestrated_cell	C	7
+chr1	58415537	58415537	C	T	GTGAAGGTCCATGAGT	fenestrated_cell	C	8
+chr1	58415537	58415537	C	T	GTAGTCATCGGAGCAA	fenestrated_cell	C	10
+chr1	58415537	58415537	C	T	TACTCGCTCCATGAGT	fenestrated_cell	C	15
+chr1	58415537	58415537	C	T	CACACTCGTCAATGTC	fenestrated_cell	C	6
+chr1	58415537	58415537	C	T	GATCGTAAGGGTTTCT	fenestrated_cell	C	20
+chr1	58415537	58415537	C	T	CACCTTGTCAGAAATG	fenestrated_cell	C	2
+chr1	58415537	58415537	C	T	CTAAGACCAGCTGTAT	fenestrated_cell	C	5
+chr1	58415537	58415537	C	T	AACTCAGTCACTTCAT	fenestrated_cell	C	4
+chr1	58415537	58415537	C	T	AGCTTGAGTGGCTCCA	fenestrated_cell	C	7
+chr1	58415537	58415537	C	T	TTCTACATCATGCTCC	fenestrated_cell	C	9
+chr1	58415537	58415537	C	T	GGGTTGCCAAACTGTC	fenestrated_cell	C	5
+chr1	58415537	58415537	C	T	TAAGTGCGTTGAACTC	fenestrated_cell	C	6
+chr1	58415537	58415537	C	T	TAGTTGGTCTCTGAGA	fenestrated_cell	C	2
+chr1	58415537	58415537	C	T	TCACGAACAAATACAG	fenestrated_cell	C	4
+chr1	58415537	58415537	C	T	GCCTCTATCTGTCTAT	fenestrated_cell	C	1
+chr1	58415537	58415537	C	T	GGGAATGGTAACGTTC	fenestrated_cell	C	6
+chr1	82634873	82634873	C	T	AACTCCCAGTGCGTGA	fenestrated_cell	C	13
+chr1	93441521	93441521	A	G	GAACGGAAGTGGAGAA	fenestrated_cell	A	3
+chr1	93441521	93441521	A	G	AGCTCCTAGTGGACGT	fenestrated_cell	A	5
+chr1	93441521	93441521	A	G	ACATACGTCGTTTATC	fenestrated_cell	A	1
+chr1	93441521	93441521	A	G	GTCACAATCCCACTTG	fenestrated_cell	A	5
+chr1	93441521	93441521	A	G	TAGTTGGTCTCTGAGA	fenestrated_cell	A	3
+chr1	93441521	93441521	A	G	GAACCTAAGCAATCTC	fenestrated_cell	A	4
+chr1	93441521	93441521	A	G	CATGACATCTCTAGGA	fenestrated_cell	A	3
+chr1	93441521	93441521	A	G	CGTCTACGTACACCGC	fenestrated_cell	A	2
+chr1	93441521	93441521	A	G	GTTTCTATCTTGACGA	fenestrated_cell	A	3
+chr1	93441521	93441521	A	G	GTGAAGGTCCATGAGT	fenestrated_cell	A	3
+chr1	93441521	93441521	A	G	TTTGGTTCATATACGC	fenestrated_cell	A	1
+chr1	93441521	93441521	A	G	AACTCAGTCACTTCAT	fenestrated_cell	A	1
+chr1	93441521	93441521	A	G	TTTCCTCAGAGTCGGT	fenestrated_cell	A	4
+chr1	93441521	93441521	A	G	GCGCGATGTAAGAGGA	fenestrated_cell	A	1
+chr1	93441521	93441521	A	G	TACTCGCTCCATGAGT	fenestrated_cell	A	1
+chr1	151345769	151345769	T	C	GATCGCGCATTCCTGC	fenestrated_cell	T	7
+chr1	151345769	151345769	T	C	CCGTTCATCTCTAAGG	fenestrated_cell	T	6
+chr1	151345769	151345769	T	C	ATTCTACCAAGTCATC	fenestrated_cell	T	4
+chr1	151345769	151345769	T	C	CCACGGATCAATCACG	fenestrated_cell	T	13
+chr1	151345769	151345769	T	C	GTGAAGGTCCATGAGT	fenestrated_cell	T	5
+chr1	151345769	151345769	T	C	TCACAAGTCTGTTGAG	fenestrated_cell	T	5
+chr1	151345769	151345769	T	C	CAACCAAAGTCAAGCG	fenestrated_cell	T	5
+chr1	151345769	151345769	T	C	AGGGATGTCGCGGATC	fenestrated_cell	T	1
+chr1	171254538	171254538	C	T	CAGCATACAGCCTATA	fenestrated_cell	C	9
+chr1	171254538	171254538	C	T	ATAACGCTCAGGCCCA	fenestrated_cell	C	1
+chr1	171254538	171254538	C	T	ACGGAGACAAACGTGG	fenestrated_cell	C	5
+chr1	171254538	171254538	C	T	CACACTCGTCAATGTC	fenestrated_cell	C	5
+chr1	171254538	171254538	C	T	CGATTGACACACAGAG	fenestrated_cell	C	9
+chr1	171254538	171254538	C	T	CGAACATCAATCTGCA	fenestrated_cell	C	1
+chr1	171254538	171254538	C	T	TAGTTGGTCTCTGAGA	fenestrated_cell	C	8
+chr1	171254538	171254538	C	T	GTTAAGCGTCTCTCTG	fenestrated_cell	C	4
+chr1	171254538	171254538	C	T	TCACGAAAGGTGCACA	fenestrated_cell	C	3
+chr1	171254538	171254538	C	T	TACTCGCTCCATGAGT	fenestrated_cell	C	3
+chr10	13443654	13443654	T	C	CACACTCGTGAGTGAC	fenestrated_cell	T	1
+chr10	95308830	95308830	T	C	CACACTCGTGAGTGAC	fenestrated_cell	C	3
+chr10	95308830	95308830	T	C	TTCGGTCAGAGTCGGT	fenestrated_cell	T	3
+chr10	95308830	95308830	T	C	GATCGATCATGCTGGC	fenestrated_cell	C	1
+chr11	23347097	23347097	A	G	TACAGTGTCGTCCGTT	fenestrated_cell	G	3
+chr11	23347097	23347097	A	G	CTCACACAGGTTCCTA	fenestrated_cell	G	5
+chr11	23347097	23347097	A	G	GTTAAGCGTCTCTCTG	fenestrated_cell	G	7
+chr11	23347097	23347097	A	G	GTTAAGCGTCTCTCTG	fenestrated_cell	A	4
+chr11	23347097	23347097	A	G	TTAGGACTCCTTGCCA	fenestrated_cell	A	4
+chr11	23347097	23347097	A	G	TTCTACATCATGCTCC	fenestrated_cell	A	7
+chr11	23347097	23347097	A	G	TTCGGTCAGAGTCGGT	fenestrated_cell	A	4
+chr11	23347097	23347097	A	G	CACACTCGTGAGTGAC	fenestrated_cell	G	2
+chr11	85038163	85038163	T	C	CGTCACTCATGGTAGG	fenestrated_cell	C	5
+chr11	85038163	85038163	T	C	CTCACACAGGTTCCTA	fenestrated_cell	T	9
+chr11	85038163	85038163	T	C	GGGAATGGTAACGTTC	fenestrated_cell	C	8
+chr11	85038163	85038163	T	C	TAGAGCTGTGCACGAA	fenestrated_cell	T	10
+chr11	85038163	85038163	T	C	ATAACGCTCACCCGAG	fenestrated_cell	T	3
+chr11	85038163	85038163	T	C	AACTCAGTCACTTCAT	fenestrated_cell	T	8
+chr11	85038163	85038163	T	C	CTAAGACCAGCTGTAT	fenestrated_cell	T	1
+chr11	85038163	85038163	T	C	GTCCTCAGTCAGAGGT	fenestrated_cell	T	2
+chr11	113117219	113117219	A	G	TAGAGCTGTGCACGAA	fenestrated_cell	A	11
+chr12	4249725	4249725	G	A	CACCTTGTCAGAAATG	fenestrated_cell	G	2
+chr12	4249725	4249725	G	A	GTAGGCCAGTAACCCT	fenestrated_cell	G	1
+chr12	4249725	4249725	G	A	AGGTCATCAGGTCCAC	fenestrated_cell	G	1
+chr12	4249725	4249725	G	A	TACTCGCTCCATGAGT	fenestrated_cell	G	1
+chr12	51636408	51636408	T	C	ACAGCTAAGAGTGAGA	fenestrated_cell	T	10
+chr12	51636408	51636408	T	C	CACCTTGTCAGAAATG	fenestrated_cell	T	2
+chr12	51636408	51636408	T	C	AGCTCTCAGCGCTTAT	fenestrated_cell	T	10
+chr12	51636408	51636408	T	C	GGGTTGCCAAACTGTC	fenestrated_cell	T	6
+chr12	51636408	51636408	T	C	ATAACGCTCACCCGAG	fenestrated_cell	T	3
+chr12	51636408	51636408	T	C	CATGACATCTCTAGGA	fenestrated_cell	T	10
+chr12	51636408	51636408	T	C	ACGGAGACAAACGTGG	fenestrated_cell	T	6
+chr12	51636408	51636408	T	C	CAGTCCTGTTCCCTTG	fenestrated_cell	T	5
+chr12	51636408	51636408	T	C	GATGAAAGTTCGGGCT	fenestrated_cell	T	5
+chr12	51636408	51636408	T	C	TACTCGCTCCATGAGT	fenestrated_cell	T	4
+chr12	51636408	51636408	T	C	GATCGCGCATTCCTGC	fenestrated_cell	T	6
+chr12	51636408	51636408	T	C	GGGAATGGTAACGTTC	fenestrated_cell	T	9
+chr12	51636408	51636408	T	C	CGATTGACACACAGAG	fenestrated_cell	T	8
+chr12	51636408	51636408	T	C	ATTCTACCAAGTCATC	fenestrated_cell	T	8
+chr12	51636408	51636408	T	C	ACATACGTCGTTTATC	fenestrated_cell	T	3
+chr12	51636408	51636408	T	C	TTAGGACTCCTTGCCA	fenestrated_cell	T	1
+chr12	84971746	84971746	A	G	TCACAAGTCTGTTGAG	fenestrated_cell	A	5
+chr12	84971746	84971746	A	G	CACCTTGAGTGGAGTC	fenestrated_cell	A	8
+chr12	84971746	84971746	A	G	TGTATTCCAAGTTAAG	fenestrated_cell	A	6
+chr12	84971746	84971746	A	G	GATGAAAGTTCGGGCT	fenestrated_cell	A	3
+chr12	84971746	84971746	A	G	ACAGCTAAGAGTGAGA	fenestrated_cell	A	5
+chr12	84971746	84971746	A	G	GTCCTCAGTCAGAGGT	fenestrated_cell	A	5
+chr12	84971746	84971746	A	G	TGATTTCGTTGAACTC	fenestrated_cell	A	5
+chr12	84971746	84971746	A	G	CCGTTCATCTCTAAGG	fenestrated_cell	A	1
+chr13	63292362	63292362	A	G	GCGCGATGTAAGAGGA	fenestrated_cell	A	9
+chr13	63292362	63292362	A	G	GGACAAGAGGTGCACA	fenestrated_cell	A	7
+chr13	63292362	63292362	A	G	TAGAGCTGTGCACGAA	fenestrated_cell	A	7
+chr13	63292362	63292362	A	G	CGTCACTCATGGTAGG	fenestrated_cell	A	8
+chr13	63292362	63292362	A	G	GTTAAGCGTCTCTCTG	fenestrated_cell	G	1
+chr13	63292362	63292362	A	G	TACGGATTCGCGATCG	fenestrated_cell	A	5
+chr13	63292362	63292362	A	G	CAGTCCTGTTCCCTTG	fenestrated_cell	A	7
+chr13	63292362	63292362	A	G	AGCTCCTAGTGGACGT	fenestrated_cell	A	4
+chr13	63292362	63292362	A	G	GTATTCTAGTCTCAAC	fenestrated_cell	A	8
+chr13	63292362	63292362	A	G	GTCCTCAGTCAGAGGT	fenestrated_cell	A	6
+chr13	63292362	63292362	A	G	CTAGTGATCGGCATCG	fenestrated_cell	A	5
+chr13	63292362	63292362	A	G	TCACGAACAAATACAG	fenestrated_cell	A	4
+chr13	63292362	63292362	A	G	CCTTCGACATGACGGA	fenestrated_cell	A	5
+chr13	63292362	63292362	A	G	GAACCTAAGCAATCTC	fenestrated_cell	A	2
+chr13	63292362	63292362	A	G	AAACCTGTCGGACAAG	fenestrated_cell	A	1
+chr13	63292362	63292362	A	G	GATCGATCATGCTGGC	fenestrated_cell	G	2
+chr13	63292362	63292362	A	G	CTAACTTCAAGTCTGT	fenestrated_cell	A	5
+chr13	63292362	63292362	A	G	CACCTTGTCAGAAATG	fenestrated_cell	A	3
+chr13	63292362	63292362	A	G	CTCACACAGGTTCCTA	fenestrated_cell	G	4
+chr13	63292362	63292362	A	G	CATGACATCTCTAGGA	fenestrated_cell	A	3
+chr13	63292362	63292362	A	G	TGTATTCCAAGTTAAG	fenestrated_cell	A	2
+chr13	63292362	63292362	A	G	GTTTCTAAGCTGAACG	fenestrated_cell	A	2
+chr13	107885254	107885254	A	G	CGGAGTCTCGTCTGCT	fenestrated_cell	A	16
+chr13	107885254	107885254	A	G	CACACTCGTCAATGTC	fenestrated_cell	A	36
+chr13	107885254	107885254	A	G	GTTAAGCGTCTCTCTG	fenestrated_cell	A	22
+chr13	107885254	107885254	A	G	AACTCCCAGTGCGTGA	fenestrated_cell	A	39
+chr13	107885254	107885254	A	G	ACATACGTCGTTTATC	fenestrated_cell	A	14
+chr13	107885254	107885254	A	G	ACGGAGACAAACGTGG	fenestrated_cell	A	27
+chr13	107885254	107885254	A	G	ATAACGCTCACCCGAG	fenestrated_cell	A	17
+chr13	107885254	107885254	A	G	CACACTCGTGAGTGAC	fenestrated_cell	A	43
+chr13	107885254	107885254	A	G	CACAGTATCCGCAAGC	fenestrated_cell	A	15
+chr13	107885254	107885254	A	G	CATGACATCTCTAGGA	fenestrated_cell	A	63
+chr13	107885254	107885254	A	G	CCGTGGACAGGGTACA	fenestrated_cell	A	15
+chr13	107885254	107885254	A	G	CGATTGACACACAGAG	fenestrated_cell	A	23
+chr13	107885254	107885254	A	G	GAAGCAGGTGGTACAG	fenestrated_cell	A	20
+chr13	107885254	107885254	A	G	GATGAAAGTTCGGGCT	fenestrated_cell	A	7
+chr13	107885254	107885254	A	G	GGGTTGCCAAACTGTC	fenestrated_cell	A	23
+chr13	107885254	107885254	A	G	GTCACAATCCCACTTG	fenestrated_cell	A	28
+chr13	107885254	107885254	A	G	TCGCGAGCAGACAAGC	fenestrated_cell	A	15
+chr13	107885254	107885254	A	G	GTAGGCCAGTAACCCT	fenestrated_cell	A	23
+chr13	107885254	107885254	A	G	CAGTCCTGTTCCCTTG	fenestrated_cell	A	14
+chr13	107885254	107885254	A	G	TGATTTCGTTGAACTC	fenestrated_cell	A	25
+chr13	107885254	107885254	A	G	TTGAACGTCACCCGAG	fenestrated_cell	A	8
+chr13	107885254	107885254	A	G	ACAGCTAAGAGTGAGA	fenestrated_cell	A	19
+chr13	107885254	107885254	A	G	CCTTCGACATGACGGA	fenestrated_cell	A	7
+chr13	107885254	107885254	A	G	CTTAACTAGAGAACAG	fenestrated_cell	A	8
+chr13	107885254	107885254	A	G	GCGCGATGTAAGAGGA	fenestrated_cell	A	30
+chr13	107885254	107885254	A	G	TCACGAACAAATACAG	fenestrated_cell	A	24
+chr13	107885254	107885254	A	G	TTTGGTTCATATACGC	fenestrated_cell	A	23
+chr13	107885254	107885254	A	G	CCGTTCATCTCTAAGG	fenestrated_cell	A	6
+chr13	107885254	107885254	A	G	CGGCTAGGTTACGGAG	fenestrated_cell	A	31
+chr13	107885254	107885254	A	G	GGAACTTTCCGCATCT	fenestrated_cell	A	5
+chr13	107885254	107885254	A	G	TACTCGCTCCATGAGT	fenestrated_cell	A	26
+chr13	107885254	107885254	A	G	GTTTCTATCTTGACGA	fenestrated_cell	A	13
+chr13	107885254	107885254	A	G	AGCTTGAGTGGCTCCA	fenestrated_cell	A	17
+chr13	107885254	107885254	A	G	CACCTTGTCAGAAATG	fenestrated_cell	A	5
+chr13	107885254	107885254	A	G	CCACGGATCAATCACG	fenestrated_cell	A	14
+chr13	107885254	107885254	A	G	CGTCAGGCAGGATTGG	fenestrated_cell	A	2
+chr13	107885254	107885254	A	G	CTAAGACCAGCTGTAT	fenestrated_cell	A	5
+chr13	107885254	107885254	A	G	TGCCCATCATCTGGTA	fenestrated_cell	A	4
+chr13	107885254	107885254	A	G	TTCGGTCAGAGTCGGT	fenestrated_cell	A	34
+chr13	107885254	107885254	A	G	CATCAAGTCGTCACGG	fenestrated_cell	A	4
+chr13	107885254	107885254	A	G	CACCTTGAGTGGAGTC	fenestrated_cell	A	11
+chr13	107885254	107885254	A	G	CAGCATACAGCCTATA	fenestrated_cell	A	6
+chr13	107885254	107885254	A	G	CGGAGTCCAGGATTGG	fenestrated_cell	A	21
+chr13	107885254	107885254	A	G	GGTGAAGCAGAGTGTG	fenestrated_cell	A	7
+chr13	107885254	107885254	A	G	CTTGGCTCAGTCTTCC	fenestrated_cell	A	12
+chr13	107885254	107885254	A	G	CTCACACAGGTTCCTA	fenestrated_cell	A	27
+chr13	107885254	107885254	A	G	AGGGATGTCGCGGATC	fenestrated_cell	A	7
+chr13	107885254	107885254	A	G	GTAGTCATCGGAGCAA	fenestrated_cell	A	26
+chr13	107885254	107885254	A	G	GTGAAGGTCCATGAGT	fenestrated_cell	A	8
+chr13	107885254	107885254	A	G	GCCTCTATCTGTCTAT	fenestrated_cell	A	15
+chr13	107885254	107885254	A	G	AGCTCTCAGCGCTTAT	fenestrated_cell	A	2
+chr13	107885254	107885254	A	G	ATAACGCTCAGGCCCA	fenestrated_cell	A	8
+chr13	107885254	107885254	A	G	TTCTACATCATGCTCC	fenestrated_cell	A	9
+chr13	107885254	107885254	A	G	CGAACATCAATCTGCA	fenestrated_cell	A	8
+chr13	107885254	107885254	A	G	CTGTGCTAGATCTGAA	fenestrated_cell	A	16
+chr13	107885254	107885254	A	G	AACTCAGTCACTTCAT	fenestrated_cell	A	15
+chr13	107885254	107885254	A	G	GAACGGAAGTGGAGAA	fenestrated_cell	A	13
+chr13	107885254	107885254	A	G	GATCGTAAGGGTTTCT	fenestrated_cell	A	7
+chr13	107885254	107885254	A	G	ATTCTACCAAGTCATC	fenestrated_cell	A	10
+chr13	107885254	107885254	A	G	CCCAGTTCAAAGGAAG	fenestrated_cell	A	7
+chr13	107885254	107885254	A	G	TGTATTCCAAGTTAAG	fenestrated_cell	A	11
+chr13	107885254	107885254	A	G	TTAGGACTCCGATATG	fenestrated_cell	A	2
+chr13	107885254	107885254	A	G	TTAGTTCGTACAAGTA	fenestrated_cell	A	9
+chr13	107885254	107885254	A	G	CGTCTACGTACACCGC	fenestrated_cell	A	8
+chr13	107885254	107885254	A	G	ACGCCGAAGTGAAGTT	fenestrated_cell	A	9
+chr13	107885254	107885254	A	G	TCTTCGGTCAGCTCGG	fenestrated_cell	A	5
+chr13	107885254	107885254	A	G	TCACGAACAAATACAG	fenestrated_cell	G	1
+chr13	107885254	107885254	A	G	TCATTTGAGCTTTGGT	fenestrated_cell	A	4
+chr13	107885254	107885254	A	G	GATCGCGCATTCCTGC	fenestrated_cell	A	3
+chr13	107885254	107885254	A	G	TTTCCTCAGAGTCGGT	fenestrated_cell	A	2
+chr13	107885254	107885254	A	G	CGTCACTCATGGTAGG	fenestrated_cell	A	3
+chr13	107885254	107885254	A	G	TAGTTGGTCTCTGAGA	fenestrated_cell	A	3
+chr13	107885254	107885254	A	G	GTGGGTCGTAGTGAAT	fenestrated_cell	A	3
+chr13	107885254	107885254	A	G	TGCGCAGGTGCAGTAG	fenestrated_cell	A	2
+chr13	107885254	107885254	A	G	TTAGGACTCCTTGCCA	fenestrated_cell	A	4
+chr13	107885254	107885254	A	G	CAACCAAAGTCAAGCG	fenestrated_cell	A	4
+chr14	47186779	47186779	A	T	GCGCGATGTAAGAGGA	fenestrated_cell	A	5
+chr14	47186779	47186779	A	T	ACATACGTCGTTTATC	fenestrated_cell	A	2
+chr14	47186779	47186779	A	T	CTAACTTCAAGTCTGT	fenestrated_cell	A	2
+chr14	47186779	47186779	A	T	GTGAAGGTCCATGAGT	fenestrated_cell	A	4
+chr14	47186779	47186779	A	T	ATTCTACCAAGTCATC	fenestrated_cell	A	6
+chr14	47186779	47186779	A	T	TCACGAAAGGTGCACA	fenestrated_cell	A	6
+chr14	47186779	47186779	A	T	TCGCGAGCAGACAAGC	fenestrated_cell	A	2
+chr14	47186779	47186779	A	T	ATTCTACCAAGTCATC	fenestrated_cell	T	1
+chr14	47186779	47186779	A	T	CATCAGACACCCTATC	fenestrated_cell	A	6
+chr14	47186779	47186779	A	T	CAGTCCTGTTCCCTTG	fenestrated_cell	A	3
+chr14	47186779	47186779	A	T	TAGAGCTGTGCACGAA	fenestrated_cell	A	1
+chr14	47186779	47186779	A	T	GTGAAGGTCCATGAGT	fenestrated_cell	T	2
+chr14	56919949	56919949	T	C	CGATTGACACACAGAG	fenestrated_cell	T	9
+chr14	56919949	56919949	T	C	TAGTTGGTCTCTGAGA	fenestrated_cell	T	2
+chr14	56919949	56919949	T	C	ACAGCTAAGAGTGAGA	fenestrated_cell	T	12
+chr14	56919949	56919949	T	C	TTCTACATCATGCTCC	fenestrated_cell	T	7
+chr14	56919949	56919949	T	C	CTAAGACCAGCTGTAT	fenestrated_cell	T	4
+chr14	56919949	56919949	T	C	GTCACAATCCCACTTG	fenestrated_cell	T	9
+chr14	56919949	56919949	T	C	CAGCATACAGCCTATA	fenestrated_cell	T	1
+chr14	70672157	70672157	A	T	GTCACAATCCCACTTG	fenestrated_cell	A	1
+chr14	70672157	70672157	A	T	ATTCTACCAAGTCATC	fenestrated_cell	A	1
+chr14	70672157	70672157	A	T	TGTATTCCAAGTTAAG	fenestrated_cell	A	1
+chr14	70672157	70672157	A	T	TCTTCGGTCAGCTCGG	fenestrated_cell	A	1
+chr14	70672157	70672157	A	T	CGTCACTCATGGTAGG	fenestrated_cell	A	1
+chr14	70672157	70672157	A	T	GTTAAGCGTCTCTCTG	fenestrated_cell	A	1
+chr14	70672157	70672157	A	T	AGGGATGTCGCGGATC	fenestrated_cell	A	1
+chr14	70672157	70672157	A	T	GTTTCTATCTTGACGA	fenestrated_cell	A	1
+chr14	75783278	75783278	T	A	GATCGTAAGGGTTTCT	fenestrated_cell	T	3
+chr14	75783278	75783278	T	A	GAACCTAAGCAATCTC	fenestrated_cell	T	4
+chr14	75783278	75783278	T	A	CTCACACAGGTTCCTA	fenestrated_cell	T	3
+chr15	36595815	36595815	T	C	TACGGATTCGCGATCG	fenestrated_cell	T	1
+chr15	36595815	36595815	T	C	GCGCGATGTAAGAGGA	fenestrated_cell	T	2
+chr15	36595815	36595815	T	C	ACAGCCGGTATTCGTG	fenestrated_cell	T	1
+chr15	36595815	36595815	T	C	CGATTGACACACAGAG	fenestrated_cell	T	2
+chr15	36595815	36595815	T	C	CGGCTAGGTTACGGAG	fenestrated_cell	T	1
+chr15	36595815	36595815	T	C	CTTAACTAGAGAACAG	fenestrated_cell	T	1
+chr15	36595815	36595815	T	C	CATGACATCTCTAGGA	fenestrated_cell	T	1
+chr15	36595815	36595815	T	C	GTGGGTCGTAGTGAAT	fenestrated_cell	T	1
+chr15	36595815	36595815	T	C	AGCTTGAGTGGCTCCA	fenestrated_cell	T	1
+chr15	36595815	36595815	T	C	GATCGTAAGGGTTTCT	fenestrated_cell	T	2
+chr15	36595815	36595815	T	C	TGGACGCAGCTGTTCA	fenestrated_cell	T	1
+chr15	36595815	36595815	T	C	TGCCCATCATCTGGTA	fenestrated_cell	T	1
+chr15	36595815	36595815	T	C	GTGTTAGAGTCCGGTC	fenestrated_cell	T	1
+chr15	36595815	36595815	T	C	ACGCCGAAGTGAAGTT	fenestrated_cell	C	1
+chr15	36595815	36595815	T	C	CCACGGATCAATCACG	fenestrated_cell	T	1
+chr15	36595815	36595815	T	C	GGGAATGGTAACGTTC	fenestrated_cell	T	1
+chr15	36595815	36595815	T	C	GTGAAGGTCCATGAGT	fenestrated_cell	T	2
+chr15	36595815	36595815	T	C	TCGCGAGCAGACAAGC	fenestrated_cell	T	2
+chr15	36595815	36595815	T	C	CACACTCGTGAGTGAC	fenestrated_cell	T	1
+chr15	36595815	36595815	T	C	TTGAACGTCACCCGAG	fenestrated_cell	T	1
+chr15	36595815	36595815	T	C	CTCACACAGGTTCCTA	fenestrated_cell	T	1
+chr15	36595815	36595815	T	C	CGAACATCAATCTGCA	fenestrated_cell	T	1
+chr15	36595815	36595815	T	C	ATAACGCTCAGGCCCA	fenestrated_cell	T	1
+chr15	36595815	36595815	T	C	CCCAGTTCAAAGGAAG	fenestrated_cell	T	1
+chr15	36595815	36595815	T	C	ACGCCGAAGTGAAGTT	fenestrated_cell	T	1
+chr15	36595815	36595815	T	C	TAGTTGGTCTCTGAGA	fenestrated_cell	T	1
+chr15	36595815	36595815	T	C	AGCTCTCAGCGCTTAT	fenestrated_cell	T	1
+chr15	36595815	36595815	T	C	TTCGGTCAGAGTCGGT	fenestrated_cell	T	1
+chr16	4730557	4730557	A	G	CCTTCGACATGACGGA	fenestrated_cell	G	5
+chr16	4730557	4730557	A	G	GGTGAAGCAGAGTGTG	fenestrated_cell	A	9
+chr16	4730557	4730557	A	G	TACGGATTCGCGATCG	fenestrated_cell	A	7
+chr16	4730557	4730557	A	G	TAGAGCTGTGCACGAA	fenestrated_cell	G	1
+chr16	4730557	4730557	A	G	GTCCTCAGTCAGAGGT	fenestrated_cell	A	1
+chr16	57601769	57601769	A	G	TTCTACATCATGCTCC	fenestrated_cell	A	5
+chr16	57601769	57601769	A	G	TTAGGACTCCTTGCCA	fenestrated_cell	A	10
+chr16	57601769	57601769	A	G	TGTATTCCAAGTTAAG	fenestrated_cell	A	3
+chr16	57601769	57601769	A	G	ACGGAGACAAACGTGG	fenestrated_cell	A	7
+chr16	57601769	57601769	A	G	GATCGTAAGGGTTTCT	fenestrated_cell	A	5
+chr16	57601769	57601769	A	G	AGGGATGTCGCGGATC	fenestrated_cell	A	8
+chr16	57601769	57601769	A	G	CCGTTCATCTCTAAGG	fenestrated_cell	A	3
+chr16	57601769	57601769	A	G	CGGAGTCTCGTCTGCT	fenestrated_cell	A	5
+chr16	57601769	57601769	A	G	GTCCTCAGTCAGAGGT	fenestrated_cell	A	7
+chr16	57601769	57601769	A	G	TGCGCAGGTGCAGTAG	fenestrated_cell	A	5
+chr16	57601769	57601769	A	G	ACAGCCGGTATTCGTG	fenestrated_cell	A	6
+chr16	57601769	57601769	A	G	AGCTCTCAGCGCTTAT	fenestrated_cell	A	2
+chr16	57601769	57601769	A	G	CACACTCGTCAATGTC	fenestrated_cell	A	2
+chr16	57601769	57601769	A	G	ATTCTACCAAGTCATC	fenestrated_cell	A	2
+chr16	57601769	57601769	A	G	TTAGGACTCCGATATG	fenestrated_cell	A	3
+chr16	57601769	57601769	A	G	TCTTCGGTCAGCTCGG	fenestrated_cell	A	3
+chr17	10216516	10216516	A	G	AACTCCCAGTGCGTGA	fenestrated_cell	A	6
+chr17	10216516	10216516	A	G	TCGCGAGCAGACAAGC	fenestrated_cell	A	6
+chr17	10216516	10216516	A	G	TTAGGACTCCGATATG	fenestrated_cell	A	4
+chr17	10216516	10216516	A	G	AGATCTGGTATGAATG	fenestrated_cell	A	3
+chr17	10216516	10216516	A	G	GGTGAAGCAGAGTGTG	fenestrated_cell	A	1
+chr17	10216516	10216516	A	G	GTCCTCAGTCAGAGGT	fenestrated_cell	A	2
+chr17	39848243	39848243	C	T	ATAACGCTCAGGCCCA	fenestrated_cell	C	1
+chr17	39848243	39848243	C	T	GTGAAGGTCCATGAGT	fenestrated_cell	C	1
+chr17	39848243	39848243	C	T	CGGCTAGGTTACGGAG	fenestrated_cell	C	1
+chr17	39848243	39848243	C	T	GCGCGATGTAAGAGGA	fenestrated_cell	C	1
+chr17	39848243	39848243	C	T	GTAGTCATCGGAGCAA	fenestrated_cell	C	1
+chr17	39848255	39848255	G	A	ATAACGCTCAGGCCCA	fenestrated_cell	G	1
+chr17	39848255	39848255	G	A	GTGAAGGTCCATGAGT	fenestrated_cell	G	1
+chr17	39848255	39848255	G	A	CGGCTAGGTTACGGAG	fenestrated_cell	G	1
+chr17	39848255	39848255	G	A	GCGCGATGTAAGAGGA	fenestrated_cell	G	1
+chr17	39848255	39848255	G	A	GTAGTCATCGGAGCAA	fenestrated_cell	G	1
+chr17	64604378	64604378	T	C	CACCTTGAGTGGAGTC	fenestrated_cell	T	7
+chr17	64604378	64604378	T	C	TCGCGAGCAGACAAGC	fenestrated_cell	T	3
+chr17	64604378	64604378	T	C	CCTTCGACATGACGGA	fenestrated_cell	T	3
+chr17	64604378	64604378	T	C	TCATTTGAGCTTTGGT	fenestrated_cell	T	1
+chr17	64604378	64604378	T	C	CCTTCGACATGACGGA	fenestrated_cell	C	1
+chr17	70974186	70974186	G	A	ACGGAGACAAACGTGG	fenestrated_cell	G	2
+chr17	70974186	70974186	G	A	CTGTGCTAGATCTGAA	fenestrated_cell	G	1
+chr17	70974186	70974186	G	A	GTTAAGCGTCTCTCTG	fenestrated_cell	G	18
+chr17	70974186	70974186	G	A	CACCTTGAGTGGAGTC	fenestrated_cell	G	9
+chr17	70974186	70974186	G	A	CAGTCCTGTTCCCTTG	fenestrated_cell	G	20
+chr17	70974186	70974186	G	A	GAACCTAAGCAATCTC	fenestrated_cell	G	10
+chr17	70974186	70974186	G	A	CGATTGACACACAGAG	fenestrated_cell	G	23
+chr17	70974186	70974186	G	A	GTCATTTTCTCGATGA	fenestrated_cell	G	6
+chr17	70974186	70974186	G	A	GTTTCTAAGCTGAACG	fenestrated_cell	G	5
+chr17	70974186	70974186	G	A	TAGTTGGTCTCTGAGA	fenestrated_cell	G	18
+chr17	70974186	70974186	G	A	TCACGAAAGGTGCACA	fenestrated_cell	G	6
+chr17	70974186	70974186	G	A	TTCTACATCATGCTCC	fenestrated_cell	G	8
+chr17	70974186	70974186	G	A	ATTCTACCAAGTCATC	fenestrated_cell	G	10
+chr17	70974186	70974186	G	A	CTAGCCTGTTATCACG	fenestrated_cell	G	13
+chr17	70974186	70974186	G	A	GTTTCTATCTTGACGA	fenestrated_cell	G	18
+chr17	70974186	70974186	G	A	ATGCGATGTACGCTGC	fenestrated_cell	G	5
+chr17	70974186	70974186	G	A	CCCAGTTCAAAGGAAG	fenestrated_cell	G	8
+chr17	70974186	70974186	G	A	GGAACTTTCCGCATCT	fenestrated_cell	G	6
+chr17	70974186	70974186	G	A	GATCGATCATGCTGGC	fenestrated_cell	G	10
+chr17	70974186	70974186	G	A	GTGAAGGTCCATGAGT	fenestrated_cell	G	16
+chr17	70974186	70974186	G	A	TACAGTGTCGTCCGTT	fenestrated_cell	G	7
+chr17	70974186	70974186	G	A	TTAGGACTCCGATATG	fenestrated_cell	G	17
+chr17	70974186	70974186	G	A	GAACGGAAGTGGAGAA	fenestrated_cell	G	5
+chr17	70974186	70974186	G	A	AGGTCATCAGGTCCAC	fenestrated_cell	G	4
+chr17	70974186	70974186	G	A	CATGACATCTCTAGGA	fenestrated_cell	G	15
+chr17	70974186	70974186	G	A	TACCTTATCAGCTTAG	fenestrated_cell	G	3
+chr17	70974186	70974186	G	A	TAGAGCTGTGCACGAA	fenestrated_cell	G	11
+chr17	70974186	70974186	G	A	CGTCTACGTACACCGC	fenestrated_cell	G	5
+chr17	70974186	70974186	G	A	GATGAAAGTTCGGGCT	fenestrated_cell	G	6
+chr17	70974186	70974186	G	A	CATCAGACACCCTATC	fenestrated_cell	G	2
+chr17	70974186	70974186	G	A	CTAACTTCAAGTCTGT	fenestrated_cell	G	9
+chr17	70974186	70974186	G	A	TCTTCGGTCAGCTCGG	fenestrated_cell	G	9
+chr17	70974186	70974186	G	A	AGCTCCTAGTGGACGT	fenestrated_cell	G	8
+chr17	70974186	70974186	G	A	CGAACATCAATCTGCA	fenestrated_cell	G	10
+chr17	70974186	70974186	G	A	CGCTTCAAGGTGATAT	fenestrated_cell	G	12
+chr17	70974186	70974186	G	A	GTATTCTAGTCTCAAC	fenestrated_cell	G	2
+chr17	70974186	70974186	G	A	GTCACAATCCCACTTG	fenestrated_cell	G	8
+chr17	70974186	70974186	G	A	CGGCTAGGTTACGGAG	fenestrated_cell	G	12
+chr17	70974186	70974186	G	A	GATCGTAAGGGTTTCT	fenestrated_cell	G	6
+chr17	70974186	70974186	G	A	GGTGAAGCAGAGTGTG	fenestrated_cell	G	3
+chr17	70974186	70974186	G	A	CCTTCGACATGACGGA	fenestrated_cell	G	6
+chr17	70974186	70974186	G	A	CGTCACTCATGGTAGG	fenestrated_cell	G	8
+chr17	70974186	70974186	G	A	CTTAACTAGAGAACAG	fenestrated_cell	G	3
+chr17	70974186	70974186	G	A	ATAACGCTCAGGCCCA	fenestrated_cell	G	2
+chr17	70974186	70974186	G	A	CACACTCGTGAGTGAC	fenestrated_cell	G	12
+chr17	70974186	70974186	G	A	CTAGTGATCGGCATCG	fenestrated_cell	G	5
+chr17	70974186	70974186	G	A	AACTCAGTCACTTCAT	fenestrated_cell	G	7
+chr17	70974186	70974186	G	A	AGCTTGAGTGGCTCCA	fenestrated_cell	G	2
+chr17	70974186	70974186	G	A	CACACTCGTCAATGTC	fenestrated_cell	G	13
+chr17	70974186	70974186	G	A	CATCAAGTCGTCACGG	fenestrated_cell	G	1
+chr17	70974186	70974186	G	A	GGAATAACAGATTGCT	fenestrated_cell	G	10
+chr17	70974186	70974186	G	A	GTGTTAGAGTCCGGTC	fenestrated_cell	G	6
+chr17	70974186	70974186	G	A	TGGACGCAGCTGTTCA	fenestrated_cell	G	7
+chr17	70974186	70974186	G	A	TGATTTCGTTGAACTC	fenestrated_cell	G	12
+chr17	70974186	70974186	G	A	CTCACACAGGTTCCTA	fenestrated_cell	G	6
+chr17	70974186	70974186	G	A	TGTATTCCAAGTTAAG	fenestrated_cell	G	7
+chr17	70974186	70974186	G	A	TTTGGTTCATATACGC	fenestrated_cell	G	6
+chr17	70974186	70974186	G	A	TACGGATTCGCGATCG	fenestrated_cell	G	3
+chr17	70974186	70974186	G	A	ACATACGTCGTTTATC	fenestrated_cell	G	5
+chr17	70974186	70974186	G	A	TTAGTTCGTACAAGTA	fenestrated_cell	G	9
+chr17	70974186	70974186	G	A	CCGTTCATCTCTAAGG	fenestrated_cell	G	6
+chr17	70974186	70974186	G	A	TCACAAGTCTGTTGAG	fenestrated_cell	G	2
+chr17	70974186	70974186	G	A	CGGAGTCTCGTCTGCT	fenestrated_cell	G	5
+chr17	70974186	70974186	G	A	GATCGCGCATTCCTGC	fenestrated_cell	G	4
+chr17	70974186	70974186	G	A	AGGGATGTCGCGGATC	fenestrated_cell	G	5
+chr17	70974186	70974186	G	A	TCACGAACAAATACAG	fenestrated_cell	G	5
+chr17	70974186	70974186	G	A	GTAGTCATCGGAGCAA	fenestrated_cell	G	2
+chr17	70974186	70974186	G	A	TCATTTGAGCTTTGGT	fenestrated_cell	G	9
+chr17	70974186	70974186	G	A	TGCGCAGGTGCAGTAG	fenestrated_cell	G	1
+chr17	70974186	70974186	G	A	GGGAATGGTAACGTTC	fenestrated_cell	G	2
+chr17	70974186	70974186	G	A	TTGAACGTCACCCGAG	fenestrated_cell	G	3
+chr17	70974186	70974186	G	A	TTTCCTCAGAGTCGGT	fenestrated_cell	G	3
+chr17	70974186	70974186	G	A	ACAGCTAAGAGTGAGA	fenestrated_cell	G	2
+chr17	70974186	70974186	G	A	CAACCAAAGTCAAGCG	fenestrated_cell	G	1
+chr18	35672784	35672784	T	C	CATGACATCTCTAGGA	fenestrated_cell	T	3
+chr18	35672784	35672784	T	C	CTTAACTAGAGAACAG	fenestrated_cell	T	2
+chr18	35672784	35672784	T	C	TAAGTGCGTTGAACTC	fenestrated_cell	C	2
+chr18	35672784	35672784	T	C	GCCTCTATCTGTCTAT	fenestrated_cell	T	2
+chr18	35672784	35672784	T	C	GCGCGATGTAAGAGGA	fenestrated_cell	T	3
+chr18	35672784	35672784	T	C	GTAGTCATCGGAGCAA	fenestrated_cell	C	4
+chr18	35672784	35672784	T	C	CCTTCGACATGACGGA	fenestrated_cell	T	3
+chr18	35672784	35672784	T	C	TTCTACATCATGCTCC	fenestrated_cell	T	3
+chr18	60812558	60812558	A	C	TTCGGTCAGAGTCGGT	fenestrated_cell	A	1
+chr2	84433032	84433032	G	A	ACGGAGACAAACGTGG	fenestrated_cell	G	1
+chr2	84433032	84433032	G	A	GGGTTGCCAAACTGTC	fenestrated_cell	G	1
+chr2	130872646	130872646	T	C	TACGGATTCGCGATCG	fenestrated_cell	T	1
+chr2	152744055	152744055	G	T	TAGTTGGTCTCTGAGA	fenestrated_cell	G	5
+chr2	152744055	152744055	G	T	TCACGAAAGGTGCACA	fenestrated_cell	G	1
+chr2	152744055	152744055	G	T	ACAGCTAAGAGTGAGA	fenestrated_cell	G	3
+chr2	152744055	152744055	G	T	GCGCGATGTAAGAGGA	fenestrated_cell	G	4
+chr2	152744055	152744055	G	T	TACTCGCTCCATGAGT	fenestrated_cell	G	7
+chr2	152744055	152744055	G	T	GAACCTAAGCAATCTC	fenestrated_cell	G	1
+chr2	152744055	152744055	G	T	AGGTCATCAGGTCCAC	fenestrated_cell	G	2
+chr2	152744055	152744055	G	T	GTTAAGCGTCTCTCTG	fenestrated_cell	G	1
+chr2	152744055	152744055	G	T	GTAGTCATCGGAGCAA	fenestrated_cell	G	1
+chr2	163641632	163641632	T	C	TTCTACATCATGCTCC	fenestrated_cell	T	2
+chr2	163641632	163641632	T	C	CACCTTGTCAGAAATG	fenestrated_cell	T	1
+chr2	163641632	163641632	T	C	TAAGTGCGTTGAACTC	fenestrated_cell	T	1
+chr2	163641632	163641632	T	C	TACTCGCTCCATGAGT	fenestrated_cell	T	1
+chr2	163641632	163641632	T	C	ATTCTACCAAGTCATC	fenestrated_cell	T	1
+chr2	163641632	163641632	T	C	CATGACATCTCTAGGA	fenestrated_cell	T	2
+chr2	163641632	163641632	T	C	GCGCGATGTAAGAGGA	fenestrated_cell	C	2
+chr2	163641632	163641632	T	C	CTGTGCTAGATCTGAA	fenestrated_cell	T	1
+chr2	163641632	163641632	T	C	CGTCACTCATGGTAGG	fenestrated_cell	T	2
+chr2	163641632	163641632	T	C	GTCCTCAGTCAGAGGT	fenestrated_cell	T	1
+chr2	163641632	163641632	T	C	GTTTCTATCTTGACGA	fenestrated_cell	T	1
+chr2	163641632	163641632	T	C	CTCACACAGGTTCCTA	fenestrated_cell	C	2
+chr2	163641632	163641632	T	C	GATCGATCATGCTGGC	fenestrated_cell	T	1
+chr2	163641632	163641632	T	C	ACAGCTAAGAGTGAGA	fenestrated_cell	T	1
+chr2	163641632	163641632	T	C	ACATACGTCGTTTATC	fenestrated_cell	C	1
+chr2	163641632	163641632	T	C	GGACAAGAGGTGCACA	fenestrated_cell	T	1
+chr2	163641632	163641632	T	C	TAGAGCTGTGCACGAA	fenestrated_cell	T	1
+chr2	163641632	163641632	T	C	TTAGGACTCCTTGCCA	fenestrated_cell	T	1
+chr2	164066005	164066005	T	C	CCGTTCATCTCTAAGG	fenestrated_cell	T	11
+chr2	164066005	164066005	T	C	GGGATGAAGCACCGTC	fenestrated_cell	T	4
+chr2	164066005	164066005	T	C	GTTTCTAAGCTGAACG	fenestrated_cell	C	8
+chr2	164066005	164066005	T	C	TCACGAACAAATACAG	fenestrated_cell	T	10
+chr2	164066005	164066005	T	C	AGCTCCTAGTGGACGT	fenestrated_cell	C	7
+chr2	164066005	164066005	T	C	AGCTTGAGTGGCTCCA	fenestrated_cell	T	4
+chr2	164066005	164066005	T	C	CGGAGTCCAGGATTGG	fenestrated_cell	T	6
+chr2	164066005	164066005	T	C	CGCTTCAAGGTGATAT	fenestrated_cell	T	8
+chr2	164066005	164066005	T	C	GCGCGATGTAAGAGGA	fenestrated_cell	T	8
+chr2	164066005	164066005	T	C	CTAGTGATCGGCATCG	fenestrated_cell	T	5
+chr2	164066005	164066005	T	C	AGGGATGTCGCGGATC	fenestrated_cell	T	3
+chr2	164066005	164066005	T	C	GTAGGCCAGTAACCCT	fenestrated_cell	T	1
+chr2	164066005	164066005	T	C	GTCATTTTCTCGATGA	fenestrated_cell	T	1
+chr3	90088384	90088384	G	A	ACGGAGACAAACGTGG	fenestrated_cell	G	6
+chr3	90088384	90088384	G	A	CACACTCGTGAGTGAC	fenestrated_cell	G	2
+chr3	90088384	90088384	G	A	GCCTCTATCTGTCTAT	fenestrated_cell	G	10
+chr3	90088384	90088384	G	A	TCACAAGTCTGTTGAG	fenestrated_cell	G	4
+chr3	90088384	90088384	G	A	CACACTCGTCAATGTC	fenestrated_cell	G	3
+chr3	90088384	90088384	G	A	CTCACACAGGTTCCTA	fenestrated_cell	G	2
+chr3	90088384	90088384	G	A	GTCCTCAGTCAGAGGT	fenestrated_cell	G	2
+chr3	90088384	90088384	G	A	TGTATTCCAAGTTAAG	fenestrated_cell	G	10
+chr3	90088384	90088384	G	A	TTAGGACTCCTTGCCA	fenestrated_cell	G	7
+chr3	90088384	90088384	G	A	TTTGGTTCATATACGC	fenestrated_cell	G	12
+chr3	90088384	90088384	G	A	CACCTTGTCAGAAATG	fenestrated_cell	G	1
+chr3	90088384	90088384	G	A	GGGTTGCCAAACTGTC	fenestrated_cell	G	4
+chr3	90088384	90088384	G	A	TGATTTCGTTGAACTC	fenestrated_cell	G	3
+chr3	90088384	90088384	G	A	AGGGATGTCGCGGATC	fenestrated_cell	G	6
+chr3	90088384	90088384	G	A	CGAACATCAATCTGCA	fenestrated_cell	G	4
+chr3	90088384	90088384	G	A	GTCACAATCCCACTTG	fenestrated_cell	G	8
+chr3	90088384	90088384	G	A	ACATACGTCGTTTATC	fenestrated_cell	G	8
+chr3	90088384	90088384	G	A	CGATTGACACACAGAG	fenestrated_cell	G	7
+chr3	90088384	90088384	G	A	GAACCTAAGCAATCTC	fenestrated_cell	G	2
+chr3	90088384	90088384	G	A	CAGTCCTGTTCCCTTG	fenestrated_cell	G	4
+chr3	90088384	90088384	G	A	TTCTACATCATGCTCC	fenestrated_cell	G	3
+chr3	90088384	90088384	G	A	TAAGTGCGTTGAACTC	fenestrated_cell	G	2
+chr3	90088384	90088384	G	A	GAACGGAAGTGGAGAA	fenestrated_cell	G	3
+chr3	90088384	90088384	G	A	TGGACGCAGCTGTTCA	fenestrated_cell	G	3
+chr3	90088384	90088384	G	A	ACGCCGAAGTGAAGTT	fenestrated_cell	G	2
+chr3	90088384	90088384	G	A	GGAACTTTCCGCATCT	fenestrated_cell	G	1
+chr3	90088384	90088384	G	A	CAGCATACAGCCTATA	fenestrated_cell	G	1
+chr3	90088384	90088384	G	A	TTAGGCAAGTGTCCAT	fenestrated_cell	G	6
+chr3	90088384	90088384	G	A	TCGCGAGCAGACAAGC	fenestrated_cell	G	2
+chr3	90088384	90088384	G	A	CCGTGGACAGGGTACA	fenestrated_cell	G	1
+chr3	90088384	90088384	G	A	TCTTCGGTCAGCTCGG	fenestrated_cell	G	1
+chr3	90088384	90088384	G	A	AACTCCCAGTGCGTGA	fenestrated_cell	G	3
+chr3	90088384	90088384	G	A	CATCAAGTCGTCACGG	fenestrated_cell	G	1
+chr3	96077571	96077571	G	A	CACACTCGTGAGTGAC	fenestrated_cell	G	4
+chr3	96077571	96077571	G	A	CAGTCCTGTTCCCTTG	fenestrated_cell	G	3
+chr3	96077571	96077571	G	A	GTTTCTATCTTGACGA	fenestrated_cell	G	1
+chr3	96077571	96077571	G	A	TAAGTGCGTTGAACTC	fenestrated_cell	G	5
+chr3	96077571	96077571	G	A	TACGGATTCGCGATCG	fenestrated_cell	G	2
+chr3	96077571	96077571	G	A	TAGAGCTGTGCACGAA	fenestrated_cell	G	1
+chr3	96077571	96077571	G	A	CATGACATCTCTAGGA	fenestrated_cell	G	1
+chr3	153595823	153595823	T	C	CGGAGTCTCGTCTGCT	fenestrated_cell	T	2
+chr3	153595823	153595823	T	C	GATCGTAAGGGTTTCT	fenestrated_cell	T	1
+chr3	153595823	153595823	T	C	TAGAGCTGTGCACGAA	fenestrated_cell	T	3
+chr3	153595823	153595823	T	C	CACACTCGTCAATGTC	fenestrated_cell	T	4
+chr3	153595823	153595823	T	C	AACTCCCAGTGCGTGA	fenestrated_cell	T	2
+chr4	3793319	3793319	A	G	CATCAGACACCCTATC	fenestrated_cell	A	5
+chr4	3793319	3793319	A	G	GTTTCTATCTTGACGA	fenestrated_cell	A	18
+chr4	3793319	3793319	A	G	CATGACATCTCTAGGA	fenestrated_cell	A	9
+chr4	3793319	3793319	A	G	CGATTGACACACAGAG	fenestrated_cell	A	6
+chr4	3793319	3793319	A	G	GGAACTTTCCGCATCT	fenestrated_cell	A	5
+chr4	3793319	3793319	A	G	GATCGTAAGGGTTTCT	fenestrated_cell	A	12
+chr4	3793319	3793319	A	G	GTAGTCATCGGAGCAA	fenestrated_cell	A	6
+chr4	3793319	3793319	A	G	AGGGATGTCGCGGATC	fenestrated_cell	A	11
+chr4	3793319	3793319	A	G	CGCTTCAAGGTGATAT	fenestrated_cell	A	6
+chr4	3793319	3793319	A	G	CATCAAGTCGTCACGG	fenestrated_cell	A	1
+chr4	3793319	3793319	A	G	ATGCGATGTACGCTGC	fenestrated_cell	A	7
+chr4	3793319	3793319	A	G	CCGTGGACAGGGTACA	fenestrated_cell	A	12
+chr4	3793319	3793319	A	G	GTTTCTAAGCTGAACG	fenestrated_cell	A	8
+chr4	3793319	3793319	A	G	TCGCGAGCAGACAAGC	fenestrated_cell	A	5
+chr4	3793319	3793319	A	G	AAACCTGTCGGACAAG	fenestrated_cell	A	14
+chr4	3793319	3793319	A	G	GAAGCAGGTGGTACAG	fenestrated_cell	A	9
+chr4	3793319	3793319	A	G	CACACTCGTCAATGTC	fenestrated_cell	A	5
+chr4	3793326	3793326	A	G	GATCGTAAGGGTTTCT	fenestrated_cell	A	12
+chr4	3793326	3793326	A	G	GTAGTCATCGGAGCAA	fenestrated_cell	A	6
+chr4	3793326	3793326	A	G	AGGGATGTCGCGGATC	fenestrated_cell	A	11
+chr4	3793326	3793326	A	G	CGCTTCAAGGTGATAT	fenestrated_cell	A	6
+chr4	3793326	3793326	A	G	GTTTCTATCTTGACGA	fenestrated_cell	A	15
+chr4	3793326	3793326	A	G	CATCAAGTCGTCACGG	fenestrated_cell	A	1
+chr4	3793326	3793326	A	G	GGAACTTTCCGCATCT	fenestrated_cell	A	7
+chr4	3793326	3793326	A	G	ATGCGATGTACGCTGC	fenestrated_cell	A	6
+chr4	3793326	3793326	A	G	CCGTGGACAGGGTACA	fenestrated_cell	A	12
+chr4	3793326	3793326	A	G	GTTTCTAAGCTGAACG	fenestrated_cell	A	9
+chr4	3793326	3793326	A	G	TCGCGAGCAGACAAGC	fenestrated_cell	A	5
+chr4	3793326	3793326	A	G	CATGACATCTCTAGGA	fenestrated_cell	A	8
+chr4	3793326	3793326	A	G	CGATTGACACACAGAG	fenestrated_cell	A	7
+chr4	3793326	3793326	A	G	AAACCTGTCGGACAAG	fenestrated_cell	A	14
+chr4	3793326	3793326	A	G	CATCAGACACCCTATC	fenestrated_cell	A	4
+chr4	3793326	3793326	A	G	GAAGCAGGTGGTACAG	fenestrated_cell	A	9
+chr4	3793326	3793326	A	G	CACACTCGTCAATGTC	fenestrated_cell	A	5
+chr4	42992668	42992668	T	C	TTAGTTCGTACAAGTA	fenestrated_cell	T	3
+chr4	42992668	42992668	T	C	AACTCAGTCACTTCAT	fenestrated_cell	T	3
+chr4	42992668	42992668	T	C	TCGCGAGCAGACAAGC	fenestrated_cell	T	7
+chr4	42992668	42992668	T	C	TCTTCGGTCAGCTCGG	fenestrated_cell	T	3
+chr4	42992668	42992668	T	C	AGCTCCTAGTGGACGT	fenestrated_cell	C	2
+chr4	42992668	42992668	T	C	ATGCGATGTACGCTGC	fenestrated_cell	T	1
+chr4	42992668	42992668	T	C	CGGAGTCTCGTCTGCT	fenestrated_cell	T	2
+chr4	42992668	42992668	T	C	GTCACAATCCCACTTG	fenestrated_cell	T	1
+chr4	42992668	42992668	T	C	ATTCTACCAAGTCATC	fenestrated_cell	T	1
+chr4	42992668	42992668	T	C	GTCATTTTCTCGATGA	fenestrated_cell	T	1
+chr4	42992668	42992668	T	C	TACGGATTCGCGATCG	fenestrated_cell	C	1
+chr4	42992668	42992668	T	C	TTAGGACTCCTTGCCA	fenestrated_cell	T	1
+chr4	116226435	116226435	A	G	CGGCTAGGTTACGGAG	fenestrated_cell	A	1
+chr4	116226435	116226435	A	G	CTCACACAGGTTCCTA	fenestrated_cell	G	2
+chr4	116226435	116226435	A	G	AGGTCATCAGGTCCAC	fenestrated_cell	A	1
+chr4	116226435	116226435	A	G	TAGTTGGTCTCTGAGA	fenestrated_cell	A	2
+chr4	116226435	116226435	A	G	GTCCTCAGTCAGAGGT	fenestrated_cell	G	1
+chr4	116226435	116226435	A	G	ATGCGATGTACGCTGC	fenestrated_cell	A	1
+chr4	116226435	116226435	A	G	GAACCTAAGCAATCTC	fenestrated_cell	A	2
+chr4	116226435	116226435	A	G	CGGCTAGGTTACGGAG	fenestrated_cell	G	1
+chr4	117030410	117030410	T	A	CGTCTACGTACACCGC	fenestrated_cell	T	1
+chr4	117030410	117030410	T	A	ACAGCTAAGAGTGAGA	fenestrated_cell	T	1
+chr4	117030410	117030410	T	A	GTAGGCCAGTAACCCT	fenestrated_cell	T	1
+chr4	135835152	135835152	G	A	GCCTCTATCTGTCTAT	fenestrated_cell	G	23
+chr4	135835152	135835152	G	A	ACATACGTCGTTTATC	fenestrated_cell	G	5
+chr4	135835152	135835152	G	A	AAACCTGTCGGACAAG	fenestrated_cell	G	2
+chr4	135835152	135835152	G	A	TAAGTGCGTTGAACTC	fenestrated_cell	G	2
+chr4	136481401	136481401	A	G	TCACGAACAAATACAG	fenestrated_cell	A	8
+chr4	136481401	136481401	A	G	GTTTCTATCTTGACGA	fenestrated_cell	A	7
+chr4	136481401	136481401	A	G	CATGACATCTCTAGGA	fenestrated_cell	A	7
+chr4	136481401	136481401	A	G	CGAACATCAATCTGCA	fenestrated_cell	A	4
+chr4	136481401	136481401	A	G	CAGTCCTGTTCCCTTG	fenestrated_cell	G	5
+chr4	136481401	136481401	A	G	TTAGTTCGTACAAGTA	fenestrated_cell	A	6
+chr4	136481401	136481401	A	G	CGATTGACACACAGAG	fenestrated_cell	G	2
+chr4	136481401	136481401	A	G	TGTATTCCAAGTTAAG	fenestrated_cell	G	1
+chr4	136481401	136481401	A	G	TTTGGTTCATATACGC	fenestrated_cell	A	3
+chr4	136481401	136481401	A	G	TACTCGCTCCATGAGT	fenestrated_cell	A	1
+chr4	136481401	136481401	A	G	TCACGAAAGGTGCACA	fenestrated_cell	A	1
+chr4	136481425	136481425	A	G	CGAACATCAATCTGCA	fenestrated_cell	G	3
+chr4	136481425	136481425	A	G	GTTTCTATCTTGACGA	fenestrated_cell	A	6
+chr4	136481425	136481425	A	G	CGATTGACACACAGAG	fenestrated_cell	G	2
+chr4	136481425	136481425	A	G	TGTATTCCAAGTTAAG	fenestrated_cell	A	1
+chr4	136481425	136481425	A	G	CAGTCCTGTTCCCTTG	fenestrated_cell	G	4
+chr4	136481425	136481425	A	G	TCACGAACAAATACAG	fenestrated_cell	A	7
+chr4	136481425	136481425	A	G	TTTGGTTCATATACGC	fenestrated_cell	A	4
+chr4	136481425	136481425	A	G	TACTCGCTCCATGAGT	fenestrated_cell	A	1
+chr4	136481425	136481425	A	G	TTAGTTCGTACAAGTA	fenestrated_cell	A	6
+chr4	136481425	136481425	A	G	CATGACATCTCTAGGA	fenestrated_cell	A	6
+chr4	148068073	148068073	A	G	TACTCGCTCCATGAGT	fenestrated_cell	A	1
+chr5	65542281	65542281	A	G	GTTAAGCGTCTCTCTG	fenestrated_cell	A	6
+chr5	65542281	65542281	A	G	CTAGCCTGTTATCACG	fenestrated_cell	G	2
+chr5	65542281	65542281	A	G	ATTCTACCAAGTCATC	fenestrated_cell	G	4
+chr5	65542281	65542281	A	G	CAACCAAAGTCAAGCG	fenestrated_cell	G	2
+chr5	65542281	65542281	A	G	CAGCATACAGCCTATA	fenestrated_cell	A	1
+chr5	65542281	65542281	A	G	GATCGTAAGGGTTTCT	fenestrated_cell	A	2
+chr5	65542281	65542281	A	G	CGATTGACACACAGAG	fenestrated_cell	A	3
+chr5	65542281	65542281	A	G	GCCTCTATCTGTCTAT	fenestrated_cell	A	2
+chr5	65542281	65542281	A	G	CCCAGTTCAAAGGAAG	fenestrated_cell	A	3
+chr5	142870054	142870054	T	C	TTCTACATCATGCTCC	fenestrated_cell	T	6
+chr5	142870054	142870054	T	C	AACTCAGTCACTTCAT	fenestrated_cell	C	3
+chr5	142870054	142870054	T	C	GAACCTAAGCAATCTC	fenestrated_cell	T	9
+chr5	142870054	142870054	T	C	GATCGATCATGCTGGC	fenestrated_cell	T	5
+chr5	142870054	142870054	T	C	ACAGCTAAGAGTGAGA	fenestrated_cell	T	1
+chr5	142870054	142870054	T	C	AGCTTGAGTGGCTCCA	fenestrated_cell	C	2
+chr6	55241373	55241373	A	T	GATGAAAGTTCGGGCT	fenestrated_cell	A	5
+chr6	55241373	55241373	A	T	AAACCTGTCGGACAAG	fenestrated_cell	A	5
+chr6	55241373	55241373	A	T	GGAACTTTCCGCATCT	fenestrated_cell	A	4
+chr6	55241373	55241373	A	T	TCACGAACAAATACAG	fenestrated_cell	A	1
+chr6	55241373	55241373	A	T	ATAACGCTCAGGCCCA	fenestrated_cell	A	1
+chr6	55348223	55348223	A	G	GTGAAGGTCCATGAGT	fenestrated_cell	A	4
+chr7	16495266	16495266	C	T	GTGAAGGTCCATGAGT	fenestrated_cell	C	1
+chr7	16495266	16495266	C	T	ATTCTACCAAGTCATC	fenestrated_cell	C	1
+chr7	34225023	34225023	T	C	TCGCGAGCAGACAAGC	fenestrated_cell	T	3
+chr7	34225023	34225023	T	C	CGGCTAGGTTACGGAG	fenestrated_cell	T	10
+chr7	34225023	34225023	T	C	TACTCGCTCCATGAGT	fenestrated_cell	T	6
+chr7	34225023	34225023	T	C	GTGAAGGTCCATGAGT	fenestrated_cell	T	8
+chr7	34225023	34225023	T	C	GGGATGAAGCACCGTC	fenestrated_cell	T	7
+chr7	34225023	34225023	T	C	GCGCGATGTAAGAGGA	fenestrated_cell	T	4
+chr7	34225023	34225023	T	C	CAGTCCTGTTCCCTTG	fenestrated_cell	T	4
+chr7	34225023	34225023	T	C	ACATACGTCGTTTATC	fenestrated_cell	T	1
+chr7	127969060	127969060	A	G	CGTCACTCATGGTAGG	fenestrated_cell	A	3
+chr7	127969060	127969060	A	G	TGCGCAGGTGCAGTAG	fenestrated_cell	A	5
+chr7	127969060	127969060	A	G	TTGAACGTCACCCGAG	fenestrated_cell	A	2
+chr7	127969060	127969060	A	G	CATCAGACACCCTATC	fenestrated_cell	A	5
+chr7	127969060	127969060	A	G	TTAGTTCGTACAAGTA	fenestrated_cell	A	2
+chr7	127969060	127969060	A	G	CGAACATCAATCTGCA	fenestrated_cell	A	4
+chr7	127969060	127969060	A	G	CCGTGGACAGGGTACA	fenestrated_cell	G	4
+chr7	127969060	127969060	A	G	TTAGGACTCCTTGCCA	fenestrated_cell	A	6
+chr7	127969060	127969060	A	G	CCGTTCATCTCTAAGG	fenestrated_cell	A	1
+chr7	127969060	127969060	A	G	GTAGGCCAGTAACCCT	fenestrated_cell	A	3
+chr7	127969060	127969060	A	G	TCACGAACAAATACAG	fenestrated_cell	G	1
+chr7	127969060	127969060	A	G	ACATACGTCGTTTATC	fenestrated_cell	A	3
+chr7	127969060	127969060	A	G	GGGATGAAGCACCGTC	fenestrated_cell	G	3
+chr7	127969060	127969060	A	G	CACCTTGAGTGGAGTC	fenestrated_cell	A	1
+chr7	127969060	127969060	A	G	ATTCTACCAAGTCATC	fenestrated_cell	A	1
+chr7	141171169	141171169	T	C	CGATTGACACACAGAG	fenestrated_cell	T	3
+chr7	141171169	141171169	T	C	GTGAAGGTCCATGAGT	fenestrated_cell	T	1
+chr7	141466493	141466493	A	G	GAACCTAAGCAATCTC	fenestrated_cell	A	1
+chr7	141466493	141466493	A	G	AGGGATGTCGCGGATC	fenestrated_cell	A	1
+chr7	141466493	141466493	A	G	TGTATTCCAAGTTAAG	fenestrated_cell	A	1
+chr7	141466493	141466493	A	G	CATCAAGTCGTCACGG	fenestrated_cell	A	1
+chr7	141466493	141466493	A	G	GTGAAGGTCCATGAGT	fenestrated_cell	G	1
+chr7	141466493	141466493	A	G	CATGACATCTCTAGGA	fenestrated_cell	A	1
+chr7	141466493	141466493	A	G	TTAGGCAAGTGTCCAT	fenestrated_cell	A	1
+chr7	141466493	141466493	A	G	TTAGTTCGTACAAGTA	fenestrated_cell	A	1
+chr7	141466493	141466493	A	G	TTGAACGTCACCCGAG	fenestrated_cell	G	1
+chr7	141466493	141466493	A	G	TAGAGCTGTGCACGAA	fenestrated_cell	A	2
+chr7	141466493	141466493	A	G	TCTTCGGTCAGCTCGG	fenestrated_cell	A	1
+chr7	141466493	141466493	A	G	CGGAGTCCAGGATTGG	fenestrated_cell	A	2
+chr7	141466493	141466493	A	G	CGAACATCAATCTGCA	fenestrated_cell	A	1
+chr7	141466493	141466493	A	G	CTCACACAGGTTCCTA	fenestrated_cell	A	1
+chr7	141466493	141466493	A	G	CGGCTAGGTTACGGAG	fenestrated_cell	A	1
+chr7	141466493	141466493	A	G	TCACAAGTCTGTTGAG	fenestrated_cell	A	2
+chr7	141466493	141466493	A	G	CAACCAAAGTCAAGCG	fenestrated_cell	A	1
+chr7	141466493	141466493	A	G	AGGTCATCAGGTCCAC	fenestrated_cell	A	1
+chr7	141466493	141466493	A	G	GTCATTTTCTCGATGA	fenestrated_cell	A	1
+chr7	141466493	141466493	A	G	AGATCTGGTATGAATG	fenestrated_cell	A	1
+chr7	141466493	141466493	A	G	GTGAAGGTCCATGAGT	fenestrated_cell	A	1
+chr7	141466493	141466493	A	G	GCAGCCACATGATCCA	fenestrated_cell	G	1
+chr7	141466493	141466493	A	G	AACTCAGTCACTTCAT	fenestrated_cell	A	1
+chr7	141466493	141466493	A	G	GTTAAGCGTCTCTCTG	fenestrated_cell	A	1
+chr7	141466493	141466493	A	G	CTCACACAGGTTCCTA	fenestrated_cell	G	1
+chr7	141466493	141466493	A	G	TCACGAACAAATACAG	fenestrated_cell	A	1
+chr8	4292186	4292186	T	C	TTTGGTTCATATACGC	fenestrated_cell	T	3
+chr8	4292186	4292186	T	C	GTGTTAGAGTCCGGTC	fenestrated_cell	C	1
+chr8	25239167	25239167	T	C	TAGTTGGTCTCTGAGA	fenestrated_cell	T	3
+chr8	70475076	70475076	T	C	GTGAAGGTCCATGAGT	fenestrated_cell	T	6
+chr8	70475076	70475076	T	C	AGGTCATCAGGTCCAC	fenestrated_cell	T	3
+chr8	70475076	70475076	T	C	AGCTCTCAGCGCTTAT	fenestrated_cell	T	3
+chr8	70475076	70475076	T	C	CACAGTATCCGCAAGC	fenestrated_cell	C	6
+chr8	70475076	70475076	T	C	TACAGTGTCGTCCGTT	fenestrated_cell	C	3
+chr8	70475076	70475076	T	C	TCACGAAAGGTGCACA	fenestrated_cell	C	1
+chr8	70475076	70475076	T	C	GGGAATGGTAACGTTC	fenestrated_cell	T	2
+chr8	70475076	70475076	T	C	TCACAAGTCTGTTGAG	fenestrated_cell	C	5
+chr8	70475076	70475076	T	C	CTAGTGATCGGCATCG	fenestrated_cell	T	1
+chr8	70475076	70475076	T	C	TGTATTCCAAGTTAAG	fenestrated_cell	T	2
+chr8	71401307	71401307	A	G	TGCGCAGGTGCAGTAG	fenestrated_cell	G	1
+chr8	71401307	71401307	A	G	ACATACGTCGTTTATC	fenestrated_cell	A	2
+chr8	71401307	71401307	A	G	GCAGCCACATGATCCA	fenestrated_cell	A	2
+chr8	71401307	71401307	A	G	AAACCTGTCGGACAAG	fenestrated_cell	A	4
+chr8	71401307	71401307	A	G	GTCCTCAGTCAGAGGT	fenestrated_cell	G	2
+chr8	72318728	72318728	A	G	ACAGCCGGTATTCGTG	fenestrated_cell	A	3
+chr8	72318728	72318728	A	G	GAACCTAAGCAATCTC	fenestrated_cell	A	2
+chr8	72318728	72318728	A	G	TGGACGCAGCTGTTCA	fenestrated_cell	A	1
+chr8	72318728	72318728	A	G	ACATACGTCGTTTATC	fenestrated_cell	A	1
+chr8	72318728	72318728	A	G	CGTCACTCATGGTAGG	fenestrated_cell	A	1
+chr8	72550878	72550878	A	G	GGGATGAAGCACCGTC	fenestrated_cell	G	6
+chr8	72550878	72550878	A	G	CGATTGACACACAGAG	fenestrated_cell	G	2
+chr8	72550878	72550878	A	G	AGGGATGTCGCGGATC	fenestrated_cell	G	3
+chr8	72550878	72550878	A	G	TCACAAGTCTGTTGAG	fenestrated_cell	G	2
+chr8	84213011	84213011	A	G	CAGTCCTGTTCCCTTG	fenestrated_cell	A	9
+chr8	84213011	84213011	A	G	TACTCGCTCCATGAGT	fenestrated_cell	G	2
+chr8	84213011	84213011	A	G	GCGCGATGTAAGAGGA	fenestrated_cell	G	4
+chr8	84213011	84213011	A	G	ACGGAGACAAACGTGG	fenestrated_cell	A	1
+chr8	84213011	84213011	A	G	TGCCCATCATCTGGTA	fenestrated_cell	A	2
+chr9	25101237	25101237	A	T	CGAACATCAATCTGCA	fenestrated_cell	A	1
+chr9	109979400	109979400	A	G	TTAGTTCGTACAAGTA	fenestrated_cell	G	2
+chr9	109979400	109979400	A	G	GTCATTTTCTCGATGA	fenestrated_cell	A	4
+chr9	109979400	109979400	A	G	ATGCGATGTACGCTGC	fenestrated_cell	G	1
+chr9	109979400	109979400	A	G	TAAGTGCGTTGAACTC	fenestrated_cell	A	1
+chr9	109979400	109979400	A	G	CGAACATCAATCTGCA	fenestrated_cell	A	2
+chr9	109979400	109979400	A	G	ACAGCCGGTATTCGTG	fenestrated_cell	A	1
+chr9	109979400	109979400	A	G	GTCCTCAGTCAGAGGT	fenestrated_cell	A	1
+chr9	118675017	118675017	G	C	CACCTTGTCAGAAATG	fenestrated_cell	G	3
+chr9	118675017	118675017	G	C	ATAACGCTCAGGCCCA	fenestrated_cell	G	3
+chr9	118675017	118675017	G	C	CGATTGACACACAGAG	fenestrated_cell	G	1
+chr9	118675017	118675017	G	C	GAACGGAAGTGGAGAA	fenestrated_cell	G	1
+chr9	123717207	123717207	A	G	CATCAGACACCCTATC	fenestrated_cell	A	8
+chr9	123717207	123717207	A	G	CGGAGTCTCGTCTGCT	fenestrated_cell	A	8
+chr9	123717207	123717207	A	G	TTAGGACTCCTTGCCA	fenestrated_cell	A	4
+chr9	123717207	123717207	A	G	ATTCTACCAAGTCATC	fenestrated_cell	A	15
+chr9	123717207	123717207	A	G	GTCCTCAGTCAGAGGT	fenestrated_cell	A	3
+chr9	123717207	123717207	A	G	GATGAAAGTTCGGGCT	fenestrated_cell	A	1
+chr9	123717207	123717207	A	G	GGGATGAAGCACCGTC	fenestrated_cell	A	4
+chr9	123717207	123717207	A	G	CACACTCGTGAGTGAC	fenestrated_cell	A	5
+chr9	123717207	123717207	A	G	AACTCCCAGTGCGTGA	fenestrated_cell	A	1
+chrX	6640897	6640897	G	A	CTTGGCTCAGTCTTCC	fenestrated_cell	G	9
+chrX	6640897	6640897	G	A	GTGGGTCGTAGTGAAT	fenestrated_cell	G	3
+chrX	12616481	12616481	C	T	GATCGATCATGCTGGC	fenestrated_cell	C	1
+chrX	12616481	12616481	C	T	ATAACGCTCACCCGAG	fenestrated_cell	C	1
+chrX	12616481	12616481	C	T	CGTCTACGTACACCGC	fenestrated_cell	C	1
+chrX	12616481	12616481	C	T	CAGTCCTGTTCCCTTG	fenestrated_cell	C	5
+chrX	12616481	12616481	C	T	TTTGGTTCATATACGC	fenestrated_cell	C	1
+chrX	12616481	12616481	C	T	CGGAGTCCAGGATTGG	fenestrated_cell	C	1
+chrX	12616481	12616481	C	T	CGGAGTCTCGTCTGCT	fenestrated_cell	C	1
+chrX	12616481	12616481	C	T	CGGCTAGGTTACGGAG	fenestrated_cell	C	1
+chrX	12616481	12616481	C	T	GTAGGCCAGTAACCCT	fenestrated_cell	C	2
+chrX	12616481	12616481	C	T	CGTCACTCATGGTAGG	fenestrated_cell	C	1
+chrX	12616481	12616481	C	T	AGCTCTCAGCGCTTAT	fenestrated_cell	C	1
+chrX	12616481	12616481	C	T	TACAGTGTCGTCCGTT	fenestrated_cell	C	1
+chrX	12616481	12616481	C	T	ACAGCTAAGAGTGAGA	fenestrated_cell	C	1
+chrX	12616481	12616481	C	T	TCACGAACAAATACAG	fenestrated_cell	C	1
+chrX	74215264	74215264	G	A	CACACTCGTGAGTGAC	fenestrated_cell	G	5
+chrX	94416869	94416869	C	T	TTCGGTCAGAGTCGGT	fenestrated_cell	C	1
+chrX	94416869	94416869	C	T	TCACGAAAGGTGCACA	fenestrated_cell	C	1
+chrX	94416869	94416869	C	T	ACGAGCCCATCACGTA	fenestrated_cell	C	1
+chrX	94416869	94416869	C	T	CCTTCGACATGACGGA	fenestrated_cell	C	1
+chrX	94416869	94416869	C	T	GTTAAGCGTCTCTCTG	fenestrated_cell	C	1
+chrX	94416869	94416869	C	T	TGGACGCAGCTGTTCA	fenestrated_cell	C	2
+chrX	94416869	94416869	C	T	TCTTCGGTCAGCTCGG	fenestrated_cell	C	1

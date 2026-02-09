@@ -1,162 +1,162 @@
-donor	sample	#CHROM	Start	End	REF	ALT_expected	Cell_type_expected	Num_cells_expected	CB	Cell_type_observed	Base_observed	Num_reads
-1-M-62	10X_P5_8	chr1	58415537	58415537	C	T	kidney_cortex_artery_cell	2	AACACGTGTCATGCCG	kidney_distal_convoluted_tubule_epithelial_cell	C	1
-1-M-62	10X_P5_8	chr1	58415537	58415537	C	T	kidney_cortex_artery_cell	2	GGGAGATTCGGTCCGA	kidney_distal_convoluted_tubule_epithelial_cell	C	5
-1-M-62	10X_P5_8	chr1	58415537	58415537	C	T	kidney_cortex_artery_cell	2	GGCCGATGTCTTGTCC	kidney_distal_convoluted_tubule_epithelial_cell	C	8
-1-M-62	10X_P5_8	chr1	82634873	82634873	C	T	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	TAGAGCTTCGGAAACG	kidney_distal_convoluted_tubule_epithelial_cell	C	8
-1-M-62	10X_P5_8	chr1	93441521	93441521	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	2	CGATGTAGTCCGCTGA	kidney_distal_convoluted_tubule_epithelial_cell	A	1
-1-M-62	10X_P5_8	chr1	93441521	93441521	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	2	AACACGTGTCATGCCG	kidney_distal_convoluted_tubule_epithelial_cell	A	7
-1-M-62	10X_P5_8	chr1	93441521	93441521	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	2	AGGTCATCACTTAACG	kidney_distal_convoluted_tubule_epithelial_cell	A	2
-1-M-62	10X_P5_8	chr1	151345769	151345769	T	C	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	ACAGCTATCCGTACAA	kidney_distal_convoluted_tubule_epithelial_cell	T	4
-1-M-62	10X_P5_8	chr1	151345769	151345769	T	C	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	GACTAACAGTGCTGCC	kidney_distal_convoluted_tubule_epithelial_cell	T	5
-1-M-62	10X_P5_8	chr1	151345769	151345769	T	C	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	GGCCGATGTCTTGTCC	kidney_distal_convoluted_tubule_epithelial_cell	T	1
-1-M-62	10X_P5_8	chr10	95308830	95308830	T	C	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	GACGCGTCAATTCCTT	kidney_distal_convoluted_tubule_epithelial_cell	C	3
-1-M-62	10X_P5_8	chr10	95308830	95308830	T	C	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	ACTGCTCCACGTCTCT	kidney_distal_convoluted_tubule_epithelial_cell	T	1
-1-M-62	10X_P5_8	chr10	95308830	95308830	T	C	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	TGGTTCCTCCGTAGGC	kidney_distal_convoluted_tubule_epithelial_cell	T	2
-1-M-62	10X_P5_8	chr11	9389394	9389394	G	A	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	CTCACACGTGCAACTT	kidney_distal_convoluted_tubule_epithelial_cell	G	2
-1-M-62	10X_P5_8	chr11	9389394	9389394	G	A	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	GACGGCTGTAAGGGAA	kidney_distal_convoluted_tubule_epithelial_cell	G	4
-1-M-62	10X_P5_8	chr11	9389394	9389394	G	A	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	AACTTTCCAGGCTGAA	kidney_distal_convoluted_tubule_epithelial_cell	G	5
-1-M-62	10X_P5_8	chr11	9389394	9389394	G	A	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	AGGTCATCACTTAACG	kidney_distal_convoluted_tubule_epithelial_cell	G	2
-1-M-62	10X_P5_8	chr11	9389394	9389394	G	A	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	CTCAGAACAATCTGCA	kidney_distal_convoluted_tubule_epithelial_cell	G	1
-1-M-62	10X_P5_8	chr11	9389394	9389394	G	A	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	CCTAAAGCAGACGCCT	kidney_distal_convoluted_tubule_epithelial_cell	G	1
-1-M-62	10X_P5_8	chr11	9389394	9389394	G	A	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	ATCACGAGTGATAAGT	kidney_distal_convoluted_tubule_epithelial_cell	G	2
-1-M-62	10X_P5_8	chr11	9389394	9389394	G	A	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	CCACTACTCACTCTTA	kidney_distal_convoluted_tubule_epithelial_cell	G	2
-1-M-62	10X_P5_8	chr11	9389394	9389394	G	A	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	CGATGTAGTCCGCTGA	kidney_distal_convoluted_tubule_epithelial_cell	G	1
-1-M-62	10X_P5_8	chr11	23347097	23347097	A	G	fenestrated_cell	4	TGCGGGTTCGTAGATC	kidney_distal_convoluted_tubule_epithelial_cell	A	3
-1-M-62	10X_P5_8	chr11	83905624	83905624	T	G	kidney_proximal_convoluted_tubule_epithelial_cell	7	GGCCGATGTCTTGTCC	kidney_distal_convoluted_tubule_epithelial_cell	T	1
-1-M-62	10X_P5_8	chr11	85038163	85038163	T	C	fenestrated_cell	2	CTTACCGCAATAACGA	kidney_distal_convoluted_tubule_epithelial_cell	T	2
-1-M-62	10X_P5_8	chr11	85038163	85038163	T	C	fenestrated_cell	2	ACAGCTATCCGTACAA	kidney_distal_convoluted_tubule_epithelial_cell	T	1
-1-M-62	10X_P5_8	chr11	113117219	113117219	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	2	TGAGAGGCACCAGCAC	kidney_distal_convoluted_tubule_epithelial_cell	A	1
-1-M-62	10X_P5_8	chr12	4249725	4249725	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	2	AGGTCATCACTTAACG	kidney_distal_convoluted_tubule_epithelial_cell	G	1
-1-M-62	10X_P5_8	chr12	4249725	4249725	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	2	GACACGCGTAATAGCA	kidney_distal_convoluted_tubule_epithelial_cell	G	1
-1-M-62	10X_P5_8	chr12	4249725	4249725	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	2	TATCAGGGTGATGATA	kidney_distal_convoluted_tubule_epithelial_cell	G	2
-1-M-62	10X_P5_8	chr12	4249725	4249725	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	2	AAGGTTCTCTCGGACG	kidney_distal_convoluted_tubule_epithelial_cell	G	1
-1-M-62	10X_P5_8	chr12	51636408	51636408	T	C	podocyte	2	ACAGCTATCCGTACAA	kidney_distal_convoluted_tubule_epithelial_cell	T	6
-1-M-62	10X_P5_8	chr12	51636408	51636408	T	C	podocyte	2	TGTTCCGAGAAGGTGA	kidney_distal_convoluted_tubule_epithelial_cell	T	2
-1-M-62	10X_P5_8	chr12	51636408	51636408	T	C	podocyte	2	AACACGTGTCATGCCG	kidney_distal_convoluted_tubule_epithelial_cell	T	7
-1-M-62	10X_P5_8	chr12	84971746	84971746	A	G	kidney_mesangial_cell	2	CTTACCGCAATAACGA	kidney_distal_convoluted_tubule_epithelial_cell	A	2
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	TGAGAGGCACCAGCAC	kidney_distal_convoluted_tubule_epithelial_cell	A	1
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	AGGTCATCACTTAACG	kidney_distal_convoluted_tubule_epithelial_cell	A	4
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	GGGAGATTCGGTCCGA	kidney_distal_convoluted_tubule_epithelial_cell	A	7
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	TCAGGATTCGAGGTAG	kidney_distal_convoluted_tubule_epithelial_cell	A	9
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	GACGCGTCAATTCCTT	kidney_distal_convoluted_tubule_epithelial_cell	A	3
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	AGGCCGTTCTGCTGCT	kidney_distal_convoluted_tubule_epithelial_cell	A	1
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	GACTAACAGTGCTGCC	kidney_distal_convoluted_tubule_epithelial_cell	A	3
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	TGTGTTTAGCTCAACT	kidney_distal_convoluted_tubule_epithelial_cell	A	2
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	AAGCCGCCACGGTAAG	kidney_distal_convoluted_tubule_epithelial_cell	A	4
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	CTCACACGTGCAACTT	kidney_distal_convoluted_tubule_epithelial_cell	A	3
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	AACACGTGTCATGCCG	kidney_distal_convoluted_tubule_epithelial_cell	A	3
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	AACACGTGTCATGCCG	kidney_distal_convoluted_tubule_epithelial_cell	A	19
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	TCAGCTCTCCGCGTTT	kidney_distal_convoluted_tubule_epithelial_cell	A	7
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	GGGAGATTCGGTCCGA	kidney_distal_convoluted_tubule_epithelial_cell	A	23
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	GGCCGATGTCTTGTCC	kidney_distal_convoluted_tubule_epithelial_cell	A	20
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	CGATGTAGTCCGCTGA	kidney_distal_convoluted_tubule_epithelial_cell	A	9
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	ACAGCTATCCGTACAA	kidney_distal_convoluted_tubule_epithelial_cell	A	1
-1-M-62	10X_P5_8	chr14	56919949	56919949	T	C	kidney_proximal_convoluted_tubule_epithelial_cell	3	GACTAACAGTGCTGCC	kidney_distal_convoluted_tubule_epithelial_cell	T	4
-1-M-62	10X_P5_8	chr14	56919949	56919949	T	C	kidney_proximal_convoluted_tubule_epithelial_cell	3	GGCCGATGTCTTGTCC	kidney_distal_convoluted_tubule_epithelial_cell	T	3
-1-M-62	10X_P5_8	chr14	70672157	70672157	A	T	kidney_proximal_convoluted_tubule_epithelial_cell	3	GCTTCCATCAGAGACG	kidney_distal_convoluted_tubule_epithelial_cell	A	1
-1-M-62	10X_P5_8	chr14	70672157	70672157	A	T	kidney_proximal_convoluted_tubule_epithelial_cell	3	CTCACACGTGCAACTT	kidney_distal_convoluted_tubule_epithelial_cell	A	1
-1-M-62	10X_P5_8	chr14	70672157	70672157	A	T	kidney_proximal_convoluted_tubule_epithelial_cell	3	AACACGTGTCATGCCG	kidney_distal_convoluted_tubule_epithelial_cell	A	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	AGTTGGTTCGGAGGTA	kidney_distal_convoluted_tubule_epithelial_cell	T	2
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	CCACTACTCACTCTTA	kidney_distal_convoluted_tubule_epithelial_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	CTTACCGCAATAACGA	kidney_distal_convoluted_tubule_epithelial_cell	T	2
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	GACGGCTGTAAGGGAA	kidney_distal_convoluted_tubule_epithelial_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	CTCAGAACAATCTGCA	kidney_distal_convoluted_tubule_epithelial_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	CACATTTAGGCTACGA	kidney_distal_convoluted_tubule_epithelial_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	AGTGTCATCGGGAGTA	kidney_distal_convoluted_tubule_epithelial_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	CGATGGCCATCCAACA	kidney_distal_convoluted_tubule_epithelial_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	AGGTCATCACTTAACG	kidney_distal_convoluted_tubule_epithelial_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	TATCAGGGTGATGATA	kidney_distal_convoluted_tubule_epithelial_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	ATGTGTGGTGGTTTCA	kidney_distal_convoluted_tubule_epithelial_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	GTGTGCGTCCAGTATG	kidney_distal_convoluted_tubule_epithelial_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	GACGCGTCAATTCCTT	kidney_distal_convoluted_tubule_epithelial_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	ACGATGTTCTTCGGTC	kidney_distal_convoluted_tubule_epithelial_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	CAACCAAGTCCTAGCG	kidney_distal_convoluted_tubule_epithelial_cell	T	1
-1-M-62	10X_P5_8	chr16	57601769	57601769	A	G	kidney_mesangial_cell	2	ACAGCTATCCGTACAA	kidney_distal_convoluted_tubule_epithelial_cell	A	4
-1-M-62	10X_P5_8	chr16	57601769	57601769	A	G	kidney_mesangial_cell	2	GACTAACAGTGCTGCC	kidney_distal_convoluted_tubule_epithelial_cell	A	3
-1-M-62	10X_P5_8	chr17	39848243	39848243	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	4	CTTACCGCAATAACGA	kidney_distal_convoluted_tubule_epithelial_cell	C	1
-1-M-62	10X_P5_8	chr17	39848243	39848243	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	4	TGTGTTTAGCTCAACT	kidney_distal_convoluted_tubule_epithelial_cell	C	1
-1-M-62	10X_P5_8	chr17	39848255	39848255	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	4	CTTACCGCAATAACGA	kidney_distal_convoluted_tubule_epithelial_cell	G	1
-1-M-62	10X_P5_8	chr17	39848255	39848255	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	4	TGTGTTTAGCTCAACT	kidney_distal_convoluted_tubule_epithelial_cell	G	1
-1-M-62	10X_P5_8	chr17	64604378	64604378	T	C	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	AACACGTGTCATGCCG	kidney_distal_convoluted_tubule_epithelial_cell	T	6
-1-M-62	10X_P5_8	chr17	64604378	64604378	T	C	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	ACAGCTATCCGTACAA	kidney_distal_convoluted_tubule_epithelial_cell	T	2
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	GTTCTCGAGGCTATCT	kidney_distal_convoluted_tubule_epithelial_cell	G	7
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	GACGGCTGTAAGGGAA	kidney_distal_convoluted_tubule_epithelial_cell	G	2
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	TAGGCATAGCCAGTAG	kidney_distal_convoluted_tubule_epithelial_cell	G	1
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	CGATGTAGTCCGCTGA	kidney_distal_convoluted_tubule_epithelial_cell	G	2
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	CCACTACTCACTCTTA	kidney_distal_convoluted_tubule_epithelial_cell	G	2
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	CGATGGCCATCCAACA	kidney_distal_convoluted_tubule_epithelial_cell	G	7
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	CCTAGCTTCGACAGCC	kidney_distal_convoluted_tubule_epithelial_cell	G	5
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	ACTGCTCCACGTCTCT	kidney_distal_convoluted_tubule_epithelial_cell	G	3
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	GACTAACAGTGCTGCC	kidney_distal_convoluted_tubule_epithelial_cell	G	1
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	AACTCTTCAATAGCAA	kidney_distal_convoluted_tubule_epithelial_cell	G	2
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	TGGTTCCTCCGTAGGC	kidney_distal_convoluted_tubule_epithelial_cell	G	1
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	ACGATGTTCTTCGGTC	kidney_distal_convoluted_tubule_epithelial_cell	G	8
-1-M-62	10X_P5_8	chr2	130872646	130872646	T	C	kidney_proximal_convoluted_tubule_epithelial_cell	2	TATCAGGGTGATGATA	kidney_distal_convoluted_tubule_epithelial_cell	T	1
-1-M-62	10X_P5_8	chr2	168088251	168088251	T	G	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	GACGGCTGTAAGGGAA	kidney_distal_convoluted_tubule_epithelial_cell	T	4
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	TCAGGATTCGAGGTAG	kidney_distal_convoluted_tubule_epithelial_cell	G	1
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	CACATTTAGGCTACGA	kidney_distal_convoluted_tubule_epithelial_cell	G	2
-1-M-62	10X_P5_8	chr4	42992668	42992668	T	C	fenestrated_cell	2	AACACGTGTCATGCCG	kidney_distal_convoluted_tubule_epithelial_cell	T	3
-1-M-62	10X_P5_8	chr4	42992668	42992668	T	C	fenestrated_cell	2	AGTTGGTTCGGAGGTA	kidney_distal_convoluted_tubule_epithelial_cell	T	3
-1-M-62	10X_P5_8	chr4	42992668	42992668	T	C	fenestrated_cell	2	CTCAGAACAATCTGCA	kidney_distal_convoluted_tubule_epithelial_cell	T	4
-1-M-62	10X_P5_8	chr4	42992668	42992668	T	C	fenestrated_cell	2	AGGTCATCACTTAACG	kidney_distal_convoluted_tubule_epithelial_cell	T	3
-1-M-62	10X_P5_8	chr4	42992668	42992668	T	C	fenestrated_cell	2	CCACTACTCACTCTTA	kidney_distal_convoluted_tubule_epithelial_cell	T	1
-1-M-62	10X_P5_8	chr4	45100292	45100292	C	G	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	GACACGCGTAATAGCA	kidney_distal_convoluted_tubule_epithelial_cell	C	1
-1-M-62	10X_P5_8	chr4	135835152	135835152	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	5	ACGCAGCAGTGCCAGA	kidney_distal_convoluted_tubule_epithelial_cell	G	1
-1-M-62	10X_P5_8	chr4	148068073	148068073	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	4	GACTACAGTGCACTTA	kidney_distal_convoluted_tubule_epithelial_cell	A	1
-1-M-62	10X_P5_8	chr5	65542281	65542281	A	G	fenestrated_cell	3	ACAGCTATCCGTACAA	kidney_distal_convoluted_tubule_epithelial_cell	A	1
-1-M-62	10X_P5_8	chr5	65542281	65542281	A	G	fenestrated_cell	3	AACACGTGTCATGCCG	kidney_distal_convoluted_tubule_epithelial_cell	A	1
-1-M-62	10X_P5_8	chr5	66097380	66097380	G	T	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	3	ACAGCTATCCGTACAA	kidney_distal_convoluted_tubule_epithelial_cell	G	3
-1-M-62	10X_P5_8	chr6	55241373	55241373	A	T	kidney_proximal_convoluted_tubule_epithelial_cell	5	CACATTTAGGCTACGA	kidney_distal_convoluted_tubule_epithelial_cell	A	1
-1-M-62	10X_P5_8	chr6	55241373	55241373	A	T	kidney_proximal_convoluted_tubule_epithelial_cell	5	CTTACCGCAATAACGA	kidney_distal_convoluted_tubule_epithelial_cell	A	1
-1-M-62	10X_P5_8	chr6	55241373	55241373	A	T	kidney_proximal_convoluted_tubule_epithelial_cell	5	TCAGGATTCGAGGTAG	kidney_distal_convoluted_tubule_epithelial_cell	A	1
-1-M-62	10X_P5_8	chr6	83759472	83759472	A	G	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	AACTTTCCAGGCTGAA	kidney_distal_convoluted_tubule_epithelial_cell	A	1
-1-M-62	10X_P5_8	chr6	83759472	83759472	A	G	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	ACTGCTCCACGTCTCT	kidney_distal_convoluted_tubule_epithelial_cell	A	1
-1-M-62	10X_P5_8	chr6	83759472	83759472	A	G	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	TAGAGCTTCGGAAACG	kidney_distal_convoluted_tubule_epithelial_cell	A	4
-1-M-62	10X_P5_8	chr6	83759472	83759472	A	G	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	CACATTTAGGCTACGA	kidney_distal_convoluted_tubule_epithelial_cell	A	2
-1-M-62	10X_P5_8	chr6	90578816	90578816	T	G	kidney_proximal_convoluted_tubule_epithelial_cell	5	CCTAAAGCAGACGCCT	kidney_distal_convoluted_tubule_epithelial_cell	T	1
-1-M-62	10X_P5_8	chr6	90578816	90578816	T	G	kidney_proximal_convoluted_tubule_epithelial_cell	5	AAGGTTCTCTCGGACG	kidney_distal_convoluted_tubule_epithelial_cell	T	2
-1-M-62	10X_P5_8	chr7	16495266	16495266	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	3	CATCGAAGTCGCTTCT	kidney_distal_convoluted_tubule_epithelial_cell	C	1
-1-M-62	10X_P5_8	chr7	34225023	34225023	T	C	kidney_mesangial_cell	2	GACGCGTCAATTCCTT	kidney_distal_convoluted_tubule_epithelial_cell	T	1
-1-M-62	10X_P5_8	chr7	34225023	34225023	T	C	kidney_mesangial_cell	2	AACACGTGTCATGCCG	kidney_distal_convoluted_tubule_epithelial_cell	T	6
-1-M-62	10X_P5_8	chr7	127969060	127969060	A	G	fenestrated_cell	3	AACACGTGTCATGCCG	kidney_distal_convoluted_tubule_epithelial_cell	A	8
-1-M-62	10X_P5_8	chr7	141171169	141171169	T	C	kidney_cortex_artery_cell	2	TCAGGATTCGAGGTAG	kidney_distal_convoluted_tubule_epithelial_cell	T	2
-1-M-62	10X_P5_8	chr7	141171169	141171169	T	C	kidney_cortex_artery_cell	2	GGCCGATGTCTTGTCC	kidney_distal_convoluted_tubule_epithelial_cell	T	4
-1-M-62	10X_P5_8	chr7	141171169	141171169	T	C	kidney_cortex_artery_cell	2	CTTACCGCAATAACGA	kidney_distal_convoluted_tubule_epithelial_cell	T	3
-1-M-62	10X_P5_8	chr7	141466493	141466493	A	G	fenestrated_cell	4	AGTTGGTTCGGAGGTA	kidney_distal_convoluted_tubule_epithelial_cell	A	1
-1-M-62	10X_P5_8	chr8	4292186	4292186	T	C	kidney_proximal_convoluted_tubule_epithelial_cell	2	GGCCGATGTCTTGTCC	kidney_distal_convoluted_tubule_epithelial_cell	T	1
-1-M-62	10X_P5_8	chr8	25239167	25239167	T	C	kidney_cortex_artery_cell	3	AGGTCATCACTTAACG	kidney_distal_convoluted_tubule_epithelial_cell	T	4
-1-M-62	10X_P5_8	chr8	25239167	25239167	T	C	kidney_cortex_artery_cell	3	GGGAGATTCGGTCCGA	kidney_distal_convoluted_tubule_epithelial_cell	T	4
-1-M-62	10X_P5_8	chr8	71401307	71401307	A	G	fenestrated_cell	2	CACATTTAGGCTACGA	kidney_distal_convoluted_tubule_epithelial_cell	A	4
-1-M-62	10X_P5_8	chr8	72550878	72550878	A	G	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	3	AACTTTCCAGGCTGAA	kidney_distal_convoluted_tubule_epithelial_cell	A	2
-1-M-62	10X_P5_8	chr9	25101237	25101237	A	T	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	3	ATGTGTGGTGGTTTCA	kidney_distal_convoluted_tubule_epithelial_cell	A	1
-1-M-62	10X_P5_8	chr9	25101237	25101237	A	T	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	3	TGAGAGGCACCAGCAC	kidney_distal_convoluted_tubule_epithelial_cell	A	1
-1-M-62	10X_P5_8	chr9	109979400	109979400	A	G	fenestrated_cell	2	TGTGTTTAGCTCAACT	kidney_distal_convoluted_tubule_epithelial_cell	A	3
-1-M-62	10X_P5_8	chr9	123717207	123717207	A	G	podocyte	2	GACTAACAGTGCTGCC	kidney_distal_convoluted_tubule_epithelial_cell	A	11
-1-M-62	10X_P5_8	chr9	123717207	123717207	A	G	podocyte	2	TCAGGATTCGAGGTAG	kidney_distal_convoluted_tubule_epithelial_cell	A	10
-1-M-62	10X_P5_8	chrX	12616481	12616481	C	T	macrophage	3	ACAGCTATCCGTACAA	kidney_distal_convoluted_tubule_epithelial_cell	C	1
-1-M-62	10X_P5_8	chrX	12616481	12616481	C	T	macrophage	3	AGTGTCATCGGGAGTA	kidney_distal_convoluted_tubule_epithelial_cell	C	1
-1-M-62	10X_P5_8	chrX	12616481	12616481	C	T	macrophage	3	TACTCGCAGAGCTGGT	kidney_distal_convoluted_tubule_epithelial_cell	C	1
-1-M-62	10X_P5_8	chrX	12616481	12616481	C	T	macrophage	3	GTTCTCGAGGCTATCT	kidney_distal_convoluted_tubule_epithelial_cell	C	1
-1-M-62	10X_P5_8	chrX	12616481	12616481	C	T	macrophage	3	TAGTTGGGTTCATGGT	kidney_distal_convoluted_tubule_epithelial_cell	C	1
-1-M-62	10X_P5_8	chrX	12616481	12616481	C	T	macrophage	3	CTTACCGCAATAACGA	kidney_distal_convoluted_tubule_epithelial_cell	C	1
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	AACACGTGTCATGCCG	kidney_distal_convoluted_tubule_epithelial_cell	C	3
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	GGCCGATGTCTTGTCC	kidney_distal_convoluted_tubule_epithelial_cell	C	1
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	TCAGCTCTCCGCGTTT	kidney_distal_convoluted_tubule_epithelial_cell	C	1
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	GTTCTCGAGGCTATCT	kidney_distal_convoluted_tubule_epithelial_cell	C	1
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	TCAGGATTCGAGGTAG	kidney_distal_convoluted_tubule_epithelial_cell	C	2
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	GACGGCTGTAAGGGAA	kidney_distal_convoluted_tubule_epithelial_cell	C	2
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	CTCACACGTGCAACTT	kidney_distal_convoluted_tubule_epithelial_cell	C	1
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	ACACCGGGTCCAACTA	kidney_distal_convoluted_tubule_epithelial_cell	C	2
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	GACACGCGTAATAGCA	kidney_distal_convoluted_tubule_epithelial_cell	C	1
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	CACATTTAGGCTACGA	kidney_distal_convoluted_tubule_epithelial_cell	C	10
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	AAGGTTCTCTCGGACG	kidney_distal_convoluted_tubule_epithelial_cell	C	1
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	AACTTTCCAGGCTGAA	kidney_distal_convoluted_tubule_epithelial_cell	C	1
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	GACGCGTCAATTCCTT	kidney_distal_convoluted_tubule_epithelial_cell	C	3
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	AGTGTCATCGGGAGTA	kidney_distal_convoluted_tubule_epithelial_cell	C	1
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	ATCATGGCACTTAACG	kidney_distal_convoluted_tubule_epithelial_cell	C	2
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	GACTACAGTGCACTTA	kidney_distal_convoluted_tubule_epithelial_cell	C	1
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	AGGTCATCACTTAACG	kidney_distal_convoluted_tubule_epithelial_cell	C	1
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	CAACCAAGTCCTAGCG	kidney_distal_convoluted_tubule_epithelial_cell	C	1
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	CCTAGCTTCGACAGCC	kidney_distal_convoluted_tubule_epithelial_cell	C	2
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	TGAGAGGCACCAGCAC	kidney_distal_convoluted_tubule_epithelial_cell	C	1
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	TGCGGGTTCGTAGATC	kidney_distal_convoluted_tubule_epithelial_cell	C	1
+#CHROM	Start	End	REF	ALT_expected	CB	Cell_type_observed	Base_observed	Num_reads
+chr1	58415537	58415537	C	T	AACACGTGTCATGCCG	kidney_distal_convoluted_tubule_epithelial_cell	C	1
+chr1	58415537	58415537	C	T	GGGAGATTCGGTCCGA	kidney_distal_convoluted_tubule_epithelial_cell	C	5
+chr1	58415537	58415537	C	T	GGCCGATGTCTTGTCC	kidney_distal_convoluted_tubule_epithelial_cell	C	8
+chr1	82634873	82634873	C	T	TAGAGCTTCGGAAACG	kidney_distal_convoluted_tubule_epithelial_cell	C	8
+chr1	93441521	93441521	A	G	CGATGTAGTCCGCTGA	kidney_distal_convoluted_tubule_epithelial_cell	A	1
+chr1	93441521	93441521	A	G	AACACGTGTCATGCCG	kidney_distal_convoluted_tubule_epithelial_cell	A	7
+chr1	93441521	93441521	A	G	AGGTCATCACTTAACG	kidney_distal_convoluted_tubule_epithelial_cell	A	2
+chr1	151345769	151345769	T	C	ACAGCTATCCGTACAA	kidney_distal_convoluted_tubule_epithelial_cell	T	4
+chr1	151345769	151345769	T	C	GACTAACAGTGCTGCC	kidney_distal_convoluted_tubule_epithelial_cell	T	5
+chr1	151345769	151345769	T	C	GGCCGATGTCTTGTCC	kidney_distal_convoluted_tubule_epithelial_cell	T	1
+chr10	95308830	95308830	T	C	GACGCGTCAATTCCTT	kidney_distal_convoluted_tubule_epithelial_cell	C	3
+chr10	95308830	95308830	T	C	ACTGCTCCACGTCTCT	kidney_distal_convoluted_tubule_epithelial_cell	T	1
+chr10	95308830	95308830	T	C	TGGTTCCTCCGTAGGC	kidney_distal_convoluted_tubule_epithelial_cell	T	2
+chr11	9389394	9389394	G	A	CTCACACGTGCAACTT	kidney_distal_convoluted_tubule_epithelial_cell	G	2
+chr11	9389394	9389394	G	A	GACGGCTGTAAGGGAA	kidney_distal_convoluted_tubule_epithelial_cell	G	4
+chr11	9389394	9389394	G	A	AACTTTCCAGGCTGAA	kidney_distal_convoluted_tubule_epithelial_cell	G	5
+chr11	9389394	9389394	G	A	AGGTCATCACTTAACG	kidney_distal_convoluted_tubule_epithelial_cell	G	2
+chr11	9389394	9389394	G	A	CTCAGAACAATCTGCA	kidney_distal_convoluted_tubule_epithelial_cell	G	1
+chr11	9389394	9389394	G	A	CCTAAAGCAGACGCCT	kidney_distal_convoluted_tubule_epithelial_cell	G	1
+chr11	9389394	9389394	G	A	ATCACGAGTGATAAGT	kidney_distal_convoluted_tubule_epithelial_cell	G	2
+chr11	9389394	9389394	G	A	CCACTACTCACTCTTA	kidney_distal_convoluted_tubule_epithelial_cell	G	2
+chr11	9389394	9389394	G	A	CGATGTAGTCCGCTGA	kidney_distal_convoluted_tubule_epithelial_cell	G	1
+chr11	23347097	23347097	A	G	TGCGGGTTCGTAGATC	kidney_distal_convoluted_tubule_epithelial_cell	A	3
+chr11	83905624	83905624	T	G	GGCCGATGTCTTGTCC	kidney_distal_convoluted_tubule_epithelial_cell	T	1
+chr11	85038163	85038163	T	C	CTTACCGCAATAACGA	kidney_distal_convoluted_tubule_epithelial_cell	T	2
+chr11	85038163	85038163	T	C	ACAGCTATCCGTACAA	kidney_distal_convoluted_tubule_epithelial_cell	T	1
+chr11	113117219	113117219	A	G	TGAGAGGCACCAGCAC	kidney_distal_convoluted_tubule_epithelial_cell	A	1
+chr12	4249725	4249725	G	A	AGGTCATCACTTAACG	kidney_distal_convoluted_tubule_epithelial_cell	G	1
+chr12	4249725	4249725	G	A	GACACGCGTAATAGCA	kidney_distal_convoluted_tubule_epithelial_cell	G	1
+chr12	4249725	4249725	G	A	TATCAGGGTGATGATA	kidney_distal_convoluted_tubule_epithelial_cell	G	2
+chr12	4249725	4249725	G	A	AAGGTTCTCTCGGACG	kidney_distal_convoluted_tubule_epithelial_cell	G	1
+chr12	51636408	51636408	T	C	ACAGCTATCCGTACAA	kidney_distal_convoluted_tubule_epithelial_cell	T	6
+chr12	51636408	51636408	T	C	TGTTCCGAGAAGGTGA	kidney_distal_convoluted_tubule_epithelial_cell	T	2
+chr12	51636408	51636408	T	C	AACACGTGTCATGCCG	kidney_distal_convoluted_tubule_epithelial_cell	T	7
+chr12	84971746	84971746	A	G	CTTACCGCAATAACGA	kidney_distal_convoluted_tubule_epithelial_cell	A	2
+chr13	63292362	63292362	A	G	TGAGAGGCACCAGCAC	kidney_distal_convoluted_tubule_epithelial_cell	A	1
+chr13	63292362	63292362	A	G	AGGTCATCACTTAACG	kidney_distal_convoluted_tubule_epithelial_cell	A	4
+chr13	63292362	63292362	A	G	GGGAGATTCGGTCCGA	kidney_distal_convoluted_tubule_epithelial_cell	A	7
+chr13	63292362	63292362	A	G	TCAGGATTCGAGGTAG	kidney_distal_convoluted_tubule_epithelial_cell	A	9
+chr13	63292362	63292362	A	G	GACGCGTCAATTCCTT	kidney_distal_convoluted_tubule_epithelial_cell	A	3
+chr13	63292362	63292362	A	G	AGGCCGTTCTGCTGCT	kidney_distal_convoluted_tubule_epithelial_cell	A	1
+chr13	63292362	63292362	A	G	GACTAACAGTGCTGCC	kidney_distal_convoluted_tubule_epithelial_cell	A	3
+chr13	63292362	63292362	A	G	TGTGTTTAGCTCAACT	kidney_distal_convoluted_tubule_epithelial_cell	A	2
+chr13	63292362	63292362	A	G	AAGCCGCCACGGTAAG	kidney_distal_convoluted_tubule_epithelial_cell	A	4
+chr13	63292362	63292362	A	G	CTCACACGTGCAACTT	kidney_distal_convoluted_tubule_epithelial_cell	A	3
+chr13	63292362	63292362	A	G	AACACGTGTCATGCCG	kidney_distal_convoluted_tubule_epithelial_cell	A	3
+chr13	107885254	107885254	A	G	AACACGTGTCATGCCG	kidney_distal_convoluted_tubule_epithelial_cell	A	19
+chr13	107885254	107885254	A	G	TCAGCTCTCCGCGTTT	kidney_distal_convoluted_tubule_epithelial_cell	A	7
+chr13	107885254	107885254	A	G	GGGAGATTCGGTCCGA	kidney_distal_convoluted_tubule_epithelial_cell	A	23
+chr13	107885254	107885254	A	G	GGCCGATGTCTTGTCC	kidney_distal_convoluted_tubule_epithelial_cell	A	20
+chr13	107885254	107885254	A	G	CGATGTAGTCCGCTGA	kidney_distal_convoluted_tubule_epithelial_cell	A	9
+chr13	107885254	107885254	A	G	ACAGCTATCCGTACAA	kidney_distal_convoluted_tubule_epithelial_cell	A	1
+chr14	56919949	56919949	T	C	GACTAACAGTGCTGCC	kidney_distal_convoluted_tubule_epithelial_cell	T	4
+chr14	56919949	56919949	T	C	GGCCGATGTCTTGTCC	kidney_distal_convoluted_tubule_epithelial_cell	T	3
+chr14	70672157	70672157	A	T	GCTTCCATCAGAGACG	kidney_distal_convoluted_tubule_epithelial_cell	A	1
+chr14	70672157	70672157	A	T	CTCACACGTGCAACTT	kidney_distal_convoluted_tubule_epithelial_cell	A	1
+chr14	70672157	70672157	A	T	AACACGTGTCATGCCG	kidney_distal_convoluted_tubule_epithelial_cell	A	1
+chr15	36595815	36595815	T	C	AGTTGGTTCGGAGGTA	kidney_distal_convoluted_tubule_epithelial_cell	T	2
+chr15	36595815	36595815	T	C	CCACTACTCACTCTTA	kidney_distal_convoluted_tubule_epithelial_cell	T	1
+chr15	36595815	36595815	T	C	CTTACCGCAATAACGA	kidney_distal_convoluted_tubule_epithelial_cell	T	2
+chr15	36595815	36595815	T	C	GACGGCTGTAAGGGAA	kidney_distal_convoluted_tubule_epithelial_cell	T	1
+chr15	36595815	36595815	T	C	CTCAGAACAATCTGCA	kidney_distal_convoluted_tubule_epithelial_cell	T	1
+chr15	36595815	36595815	T	C	CACATTTAGGCTACGA	kidney_distal_convoluted_tubule_epithelial_cell	T	1
+chr15	36595815	36595815	T	C	AGTGTCATCGGGAGTA	kidney_distal_convoluted_tubule_epithelial_cell	T	1
+chr15	36595815	36595815	T	C	CGATGGCCATCCAACA	kidney_distal_convoluted_tubule_epithelial_cell	T	1
+chr15	36595815	36595815	T	C	AGGTCATCACTTAACG	kidney_distal_convoluted_tubule_epithelial_cell	T	1
+chr15	36595815	36595815	T	C	TATCAGGGTGATGATA	kidney_distal_convoluted_tubule_epithelial_cell	T	1
+chr15	36595815	36595815	T	C	ATGTGTGGTGGTTTCA	kidney_distal_convoluted_tubule_epithelial_cell	T	1
+chr15	36595815	36595815	T	C	GTGTGCGTCCAGTATG	kidney_distal_convoluted_tubule_epithelial_cell	T	1
+chr15	36595815	36595815	T	C	GACGCGTCAATTCCTT	kidney_distal_convoluted_tubule_epithelial_cell	T	1
+chr15	36595815	36595815	T	C	ACGATGTTCTTCGGTC	kidney_distal_convoluted_tubule_epithelial_cell	T	1
+chr15	36595815	36595815	T	C	CAACCAAGTCCTAGCG	kidney_distal_convoluted_tubule_epithelial_cell	T	1
+chr16	57601769	57601769	A	G	ACAGCTATCCGTACAA	kidney_distal_convoluted_tubule_epithelial_cell	A	4
+chr16	57601769	57601769	A	G	GACTAACAGTGCTGCC	kidney_distal_convoluted_tubule_epithelial_cell	A	3
+chr17	39848243	39848243	C	T	CTTACCGCAATAACGA	kidney_distal_convoluted_tubule_epithelial_cell	C	1
+chr17	39848243	39848243	C	T	TGTGTTTAGCTCAACT	kidney_distal_convoluted_tubule_epithelial_cell	C	1
+chr17	39848255	39848255	G	A	CTTACCGCAATAACGA	kidney_distal_convoluted_tubule_epithelial_cell	G	1
+chr17	39848255	39848255	G	A	TGTGTTTAGCTCAACT	kidney_distal_convoluted_tubule_epithelial_cell	G	1
+chr17	64604378	64604378	T	C	AACACGTGTCATGCCG	kidney_distal_convoluted_tubule_epithelial_cell	T	6
+chr17	64604378	64604378	T	C	ACAGCTATCCGTACAA	kidney_distal_convoluted_tubule_epithelial_cell	T	2
+chr17	70974186	70974186	G	A	GTTCTCGAGGCTATCT	kidney_distal_convoluted_tubule_epithelial_cell	G	7
+chr17	70974186	70974186	G	A	GACGGCTGTAAGGGAA	kidney_distal_convoluted_tubule_epithelial_cell	G	2
+chr17	70974186	70974186	G	A	TAGGCATAGCCAGTAG	kidney_distal_convoluted_tubule_epithelial_cell	G	1
+chr17	70974186	70974186	G	A	CGATGTAGTCCGCTGA	kidney_distal_convoluted_tubule_epithelial_cell	G	2
+chr17	70974186	70974186	G	A	CCACTACTCACTCTTA	kidney_distal_convoluted_tubule_epithelial_cell	G	2
+chr17	70974186	70974186	G	A	CGATGGCCATCCAACA	kidney_distal_convoluted_tubule_epithelial_cell	G	7
+chr17	70974186	70974186	G	A	CCTAGCTTCGACAGCC	kidney_distal_convoluted_tubule_epithelial_cell	G	5
+chr17	70974186	70974186	G	A	ACTGCTCCACGTCTCT	kidney_distal_convoluted_tubule_epithelial_cell	G	3
+chr17	70974186	70974186	G	A	GACTAACAGTGCTGCC	kidney_distal_convoluted_tubule_epithelial_cell	G	1
+chr17	70974186	70974186	G	A	AACTCTTCAATAGCAA	kidney_distal_convoluted_tubule_epithelial_cell	G	2
+chr17	70974186	70974186	G	A	TGGTTCCTCCGTAGGC	kidney_distal_convoluted_tubule_epithelial_cell	G	1
+chr17	70974186	70974186	G	A	ACGATGTTCTTCGGTC	kidney_distal_convoluted_tubule_epithelial_cell	G	8
+chr2	130872646	130872646	T	C	TATCAGGGTGATGATA	kidney_distal_convoluted_tubule_epithelial_cell	T	1
+chr2	168088251	168088251	T	G	GACGGCTGTAAGGGAA	kidney_distal_convoluted_tubule_epithelial_cell	T	4
+chr3	90088384	90088384	G	A	TCAGGATTCGAGGTAG	kidney_distal_convoluted_tubule_epithelial_cell	G	1
+chr3	90088384	90088384	G	A	CACATTTAGGCTACGA	kidney_distal_convoluted_tubule_epithelial_cell	G	2
+chr4	42992668	42992668	T	C	AACACGTGTCATGCCG	kidney_distal_convoluted_tubule_epithelial_cell	T	3
+chr4	42992668	42992668	T	C	AGTTGGTTCGGAGGTA	kidney_distal_convoluted_tubule_epithelial_cell	T	3
+chr4	42992668	42992668	T	C	CTCAGAACAATCTGCA	kidney_distal_convoluted_tubule_epithelial_cell	T	4
+chr4	42992668	42992668	T	C	AGGTCATCACTTAACG	kidney_distal_convoluted_tubule_epithelial_cell	T	3
+chr4	42992668	42992668	T	C	CCACTACTCACTCTTA	kidney_distal_convoluted_tubule_epithelial_cell	T	1
+chr4	45100292	45100292	C	G	GACACGCGTAATAGCA	kidney_distal_convoluted_tubule_epithelial_cell	C	1
+chr4	135835152	135835152	G	A	ACGCAGCAGTGCCAGA	kidney_distal_convoluted_tubule_epithelial_cell	G	1
+chr4	148068073	148068073	A	G	GACTACAGTGCACTTA	kidney_distal_convoluted_tubule_epithelial_cell	A	1
+chr5	65542281	65542281	A	G	ACAGCTATCCGTACAA	kidney_distal_convoluted_tubule_epithelial_cell	A	1
+chr5	65542281	65542281	A	G	AACACGTGTCATGCCG	kidney_distal_convoluted_tubule_epithelial_cell	A	1
+chr5	66097380	66097380	G	T	ACAGCTATCCGTACAA	kidney_distal_convoluted_tubule_epithelial_cell	G	3
+chr6	55241373	55241373	A	T	CACATTTAGGCTACGA	kidney_distal_convoluted_tubule_epithelial_cell	A	1
+chr6	55241373	55241373	A	T	CTTACCGCAATAACGA	kidney_distal_convoluted_tubule_epithelial_cell	A	1
+chr6	55241373	55241373	A	T	TCAGGATTCGAGGTAG	kidney_distal_convoluted_tubule_epithelial_cell	A	1
+chr6	83759472	83759472	A	G	AACTTTCCAGGCTGAA	kidney_distal_convoluted_tubule_epithelial_cell	A	1
+chr6	83759472	83759472	A	G	ACTGCTCCACGTCTCT	kidney_distal_convoluted_tubule_epithelial_cell	A	1
+chr6	83759472	83759472	A	G	TAGAGCTTCGGAAACG	kidney_distal_convoluted_tubule_epithelial_cell	A	4
+chr6	83759472	83759472	A	G	CACATTTAGGCTACGA	kidney_distal_convoluted_tubule_epithelial_cell	A	2
+chr6	90578816	90578816	T	G	CCTAAAGCAGACGCCT	kidney_distal_convoluted_tubule_epithelial_cell	T	1
+chr6	90578816	90578816	T	G	AAGGTTCTCTCGGACG	kidney_distal_convoluted_tubule_epithelial_cell	T	2
+chr7	16495266	16495266	C	T	CATCGAAGTCGCTTCT	kidney_distal_convoluted_tubule_epithelial_cell	C	1
+chr7	34225023	34225023	T	C	GACGCGTCAATTCCTT	kidney_distal_convoluted_tubule_epithelial_cell	T	1
+chr7	34225023	34225023	T	C	AACACGTGTCATGCCG	kidney_distal_convoluted_tubule_epithelial_cell	T	6
+chr7	127969060	127969060	A	G	AACACGTGTCATGCCG	kidney_distal_convoluted_tubule_epithelial_cell	A	8
+chr7	141171169	141171169	T	C	TCAGGATTCGAGGTAG	kidney_distal_convoluted_tubule_epithelial_cell	T	2
+chr7	141171169	141171169	T	C	GGCCGATGTCTTGTCC	kidney_distal_convoluted_tubule_epithelial_cell	T	4
+chr7	141171169	141171169	T	C	CTTACCGCAATAACGA	kidney_distal_convoluted_tubule_epithelial_cell	T	3
+chr7	141466493	141466493	A	G	AGTTGGTTCGGAGGTA	kidney_distal_convoluted_tubule_epithelial_cell	A	1
+chr8	4292186	4292186	T	C	GGCCGATGTCTTGTCC	kidney_distal_convoluted_tubule_epithelial_cell	T	1
+chr8	25239167	25239167	T	C	AGGTCATCACTTAACG	kidney_distal_convoluted_tubule_epithelial_cell	T	4
+chr8	25239167	25239167	T	C	GGGAGATTCGGTCCGA	kidney_distal_convoluted_tubule_epithelial_cell	T	4
+chr8	71401307	71401307	A	G	CACATTTAGGCTACGA	kidney_distal_convoluted_tubule_epithelial_cell	A	4
+chr8	72550878	72550878	A	G	AACTTTCCAGGCTGAA	kidney_distal_convoluted_tubule_epithelial_cell	A	2
+chr9	25101237	25101237	A	T	ATGTGTGGTGGTTTCA	kidney_distal_convoluted_tubule_epithelial_cell	A	1
+chr9	25101237	25101237	A	T	TGAGAGGCACCAGCAC	kidney_distal_convoluted_tubule_epithelial_cell	A	1
+chr9	109979400	109979400	A	G	TGTGTTTAGCTCAACT	kidney_distal_convoluted_tubule_epithelial_cell	A	3
+chr9	123717207	123717207	A	G	GACTAACAGTGCTGCC	kidney_distal_convoluted_tubule_epithelial_cell	A	11
+chr9	123717207	123717207	A	G	TCAGGATTCGAGGTAG	kidney_distal_convoluted_tubule_epithelial_cell	A	10
+chrX	12616481	12616481	C	T	ACAGCTATCCGTACAA	kidney_distal_convoluted_tubule_epithelial_cell	C	1
+chrX	12616481	12616481	C	T	AGTGTCATCGGGAGTA	kidney_distal_convoluted_tubule_epithelial_cell	C	1
+chrX	12616481	12616481	C	T	TACTCGCAGAGCTGGT	kidney_distal_convoluted_tubule_epithelial_cell	C	1
+chrX	12616481	12616481	C	T	GTTCTCGAGGCTATCT	kidney_distal_convoluted_tubule_epithelial_cell	C	1
+chrX	12616481	12616481	C	T	TAGTTGGGTTCATGGT	kidney_distal_convoluted_tubule_epithelial_cell	C	1
+chrX	12616481	12616481	C	T	CTTACCGCAATAACGA	kidney_distal_convoluted_tubule_epithelial_cell	C	1
+chrX	94416869	94416869	C	T	AACACGTGTCATGCCG	kidney_distal_convoluted_tubule_epithelial_cell	C	3
+chrX	94416869	94416869	C	T	GGCCGATGTCTTGTCC	kidney_distal_convoluted_tubule_epithelial_cell	C	1
+chrX	94416869	94416869	C	T	TCAGCTCTCCGCGTTT	kidney_distal_convoluted_tubule_epithelial_cell	C	1
+chrX	94416869	94416869	C	T	GTTCTCGAGGCTATCT	kidney_distal_convoluted_tubule_epithelial_cell	C	1
+chrX	94416869	94416869	C	T	TCAGGATTCGAGGTAG	kidney_distal_convoluted_tubule_epithelial_cell	C	2
+chrX	94416869	94416869	C	T	GACGGCTGTAAGGGAA	kidney_distal_convoluted_tubule_epithelial_cell	C	2
+chrX	94416869	94416869	C	T	CTCACACGTGCAACTT	kidney_distal_convoluted_tubule_epithelial_cell	C	1
+chrX	94416869	94416869	C	T	ACACCGGGTCCAACTA	kidney_distal_convoluted_tubule_epithelial_cell	C	2
+chrX	94416869	94416869	C	T	GACACGCGTAATAGCA	kidney_distal_convoluted_tubule_epithelial_cell	C	1
+chrX	94416869	94416869	C	T	CACATTTAGGCTACGA	kidney_distal_convoluted_tubule_epithelial_cell	C	10
+chrX	94416869	94416869	C	T	AAGGTTCTCTCGGACG	kidney_distal_convoluted_tubule_epithelial_cell	C	1
+chrX	94416869	94416869	C	T	AACTTTCCAGGCTGAA	kidney_distal_convoluted_tubule_epithelial_cell	C	1
+chrX	94416869	94416869	C	T	GACGCGTCAATTCCTT	kidney_distal_convoluted_tubule_epithelial_cell	C	3
+chrX	94416869	94416869	C	T	AGTGTCATCGGGAGTA	kidney_distal_convoluted_tubule_epithelial_cell	C	1
+chrX	94416869	94416869	C	T	ATCATGGCACTTAACG	kidney_distal_convoluted_tubule_epithelial_cell	C	2
+chrX	94416869	94416869	C	T	GACTACAGTGCACTTA	kidney_distal_convoluted_tubule_epithelial_cell	C	1
+chrX	94416869	94416869	C	T	AGGTCATCACTTAACG	kidney_distal_convoluted_tubule_epithelial_cell	C	1
+chrX	94416869	94416869	C	T	CAACCAAGTCCTAGCG	kidney_distal_convoluted_tubule_epithelial_cell	C	1
+chrX	94416869	94416869	C	T	CCTAGCTTCGACAGCC	kidney_distal_convoluted_tubule_epithelial_cell	C	2
+chrX	94416869	94416869	C	T	TGAGAGGCACCAGCAC	kidney_distal_convoluted_tubule_epithelial_cell	C	1
+chrX	94416869	94416869	C	T	TGCGGGTTCGTAGATC	kidney_distal_convoluted_tubule_epithelial_cell	C	1

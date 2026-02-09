@@ -1,260 +1,260 @@
-donor	sample	#CHROM	Start	End	REF	ALT_expected	Cell_type_expected	Num_cells_expected	CB	Cell_type_observed	Base_observed	Num_reads
-1-M-62	10X_P5_8	chr1	58415537	58415537	C	T	kidney_cortex_artery_cell	2	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	C	18
-1-M-62	10X_P5_8	chr1	58415537	58415537	C	T	kidney_cortex_artery_cell	2	ACTGCTCTCTAACTTC	kidney_collecting_duct_principal_cell	C	10
-1-M-62	10X_P5_8	chr1	58415537	58415537	C	T	kidney_cortex_artery_cell	2	CCAATCCCAGACAGGT	kidney_collecting_duct_principal_cell	C	5
-1-M-62	10X_P5_8	chr1	58415537	58415537	C	T	kidney_cortex_artery_cell	2	CACAGTATCTGTCAAG	kidney_collecting_duct_principal_cell	C	6
-1-M-62	10X_P5_8	chr1	58415537	58415537	C	T	kidney_cortex_artery_cell	2	GCATACACACAAGTAA	kidney_collecting_duct_principal_cell	C	8
-1-M-62	10X_P5_8	chr1	82634873	82634873	C	T	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	C	15
-1-M-62	10X_P5_8	chr1	93441521	93441521	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	2	CAAGATCTCTATGTGG	kidney_collecting_duct_principal_cell	A	5
-1-M-62	10X_P5_8	chr1	93441521	93441521	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	2	CACAGTATCTGTCAAG	kidney_collecting_duct_principal_cell	A	2
-1-M-62	10X_P5_8	chr1	93441521	93441521	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	2	ATAGACCTCAGGTTCA	kidney_collecting_duct_principal_cell	A	6
-1-M-62	10X_P5_8	chr1	93441521	93441521	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	2	GTTCATTCAACACCTA	kidney_collecting_duct_principal_cell	A	2
-1-M-62	10X_P5_8	chr1	93441521	93441521	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	2	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	A	6
-1-M-62	10X_P5_8	chr1	93441521	93441521	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	2	AGCGTATCAATGGTCT	kidney_collecting_duct_principal_cell	A	2
-1-M-62	10X_P5_8	chr1	93441521	93441521	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	2	CCTCTGAAGAGCTATA	kidney_collecting_duct_principal_cell	A	2
-1-M-62	10X_P5_8	chr1	93441521	93441521	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	2	GTACTTTAGCTAGCCC	kidney_collecting_duct_principal_cell	A	5
-1-M-62	10X_P5_8	chr1	151345769	151345769	T	C	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	CCTCAGTAGCAACGGT	kidney_collecting_duct_principal_cell	T	1
-1-M-62	10X_P5_8	chr1	151345769	151345769	T	C	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	GGCTCGAAGTATCTCG	kidney_collecting_duct_principal_cell	T	5
-1-M-62	10X_P5_8	chr1	151345769	151345769	T	C	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	GCTCTGTCATCACGAT	kidney_collecting_duct_principal_cell	T	6
-1-M-62	10X_P5_8	chr1	151345769	151345769	T	C	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	GTACTCCGTACGCACC	kidney_collecting_duct_principal_cell	T	2
-1-M-62	10X_P5_8	chr10	13443654	13443654	T	C	kidney_collecting_duct_principal_cell	2	GCATACACACAAGTAA	kidney_collecting_duct_principal_cell	T	4
-1-M-62	10X_P5_8	chr10	13443654	13443654	T	C	kidney_collecting_duct_principal_cell	2	GCATACACACAAGTAA	kidney_collecting_duct_principal_cell	C	2
-1-M-62	10X_P5_8	chr10	13443654	13443654	T	C	kidney_collecting_duct_principal_cell	2	CAAGATCTCTATGTGG	kidney_collecting_duct_principal_cell	T	1
-1-M-62	10X_P5_8	chr10	13443654	13443654	T	C	kidney_collecting_duct_principal_cell	2	ATAGACCTCAGGTTCA	kidney_collecting_duct_principal_cell	C	3
-1-M-62	10X_P5_8	chr10	13443654	13443654	T	C	kidney_collecting_duct_principal_cell	2	GCTCTGTAGATGAGAG	kidney_collecting_duct_principal_cell	T	1
-1-M-62	10X_P5_8	chr10	13443654	13443654	T	C	kidney_collecting_duct_principal_cell	2	GTTCATTCAACACCTA	kidney_collecting_duct_principal_cell	T	1
-1-M-62	10X_P5_8	chr10	13443654	13443654	T	C	kidney_collecting_duct_principal_cell	2	TCACGAAGTATCGCAT	kidney_collecting_duct_principal_cell	T	1
-1-M-62	10X_P5_8	chr10	95308830	95308830	T	C	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	CCAATCCCAGACAGGT	kidney_collecting_duct_principal_cell	T	8
-1-M-62	10X_P5_8	chr10	95308830	95308830	T	C	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	GCATACACACAAGTAA	kidney_collecting_duct_principal_cell	T	5
-1-M-62	10X_P5_8	chr11	9389394	9389394	G	A	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	AGCGTATCAATGGTCT	kidney_collecting_duct_principal_cell	G	4
-1-M-62	10X_P5_8	chr11	9389394	9389394	G	A	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	TGGACGCAGGATGGTC	kidney_collecting_duct_principal_cell	G	3
-1-M-62	10X_P5_8	chr11	9389394	9389394	G	A	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	CCCATACAGTGTACGG	kidney_collecting_duct_principal_cell	G	1
-1-M-62	10X_P5_8	chr11	23347097	23347097	A	G	fenestrated_cell	4	AGAGCTTCAGCGTCCA	kidney_collecting_duct_principal_cell	A	9
-1-M-62	10X_P5_8	chr11	23347097	23347097	A	G	fenestrated_cell	4	GCTCTGTAGATGAGAG	kidney_collecting_duct_principal_cell	A	5
-1-M-62	10X_P5_8	chr11	83905624	83905624	T	G	kidney_proximal_convoluted_tubule_epithelial_cell	7	AGAGCTTCAGCGTCCA	kidney_collecting_duct_principal_cell	T	1
-1-M-62	10X_P5_8	chr11	83905624	83905624	T	G	kidney_proximal_convoluted_tubule_epithelial_cell	7	TCAGATGCAGTACACT	kidney_collecting_duct_principal_cell	T	1
-1-M-62	10X_P5_8	chr11	83905624	83905624	T	G	kidney_proximal_convoluted_tubule_epithelial_cell	7	AACCGCGTCACAACGT	kidney_collecting_duct_principal_cell	T	1
-1-M-62	10X_P5_8	chr11	83905624	83905624	T	G	kidney_proximal_convoluted_tubule_epithelial_cell	7	TACGGATTCTCGCTTG	kidney_collecting_duct_principal_cell	T	1
-1-M-62	10X_P5_8	chr11	83905624	83905624	T	G	kidney_proximal_convoluted_tubule_epithelial_cell	7	TTGGCAAAGTCACGCC	kidney_collecting_duct_principal_cell	T	1
-1-M-62	10X_P5_8	chr11	83905624	83905624	T	G	kidney_proximal_convoluted_tubule_epithelial_cell	7	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	T	1
-1-M-62	10X_P5_8	chr11	83905624	83905624	T	G	kidney_proximal_convoluted_tubule_epithelial_cell	7	GTACTCCGTACGCACC	kidney_collecting_duct_principal_cell	T	1
-1-M-62	10X_P5_8	chr11	83905624	83905624	T	G	kidney_proximal_convoluted_tubule_epithelial_cell	7	GTACTCCAGCTAGCCC	kidney_collecting_duct_principal_cell	T	1
-1-M-62	10X_P5_8	chr11	85038163	85038163	T	C	fenestrated_cell	2	CCTCAGTAGCAACGGT	kidney_collecting_duct_principal_cell	T	6
-1-M-62	10X_P5_8	chr11	85038163	85038163	T	C	fenestrated_cell	2	CGTCCATAGAATTGTG	kidney_collecting_duct_principal_cell	T	12
-1-M-62	10X_P5_8	chr11	85038163	85038163	T	C	fenestrated_cell	2	GCATACACACAAGTAA	kidney_collecting_duct_principal_cell	T	3
-1-M-62	10X_P5_8	chr11	85038163	85038163	T	C	fenestrated_cell	2	GCATGCGTCTTAGAGC	kidney_collecting_duct_principal_cell	T	4
-1-M-62	10X_P5_8	chr11	85038163	85038163	T	C	fenestrated_cell	2	GTACTTTAGCTAGCCC	kidney_collecting_duct_principal_cell	T	10
-1-M-62	10X_P5_8	chr11	85038163	85038163	T	C	fenestrated_cell	2	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	T	5
-1-M-62	10X_P5_8	chr11	113117219	113117219	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	2	CACAGTATCTGTCAAG	kidney_collecting_duct_principal_cell	A	1
-1-M-62	10X_P5_8	chr12	4249725	4249725	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	2	TGCGGGTAGCGTAGTG	kidney_collecting_duct_principal_cell	G	1
-1-M-62	10X_P5_8	chr12	4249725	4249725	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	2	GGAAAGCAGGGCTTCC	kidney_collecting_duct_principal_cell	G	4
-1-M-62	10X_P5_8	chr12	4249725	4249725	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	2	TACGGATTCTCGCTTG	kidney_collecting_duct_principal_cell	G	2
-1-M-62	10X_P5_8	chr12	51636408	51636408	T	C	podocyte	2	AGGGTGAGTCTGATCA	kidney_collecting_duct_principal_cell	T	3
-1-M-62	10X_P5_8	chr12	51636408	51636408	T	C	podocyte	2	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	T	12
-1-M-62	10X_P5_8	chr12	51636408	51636408	T	C	podocyte	2	CGTCCATAGAATTGTG	kidney_collecting_duct_principal_cell	T	6
-1-M-62	10X_P5_8	chr12	51636408	51636408	T	C	podocyte	2	CCTCTGAAGAGCTATA	kidney_collecting_duct_principal_cell	T	1
-1-M-62	10X_P5_8	chr12	51636408	51636408	T	C	podocyte	2	CCTCAGTAGCAACGGT	kidney_collecting_duct_principal_cell	T	2
-1-M-62	10X_P5_8	chr12	84971746	84971746	A	G	kidney_mesangial_cell	2	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	A	7
-1-M-62	10X_P5_8	chr12	84971746	84971746	A	G	kidney_mesangial_cell	2	CACAGTATCTGTCAAG	kidney_collecting_duct_principal_cell	A	6
-1-M-62	10X_P5_8	chr12	84971746	84971746	A	G	kidney_mesangial_cell	2	TCTGGAACATTCCTCG	kidney_collecting_duct_principal_cell	A	1
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	TACGGATTCTCGCTTG	kidney_collecting_duct_principal_cell	A	7
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	GGACGTCCATGAAGTA	kidney_collecting_duct_principal_cell	A	5
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	GGCTCGAAGTATCTCG	kidney_collecting_duct_principal_cell	A	3
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	GCATACACACAAGTAA	kidney_collecting_duct_principal_cell	A	10
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	AGAGCTTCAGCGTCCA	kidney_collecting_duct_principal_cell	A	8
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	AGCGTATCAATGGTCT	kidney_collecting_duct_principal_cell	A	1
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	GTACTCCGTGCGAAAC	kidney_collecting_duct_principal_cell	A	11
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	GCATGCGTCGGTCTAA	kidney_collecting_duct_principal_cell	A	3
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	GCTCTGTCATCACGAT	kidney_collecting_duct_principal_cell	A	4
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	CAACCTCTCGAACTGT	kidney_collecting_duct_principal_cell	A	6
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	GCTCTGTAGATGAGAG	kidney_collecting_duct_principal_cell	A	4
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	ACTGCTCTCTAACTTC	kidney_collecting_duct_principal_cell	A	1
-1-M-62	10X_P5_8	chr13	63292362	63292362	A	G	fenestrated_cell	3	TCGCGAGCAAAGGAAG	kidney_collecting_duct_principal_cell	A	2
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	AGAGCTTCAGCGTCCA	kidney_collecting_duct_principal_cell	A	13
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	ATAGACCTCAGGTTCA	kidney_collecting_duct_principal_cell	A	20
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	CCTCAGTAGCAACGGT	kidney_collecting_duct_principal_cell	A	12
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	GGAAAGCCACGTGAGA	kidney_collecting_duct_principal_cell	A	14
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	GTACTCCGTGCGAAAC	kidney_collecting_duct_principal_cell	A	24
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	GCATACACACAAGTAA	kidney_collecting_duct_principal_cell	A	3
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	TCTGGAACATTCCTCG	kidney_collecting_duct_principal_cell	A	6
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	A	34
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	GTATCTTCAGTTTACG	kidney_collecting_duct_principal_cell	A	10
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	AGCGTATCAATGGTCT	kidney_collecting_duct_principal_cell	A	11
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	ACTGCTCTCTAACTTC	kidney_collecting_duct_principal_cell	A	4
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	TTGGCAAAGTCACGCC	kidney_collecting_duct_principal_cell	A	9
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	TACGGATTCTCGCTTG	kidney_collecting_duct_principal_cell	A	3
-1-M-62	10X_P5_8	chr13	107885254	107885254	A	G	macrophage	2	AGGGTGAGTCTGATCA	kidney_collecting_duct_principal_cell	A	1
-1-M-62	10X_P5_8	chr14	70672157	70672157	A	T	kidney_proximal_convoluted_tubule_epithelial_cell	3	GGAAAGCAGGGCTTCC	kidney_collecting_duct_principal_cell	A	1
-1-M-62	10X_P5_8	chr14	70672157	70672157	A	T	kidney_proximal_convoluted_tubule_epithelial_cell	3	GTATCTTCAGTTTACG	kidney_collecting_duct_principal_cell	A	1
-1-M-62	10X_P5_8	chr14	70672157	70672157	A	T	kidney_proximal_convoluted_tubule_epithelial_cell	3	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	A	1
-1-M-62	10X_P5_8	chr14	70672157	70672157	A	T	kidney_proximal_convoluted_tubule_epithelial_cell	3	GCATGCGTCTTAGAGC	kidney_collecting_duct_principal_cell	A	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	GTACTCCGTGCGAAAC	kidney_collecting_duct_principal_cell	T	5
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	T	3
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	AGAGCTTCAGCGTCCA	kidney_collecting_duct_principal_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	GTACTTTAGCTAGCCC	kidney_collecting_duct_principal_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	GCTCTGTCATCACGAT	kidney_collecting_duct_principal_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	TCAGATGCAGTACACT	kidney_collecting_duct_principal_cell	T	2
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	CCTCTGAAGAGCTATA	kidney_collecting_duct_principal_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	AGCGTATCAATGGTCT	kidney_collecting_duct_principal_cell	T	2
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	ATAGACCTCAGGTTCA	kidney_collecting_duct_principal_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	CAAGATCTCTATGTGG	kidney_collecting_duct_principal_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	TCACGAAGTATCGCAT	kidney_collecting_duct_principal_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	GGAAAGCCACGTGAGA	kidney_collecting_duct_principal_cell	T	1
-1-M-62	10X_P5_8	chr15	36595815	36595815	T	C	macrophage	3	GCTCTGTAGATGAGAG	kidney_collecting_duct_principal_cell	T	1
-1-M-62	10X_P5_8	chr16	57601769	57601769	A	G	kidney_mesangial_cell	2	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	A	6
-1-M-62	10X_P5_8	chr16	57601769	57601769	A	G	kidney_mesangial_cell	2	ATAGACCTCAGGTTCA	kidney_collecting_duct_principal_cell	A	7
-1-M-62	10X_P5_8	chr17	39848243	39848243	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	4	CACAGTATCTGTCAAG	kidney_collecting_duct_principal_cell	C	1
-1-M-62	10X_P5_8	chr17	39848255	39848255	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	4	CACAGTATCTGTCAAG	kidney_collecting_duct_principal_cell	G	1
-1-M-62	10X_P5_8	chr17	64604378	64604378	T	C	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	GGCTCGAAGTATCTCG	kidney_collecting_duct_principal_cell	T	3
-1-M-62	10X_P5_8	chr17	64604378	64604378	T	C	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	ACTGAGTGTCAGAAGC	kidney_collecting_duct_principal_cell	T	5
-1-M-62	10X_P5_8	chr17	64604378	64604378	T	C	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	AGAGCTTCAGCGTCCA	kidney_collecting_duct_principal_cell	T	2
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	GTACTCCGTGCGAAAC	kidney_collecting_duct_principal_cell	G	20
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	AGGGTGAGTCTGATCA	kidney_collecting_duct_principal_cell	G	16
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	CACAGTATCTGTCAAG	kidney_collecting_duct_principal_cell	G	9
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	GCATGCGTCTTAGAGC	kidney_collecting_duct_principal_cell	G	2
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	GTACTTTAGCTAGCCC	kidney_collecting_duct_principal_cell	G	15
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	ATAGACCTCAGGTTCA	kidney_collecting_duct_principal_cell	G	11
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	CAACCTCTCGAACTGT	kidney_collecting_duct_principal_cell	G	4
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	GCATACACACAAGTAA	kidney_collecting_duct_principal_cell	G	16
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	TACGGATTCTCGCTTG	kidney_collecting_duct_principal_cell	G	7
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	G	26
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	GGCTCGAAGTATCTCG	kidney_collecting_duct_principal_cell	G	11
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	TCACGAAGTATCGCAT	kidney_collecting_duct_principal_cell	G	2
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	GGAAAGCCACGTGAGA	kidney_collecting_duct_principal_cell	G	10
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	GTACTCCGTACGCACC	kidney_collecting_duct_principal_cell	G	12
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	TGGACGCAGGATGGTC	kidney_collecting_duct_principal_cell	G	1
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	CCTCTGAAGAGCTATA	kidney_collecting_duct_principal_cell	G	9
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	ACTGCTCTCTAACTTC	kidney_collecting_duct_principal_cell	G	6
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	TCAGATGCAGTACACT	kidney_collecting_duct_principal_cell	G	17
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	ACTGAGTGTCAGAAGC	kidney_collecting_duct_principal_cell	G	4
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	CCAATCCCAGACAGGT	kidney_collecting_duct_principal_cell	G	12
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	TTAGGACCAGTTTACG	kidney_collecting_duct_principal_cell	G	4
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	AGAGTGGTCCCTAATT	kidney_collecting_duct_principal_cell	G	2
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	GCATGCGTCGGTCTAA	kidney_collecting_duct_principal_cell	G	4
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	TCTGGAACATTCCTCG	kidney_collecting_duct_principal_cell	G	16
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	TTGGCAAAGTCACGCC	kidney_collecting_duct_principal_cell	G	4
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	GTACTCCAGCTAGCCC	kidney_collecting_duct_principal_cell	G	3
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	AACCGCGTCACAACGT	kidney_collecting_duct_principal_cell	G	3
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	AGCATACCATCGATTG	kidney_collecting_duct_principal_cell	G	3
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	CCTCAGTAGCAACGGT	kidney_collecting_duct_principal_cell	G	1
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	GTATCTTCAGTTTACG	kidney_collecting_duct_principal_cell	G	2
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	CAAGATCTCTATGTGG	kidney_collecting_duct_principal_cell	G	1
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	GCTCTGTAGATGAGAG	kidney_collecting_duct_principal_cell	G	1
-1-M-62	10X_P5_8	chr17	70974186	70974186	G	A	fibroblast	2	GGAAAGCAGGGCTTCC	kidney_collecting_duct_principal_cell	G	2
-1-M-62	10X_P5_8	chr2	24466730	24466730	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	2	TCTGGAACATTCCTCG	kidney_collecting_duct_principal_cell	G	2
-1-M-62	10X_P5_8	chr2	84433032	84433032	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	3	CCAATCCCAGACAGGT	kidney_collecting_duct_principal_cell	G	1
-1-M-62	10X_P5_8	chr2	130872646	130872646	T	C	kidney_proximal_convoluted_tubule_epithelial_cell	2	TCTGGAACATTCCTCG	kidney_collecting_duct_principal_cell	T	3
-1-M-62	10X_P5_8	chr2	152744055	152744055	G	T	kidney_proximal_convoluted_tubule_epithelial_cell	2	CACAGTATCTGTCAAG	kidney_collecting_duct_principal_cell	G	7
-1-M-62	10X_P5_8	chr2	163641632	163641632	T	C	fenestrated_cell	3	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	T	1
-1-M-62	10X_P5_8	chr2	164066005	164066005	T	C	fenestrated_cell	2	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	T	5
-1-M-62	10X_P5_8	chr2	164066005	164066005	T	C	fenestrated_cell	2	AGAGCTTCAGCGTCCA	kidney_collecting_duct_principal_cell	T	2
-1-M-62	10X_P5_8	chr2	168088251	168088251	T	G	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	T	7
-1-M-62	10X_P5_8	chr2	168088251	168088251	T	G	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	GTACTTTAGCTAGCCC	kidney_collecting_duct_principal_cell	T	1
-1-M-62	10X_P5_8	chr2	168088251	168088251	T	G	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	GTACTCCGTGCGAAAC	kidney_collecting_duct_principal_cell	T	2
-1-M-62	10X_P5_8	chr2	168088251	168088251	T	G	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	ATAGACCTCAGGTTCA	kidney_collecting_duct_principal_cell	T	2
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	G	7
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	ATAGACCTCAGGTTCA	kidney_collecting_duct_principal_cell	G	4
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	GTACTCCGTGCGAAAC	kidney_collecting_duct_principal_cell	G	5
-1-M-62	10X_P5_8	chr3	90088384	90088384	G	A	kidney_cortex_artery_cell	2	CCAATCCCAGACAGGT	kidney_collecting_duct_principal_cell	G	4
-1-M-62	10X_P5_8	chr4	42992668	42992668	T	C	fenestrated_cell	2	TCACGAAGTATCGCAT	kidney_collecting_duct_principal_cell	T	2
-1-M-62	10X_P5_8	chr4	45100292	45100292	C	G	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	ATAGACCTCAGGTTCA	kidney_collecting_duct_principal_cell	C	1
-1-M-62	10X_P5_8	chr4	117030410	117030410	T	A	brush_cell	2	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	T	1
-1-M-62	10X_P5_8	chr4	135835152	135835152	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	5	AACCGCGTCACAACGT	kidney_collecting_duct_principal_cell	G	2
-1-M-62	10X_P5_8	chr4	135835152	135835152	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	5	GTACTCCGTGCGAAAC	kidney_collecting_duct_principal_cell	G	27
-1-M-62	10X_P5_8	chr4	148068073	148068073	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	4	ATAGACCTCAGGTTCA	kidney_collecting_duct_principal_cell	G	2
-1-M-62	10X_P5_8	chr4	148068073	148068073	A	G	kidney_proximal_convoluted_tubule_epithelial_cell	4	CACAGTATCTGTCAAG	kidney_collecting_duct_principal_cell	A	1
-1-M-62	10X_P5_8	chr5	65542281	65542281	A	G	fenestrated_cell	3	ATAGACCTCAGGTTCA	kidney_collecting_duct_principal_cell	A	1
-1-M-62	10X_P5_8	chr5	65542281	65542281	A	G	fenestrated_cell	3	GTACTTTAGCTAGCCC	kidney_collecting_duct_principal_cell	A	4
-1-M-62	10X_P5_8	chr5	66097380	66097380	G	T	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	3	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	G	5
-1-M-62	10X_P5_8	chr5	66097380	66097380	G	T	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	3	GTTCATTCAACACCTA	kidney_collecting_duct_principal_cell	G	3
-1-M-62	10X_P5_8	chr5	66097380	66097380	G	T	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	3	TCTGGAACATTCCTCG	kidney_collecting_duct_principal_cell	G	4
-1-M-62	10X_P5_8	chr5	66097380	66097380	G	T	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	3	GTACTCCGTGCGAAAC	kidney_collecting_duct_principal_cell	G	2
-1-M-62	10X_P5_8	chr6	55241373	55241373	A	T	kidney_proximal_convoluted_tubule_epithelial_cell	5	ATAGACCTCAGGTTCA	kidney_collecting_duct_principal_cell	A	4
-1-M-62	10X_P5_8	chr6	55241373	55241373	A	T	kidney_proximal_convoluted_tubule_epithelial_cell	5	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	A	2
-1-M-62	10X_P5_8	chr6	55348223	55348223	A	G	kidney_cortex_artery_cell	7	AGGGTGAGTCTGATCA	kidney_collecting_duct_principal_cell	A	1
-1-M-62	10X_P5_8	chr6	83759472	83759472	A	G	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	ACTGCTCTCTAACTTC	kidney_collecting_duct_principal_cell	A	2
-1-M-62	10X_P5_8	chr6	83759472	83759472	A	G	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	AGGGTGAGTCTGATCA	kidney_collecting_duct_principal_cell	A	3
-1-M-62	10X_P5_8	chr6	83759472	83759472	A	G	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	GGCTCGAAGTATCTCG	kidney_collecting_duct_principal_cell	A	2
-1-M-62	10X_P5_8	chr6	83759472	83759472	A	G	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	CAACCTCTCGAACTGT	kidney_collecting_duct_principal_cell	A	2
-1-M-62	10X_P5_8	chr6	83759472	83759472	A	G	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	TGCGGGTAGCGTAGTG	kidney_collecting_duct_principal_cell	A	1
-1-M-62	10X_P5_8	chr6	83759472	83759472	A	G	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	TCACGAAGTATCGCAT	kidney_collecting_duct_principal_cell	A	2
-1-M-62	10X_P5_8	chr6	83759472	83759472	A	G	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	GGCCGATCACCATCCT	kidney_collecting_duct_principal_cell	A	1
-1-M-62	10X_P5_8	chr6	83759472	83759472	A	G	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	ATAGACCTCAGGTTCA	kidney_collecting_duct_principal_cell	A	1
-1-M-62	10X_P5_8	chr6	83759472	83759472	A	G	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	GCTCTGTCATCACGAT	kidney_collecting_duct_principal_cell	A	1
-1-M-62	10X_P5_8	chr6	83759472	83759472	A	G	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	GGACGTCCATGAAGTA	kidney_collecting_duct_principal_cell	A	1
-1-M-62	10X_P5_8	chr6	83759472	83759472	A	G	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	GTTCATTCAACACCTA	kidney_collecting_duct_principal_cell	A	1
-1-M-62	10X_P5_8	chr6	83759472	83759472	A	G	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	AACCGCGTCACAACGT	kidney_collecting_duct_principal_cell	A	1
-1-M-62	10X_P5_8	chr6	83759472	83759472	A	G	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	2	AGCGTATCAATGGTCT	kidney_collecting_duct_principal_cell	A	1
-1-M-62	10X_P5_8	chr6	90578816	90578816	T	G	kidney_proximal_convoluted_tubule_epithelial_cell	5	CCCATACAGTGTACGG	kidney_collecting_duct_principal_cell	T	2
-1-M-62	10X_P5_8	chr6	90578816	90578816	T	G	kidney_proximal_convoluted_tubule_epithelial_cell	5	AGCGTATCAATGGTCT	kidney_collecting_duct_principal_cell	T	1
-1-M-62	10X_P5_8	chr7	16495266	16495266	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	3	TTAGGACCAGTTTACG	kidney_collecting_duct_principal_cell	C	2
-1-M-62	10X_P5_8	chr7	16495266	16495266	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	3	GGACGTCCATGAAGTA	kidney_collecting_duct_principal_cell	C	1
-1-M-62	10X_P5_8	chr7	16495266	16495266	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	3	GTACTCCGTGCGAAAC	kidney_collecting_duct_principal_cell	C	2
-1-M-62	10X_P5_8	chr7	16495266	16495266	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	3	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	C	1
-1-M-62	10X_P5_8	chr7	16495266	16495266	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	3	CGTCCATAGAATTGTG	kidney_collecting_duct_principal_cell	C	2
-1-M-62	10X_P5_8	chr7	16495266	16495266	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	3	CCTCTGAAGAGCTATA	kidney_collecting_duct_principal_cell	C	1
-1-M-62	10X_P5_8	chr7	34225023	34225023	T	C	kidney_mesangial_cell	2	TCTGGAACATTCCTCG	kidney_collecting_duct_principal_cell	T	8
-1-M-62	10X_P5_8	chr7	34225023	34225023	T	C	kidney_mesangial_cell	2	GCATGCGTCGGTCTAA	kidney_collecting_duct_principal_cell	T	7
-1-M-62	10X_P5_8	chr7	34225023	34225023	T	C	kidney_mesangial_cell	2	GGAAAGCAGGGCTTCC	kidney_collecting_duct_principal_cell	T	5
-1-M-62	10X_P5_8	chr7	34225023	34225023	T	C	kidney_mesangial_cell	2	GGCTCGAAGTATCTCG	kidney_collecting_duct_principal_cell	T	15
-1-M-62	10X_P5_8	chr7	34225023	34225023	T	C	kidney_mesangial_cell	2	ATAGACCTCAGGTTCA	kidney_collecting_duct_principal_cell	T	1
-1-M-62	10X_P5_8	chr7	34225023	34225023	T	C	kidney_mesangial_cell	2	TCACGAAGTATCGCAT	kidney_collecting_duct_principal_cell	T	1
-1-M-62	10X_P5_8	chr7	127969060	127969060	A	G	fenestrated_cell	3	TCAGATGCAGTACACT	kidney_collecting_duct_principal_cell	A	8
-1-M-62	10X_P5_8	chr7	141171169	141171169	T	C	kidney_cortex_artery_cell	2	GTACTCCGTGCGAAAC	kidney_collecting_duct_principal_cell	T	2
-1-M-62	10X_P5_8	chr7	141466493	141466493	A	G	fenestrated_cell	4	GTACTCCGTGCGAAAC	kidney_collecting_duct_principal_cell	A	1
-1-M-62	10X_P5_8	chr8	4292186	4292186	T	C	kidney_proximal_convoluted_tubule_epithelial_cell	2	GCATACACACAAGTAA	kidney_collecting_duct_principal_cell	T	1
-1-M-62	10X_P5_8	chr8	25239167	25239167	T	C	kidney_cortex_artery_cell	3	CAACCTCTCGAACTGT	kidney_collecting_duct_principal_cell	T	11
-1-M-62	10X_P5_8	chr8	25239167	25239167	T	C	kidney_cortex_artery_cell	3	AGCGTATCAATGGTCT	kidney_collecting_duct_principal_cell	T	1
-1-M-62	10X_P5_8	chr8	25239167	25239167	T	C	kidney_cortex_artery_cell	3	CCAATCCCAGACAGGT	kidney_collecting_duct_principal_cell	T	1
-1-M-62	10X_P5_8	chr8	25239167	25239167	T	C	kidney_cortex_artery_cell	3	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	T	2
-1-M-62	10X_P5_8	chr8	25239167	25239167	T	C	kidney_cortex_artery_cell	3	ACTGCTCTCTAACTTC	kidney_collecting_duct_principal_cell	T	2
-1-M-62	10X_P5_8	chr8	25239167	25239167	T	C	kidney_cortex_artery_cell	3	GTACTCCGTACGCACC	kidney_collecting_duct_principal_cell	T	3
-1-M-62	10X_P5_8	chr8	25239167	25239167	T	C	kidney_cortex_artery_cell	3	GTACTCCGTGCGAAAC	kidney_collecting_duct_principal_cell	T	3
-1-M-62	10X_P5_8	chr8	70475076	70475076	T	C	fenestrated_cell	4	ACTGCTCTCTAACTTC	kidney_collecting_duct_principal_cell	T	2
-1-M-62	10X_P5_8	chr8	70475076	70475076	T	C	fenestrated_cell	4	AGCGTATCAATGGTCT	kidney_collecting_duct_principal_cell	T	3
-1-M-62	10X_P5_8	chr8	71401307	71401307	A	G	fenestrated_cell	2	GTACTCCGTACGCACC	kidney_collecting_duct_principal_cell	A	1
-1-M-62	10X_P5_8	chr8	72550878	72550878	A	G	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	3	AGCGTATCAATGGTCT	kidney_collecting_duct_principal_cell	A	3
-1-M-62	10X_P5_8	chr8	72550878	72550878	A	G	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	3	GTACTTTAGCTAGCCC	kidney_collecting_duct_principal_cell	G	4
-1-M-62	10X_P5_8	chr8	72550878	72550878	A	G	kidney_loop_of_Henle_thick_ascending_limb_epithelial_cell	3	TGCGGGTAGCGTAGTG	kidney_collecting_duct_principal_cell	A	1
-1-M-62	10X_P5_8	chr8	84213011	84213011	A	G	fenestrated_cell	2	GCATACACACAAGTAA	kidney_collecting_duct_principal_cell	A	8
-1-M-62	10X_P5_8	chr8	84213011	84213011	A	G	fenestrated_cell	2	AGAGCTTCAGCGTCCA	kidney_collecting_duct_principal_cell	A	3
-1-M-62	10X_P5_8	chr9	108255518	108255518	T	C	kidney_proximal_convoluted_tubule_epithelial_cell	2	ATAGACCTCAGGTTCA	kidney_collecting_duct_principal_cell	T	1
-1-M-62	10X_P5_8	chr9	118675017	118675017	G	C	kidney_proximal_convoluted_tubule_epithelial_cell	25	TCTGGAACATTCCTCG	kidney_collecting_duct_principal_cell	C	1
-1-M-62	10X_P5_8	chr9	123717207	123717207	A	G	podocyte	2	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	A	6
-1-M-62	10X_P5_8	chr9	123717207	123717207	A	G	podocyte	2	GGCTCGAAGTATCTCG	kidney_collecting_duct_principal_cell	A	6
-1-M-62	10X_P5_8	chr9	123717207	123717207	A	G	podocyte	2	GTACTTTAGCTAGCCC	kidney_collecting_duct_principal_cell	A	1
-1-M-62	10X_P5_8	chrX	6640897	6640897	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	2	TACGGATTCTCGCTTG	kidney_collecting_duct_principal_cell	G	1
-1-M-62	10X_P5_8	chrX	6640897	6640897	G	A	kidney_proximal_convoluted_tubule_epithelial_cell	2	TCAGATGCAGTACACT	kidney_collecting_duct_principal_cell	G	7
-1-M-62	10X_P5_8	chrX	12616481	12616481	C	T	macrophage	3	GCATACACACAAGTAA	kidney_collecting_duct_principal_cell	C	3
-1-M-62	10X_P5_8	chrX	12616481	12616481	C	T	macrophage	3	AGGGTGAGTCTGATCA	kidney_collecting_duct_principal_cell	C	4
-1-M-62	10X_P5_8	chrX	12616481	12616481	C	T	macrophage	3	ACTGCTCTCTAACTTC	kidney_collecting_duct_principal_cell	C	4
-1-M-62	10X_P5_8	chrX	12616481	12616481	C	T	macrophage	3	TCACGAAGTATCGCAT	kidney_collecting_duct_principal_cell	C	2
-1-M-62	10X_P5_8	chrX	12616481	12616481	C	T	macrophage	3	AGAGTGGTCCCTAATT	kidney_collecting_duct_principal_cell	C	3
-1-M-62	10X_P5_8	chrX	12616481	12616481	C	T	macrophage	3	TCAGATGCAGTACACT	kidney_collecting_duct_principal_cell	C	2
-1-M-62	10X_P5_8	chrX	12616481	12616481	C	T	macrophage	3	AGAGCTTCAGCGTCCA	kidney_collecting_duct_principal_cell	C	2
-1-M-62	10X_P5_8	chrX	12616481	12616481	C	T	macrophage	3	TTGGCAAAGTCACGCC	kidney_collecting_duct_principal_cell	C	1
-1-M-62	10X_P5_8	chrX	12616481	12616481	C	T	macrophage	3	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	C	2
-1-M-62	10X_P5_8	chrX	12616481	12616481	C	T	macrophage	3	CAAGATCTCTATGTGG	kidney_collecting_duct_principal_cell	C	1
-1-M-62	10X_P5_8	chrX	12616481	12616481	C	T	macrophage	3	GTTCATTCAACACCTA	kidney_collecting_duct_principal_cell	C	2
-1-M-62	10X_P5_8	chrX	12616481	12616481	C	T	macrophage	3	CCTCTGAAGAGCTATA	kidney_collecting_duct_principal_cell	C	1
-1-M-62	10X_P5_8	chrX	12616481	12616481	C	T	macrophage	3	GGAAAGCCACGTGAGA	kidney_collecting_duct_principal_cell	C	1
-1-M-62	10X_P5_8	chrX	12616481	12616481	C	T	macrophage	3	ATAGACCTCAGGTTCA	kidney_collecting_duct_principal_cell	C	1
-1-M-62	10X_P5_8	chrX	12616481	12616481	C	T	macrophage	3	GCATGCGTCTTAGAGC	kidney_collecting_duct_principal_cell	C	1
-1-M-62	10X_P5_8	chrX	12616481	12616481	C	T	macrophage	3	AGCGTATCAATGGTCT	kidney_collecting_duct_principal_cell	C	1
-1-M-62	10X_P5_8	chrX	12616481	12616481	C	T	macrophage	3	GTACTCCGTGCGAAAC	kidney_collecting_duct_principal_cell	C	1
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	CCTCTGAAGAGCTATA	kidney_collecting_duct_principal_cell	C	2
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	GTGCGGTCATGCTGGC	kidney_collecting_duct_principal_cell	C	1
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	TGGACGCAGGATGGTC	kidney_collecting_duct_principal_cell	C	1
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	GCATACACACAAGTAA	kidney_collecting_duct_principal_cell	C	1
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	AGCGTATCAATGGTCT	kidney_collecting_duct_principal_cell	C	3
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	GGAAAGCCACGTGAGA	kidney_collecting_duct_principal_cell	C	2
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	CAACCTCTCGAACTGT	kidney_collecting_duct_principal_cell	C	1
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	AGCATACCATCGATTG	kidney_collecting_duct_principal_cell	C	3
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	GGAAAGCAGGGCTTCC	kidney_collecting_duct_principal_cell	C	1
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	ATAGACCTCAGGTTCA	kidney_collecting_duct_principal_cell	C	1
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	GTACTCCGTGCGAAAC	kidney_collecting_duct_principal_cell	C	1
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	TCGCGAGCAAAGGAAG	kidney_collecting_duct_principal_cell	C	1
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	CACAGTATCTGTCAAG	kidney_collecting_duct_principal_cell	C	1
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	ACTGCTCTCTAACTTC	kidney_collecting_duct_principal_cell	C	1
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	GTACTCCAGCTAGCCC	kidney_collecting_duct_principal_cell	C	2
-1-M-62	10X_P5_8	chrX	94416869	94416869	C	T	kidney_proximal_convoluted_tubule_epithelial_cell	14	TGCGGGTAGCGTAGTG	kidney_collecting_duct_principal_cell	C	1
+#CHROM	Start	End	REF	ALT_expected	CB	Cell_type_observed	Base_observed	Num_reads
+chr1	58415537	58415537	C	T	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	C	18
+chr1	58415537	58415537	C	T	ACTGCTCTCTAACTTC	kidney_collecting_duct_principal_cell	C	10
+chr1	58415537	58415537	C	T	CCAATCCCAGACAGGT	kidney_collecting_duct_principal_cell	C	5
+chr1	58415537	58415537	C	T	CACAGTATCTGTCAAG	kidney_collecting_duct_principal_cell	C	6
+chr1	58415537	58415537	C	T	GCATACACACAAGTAA	kidney_collecting_duct_principal_cell	C	8
+chr1	82634873	82634873	C	T	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	C	15
+chr1	93441521	93441521	A	G	CAAGATCTCTATGTGG	kidney_collecting_duct_principal_cell	A	5
+chr1	93441521	93441521	A	G	CACAGTATCTGTCAAG	kidney_collecting_duct_principal_cell	A	2
+chr1	93441521	93441521	A	G	ATAGACCTCAGGTTCA	kidney_collecting_duct_principal_cell	A	6
+chr1	93441521	93441521	A	G	GTTCATTCAACACCTA	kidney_collecting_duct_principal_cell	A	2
+chr1	93441521	93441521	A	G	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	A	6
+chr1	93441521	93441521	A	G	AGCGTATCAATGGTCT	kidney_collecting_duct_principal_cell	A	2
+chr1	93441521	93441521	A	G	CCTCTGAAGAGCTATA	kidney_collecting_duct_principal_cell	A	2
+chr1	93441521	93441521	A	G	GTACTTTAGCTAGCCC	kidney_collecting_duct_principal_cell	A	5
+chr1	151345769	151345769	T	C	CCTCAGTAGCAACGGT	kidney_collecting_duct_principal_cell	T	1
+chr1	151345769	151345769	T	C	GGCTCGAAGTATCTCG	kidney_collecting_duct_principal_cell	T	5
+chr1	151345769	151345769	T	C	GCTCTGTCATCACGAT	kidney_collecting_duct_principal_cell	T	6
+chr1	151345769	151345769	T	C	GTACTCCGTACGCACC	kidney_collecting_duct_principal_cell	T	2
+chr10	13443654	13443654	T	C	GCATACACACAAGTAA	kidney_collecting_duct_principal_cell	T	4
+chr10	13443654	13443654	T	C	GCATACACACAAGTAA	kidney_collecting_duct_principal_cell	C	2
+chr10	13443654	13443654	T	C	CAAGATCTCTATGTGG	kidney_collecting_duct_principal_cell	T	1
+chr10	13443654	13443654	T	C	ATAGACCTCAGGTTCA	kidney_collecting_duct_principal_cell	C	3
+chr10	13443654	13443654	T	C	GCTCTGTAGATGAGAG	kidney_collecting_duct_principal_cell	T	1
+chr10	13443654	13443654	T	C	GTTCATTCAACACCTA	kidney_collecting_duct_principal_cell	T	1
+chr10	13443654	13443654	T	C	TCACGAAGTATCGCAT	kidney_collecting_duct_principal_cell	T	1
+chr10	95308830	95308830	T	C	CCAATCCCAGACAGGT	kidney_collecting_duct_principal_cell	T	8
+chr10	95308830	95308830	T	C	GCATACACACAAGTAA	kidney_collecting_duct_principal_cell	T	5
+chr11	9389394	9389394	G	A	AGCGTATCAATGGTCT	kidney_collecting_duct_principal_cell	G	4
+chr11	9389394	9389394	G	A	TGGACGCAGGATGGTC	kidney_collecting_duct_principal_cell	G	3
+chr11	9389394	9389394	G	A	CCCATACAGTGTACGG	kidney_collecting_duct_principal_cell	G	1
+chr11	23347097	23347097	A	G	AGAGCTTCAGCGTCCA	kidney_collecting_duct_principal_cell	A	9
+chr11	23347097	23347097	A	G	GCTCTGTAGATGAGAG	kidney_collecting_duct_principal_cell	A	5
+chr11	83905624	83905624	T	G	AGAGCTTCAGCGTCCA	kidney_collecting_duct_principal_cell	T	1
+chr11	83905624	83905624	T	G	TCAGATGCAGTACACT	kidney_collecting_duct_principal_cell	T	1
+chr11	83905624	83905624	T	G	AACCGCGTCACAACGT	kidney_collecting_duct_principal_cell	T	1
+chr11	83905624	83905624	T	G	TACGGATTCTCGCTTG	kidney_collecting_duct_principal_cell	T	1
+chr11	83905624	83905624	T	G	TTGGCAAAGTCACGCC	kidney_collecting_duct_principal_cell	T	1
+chr11	83905624	83905624	T	G	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	T	1
+chr11	83905624	83905624	T	G	GTACTCCGTACGCACC	kidney_collecting_duct_principal_cell	T	1
+chr11	83905624	83905624	T	G	GTACTCCAGCTAGCCC	kidney_collecting_duct_principal_cell	T	1
+chr11	85038163	85038163	T	C	CCTCAGTAGCAACGGT	kidney_collecting_duct_principal_cell	T	6
+chr11	85038163	85038163	T	C	CGTCCATAGAATTGTG	kidney_collecting_duct_principal_cell	T	12
+chr11	85038163	85038163	T	C	GCATACACACAAGTAA	kidney_collecting_duct_principal_cell	T	3
+chr11	85038163	85038163	T	C	GCATGCGTCTTAGAGC	kidney_collecting_duct_principal_cell	T	4
+chr11	85038163	85038163	T	C	GTACTTTAGCTAGCCC	kidney_collecting_duct_principal_cell	T	10
+chr11	85038163	85038163	T	C	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	T	5
+chr11	113117219	113117219	A	G	CACAGTATCTGTCAAG	kidney_collecting_duct_principal_cell	A	1
+chr12	4249725	4249725	G	A	TGCGGGTAGCGTAGTG	kidney_collecting_duct_principal_cell	G	1
+chr12	4249725	4249725	G	A	GGAAAGCAGGGCTTCC	kidney_collecting_duct_principal_cell	G	4
+chr12	4249725	4249725	G	A	TACGGATTCTCGCTTG	kidney_collecting_duct_principal_cell	G	2
+chr12	51636408	51636408	T	C	AGGGTGAGTCTGATCA	kidney_collecting_duct_principal_cell	T	3
+chr12	51636408	51636408	T	C	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	T	12
+chr12	51636408	51636408	T	C	CGTCCATAGAATTGTG	kidney_collecting_duct_principal_cell	T	6
+chr12	51636408	51636408	T	C	CCTCTGAAGAGCTATA	kidney_collecting_duct_principal_cell	T	1
+chr12	51636408	51636408	T	C	CCTCAGTAGCAACGGT	kidney_collecting_duct_principal_cell	T	2
+chr12	84971746	84971746	A	G	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	A	7
+chr12	84971746	84971746	A	G	CACAGTATCTGTCAAG	kidney_collecting_duct_principal_cell	A	6
+chr12	84971746	84971746	A	G	TCTGGAACATTCCTCG	kidney_collecting_duct_principal_cell	A	1
+chr13	63292362	63292362	A	G	TACGGATTCTCGCTTG	kidney_collecting_duct_principal_cell	A	7
+chr13	63292362	63292362	A	G	GGACGTCCATGAAGTA	kidney_collecting_duct_principal_cell	A	5
+chr13	63292362	63292362	A	G	GGCTCGAAGTATCTCG	kidney_collecting_duct_principal_cell	A	3
+chr13	63292362	63292362	A	G	GCATACACACAAGTAA	kidney_collecting_duct_principal_cell	A	10
+chr13	63292362	63292362	A	G	AGAGCTTCAGCGTCCA	kidney_collecting_duct_principal_cell	A	8
+chr13	63292362	63292362	A	G	AGCGTATCAATGGTCT	kidney_collecting_duct_principal_cell	A	1
+chr13	63292362	63292362	A	G	GTACTCCGTGCGAAAC	kidney_collecting_duct_principal_cell	A	11
+chr13	63292362	63292362	A	G	GCATGCGTCGGTCTAA	kidney_collecting_duct_principal_cell	A	3
+chr13	63292362	63292362	A	G	GCTCTGTCATCACGAT	kidney_collecting_duct_principal_cell	A	4
+chr13	63292362	63292362	A	G	CAACCTCTCGAACTGT	kidney_collecting_duct_principal_cell	A	6
+chr13	63292362	63292362	A	G	GCTCTGTAGATGAGAG	kidney_collecting_duct_principal_cell	A	4
+chr13	63292362	63292362	A	G	ACTGCTCTCTAACTTC	kidney_collecting_duct_principal_cell	A	1
+chr13	63292362	63292362	A	G	TCGCGAGCAAAGGAAG	kidney_collecting_duct_principal_cell	A	2
+chr13	107885254	107885254	A	G	AGAGCTTCAGCGTCCA	kidney_collecting_duct_principal_cell	A	13
+chr13	107885254	107885254	A	G	ATAGACCTCAGGTTCA	kidney_collecting_duct_principal_cell	A	20
+chr13	107885254	107885254	A	G	CCTCAGTAGCAACGGT	kidney_collecting_duct_principal_cell	A	12
+chr13	107885254	107885254	A	G	GGAAAGCCACGTGAGA	kidney_collecting_duct_principal_cell	A	14
+chr13	107885254	107885254	A	G	GTACTCCGTGCGAAAC	kidney_collecting_duct_principal_cell	A	24
+chr13	107885254	107885254	A	G	GCATACACACAAGTAA	kidney_collecting_duct_principal_cell	A	3
+chr13	107885254	107885254	A	G	TCTGGAACATTCCTCG	kidney_collecting_duct_principal_cell	A	6
+chr13	107885254	107885254	A	G	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	A	34
+chr13	107885254	107885254	A	G	GTATCTTCAGTTTACG	kidney_collecting_duct_principal_cell	A	10
+chr13	107885254	107885254	A	G	AGCGTATCAATGGTCT	kidney_collecting_duct_principal_cell	A	11
+chr13	107885254	107885254	A	G	ACTGCTCTCTAACTTC	kidney_collecting_duct_principal_cell	A	4
+chr13	107885254	107885254	A	G	TTGGCAAAGTCACGCC	kidney_collecting_duct_principal_cell	A	9
+chr13	107885254	107885254	A	G	TACGGATTCTCGCTTG	kidney_collecting_duct_principal_cell	A	3
+chr13	107885254	107885254	A	G	AGGGTGAGTCTGATCA	kidney_collecting_duct_principal_cell	A	1
+chr14	70672157	70672157	A	T	GGAAAGCAGGGCTTCC	kidney_collecting_duct_principal_cell	A	1
+chr14	70672157	70672157	A	T	GTATCTTCAGTTTACG	kidney_collecting_duct_principal_cell	A	1
+chr14	70672157	70672157	A	T	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	A	1
+chr14	70672157	70672157	A	T	GCATGCGTCTTAGAGC	kidney_collecting_duct_principal_cell	A	1
+chr15	36595815	36595815	T	C	GTACTCCGTGCGAAAC	kidney_collecting_duct_principal_cell	T	5
+chr15	36595815	36595815	T	C	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	T	3
+chr15	36595815	36595815	T	C	AGAGCTTCAGCGTCCA	kidney_collecting_duct_principal_cell	T	1
+chr15	36595815	36595815	T	C	GTACTTTAGCTAGCCC	kidney_collecting_duct_principal_cell	T	1
+chr15	36595815	36595815	T	C	GCTCTGTCATCACGAT	kidney_collecting_duct_principal_cell	T	1
+chr15	36595815	36595815	T	C	TCAGATGCAGTACACT	kidney_collecting_duct_principal_cell	T	2
+chr15	36595815	36595815	T	C	CCTCTGAAGAGCTATA	kidney_collecting_duct_principal_cell	T	1
+chr15	36595815	36595815	T	C	AGCGTATCAATGGTCT	kidney_collecting_duct_principal_cell	T	2
+chr15	36595815	36595815	T	C	ATAGACCTCAGGTTCA	kidney_collecting_duct_principal_cell	T	1
+chr15	36595815	36595815	T	C	CAAGATCTCTATGTGG	kidney_collecting_duct_principal_cell	T	1
+chr15	36595815	36595815	T	C	TCACGAAGTATCGCAT	kidney_collecting_duct_principal_cell	T	1
+chr15	36595815	36595815	T	C	GGAAAGCCACGTGAGA	kidney_collecting_duct_principal_cell	T	1
+chr15	36595815	36595815	T	C	GCTCTGTAGATGAGAG	kidney_collecting_duct_principal_cell	T	1
+chr16	57601769	57601769	A	G	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	A	6
+chr16	57601769	57601769	A	G	ATAGACCTCAGGTTCA	kidney_collecting_duct_principal_cell	A	7
+chr17	39848243	39848243	C	T	CACAGTATCTGTCAAG	kidney_collecting_duct_principal_cell	C	1
+chr17	39848255	39848255	G	A	CACAGTATCTGTCAAG	kidney_collecting_duct_principal_cell	G	1
+chr17	64604378	64604378	T	C	GGCTCGAAGTATCTCG	kidney_collecting_duct_principal_cell	T	3
+chr17	64604378	64604378	T	C	ACTGAGTGTCAGAAGC	kidney_collecting_duct_principal_cell	T	5
+chr17	64604378	64604378	T	C	AGAGCTTCAGCGTCCA	kidney_collecting_duct_principal_cell	T	2
+chr17	70974186	70974186	G	A	GTACTCCGTGCGAAAC	kidney_collecting_duct_principal_cell	G	20
+chr17	70974186	70974186	G	A	AGGGTGAGTCTGATCA	kidney_collecting_duct_principal_cell	G	16
+chr17	70974186	70974186	G	A	CACAGTATCTGTCAAG	kidney_collecting_duct_principal_cell	G	9
+chr17	70974186	70974186	G	A	GCATGCGTCTTAGAGC	kidney_collecting_duct_principal_cell	G	2
+chr17	70974186	70974186	G	A	GTACTTTAGCTAGCCC	kidney_collecting_duct_principal_cell	G	15
+chr17	70974186	70974186	G	A	ATAGACCTCAGGTTCA	kidney_collecting_duct_principal_cell	G	11
+chr17	70974186	70974186	G	A	CAACCTCTCGAACTGT	kidney_collecting_duct_principal_cell	G	4
+chr17	70974186	70974186	G	A	GCATACACACAAGTAA	kidney_collecting_duct_principal_cell	G	16
+chr17	70974186	70974186	G	A	TACGGATTCTCGCTTG	kidney_collecting_duct_principal_cell	G	7
+chr17	70974186	70974186	G	A	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	G	26
+chr17	70974186	70974186	G	A	GGCTCGAAGTATCTCG	kidney_collecting_duct_principal_cell	G	11
+chr17	70974186	70974186	G	A	TCACGAAGTATCGCAT	kidney_collecting_duct_principal_cell	G	2
+chr17	70974186	70974186	G	A	GGAAAGCCACGTGAGA	kidney_collecting_duct_principal_cell	G	10
+chr17	70974186	70974186	G	A	GTACTCCGTACGCACC	kidney_collecting_duct_principal_cell	G	12
+chr17	70974186	70974186	G	A	TGGACGCAGGATGGTC	kidney_collecting_duct_principal_cell	G	1
+chr17	70974186	70974186	G	A	CCTCTGAAGAGCTATA	kidney_collecting_duct_principal_cell	G	9
+chr17	70974186	70974186	G	A	ACTGCTCTCTAACTTC	kidney_collecting_duct_principal_cell	G	6
+chr17	70974186	70974186	G	A	TCAGATGCAGTACACT	kidney_collecting_duct_principal_cell	G	17
+chr17	70974186	70974186	G	A	ACTGAGTGTCAGAAGC	kidney_collecting_duct_principal_cell	G	4
+chr17	70974186	70974186	G	A	CCAATCCCAGACAGGT	kidney_collecting_duct_principal_cell	G	12
+chr17	70974186	70974186	G	A	TTAGGACCAGTTTACG	kidney_collecting_duct_principal_cell	G	4
+chr17	70974186	70974186	G	A	AGAGTGGTCCCTAATT	kidney_collecting_duct_principal_cell	G	2
+chr17	70974186	70974186	G	A	GCATGCGTCGGTCTAA	kidney_collecting_duct_principal_cell	G	4
+chr17	70974186	70974186	G	A	TCTGGAACATTCCTCG	kidney_collecting_duct_principal_cell	G	16
+chr17	70974186	70974186	G	A	TTGGCAAAGTCACGCC	kidney_collecting_duct_principal_cell	G	4
+chr17	70974186	70974186	G	A	GTACTCCAGCTAGCCC	kidney_collecting_duct_principal_cell	G	3
+chr17	70974186	70974186	G	A	AACCGCGTCACAACGT	kidney_collecting_duct_principal_cell	G	3
+chr17	70974186	70974186	G	A	AGCATACCATCGATTG	kidney_collecting_duct_principal_cell	G	3
+chr17	70974186	70974186	G	A	CCTCAGTAGCAACGGT	kidney_collecting_duct_principal_cell	G	1
+chr17	70974186	70974186	G	A	GTATCTTCAGTTTACG	kidney_collecting_duct_principal_cell	G	2
+chr17	70974186	70974186	G	A	CAAGATCTCTATGTGG	kidney_collecting_duct_principal_cell	G	1
+chr17	70974186	70974186	G	A	GCTCTGTAGATGAGAG	kidney_collecting_duct_principal_cell	G	1
+chr17	70974186	70974186	G	A	GGAAAGCAGGGCTTCC	kidney_collecting_duct_principal_cell	G	2
+chr2	24466730	24466730	G	A	TCTGGAACATTCCTCG	kidney_collecting_duct_principal_cell	G	2
+chr2	84433032	84433032	G	A	CCAATCCCAGACAGGT	kidney_collecting_duct_principal_cell	G	1
+chr2	130872646	130872646	T	C	TCTGGAACATTCCTCG	kidney_collecting_duct_principal_cell	T	3
+chr2	152744055	152744055	G	T	CACAGTATCTGTCAAG	kidney_collecting_duct_principal_cell	G	7
+chr2	163641632	163641632	T	C	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	T	1
+chr2	164066005	164066005	T	C	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	T	5
+chr2	164066005	164066005	T	C	AGAGCTTCAGCGTCCA	kidney_collecting_duct_principal_cell	T	2
+chr2	168088251	168088251	T	G	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	T	7
+chr2	168088251	168088251	T	G	GTACTTTAGCTAGCCC	kidney_collecting_duct_principal_cell	T	1
+chr2	168088251	168088251	T	G	GTACTCCGTGCGAAAC	kidney_collecting_duct_principal_cell	T	2
+chr2	168088251	168088251	T	G	ATAGACCTCAGGTTCA	kidney_collecting_duct_principal_cell	T	2
+chr3	90088384	90088384	G	A	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	G	7
+chr3	90088384	90088384	G	A	ATAGACCTCAGGTTCA	kidney_collecting_duct_principal_cell	G	4
+chr3	90088384	90088384	G	A	GTACTCCGTGCGAAAC	kidney_collecting_duct_principal_cell	G	5
+chr3	90088384	90088384	G	A	CCAATCCCAGACAGGT	kidney_collecting_duct_principal_cell	G	4
+chr4	42992668	42992668	T	C	TCACGAAGTATCGCAT	kidney_collecting_duct_principal_cell	T	2
+chr4	45100292	45100292	C	G	ATAGACCTCAGGTTCA	kidney_collecting_duct_principal_cell	C	1
+chr4	117030410	117030410	T	A	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	T	1
+chr4	135835152	135835152	G	A	AACCGCGTCACAACGT	kidney_collecting_duct_principal_cell	G	2
+chr4	135835152	135835152	G	A	GTACTCCGTGCGAAAC	kidney_collecting_duct_principal_cell	G	27
+chr4	148068073	148068073	A	G	ATAGACCTCAGGTTCA	kidney_collecting_duct_principal_cell	G	2
+chr4	148068073	148068073	A	G	CACAGTATCTGTCAAG	kidney_collecting_duct_principal_cell	A	1
+chr5	65542281	65542281	A	G	ATAGACCTCAGGTTCA	kidney_collecting_duct_principal_cell	A	1
+chr5	65542281	65542281	A	G	GTACTTTAGCTAGCCC	kidney_collecting_duct_principal_cell	A	4
+chr5	66097380	66097380	G	T	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	G	5
+chr5	66097380	66097380	G	T	GTTCATTCAACACCTA	kidney_collecting_duct_principal_cell	G	3
+chr5	66097380	66097380	G	T	TCTGGAACATTCCTCG	kidney_collecting_duct_principal_cell	G	4
+chr5	66097380	66097380	G	T	GTACTCCGTGCGAAAC	kidney_collecting_duct_principal_cell	G	2
+chr6	55241373	55241373	A	T	ATAGACCTCAGGTTCA	kidney_collecting_duct_principal_cell	A	4
+chr6	55241373	55241373	A	T	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	A	2
+chr6	55348223	55348223	A	G	AGGGTGAGTCTGATCA	kidney_collecting_duct_principal_cell	A	1
+chr6	83759472	83759472	A	G	ACTGCTCTCTAACTTC	kidney_collecting_duct_principal_cell	A	2
+chr6	83759472	83759472	A	G	AGGGTGAGTCTGATCA	kidney_collecting_duct_principal_cell	A	3
+chr6	83759472	83759472	A	G	GGCTCGAAGTATCTCG	kidney_collecting_duct_principal_cell	A	2
+chr6	83759472	83759472	A	G	CAACCTCTCGAACTGT	kidney_collecting_duct_principal_cell	A	2
+chr6	83759472	83759472	A	G	TGCGGGTAGCGTAGTG	kidney_collecting_duct_principal_cell	A	1
+chr6	83759472	83759472	A	G	TCACGAAGTATCGCAT	kidney_collecting_duct_principal_cell	A	2
+chr6	83759472	83759472	A	G	GGCCGATCACCATCCT	kidney_collecting_duct_principal_cell	A	1
+chr6	83759472	83759472	A	G	ATAGACCTCAGGTTCA	kidney_collecting_duct_principal_cell	A	1
+chr6	83759472	83759472	A	G	GCTCTGTCATCACGAT	kidney_collecting_duct_principal_cell	A	1
+chr6	83759472	83759472	A	G	GGACGTCCATGAAGTA	kidney_collecting_duct_principal_cell	A	1
+chr6	83759472	83759472	A	G	GTTCATTCAACACCTA	kidney_collecting_duct_principal_cell	A	1
+chr6	83759472	83759472	A	G	AACCGCGTCACAACGT	kidney_collecting_duct_principal_cell	A	1
+chr6	83759472	83759472	A	G	AGCGTATCAATGGTCT	kidney_collecting_duct_principal_cell	A	1
+chr6	90578816	90578816	T	G	CCCATACAGTGTACGG	kidney_collecting_duct_principal_cell	T	2
+chr6	90578816	90578816	T	G	AGCGTATCAATGGTCT	kidney_collecting_duct_principal_cell	T	1
+chr7	16495266	16495266	C	T	TTAGGACCAGTTTACG	kidney_collecting_duct_principal_cell	C	2
+chr7	16495266	16495266	C	T	GGACGTCCATGAAGTA	kidney_collecting_duct_principal_cell	C	1
+chr7	16495266	16495266	C	T	GTACTCCGTGCGAAAC	kidney_collecting_duct_principal_cell	C	2
+chr7	16495266	16495266	C	T	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	C	1
+chr7	16495266	16495266	C	T	CGTCCATAGAATTGTG	kidney_collecting_duct_principal_cell	C	2
+chr7	16495266	16495266	C	T	CCTCTGAAGAGCTATA	kidney_collecting_duct_principal_cell	C	1
+chr7	34225023	34225023	T	C	TCTGGAACATTCCTCG	kidney_collecting_duct_principal_cell	T	8
+chr7	34225023	34225023	T	C	GCATGCGTCGGTCTAA	kidney_collecting_duct_principal_cell	T	7
+chr7	34225023	34225023	T	C	GGAAAGCAGGGCTTCC	kidney_collecting_duct_principal_cell	T	5
+chr7	34225023	34225023	T	C	GGCTCGAAGTATCTCG	kidney_collecting_duct_principal_cell	T	15
+chr7	34225023	34225023	T	C	ATAGACCTCAGGTTCA	kidney_collecting_duct_principal_cell	T	1
+chr7	34225023	34225023	T	C	TCACGAAGTATCGCAT	kidney_collecting_duct_principal_cell	T	1
+chr7	127969060	127969060	A	G	TCAGATGCAGTACACT	kidney_collecting_duct_principal_cell	A	8
+chr7	141171169	141171169	T	C	GTACTCCGTGCGAAAC	kidney_collecting_duct_principal_cell	T	2
+chr7	141466493	141466493	A	G	GTACTCCGTGCGAAAC	kidney_collecting_duct_principal_cell	A	1
+chr8	4292186	4292186	T	C	GCATACACACAAGTAA	kidney_collecting_duct_principal_cell	T	1
+chr8	25239167	25239167	T	C	CAACCTCTCGAACTGT	kidney_collecting_duct_principal_cell	T	11
+chr8	25239167	25239167	T	C	AGCGTATCAATGGTCT	kidney_collecting_duct_principal_cell	T	1
+chr8	25239167	25239167	T	C	CCAATCCCAGACAGGT	kidney_collecting_duct_principal_cell	T	1
+chr8	25239167	25239167	T	C	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	T	2
+chr8	25239167	25239167	T	C	ACTGCTCTCTAACTTC	kidney_collecting_duct_principal_cell	T	2
+chr8	25239167	25239167	T	C	GTACTCCGTACGCACC	kidney_collecting_duct_principal_cell	T	3
+chr8	25239167	25239167	T	C	GTACTCCGTGCGAAAC	kidney_collecting_duct_principal_cell	T	3
+chr8	70475076	70475076	T	C	ACTGCTCTCTAACTTC	kidney_collecting_duct_principal_cell	T	2
+chr8	70475076	70475076	T	C	AGCGTATCAATGGTCT	kidney_collecting_duct_principal_cell	T	3
+chr8	71401307	71401307	A	G	GTACTCCGTACGCACC	kidney_collecting_duct_principal_cell	A	1
+chr8	72550878	72550878	A	G	AGCGTATCAATGGTCT	kidney_collecting_duct_principal_cell	A	3
+chr8	72550878	72550878	A	G	GTACTTTAGCTAGCCC	kidney_collecting_duct_principal_cell	G	4
+chr8	72550878	72550878	A	G	TGCGGGTAGCGTAGTG	kidney_collecting_duct_principal_cell	A	1
+chr8	84213011	84213011	A	G	GCATACACACAAGTAA	kidney_collecting_duct_principal_cell	A	8
+chr8	84213011	84213011	A	G	AGAGCTTCAGCGTCCA	kidney_collecting_duct_principal_cell	A	3
+chr9	108255518	108255518	T	C	ATAGACCTCAGGTTCA	kidney_collecting_duct_principal_cell	T	1
+chr9	118675017	118675017	G	C	TCTGGAACATTCCTCG	kidney_collecting_duct_principal_cell	C	1
+chr9	123717207	123717207	A	G	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	A	6
+chr9	123717207	123717207	A	G	GGCTCGAAGTATCTCG	kidney_collecting_duct_principal_cell	A	6
+chr9	123717207	123717207	A	G	GTACTTTAGCTAGCCC	kidney_collecting_duct_principal_cell	A	1
+chrX	6640897	6640897	G	A	TACGGATTCTCGCTTG	kidney_collecting_duct_principal_cell	G	1
+chrX	6640897	6640897	G	A	TCAGATGCAGTACACT	kidney_collecting_duct_principal_cell	G	7
+chrX	12616481	12616481	C	T	GCATACACACAAGTAA	kidney_collecting_duct_principal_cell	C	3
+chrX	12616481	12616481	C	T	AGGGTGAGTCTGATCA	kidney_collecting_duct_principal_cell	C	4
+chrX	12616481	12616481	C	T	ACTGCTCTCTAACTTC	kidney_collecting_duct_principal_cell	C	4
+chrX	12616481	12616481	C	T	TCACGAAGTATCGCAT	kidney_collecting_duct_principal_cell	C	2
+chrX	12616481	12616481	C	T	AGAGTGGTCCCTAATT	kidney_collecting_duct_principal_cell	C	3
+chrX	12616481	12616481	C	T	TCAGATGCAGTACACT	kidney_collecting_duct_principal_cell	C	2
+chrX	12616481	12616481	C	T	AGAGCTTCAGCGTCCA	kidney_collecting_duct_principal_cell	C	2
+chrX	12616481	12616481	C	T	TTGGCAAAGTCACGCC	kidney_collecting_duct_principal_cell	C	1
+chrX	12616481	12616481	C	T	TGCTACCAGAGCTTCT	kidney_collecting_duct_principal_cell	C	2
+chrX	12616481	12616481	C	T	CAAGATCTCTATGTGG	kidney_collecting_duct_principal_cell	C	1
+chrX	12616481	12616481	C	T	GTTCATTCAACACCTA	kidney_collecting_duct_principal_cell	C	2
+chrX	12616481	12616481	C	T	CCTCTGAAGAGCTATA	kidney_collecting_duct_principal_cell	C	1
+chrX	12616481	12616481	C	T	GGAAAGCCACGTGAGA	kidney_collecting_duct_principal_cell	C	1
+chrX	12616481	12616481	C	T	ATAGACCTCAGGTTCA	kidney_collecting_duct_principal_cell	C	1
+chrX	12616481	12616481	C	T	GCATGCGTCTTAGAGC	kidney_collecting_duct_principal_cell	C	1
+chrX	12616481	12616481	C	T	AGCGTATCAATGGTCT	kidney_collecting_duct_principal_cell	C	1
+chrX	12616481	12616481	C	T	GTACTCCGTGCGAAAC	kidney_collecting_duct_principal_cell	C	1
+chrX	94416869	94416869	C	T	CCTCTGAAGAGCTATA	kidney_collecting_duct_principal_cell	C	2
+chrX	94416869	94416869	C	T	GTGCGGTCATGCTGGC	kidney_collecting_duct_principal_cell	C	1
+chrX	94416869	94416869	C	T	TGGACGCAGGATGGTC	kidney_collecting_duct_principal_cell	C	1
+chrX	94416869	94416869	C	T	GCATACACACAAGTAA	kidney_collecting_duct_principal_cell	C	1
+chrX	94416869	94416869	C	T	AGCGTATCAATGGTCT	kidney_collecting_duct_principal_cell	C	3
+chrX	94416869	94416869	C	T	GGAAAGCCACGTGAGA	kidney_collecting_duct_principal_cell	C	2
+chrX	94416869	94416869	C	T	CAACCTCTCGAACTGT	kidney_collecting_duct_principal_cell	C	1
+chrX	94416869	94416869	C	T	AGCATACCATCGATTG	kidney_collecting_duct_principal_cell	C	3
+chrX	94416869	94416869	C	T	GGAAAGCAGGGCTTCC	kidney_collecting_duct_principal_cell	C	1
+chrX	94416869	94416869	C	T	ATAGACCTCAGGTTCA	kidney_collecting_duct_principal_cell	C	1
+chrX	94416869	94416869	C	T	GTACTCCGTGCGAAAC	kidney_collecting_duct_principal_cell	C	1
+chrX	94416869	94416869	C	T	TCGCGAGCAAAGGAAG	kidney_collecting_duct_principal_cell	C	1
+chrX	94416869	94416869	C	T	CACAGTATCTGTCAAG	kidney_collecting_duct_principal_cell	C	1
+chrX	94416869	94416869	C	T	ACTGCTCTCTAACTTC	kidney_collecting_duct_principal_cell	C	1
+chrX	94416869	94416869	C	T	GTACTCCAGCTAGCCC	kidney_collecting_duct_principal_cell	C	2
+chrX	94416869	94416869	C	T	TGCGGGTAGCGTAGTG	kidney_collecting_duct_principal_cell	C	1

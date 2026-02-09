@@ -1,916 +1,916 @@
-donor	sample	#CHROM	Start	End	REF	ALT_expected	Cell_type_expected	Num_cells_expected	CB	Cell_type_observed	Base_observed	Num_reads
-1-M-62	10X_P5_10	chr1	64528070	64528070	A	G	granulocytopoietic_cell	3	CGTCTACCAGCTCCGA	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr1	64528070	64528070	A	G	granulocytopoietic_cell	3	CTACGTCTCGGTCTAA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr1	64528070	64528070	A	G	granulocytopoietic_cell	3	ACTGTCCAGCGTGTCC	granulocytopoietic_cell	G	4
-1-M-62	10X_P5_10	chr1	64528070	64528070	A	G	granulocytopoietic_cell	3	TACTTGTAGATGTTAG	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr1	64528070	64528070	A	G	granulocytopoietic_cell	3	TCAGGATAGCTCCTCT	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr1	88259005	88259005	A	G	granulocytopoietic_cell	3	TATTACCTCGGTTAAC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr1	88259005	88259005	A	G	granulocytopoietic_cell	3	TCGGTAATCGCGTTTC	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr1	88259005	88259005	A	G	granulocytopoietic_cell	3	CACAGGCTCAGCACAT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr1	88259005	88259005	A	G	granulocytopoietic_cell	3	GTCTCGTTCGTAGGAG	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr1	88259005	88259005	A	G	granulocytopoietic_cell	3	TACTTGTAGATGTTAG	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr1	88259005	88259005	A	G	granulocytopoietic_cell	3	GCTTCCACAACCGCCA	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	AGCTTGATCGGCTTGG	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	CACTCCAGTCGCGGTT	granulocytopoietic_cell	A	5
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	CATTCGCAGGGCACTA	granulocytopoietic_cell	A	8
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	CCACTACAGTGTACGG	granulocytopoietic_cell	A	12
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	CCTACCAAGCTCCTTC	granulocytopoietic_cell	A	6
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	CATGGCGAGAATGTGT	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	CCTAGCTCATATGCTG	granulocytopoietic_cell	A	5
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	CTCTACGCACGAAACG	granulocytopoietic_cell	A	8
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	GTTCATTTCTCAAGTG	granulocytopoietic_cell	A	6
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	TCGTAGATCTTGTTTG	granulocytopoietic_cell	A	4
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	ACATCAGGTACCTACA	granulocytopoietic_cell	A	5
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	AGGGTGACAAGAGGCT	granulocytopoietic_cell	A	6
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	CACAGGCGTCTAGCGC	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	CGTCACTGTACCTACA	granulocytopoietic_cell	A	7
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	ACAGCTATCCGATATG	granulocytopoietic_cell	A	12
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	CTCATTATCCGCGTTT	granulocytopoietic_cell	A	4
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	GCATGTAAGACTGGGT	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	GTTCGGGTCATGTCCC	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	CGGCTAGAGCCACGTC	granulocytopoietic_cell	A	5
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	CTCACACGTACAGACG	granulocytopoietic_cell	A	4
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	GATCAGTAGTGATCGG	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	GGACGTCAGCACACAG	granulocytopoietic_cell	A	5
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	ACTGCTCAGTGCCAGA	granulocytopoietic_cell	A	7
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	CGTGAGCAGGCGTACA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	GCGAGAAAGAGTAAGG	granulocytopoietic_cell	A	5
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	GTGCGGTCAAGTCATC	granulocytopoietic_cell	A	6
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	TGCCCTAGTGCGCTTG	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	ACTTTCATCGCAAACT	granulocytopoietic_cell	A	7
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	ATTACTCTCTGGGCCA	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	CCAGCGACATATGCTG	granulocytopoietic_cell	A	5
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	GCAAACTTCCGCATCT	granulocytopoietic_cell	A	4
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	TATCTCAAGGGATCTG	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	TGCACCTAGACACGAC	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	TGAGCCGCAAACTGTC	granulocytopoietic_cell	A	4
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	ACGGGTCGTCGACTGC	granulocytopoietic_cell	A	4
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	AGATCTGCAAGAGGCT	granulocytopoietic_cell	A	6
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	CGGGTCAAGCGATGAC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	GAACCTACACTTCGAA	granulocytopoietic_cell	A	5
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	CTCGAGGAGAGCTGCA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	CTACATTTCTGCGGCA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	GTATTCTTCTTGCATT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	CGTGTAATCTAACGGT	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	GAAATGAAGCTGTTCA	granulocytopoietic_cell	A	5
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	GCTGCGAAGATGAGAG	granulocytopoietic_cell	A	4
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	GTTTCTAGTAGCTAAA	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	GTGCATACAACTGCGC	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	CACATTTCACGGCTAC	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	ACACCGGGTTGGAGGT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	AGCGTATAGGCTAGGT	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	CACCAGGAGTGGGTTG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	CTAACTTGTTCAGCGC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	GCTTCCAAGGACTGGT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	GGAGCAAAGGAATGGA	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	CTTGGCTGTTAAGACA	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	GACGTGCTCGGTGTTA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	CCTAGCTCATATGCTG	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	GTCAAGTCAGGGCATA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	AACTCAGGTCAGAAGC	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	GTATCTTAGATCTGAA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	GTTAAGCAGTCAATAG	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	GGGTCTGAGACGACGT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	GGAACTTCAGACGCCT	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	GACGTGCTCGTTACGA	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	CAACTAGTCCTGCCAT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	GCATGATGTAGCTCCG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr10	43605520	43605520	A	G	granulocyte	7	TGTGGTATCAAGGCTT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr10	62644429	62644429	T	C	macrophage	2	CAGCCGAAGCCACGTC	granulocytopoietic_cell	T	6
-1-M-62	10X_P5_10	chr10	62644429	62644429	T	C	macrophage	2	CATCGAAGTGCCTGCA	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	62644429	62644429	T	C	macrophage	2	CATGCCTGTTACGCGC	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr10	62644429	62644429	T	C	macrophage	2	AACTCAGGTCAGAAGC	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr10	62644429	62644429	T	C	macrophage	2	ACTATCTAGTGGAGAA	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	62644429	62644429	T	C	macrophage	2	GTCACAATCACCTCGT	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	62644429	62644429	T	C	macrophage	2	TAAGAGAGTGCAACTT	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	TACCTATCACCATCCT	granulocytopoietic_cell	T	4
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	CAAGAAAGTAACGTTC	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	ATCACGAGTGACCAAG	granulocytopoietic_cell	T	6
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	TGTGTTTAGTTACCCA	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	AGCGTATCAGCTCGAC	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	CATATTCGTGACCAAG	granulocytopoietic_cell	T	4
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	GATCAGTGTGATGCCC	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	ATAAGAGCAATGACCT	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	CATCGAAGTGCCTGCA	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	CATCGAATCCTAAGTG	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	CTGAAACCAATCTGCA	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	AGTAGTCCATTGGTAC	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	TCTATTGCAGATGGCA	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	ATCCACCCACTTCTGC	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	TTGGAACAGCGTCAAG	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	GGCAATTTCAGTTAGC	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	CATCAGAAGGCAAAGA	granulocytopoietic_cell	T	6
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	CGATGGCCAGGCTGAA	granulocytopoietic_cell	T	3
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	GGTGCGTCAGCCAGAA	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	CACATTTCACGGCTAC	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	AATCCAGTCTGGAGCC	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	CATCAGACATCTACGA	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	GTCACGGCAGATCTGT	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	CGAACATGTTAAGGGC	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	ACGTCAAGTAAATGAC	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	TGGTTCCCACGTTGGC	granulocytopoietic_cell	T	4
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	TGCTACCTCCTTAATC	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	GATCGTAAGTGACTCT	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	GTAGGCCAGAAGGGTA	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	ATTCTACAGCCGTCGT	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	CTCATTACATTGCGGC	granulocytopoietic_cell	T	3
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	ACAGCTAAGATGGGTC	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	TGCCAAAAGGGCTTGA	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	GACTAACGTGAGCGAT	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	ACTTTCATCCTATGTT	granulocytopoietic_cell	T	3
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	CAGAGAGTCTTGCATT	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	AAGGAGCGTATAGGGC	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	CCTTACGCATTCGACA	granulocytopoietic_cell	T	3
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	CTGAAACCAATCTGCA	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	GACTACAGTCTAGAGG	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	GGTATTGTCTGCAAGT	granulocytopoietic_cell	T	3
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	CGTCTACCAGCTCCGA	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	GAGGTGAGTCCGAACC	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	GCATGTAAGACTGGGT	granulocytopoietic_cell	T	4
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	CAACCAATCCGCGGTA	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	AGATCTGTCTAGCACA	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	CTCGAGGAGCTCCTCT	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	CTCTAATAGGATGTAT	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	GTCAAGTCACGCCAGT	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	CTAGTGAGTTCGCGAC	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	CTACGTCTCGGTCTAA	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	GGCAATTAGCTGATAA	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	CAACCAATCGTACCGG	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	CGACCTTGTAAGAGGA	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	CGTGAGCAGCTATGCT	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	GAGGTGACACCAACCG	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	CGTCTACAGCGCCTCA	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	CTTCTCTTCAACCATG	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	AGGGAGTGTTTGACAC	granulocytopoietic_cell	T	3
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	TTCTCCTTCCTGCAGG	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	AAGCCGCAGCTAAACA	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	GAGGTGAAGGCAATTA	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	CACAGGCTCAGCACAT	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	GACGTGCTCGTTACGA	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	GTCTCGTTCGTAGGAG	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	GTCTCGTGTCTACCTC	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	81136924	81136924	T	G	macrophage	3	GTCGGGTAGTTCCACA	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr10	93482249	93482249	G	A	granulocytopoietic_cell	3	ACATACGGTGCGCTTG	granulocytopoietic_cell	G	4
-1-M-62	10X_P5_10	chr10	93482249	93482249	G	A	granulocytopoietic_cell	3	TGAGAGGGTTCAGTAC	granulocytopoietic_cell	G	3
-1-M-62	10X_P5_10	chr10	93482249	93482249	G	A	granulocytopoietic_cell	3	CGCTTCAGTCCAGTTA	granulocytopoietic_cell	G	4
-1-M-62	10X_P5_10	chr10	93482249	93482249	G	A	granulocytopoietic_cell	3	ACGTCAATCGGCGGTT	granulocytopoietic_cell	G	5
-1-M-62	10X_P5_10	chr10	93482249	93482249	G	A	granulocytopoietic_cell	3	AGGCCGTAGCCTATGT	granulocytopoietic_cell	G	3
-1-M-62	10X_P5_10	chr10	93482249	93482249	G	A	granulocytopoietic_cell	3	CCTTACGTCATTGCCC	granulocytopoietic_cell	G	2
-1-M-62	10X_P5_10	chr10	93482249	93482249	G	A	granulocytopoietic_cell	3	TGGTTCCCACGTTGGC	granulocytopoietic_cell	G	2
-1-M-62	10X_P5_10	chr10	93482249	93482249	G	A	granulocytopoietic_cell	3	CGTCTACAGCGCCTCA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr10	93482249	93482249	G	A	granulocytopoietic_cell	3	CTCTAATAGTTTAGGA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr10	93482249	93482249	G	A	granulocytopoietic_cell	3	GATCGTAAGTGACTCT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr11	21316279	21316279	T	C	granulocytopoietic_cell	2	CGGAGTCAGTCGCCGT	granulocytopoietic_cell	T	4
-1-M-62	10X_P5_10	chr11	21316279	21316279	T	C	granulocytopoietic_cell	2	CATCAGACATCTACGA	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr11	21316279	21316279	T	C	granulocytopoietic_cell	2	TCACAAGAGATGCCTT	granulocytopoietic_cell	T	4
-1-M-62	10X_P5_10	chr11	21316279	21316279	T	C	granulocytopoietic_cell	2	TATTACCAGGTGATAT	granulocytopoietic_cell	C	5
-1-M-62	10X_P5_10	chr11	21316279	21316279	T	C	granulocytopoietic_cell	2	GGACATTAGAGACTTA	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr11	21316279	21316279	T	C	granulocytopoietic_cell	2	TACTCGCAGTCCCACG	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr11	21316279	21316279	T	C	granulocytopoietic_cell	2	TCGGTAATCCAAGCCG	granulocytopoietic_cell	T	3
-1-M-62	10X_P5_10	chr11	21316279	21316279	T	C	granulocytopoietic_cell	2	CCAGCGAGTGTTGAGG	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr11	21316279	21316279	T	C	granulocytopoietic_cell	2	TGCTACCTCCTTAATC	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr11	21316279	21316279	T	C	granulocytopoietic_cell	2	TGAAAGAGTGTTAAGA	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr11	21316279	21316279	T	C	granulocytopoietic_cell	2	ACTATCTAGTGGAGAA	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr11	21316279	21316279	T	C	granulocytopoietic_cell	2	GTCACAATCACCTCGT	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr11	21316279	21316279	T	C	granulocytopoietic_cell	2	CTCGGAGAGGCTAGAC	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr11	21316279	21316279	T	C	granulocytopoietic_cell	2	GGACATTAGGACAGCT	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr11	58189199	58189199	T	C	hematopoietic_precursor_cell	2	AGGGAGTGTTTGACAC	granulocytopoietic_cell	T	4
-1-M-62	10X_P5_10	chr11	58189199	58189199	T	C	hematopoietic_precursor_cell	2	GGCAATTTCAGTTAGC	granulocytopoietic_cell	T	11
-1-M-62	10X_P5_10	chr11	58189199	58189199	T	C	hematopoietic_precursor_cell	2	TACTCGCAGTCCCACG	granulocytopoietic_cell	T	3
-1-M-62	10X_P5_10	chr11	58189199	58189199	T	C	hematopoietic_precursor_cell	2	TGCCAAAAGGGCTTGA	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr11	58189199	58189199	T	C	hematopoietic_precursor_cell	2	CCTAGCTTCTTCGAGA	granulocytopoietic_cell	T	3
-1-M-62	10X_P5_10	chr11	58189199	58189199	T	C	hematopoietic_precursor_cell	2	CAAGGCCAGTGCGATG	granulocytopoietic_cell	T	4
-1-M-62	10X_P5_10	chr11	59199562	59199562	T	C	granulocyte	3	CGGACACAGAGACGAA	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr11	59199562	59199562	T	C	granulocyte	3	TGAGAGGGTTCAGTAC	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr11	59199562	59199562	T	C	granulocyte	3	ACTGTCCCACTCTGTC	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr11	59199562	59199562	T	C	granulocyte	3	CATCGAAGTGCCTGCA	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr11	59199562	59199562	T	C	granulocyte	3	TGAAAGAGTGTTAAGA	granulocytopoietic_cell	T	4
-1-M-62	10X_P5_10	chr11	59199562	59199562	T	C	granulocyte	3	TCGGTAATCCAAGCCG	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr11	59199562	59199562	T	C	granulocyte	3	GTCACAAGTAAACCTC	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr11	59199562	59199562	T	C	granulocyte	3	CGTCTACAGCGCCTCA	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr11	59199562	59199562	T	C	granulocyte	3	ACATACGGTGCGCTTG	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr11	59199562	59199562	T	C	granulocyte	3	GCATGTAAGTCATCCA	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr11	59199562	59199562	T	C	granulocyte	3	AAACGGGGTAGAGGAA	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	CAGCAGCAGGTCGGAT	granulocytopoietic_cell	T	5
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	AGATCTGCAAGAGGCT	granulocytopoietic_cell	T	7
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	AGGCCGTCAGCTTCGG	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	CTGATCCAGGTGTTAA	granulocytopoietic_cell	T	23
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	GAAATGAAGCTGTTCA	granulocytopoietic_cell	T	9
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	GAGGTGAAGGCAATTA	granulocytopoietic_cell	T	9
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	TATCTCAAGGGATCTG	granulocytopoietic_cell	T	9
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	CACCAGGAGTGGGTTG	granulocytopoietic_cell	T	6
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	GCATGATGTAGCTCCG	granulocytopoietic_cell	T	7
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	ACACCGGGTTGGAGGT	granulocytopoietic_cell	T	8
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	CAACTAGTCCTGCCAT	granulocytopoietic_cell	T	4
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	CCTAGCTCATATGCTG	granulocytopoietic_cell	T	11
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	CTCTAATAGGATGTAT	granulocytopoietic_cell	T	13
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	GCAGCCAGTAGGACAC	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	GCATACAGTGGCCCTA	granulocytopoietic_cell	T	6
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	GGGTCTGAGACGACGT	granulocytopoietic_cell	T	14
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	GGAGCAAAGGAATGGA	granulocytopoietic_cell	T	3
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	CGTGTAATCTAACGGT	granulocytopoietic_cell	T	3
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	CTCATTATCCGCGTTT	granulocytopoietic_cell	T	3
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	CTTACCGCAGACGCTC	granulocytopoietic_cell	T	3
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	GCATGTAAGACTGGGT	granulocytopoietic_cell	T	4
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	GTCAAGTCAGGGCATA	granulocytopoietic_cell	T	10
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	TACTCATAGACTTTCG	granulocytopoietic_cell	T	8
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	TATTACCAGGTGATAT	granulocytopoietic_cell	T	3
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	CGGCTAGAGCCACGTC	granulocytopoietic_cell	T	6
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	CGGGTCAAGCGATGAC	granulocytopoietic_cell	T	4
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	TGCACCTAGACACGAC	granulocytopoietic_cell	T	5
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	TGCGGGTCAGGCTCAC	granulocytopoietic_cell	T	4
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	AACTCAGGTCAGAAGC	granulocytopoietic_cell	T	9
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	GATCAGTAGTGATCGG	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	ACCAGTATCCCACTTG	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	TACGGATAGACTCGGA	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	ATTATCCTCATTATCC	granulocytopoietic_cell	T	6
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	CATCGGGAGACACTAA	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	TCACGAATCCTGCCAT	granulocytopoietic_cell	T	4
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	GACTAACGTGAGCGAT	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	TGAAAGAGTGTTAAGA	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	GTCTCGTTCGTAGGAG	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	TACTCGCAGTCCCACG	granulocytopoietic_cell	T	4
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	ACTTTCATCGCAAACT	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	CCAGCGAGTGTTGAGG	granulocytopoietic_cell	T	3
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	GTGCGGTCAAGTCATC	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	CTAACTTGTTCAGCGC	granulocytopoietic_cell	T	3
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	GTATCTTAGATCTGAA	granulocytopoietic_cell	T	12
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	CTTGGCTGTTAAGACA	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	AGCTTGATCGGCTTGG	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	GTCGTAACAGCCTTGG	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	CTTAGGAGTGTTCGAT	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	CATCAGAAGGCAAAGA	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	ATGTGTGGTTCCACAA	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	GTTCATTTCTCAAGTG	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	CAAGATCGTATAAACG	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	GGACGTCAGCACACAG	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	AAGGCAGTCATTTGGG	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	CTCGAGGAGAGCTGCA	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	GGGATGAAGCTGATAA	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	TCGCGAGTCGCCAAAT	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr11	85038173	85038173	T	C	naive_T_cell	2	GTGAAGGCAGTATCTG	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr12	4956839	4956839	A	G	granulocytopoietic_cell	2	GCATACAGTGGCCCTA	granulocytopoietic_cell	A	4
-1-M-62	10X_P5_10	chr12	4956839	4956839	A	G	granulocytopoietic_cell	2	AACTTTCCACATAACC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr12	4956839	4956839	A	G	granulocytopoietic_cell	2	CAAGAAAGTAACGTTC	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr12	4956839	4956839	A	G	granulocytopoietic_cell	2	CTTCTCTTCCTAAGTG	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr12	4956839	4956839	A	G	granulocytopoietic_cell	2	GTACGTATCGCCTGAG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr12	4956839	4956839	A	G	granulocytopoietic_cell	2	TTCTTAGGTATATCCG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr12	4956839	4956839	A	G	granulocytopoietic_cell	2	GAGGTGACACCAACCG	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr12	4956839	4956839	A	G	granulocytopoietic_cell	2	AGTCTTTGTAAACACA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr12	4956839	4956839	A	G	granulocytopoietic_cell	2	GTATCTTAGATCTGAA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr12	4956839	4956839	A	G	granulocytopoietic_cell	2	CTACATTTCAAAGTAG	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr12	4956839	4956839	A	G	granulocytopoietic_cell	2	AAAGTAGTCAAAGTAG	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr12	4956839	4956839	A	G	granulocytopoietic_cell	2	TTGACTTGTTCAGCGC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr12	4956839	4956839	A	G	granulocytopoietic_cell	2	ACATGGTTCATAACCG	granulocytopoietic_cell	G	3
-1-M-62	10X_P5_10	chr12	4956839	4956839	A	G	granulocytopoietic_cell	2	ACTATCTAGTGGAGAA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr12	4956839	4956839	A	G	granulocytopoietic_cell	2	GCATGATCATTTCAGG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr12	4956839	4956839	A	G	granulocytopoietic_cell	2	AGTCTTTGTAAACACA	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr12	102866805	102866805	A	T	macrophage	3	ATCATCTCATGAAGTA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr12	102866805	102866805	A	T	macrophage	3	GAGGTGAGTCCGAACC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr12	102866805	102866805	A	T	macrophage	3	CGAACATGTTAAGGGC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr12	102866805	102866805	A	T	macrophage	3	TGGCCAGCAAGACACG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr12	102866805	102866805	A	T	macrophage	3	AACTGGTTCATTGCCC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr13	49544816	49544816	C	T	erythroblast	2	CTCGAGGAGAGCTGCA	granulocytopoietic_cell	C	3
-1-M-62	10X_P5_10	chr13	49544816	49544816	C	T	erythroblast	2	CGGGTCAAGCGATGAC	granulocytopoietic_cell	C	6
-1-M-62	10X_P5_10	chr13	49544816	49544816	C	T	erythroblast	2	GTGCATACAAGCCCAC	granulocytopoietic_cell	C	3
-1-M-62	10X_P5_10	chr13	49544816	49544816	C	T	erythroblast	2	ATTCTACAGCCGTCGT	granulocytopoietic_cell	C	2
-1-M-62	10X_P5_10	chr13	49544816	49544816	C	T	erythroblast	2	AACTCAGGTCAGAAGC	granulocytopoietic_cell	C	3
-1-M-62	10X_P5_10	chr13	49544816	49544816	C	T	erythroblast	2	ACTTTCATCGCAAACT	granulocytopoietic_cell	C	3
-1-M-62	10X_P5_10	chr13	49544816	49544816	C	T	erythroblast	2	TACCTATCACCATCCT	granulocytopoietic_cell	C	5
-1-M-62	10X_P5_10	chr13	49544816	49544816	C	T	erythroblast	2	CATCGGGAGACACTAA	granulocytopoietic_cell	C	3
-1-M-62	10X_P5_10	chr13	49544816	49544816	C	T	erythroblast	2	CGCTTCAGTCCAGTTA	granulocytopoietic_cell	C	3
-1-M-62	10X_P5_10	chr13	49544816	49544816	C	T	erythroblast	2	ATTCTACCAACGATCT	granulocytopoietic_cell	C	3
-1-M-62	10X_P5_10	chr13	49544816	49544816	C	T	erythroblast	2	AAAGTAGTCAAAGTAG	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr13	49544816	49544816	C	T	erythroblast	2	GTACTCCAGGTGCAAC	granulocytopoietic_cell	C	3
-1-M-62	10X_P5_10	chr13	49544816	49544816	C	T	erythroblast	2	GTGAAGGCAGTATCTG	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr13	49544816	49544816	C	T	erythroblast	2	CACAGGCTCAGCACAT	granulocytopoietic_cell	C	4
-1-M-62	10X_P5_10	chr13	49544816	49544816	C	T	erythroblast	2	GGAACTTCAGACGCCT	granulocytopoietic_cell	C	7
-1-M-62	10X_P5_10	chr13	49544816	49544816	C	T	erythroblast	2	TGGTTAGGTCTTCGTC	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr13	49544816	49544816	C	T	erythroblast	2	GCATGTAAGTCATCCA	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr13	49544816	49544816	C	T	erythroblast	2	CACAGGCAGGTACTCT	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr13	49544816	49544816	C	T	erythroblast	2	CTTCTCTAGACCTTTG	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr13	49544816	49544816	C	T	erythroblast	2	GCTTCCAAGGACTGGT	granulocytopoietic_cell	C	2
-1-M-62	10X_P5_10	chr13	49544816	49544816	C	T	erythroblast	2	GACAGAGGTTGGTAAA	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr13	49544816	49544816	C	T	erythroblast	2	CTCGAGGAGCTCCTCT	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr13	49544816	49544816	C	T	erythroblast	2	GAAATGAAGCTGTTCA	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr13	49544816	49544816	C	T	erythroblast	2	TAAGCGTAGGCCCTTG	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	AAGCCGCAGCTAAACA	granulocytopoietic_cell	A	7
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	GGCAATTTCAGTTAGC	granulocytopoietic_cell	A	19
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	CAAGAAAGTAACGTTC	granulocytopoietic_cell	A	6
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	CTCGGAGGTCCGAACC	granulocytopoietic_cell	A	5
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	GTACGTAGTTCAGCGC	granulocytopoietic_cell	A	7
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	ATTCTACAGCCGTCGT	granulocytopoietic_cell	A	4
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	TACTCATAGACTTTCG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	ACAGCTAAGATGGGTC	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	ACTATCTCACACCGAC	granulocytopoietic_cell	A	6
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	GACAGAGGTTGGTAAA	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	TCTTCGGTCCGCGGTA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	TGACGGCGTTACCAGT	granulocytopoietic_cell	A	8
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	CTTCTCTTCCTAAGTG	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	GCAAACTGTACCAGTT	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	TCAGGATAGCTCCTCT	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	ATTGGACTCAGAAATG	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	CATCGAAGTGCCTGCA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	GCTGCGAAGATGAGAG	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	TTTCCTCAGATGTGGC	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	GATCGTAAGTGACTCT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	CGTAGCGGTCTCATCC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	CTGAAACCAATCTGCA	granulocytopoietic_cell	A	6
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	CTTAACTTCTGTCTCG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	ACTTTCATCCTATGTT	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	CGATGGCGTAATCACC	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	AAGACCTTCCGAATGT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	GAGGTGACACCAACCG	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	AGTAGTCCATTGGTAC	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	GTAGGCCAGAAGGGTA	granulocytopoietic_cell	A	4
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	AGGGAGTGTTTGACAC	granulocytopoietic_cell	A	4
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	CAACCAATCCGCGGTA	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	CGAGCACAGCCACGTC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	AGGGTGACAAGAGGCT	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	ATAAGAGCAATGACCT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	AGAATAGTCGGTTCGG	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	CCTAGCTTCTTCGAGA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	TCTGGAAAGAGGTACC	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	TGGTTAGTCTCGTATT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	AGGGTGAAGGTGCTTT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	CATCGAATCCTAAGTG	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	GGGCATCTCACTGGGC	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr14	74909844	74909844	A	G	megakaryocyte-erythroid_progenitor_cell	2	TACGGTAAGATGCCAG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr14	78653230	78653230	G	A	naive_T_cell	2	AGTGGGATCGGTTCGG	granulocytopoietic_cell	G	3
-1-M-62	10X_P5_10	chr14	78653230	78653230	G	A	naive_T_cell	2	CACATTTAGAGCAATT	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr14	78653230	78653230	G	A	naive_T_cell	2	CACCTTGGTCCGCTGA	granulocytopoietic_cell	G	8
-1-M-62	10X_P5_10	chr14	78653230	78653230	G	A	naive_T_cell	2	CCGGTAGTCTTTACAC	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr14	78653230	78653230	G	A	naive_T_cell	2	TCGGTAATCGCGTTTC	granulocytopoietic_cell	G	2
-1-M-62	10X_P5_10	chr14	78653230	78653230	G	A	naive_T_cell	2	CTTAACTTCTGTCTCG	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr14	78653230	78653230	G	A	naive_T_cell	2	GAACGGAGTGCCTTGG	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr14	78653230	78653230	G	A	naive_T_cell	2	TGACGGCGTTACCAGT	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr14	78653230	78653230	G	A	naive_T_cell	2	ACTGTCCAGCGTGTCC	granulocytopoietic_cell	G	2
-1-M-62	10X_P5_10	chr15	86019605	86019605	A	G	naive_T_cell	2	ACCAGTATCCCACTTG	granulocytopoietic_cell	A	5
-1-M-62	10X_P5_10	chr15	86019605	86019605	A	G	naive_T_cell	2	ATAAGAGTCGATCCCT	granulocytopoietic_cell	A	8
-1-M-62	10X_P5_10	chr15	86019605	86019605	A	G	naive_T_cell	2	CAAGGCCCAGCGAACA	granulocytopoietic_cell	A	5
-1-M-62	10X_P5_10	chr15	86019605	86019605	A	G	naive_T_cell	2	GTCACAAGTAAACCTC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr16	64823848	64823848	A	G	granulocytopoietic_cell	2	CGGTTAAAGAACAATC	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr16	64823848	64823848	A	G	granulocytopoietic_cell	2	CATGCCTGTTACGCGC	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr16	64823848	64823848	A	G	granulocytopoietic_cell	2	GTTAAGCAGTCAATAG	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr16	64823848	64823848	A	G	granulocytopoietic_cell	2	CGGTTAAAGAACAATC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr16	64823848	64823848	A	G	granulocytopoietic_cell	2	CACTCCACAAAGGAAG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr16	64823848	64823848	A	G	granulocytopoietic_cell	2	CGACCTTGTAAGAGGA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr16	64823848	64823848	A	G	granulocytopoietic_cell	2	CAGAGAGTCTTGCATT	granulocytopoietic_cell	G	2
-1-M-62	10X_P5_10	chr16	64823848	64823848	A	G	granulocytopoietic_cell	2	TTCTTAGGTATATCCG	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr17	10216516	10216516	A	G	granulocytopoietic_cell	2	CATCGGGAGACACTAA	granulocytopoietic_cell	A	4
-1-M-62	10X_P5_10	chr17	10216516	10216516	A	G	granulocytopoietic_cell	2	GCGACCACATGCAATC	granulocytopoietic_cell	A	8
-1-M-62	10X_P5_10	chr17	10216516	10216516	A	G	granulocytopoietic_cell	2	GAGGTGAGTCCGAACC	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr17	10216516	10216516	A	G	granulocytopoietic_cell	2	CTGAAACTCAACCAAC	granulocytopoietic_cell	A	4
-1-M-62	10X_P5_10	chr17	10216516	10216516	A	G	granulocytopoietic_cell	2	CTGTGCTGTGGGTCAA	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr17	10216516	10216516	A	G	granulocytopoietic_cell	2	CCTAGCTTCTTCGAGA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr17	10216516	10216516	A	G	granulocytopoietic_cell	2	CTAGTGAGTTCGCGAC	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr17	10216516	10216516	A	G	granulocytopoietic_cell	2	GTCTCGTTCGTAGGAG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr17	10216516	10216516	A	G	granulocytopoietic_cell	2	AAAGTAGTCAAAGTAG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr17	10216516	10216516	A	G	granulocytopoietic_cell	2	CACCTTGGTCCGCTGA	granulocytopoietic_cell	G	2
-1-M-62	10X_P5_10	chr17	10216516	10216516	A	G	granulocytopoietic_cell	2	CGAGCACCAGGACGTA	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr18	31796444	31796444	T	C	macrophage	3	CCTACACAGATGGGTC	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr18	31796444	31796444	T	C	macrophage	3	CTTAACTTCTGTCTCG	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr18	31796444	31796444	T	C	macrophage	3	GTATCTTAGATCTGAA	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr18	31796444	31796444	T	C	macrophage	3	CAAGTTGGTCCTCTTG	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr18	31796444	31796444	T	C	macrophage	3	AGCGTATCAGCTCGAC	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr18	31796444	31796444	T	C	macrophage	3	TGGTTAGGTCTTCGTC	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr18	31796444	31796444	T	C	macrophage	3	TGCCAAAAGGGCTTGA	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr18	31796444	31796444	T	C	macrophage	3	GTCGGGTAGTTCCACA	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr18	31796444	31796444	T	C	macrophage	3	ACTATCTCACACCGAC	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr18	31796444	31796444	T	C	macrophage	3	CAGCCGAAGCCACGTC	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr18	31796444	31796444	T	C	macrophage	3	CATGCCTGTTACGCGC	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr18	31796444	31796444	T	C	macrophage	3	TCGCGTTCATGGTTGT	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr18	31796444	31796444	T	C	macrophage	3	TGTGTTTGTCGCGTGT	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr18	31796444	31796444	T	C	macrophage	3	TACTTGTAGATGTTAG	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr18	31796444	31796444	T	C	macrophage	3	TAAGCGTAGGCCCTTG	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr18	31796444	31796444	T	C	macrophage	3	GCAAACTAGGCAGGTT	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr18	31796444	31796444	T	C	macrophage	3	TGGCTGGGTCGCATAT	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr18	31796444	31796444	T	C	macrophage	3	ACGTCAAGTAAATGAC	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr18	31796444	31796444	T	C	macrophage	3	CTCTAATGTTAAAGAC	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr18	31796444	31796444	T	C	macrophage	3	ATAAGAGTCGATCCCT	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr18	31796444	31796444	T	C	macrophage	3	CAGCAGCAGGTCGGAT	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr18	31796444	31796444	T	C	macrophage	3	GAGGTGACACCAACCG	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr18	31796444	31796444	T	C	macrophage	3	GCATGATCATTTCAGG	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr18	31796444	31796444	T	C	macrophage	3	GTCTCGTTCGTAGGAG	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr18	31796444	31796444	T	C	macrophage	3	AACTTTCCACATAACC	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr18	31796444	31796444	T	C	macrophage	3	CACAGGCTCAGCACAT	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr18	31796444	31796444	T	C	macrophage	3	CTTCTCTGTCTCGTTC	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr18	31796444	31796444	T	C	macrophage	3	GGGTCTGCAATGACCT	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr18	31796444	31796444	T	C	macrophage	3	GACTACAGTCTAGAGG	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr18	31796444	31796444	T	C	macrophage	3	AGTGGGATCGGTTCGG	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr18	31796444	31796444	T	C	macrophage	3	GTCACAAGTAAACCTC	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr18	56921198	56921198	A	G	granulocytopoietic_cell	2	GTATTCTTCTTGCATT	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr18	56921198	56921198	A	G	granulocytopoietic_cell	2	GCATGTAAGACTGGGT	granulocytopoietic_cell	A	4
-1-M-62	10X_P5_10	chr18	56921198	56921198	A	G	granulocytopoietic_cell	2	AACTCCCTCTACTATC	granulocytopoietic_cell	A	4
-1-M-62	10X_P5_10	chr18	56921198	56921198	A	G	granulocytopoietic_cell	2	GAAATGAAGCTGTTCA	granulocytopoietic_cell	A	8
-1-M-62	10X_P5_10	chr18	56921198	56921198	A	G	granulocytopoietic_cell	2	CGGTTAAGTTCTCATT	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr18	56921198	56921198	A	G	granulocytopoietic_cell	2	TATCTCAAGGGATCTG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr18	56921198	56921198	A	G	granulocytopoietic_cell	2	GCTTCCAAGGACTGGT	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr18	56921198	56921198	A	G	granulocytopoietic_cell	2	GTTCGGGTCATGTCCC	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr18	56921198	56921198	A	G	granulocytopoietic_cell	2	TCTTTCCAGACCTAGG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr18	56921198	56921198	A	G	granulocytopoietic_cell	2	AACTCTTTCGGTGTCG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr18	56921198	56921198	A	G	granulocytopoietic_cell	2	GAATGAAGTCCGTTAA	granulocytopoietic_cell	G	2
-1-M-62	10X_P5_10	chr19	5802672	5802672	G	C	granulocytopoietic_cell	3	CTACGTCTCGGTCTAA	granulocytopoietic_cell	G	2
-1-M-62	10X_P5_10	chr19	5802672	5802672	G	C	granulocytopoietic_cell	3	TAAGAGAGTGCAACTT	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr19	5802672	5802672	G	C	granulocytopoietic_cell	3	AAAGTAGGTGCACTTA	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr19	5802672	5802672	G	C	granulocytopoietic_cell	3	GAGGTGAAGGCAATTA	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr19	5802672	5802672	G	C	granulocytopoietic_cell	3	CCAGCGACATATGCTG	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr19	5802672	5802672	G	C	granulocytopoietic_cell	3	CTTGGCTGTTAAGACA	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr19	5802672	5802672	G	C	granulocytopoietic_cell	3	ACGATGTAGAGGTTGC	granulocytopoietic_cell	G	3
-1-M-62	10X_P5_10	chr19	5802672	5802672	G	C	granulocytopoietic_cell	3	CCACTACAGTGTACGG	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr19	11393010	11393010	A	G	monocyte	6	ATCCACCCACTTCTGC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr19	11393010	11393010	A	G	monocyte	6	GTACGTAGTTCAGCGC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr19	11393010	11393010	A	G	monocyte	6	ACTATCTCACACCGAC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr19	11393010	11393010	A	G	monocyte	6	GGACATTAGAGACTTA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr2	43829510	43829510	A	G	granulocytopoietic_cell	2	CCTACACAGATGGGTC	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr2	43829510	43829510	A	G	granulocytopoietic_cell	2	AGGCCGTAGCCTATGT	granulocytopoietic_cell	G	4
-1-M-62	10X_P5_10	chr2	43829510	43829510	A	G	granulocytopoietic_cell	2	GAAGCAGCACTGTTAG	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr2	43829510	43829510	A	G	granulocytopoietic_cell	2	ATTGGTGAGGCAGGTT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr2	43829510	43829510	A	G	granulocytopoietic_cell	2	GACAGAGTCTGACCTC	granulocytopoietic_cell	G	3
-1-M-62	10X_P5_10	chr2	43829510	43829510	A	G	granulocytopoietic_cell	2	CTCTAATGTTAAAGAC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr2	43829510	43829510	A	G	granulocytopoietic_cell	2	AAGACCTTCCGAATGT	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr2	43829510	43829510	A	G	granulocytopoietic_cell	2	GTACGTATCGCCTGAG	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr2	43829510	43829510	A	G	granulocytopoietic_cell	2	TATCTCAGTAGTGAAT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr2	43829510	43829510	A	G	granulocytopoietic_cell	2	AGAATAGTCGGTTCGG	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr2	43829510	43829510	A	G	granulocytopoietic_cell	2	AGTAGTCCATTGGTAC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr2	43829510	43829510	A	G	granulocytopoietic_cell	2	GACTACAGTCTAGAGG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr2	43829510	43829510	A	G	granulocytopoietic_cell	2	TTCTTAGGTATATCCG	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr2	43829510	43829510	A	G	granulocytopoietic_cell	2	GGGTCTGCAATGACCT	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr2	48974709	48974709	T	C	granulocyte	2	CAAGATCGTATAAACG	granulocytopoietic_cell	T	5
-1-M-62	10X_P5_10	chr2	48974709	48974709	T	C	granulocyte	2	ATAAGAGTCGATCCCT	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr2	48974709	48974709	T	C	granulocyte	2	CTTAACTTCTGTCTCG	granulocytopoietic_cell	T	5
-1-M-62	10X_P5_10	chr2	48974709	48974709	T	C	granulocyte	2	CTTGGCTGTTAAGACA	granulocytopoietic_cell	T	6
-1-M-62	10X_P5_10	chr2	48974709	48974709	T	C	granulocyte	2	AGAATAGTCGGTTCGG	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr2	48974709	48974709	T	C	granulocyte	2	CACCAGGAGTGGGTTG	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr2	48974709	48974709	T	C	granulocyte	2	CCACTACCAAGACGTG	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr2	48974709	48974709	T	C	granulocyte	2	CCCAGTTGTCGAACAG	granulocytopoietic_cell	T	3
-1-M-62	10X_P5_10	chr2	48974709	48974709	T	C	granulocyte	2	CTCGAGGAGCTCCTCT	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	AAACGGGGTAGAGGAA	granulocytopoietic_cell	C	5
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	CGAACATGTTAAGGGC	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	ACCAGTATCCCACTTG	granulocytopoietic_cell	C	2
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	GATCGTAAGTGACTCT	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	CCAGCGACATATGCTG	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	GGTATTGTCGTTACAG	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	GTCGGGTAGTTCCACA	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	AGGGAGTGTTTGACAC	granulocytopoietic_cell	C	2
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	CATCGGGAGACACTAA	granulocytopoietic_cell	C	2
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	GAAATGAAGCTGTTCA	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	GGACGTCGTGCGATAG	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	CACAGGCTCAGCACAT	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	GACACGCAGATCCCAT	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	TTTGCGCCAGTTCATG	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	TTCTTAGGTATATCCG	granulocytopoietic_cell	C	2
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	CGATGGCCAGGCTGAA	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	TCAATCTCATAAAGGT	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	TGGTTCCTCAGGCGAA	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	CCTTACGCAATAGAGT	granulocytopoietic_cell	C	2
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	TGGCCAGCAAGACACG	granulocytopoietic_cell	C	2
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	ACGTCAAGTAAATGAC	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	CAGCGACCAATCAGAA	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	TGAGGGACATGCCTAA	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	TGCACCTAGACACGAC	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	TACTTGTAGATGTTAG	granulocytopoietic_cell	C	4
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	CTTCTCTGTCTCGTTC	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	GCAGTTACACGTTGGC	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	GGCAATTTCAGTTAGC	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	AACTCTTTCGGTGTCG	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	GCTGGGTTCCAGTAGT	granulocytopoietic_cell	C	2
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	AGAGTGGGTTGGTTTG	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	TGAGCCGCAAACTGTC	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	CGTCTACCAGCTCCGA	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	CATCAAGTCAGCTGGC	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	CGGTTAAGTTCTCATT	granulocytopoietic_cell	C	2
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	AAGCCGCAGCTAAACA	granulocytopoietic_cell	C	2
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	CCTAGCTCATATGCTG	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	TCAGGATAGCTCCTCT	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	TTGGAACAGCGTCAAG	granulocytopoietic_cell	C	2
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	CAAGTTGGTCCTCTTG	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	TCTTCGGTCCGCGGTA	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	GCAAACTTCCGCATCT	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	GCAAACTAGGCAGGTT	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	CACATTTAGAGCAATT	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	ACATACGGTGCGCTTG	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	AGTCTTTGTAAACACA	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	CGCTTCAGTCCAGTTA	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	CCTAGCTTCTTCGAGA	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	TTAACTCCAATGGAGC	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	CTCGAGGAGAGCTGCA	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	ATCATCTCATGAAGTA	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	CACTCCACAAAGGAAG	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	TGGTTAGGTCTTCGTC	granulocytopoietic_cell	C	2
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	GGGATGAAGCTGATAA	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	AGAATAGTCGGTTCGG	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	CAGATCAAGGCCCTTG	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	CATTATCGTCACACGC	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	GACAGAGCACCGGAAA	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	GCATGTAAGACTGGGT	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	73909284	73909284	C	T	naive_T_cell	3	GTCTCGTTCGTAGGAG	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	119609836	119609836	T	C	granulocytopoietic_cell	5	AGCTTGATCGGCTTGG	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	119609836	119609836	T	C	granulocytopoietic_cell	5	CTCGAGGAGAGCTGCA	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr2	119609836	119609836	T	C	granulocytopoietic_cell	5	GATCAGTAGTGATCGG	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr2	119609836	119609836	T	C	granulocytopoietic_cell	5	GACAGAGGTTGGTAAA	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr2	119609836	119609836	T	C	granulocytopoietic_cell	5	GCATACAGTGGCCCTA	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr2	119609836	119609836	T	C	granulocytopoietic_cell	5	CTAACTTGTTCAGCGC	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr2	119609836	119609836	T	C	granulocytopoietic_cell	5	TCAGCTCAGAGCCCAA	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	119609836	119609836	T	C	granulocytopoietic_cell	5	TCTTTCCAGACCTAGG	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr2	119609836	119609836	T	C	granulocytopoietic_cell	5	AGAATAGTCGGTTCGG	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr2	119609836	119609836	T	C	granulocytopoietic_cell	5	TATCTCAAGGGATCTG	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	119609836	119609836	T	C	granulocytopoietic_cell	5	TACGGTATCTAACTGG	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr2	119609836	119609836	T	C	granulocytopoietic_cell	5	TGGCGCACATTCCTGC	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr2	119609836	119609836	T	C	granulocytopoietic_cell	5	CGGGTCAAGCGATGAC	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr2	119609836	119609836	T	C	granulocytopoietic_cell	5	CGATGGCCACAGCCCA	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	119609836	119609836	T	C	granulocytopoietic_cell	5	TACAGTGTCGTGACAT	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	151720301	151720301	A	G	granulocytopoietic_cell	2	GCAAACTTCCGCATCT	granulocytopoietic_cell	G	2
-1-M-62	10X_P5_10	chr2	151720301	151720301	A	G	granulocytopoietic_cell	2	TCTGAGATCAACACTG	granulocytopoietic_cell	A	9
-1-M-62	10X_P5_10	chr2	151720301	151720301	A	G	granulocytopoietic_cell	2	CATTATCGTCACACGC	granulocytopoietic_cell	A	4
-1-M-62	10X_P5_10	chr2	151720301	151720301	A	G	granulocytopoietic_cell	2	CTTGGCTGTTAAGACA	granulocytopoietic_cell	A	12
-1-M-62	10X_P5_10	chr2	151720301	151720301	A	G	granulocytopoietic_cell	2	CACCAGGAGTGGGTTG	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr2	151720301	151720301	A	G	granulocytopoietic_cell	2	CTCGAGGAGCTCCTCT	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr2	151720301	151720301	A	G	granulocytopoietic_cell	2	CGGCTAGAGCCACGTC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr2	151720301	151720301	A	G	granulocytopoietic_cell	2	CTCTACGCACGAAACG	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr2	151720301	151720301	A	G	granulocytopoietic_cell	2	CGTGAGCAGGCGTACA	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr2	151720301	151720301	A	G	granulocytopoietic_cell	2	CTTGGCTGTTAAGACA	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr2	151720301	151720301	A	G	granulocytopoietic_cell	2	TACAGTGTCGTGACAT	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr2	163635040	163635040	C	T	granulocytopoietic_cell	2	CAGAATCAGCCACCTG	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr2	163635040	163635040	C	T	granulocytopoietic_cell	2	GACGTGCTCGGTGTTA	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr2	163635040	163635040	C	T	granulocytopoietic_cell	2	ACACCGGTCTGTCAAG	granulocytopoietic_cell	C	3
-1-M-62	10X_P5_10	chr2	163635040	163635040	C	T	granulocytopoietic_cell	2	CCCAGTTGTCGAACAG	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	163635040	163635040	C	T	granulocytopoietic_cell	2	GCAAACTTCCGCATCT	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	163635040	163635040	C	T	granulocytopoietic_cell	2	TCTCATACAGCTCGAC	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	163635040	163635040	C	T	granulocytopoietic_cell	2	GCGACCACATGCAATC	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	163635040	163635040	C	T	granulocytopoietic_cell	2	AAAGTAGGTGCACTTA	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	163635040	163635040	C	T	granulocytopoietic_cell	2	TACGGATAGACTCGGA	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	166047296	166047296	C	T	granulocyte	2	GTACTTTCAGACAAAT	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	166047296	166047296	C	T	granulocyte	2	CACTCCACAAAGGAAG	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr2	166047296	166047296	C	T	granulocyte	2	CGCTTCAGTCCAGTTA	granulocytopoietic_cell	C	3
-1-M-62	10X_P5_10	chr2	166047296	166047296	C	T	granulocyte	2	ATCACGAGTGACCAAG	granulocytopoietic_cell	C	8
-1-M-62	10X_P5_10	chr2	166047296	166047296	C	T	granulocyte	2	CTTTGCGTCAACACAC	granulocytopoietic_cell	C	4
-1-M-62	10X_P5_10	chr2	166047296	166047296	C	T	granulocyte	2	CCCAGTTGTCGAACAG	granulocytopoietic_cell	C	3
-1-M-62	10X_P5_10	chr2	166047296	166047296	C	T	granulocyte	2	CACATTTAGAGCAATT	granulocytopoietic_cell	C	2
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	ACATGGTCAAGCGCTC	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	CAAGGCCAGTGCGATG	granulocytopoietic_cell	G	2
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	CTGAAACTCAACCAAC	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	GTGCATACAAGCCCAC	granulocytopoietic_cell	G	2
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	CGTCACTGTACCTACA	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	GTCGTAACAGCCTTGG	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	TAAACCGTCTATCCTA	granulocytopoietic_cell	G	2
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	ACTGTCCCACTCTGTC	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	ACCAGTATCCCACTTG	granulocytopoietic_cell	G	2
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	ACTGCTCAGTGCCAGA	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	CTACGTCTCGGTCTAA	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	CTCGAGGAGCTCCTCT	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	CTCTAATAGGATGTAT	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	CTCTAATGTTAAAGAC	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	CTTACCGCAGACGCTC	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	GGGATGAAGCTGATAA	granulocytopoietic_cell	G	2
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	GGGTCTGAGACGACGT	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	TCACAAGAGATGCCTT	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	TCGGTAATCAAACCGT	granulocytopoietic_cell	G	2
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	TAAGCGTAGGCCCTTG	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	TGCACCTAGACACGAC	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	GGCAATTTCAGTTAGC	granulocytopoietic_cell	G	3
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	TGACTAGCACCGAATT	granulocytopoietic_cell	G	2
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	AAACCTGGTGCAGTAG	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	ATTACTCTCTGGGCCA	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	TACGGATAGACTCGGA	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	AGCGTATCAGCTCGAC	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	CATCAAGTCAGCTGGC	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	CATCGGGAGACACTAA	granulocytopoietic_cell	G	3
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	CGCTTCAGTCCAGTTA	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	CTTCTCTAGACCTTTG	granulocytopoietic_cell	G	2
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	GACAGAGGTTGGTAAA	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	ACATGGTAGCCAACAG	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	CATGCCTGTTACGCGC	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	CATGGCGAGAATGTGT	granulocytopoietic_cell	G	2
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	GACACGCGTTCCTCCA	granulocytopoietic_cell	G	2
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	GACTAACGTGAGCGAT	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	AGGCCGTAGCCTATGT	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	CTGATCCAGGTGTTAA	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	TGGTTAGGTCTTCGTC	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	AGCGTATTCTACTTAC	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	CTGAAACCAATCTGCA	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	GGACGTCAGCACACAG	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	TTGACTTTCAGGCCCA	granulocytopoietic_cell	G	2
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	CTTAGGAGTGTTCGAT	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	CTTCTCTTCAACCATG	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	CTAACTTGTTCAGCGC	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	ACTATCTCACACCGAC	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	ACACCGGGTTGGAGGT	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	TGAGCCGCAAACTGTC	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	CGACCTTGTCACCTAA	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	AACTCTTTCGGTGTCG	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	CCCAGTTGTCGAACAG	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	ATCACGAGTGACCAAG	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	CGACCTTCACATGGGA	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	GATCAGTAGTGATCGG	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	AAAGTAGTCAAAGTAG	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	AGAATAGTCGGTTCGG	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	CTACATTTCTGCGGCA	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	TAAGAGAAGTGGCACA	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	GTATCTTAGATCTGAA	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	TGAAAGAGTGTTAAGA	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	ATGGGAGCAACACGCC	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	CAAGGCCCAGCGAACA	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	CAGCCGAAGCCACGTC	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	TGCCAAATCAACGAAA	granulocytopoietic_cell	G	2
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	CGGGTCAAGCGATGAC	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	TGTGTTTAGTTACCCA	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	TGTGGTACAGATAATG	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	TTGACTTGTTCAGCGC	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	TTCGAAGGTAGAGCTG	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	TGGTTCCTCAGGCGAA	granulocytopoietic_cell	G	2
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	CGGACACAGAGACGAA	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	GAAATGAAGCTGTTCA	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	GTCTCGTTCGTAGGAG	granulocytopoietic_cell	G	2
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	CGGCTAGAGCCACGTC	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	CGTCTACAGCGCCTCA	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	TTTATGCTCAGGCAAG	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	GCAGCCAGTAGGACAC	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	ACGATGTAGAGGTTGC	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	AGCGTATAGGCTAGGT	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	CTCATTATCCGCGTTT	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	TTCTCCTAGGCCATAG	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	CAACTAGTCCTGCCAT	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	GCGACCACATGCAATC	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	TGTGTTTTCTTGACGA	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	ATTCTACCAACGATCT	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	TAAGTGCGTTAAGATG	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	CCTAGCTTCTTCGAGA	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	GCGGGTTGTTAAGGGC	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	TACAGTGTCGTGACAT	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	TATTACCTCGGTTAAC	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	TGCCAAAAGGGCTTGA	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	GACGTGCTCGTTACGA	granulocytopoietic_cell	G	2
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	GCAAACTTCCGCATCT	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	GTTCGGGCACCGAATT	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	GACAGAGCACCGGAAA	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr3	105728678	105728678	G	A	monocyte	3	ACGTCAAGTAAATGAC	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr5	34575655	34575655	A	G	erythroblast	2	CTAACTTGTTCAGCGC	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr5	34575655	34575655	A	G	erythroblast	2	ACGGGTCGTCGACTGC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	34575655	34575655	A	G	erythroblast	2	AGTAGTCCATTGGTAC	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr5	34575655	34575655	A	G	erythroblast	2	CGACCTTCACATGGGA	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr5	34575655	34575655	A	G	erythroblast	2	TCGCGAGTCGCCAAAT	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr5	34575655	34575655	A	G	erythroblast	2	ATCATCTCATGAAGTA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	34575655	34575655	A	G	erythroblast	2	ATTCTACAGCCGTCGT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	CATGGCGTCAGTTTGG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	GCATGATCATTTCAGG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	TACTCGCAGTCCCACG	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	TTTATGCTCAGGCAAG	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	CATTCGCAGGGCACTA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	AGATCTGTCTAGCACA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	AGGCCGTCAGCTTCGG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	CCTAGCTCATATGCTG	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	ATTCTACAGCCGTCGT	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	AGTAGTCCATTGGTAC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	CACAGGCTCAGCACAT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	CAGAGAGTCTTGCATT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	CGGACACGTATGGTTC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	CTAACTTGTTCAGCGC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	CTTCTCTTCCTAAGTG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	GACAGAGCACCGGAAA	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	TACTTGTAGATGTTAG	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	TCTATTGCATCACCCT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	GTGCTTCCAGCCTTGG	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	TCAGCTCAGAGCCCAA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	GATCGTAAGTGACTCT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	TGTGTTTTCTTGACGA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	TTGGAACAGCGTCAAG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	AGCGTATTCTACTTAC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	CGAGCACAGCCACGTC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	GGCAATTTCAGTTAGC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	CAACCAATCGTACCGG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	ATGAGGGGTCGTGGCT	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	CATCAGACATCTACGA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	CTACGTCTCGGTCTAA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	TGCCCTAGTGCGCTTG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	TGTGTTTAGTTACCCA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	CCTAGCTTCTTCGAGA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	CGGACTGCACATCCAA	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	CTCGGAGGTCCGAACC	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	CGGGTCAAGCGATGAC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	CGCTTCAAGGTAGCCA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	TGCCAAAAGGGCTTGA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	ATTACTCTCTGGGCCA	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	ACATGGTAGCCAACAG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	CCAGCGACATATGCTG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	CGGCTAGAGCCACGTC	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	CTCGAGGAGCTCCTCT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	CTCTAATAGGATGTAT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	CTTGGCTGTTAAGACA	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	GATGCTAGTTCCATGA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	CACCACTAGCATGGCA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	GTCAAGTCACGCCAGT	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	CGTCTACAGCGCCTCA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	TGAGGGACATGCCTAA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	AGGGTGACAAGAGGCT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	CTGAAACCAATCTGCA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	TACGGTAAGATGCCAG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	ACTGAGTAGGTGCAAC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	ATTGGACTCAGAAATG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	AGAGCGACAGTATCTG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	CAACTAGTCCTGCCAT	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	GAAATGAAGCTGTTCA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	GCAAACTAGGCAGGTT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	GTCTCGTGTCTACCTC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	TATCTCAGTAGTGAAT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	GGACGTCAGCACACAG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	ACCAGTATCCCACTTG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	CATGGCGAGAATGTGT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	CTTCTCTAGACCTTTG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	TCACGAATCCTGCCAT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	GACACGCAGATCCCAT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	CGATGGCCACAGCCCA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	GAGGTGAGTCCGAACC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	GGGTCTGAGACGACGT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	GTGCATACAAGCCCAC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	GTCTCGTTCGTAGGAG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	TTTACTGCAGATTGCT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	CTCTACGCACGAAACG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	TGTGGTACAGATAATG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	ACGATGTAGAGGTTGC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	AGCGTATCAGCTCGAC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	CCTTACGCAATAGAGT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	GGGTCTGCAATGACCT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	GACAGAGGTTGGTAAA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	ACGCCGACAGTAACGG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	GTATCTTAGATCTGAA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	88783005	88783005	A	G	monocyte	4	CGTCACTGTACCTACA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	108071370	108071370	A	G	hematopoietic_precursor_cell	3	GATCGTAAGTGACTCT	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr5	108071370	108071370	A	G	hematopoietic_precursor_cell	3	TCAGCTCAGAGCCCAA	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr5	108071370	108071370	A	G	hematopoietic_precursor_cell	3	GTACTTTCAGACAAAT	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr5	108071370	108071370	A	G	hematopoietic_precursor_cell	3	GACAGAGTCTGACCTC	granulocytopoietic_cell	A	4
-1-M-62	10X_P5_10	chr5	108071370	108071370	A	G	hematopoietic_precursor_cell	3	TACTCATAGACTTTCG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	108071370	108071370	A	G	hematopoietic_precursor_cell	3	AGGGTGAAGGTGCTTT	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr5	108071370	108071370	A	G	hematopoietic_precursor_cell	3	ATGTGTGGTTCCACAA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr5	144160117	144160117	T	C	granulocyte	2	GTACGTAGTTCAGCGC	granulocytopoietic_cell	T	4
-1-M-62	10X_P5_10	chr5	144160117	144160117	T	C	granulocyte	2	TACTTGTAGATGTTAG	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr5	144160117	144160117	T	C	granulocyte	2	GTCACAAGTAAACCTC	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr5	144160117	144160117	T	C	granulocyte	2	ACCAGTATCCCACTTG	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr5	144160117	144160117	T	C	granulocyte	2	AGCTTGACAGTCAGCC	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr6	39202768	39202768	T	C	granulocytopoietic_cell	2	CCTTACGCATTCGACA	granulocytopoietic_cell	C	6
-1-M-62	10X_P5_10	chr6	39202768	39202768	T	C	granulocytopoietic_cell	2	TAAGAGAGTGCAACTT	granulocytopoietic_cell	T	6
-1-M-62	10X_P5_10	chr6	39202768	39202768	T	C	granulocytopoietic_cell	2	ACATACGGTGCGCTTG	granulocytopoietic_cell	T	5
-1-M-62	10X_P5_10	chr6	39202768	39202768	T	C	granulocytopoietic_cell	2	CATTCGCAGGGCACTA	granulocytopoietic_cell	T	4
-1-M-62	10X_P5_10	chr6	39202768	39202768	T	C	granulocytopoietic_cell	2	CTCACACGTACAGACG	granulocytopoietic_cell	T	4
-1-M-62	10X_P5_10	chr6	39202768	39202768	T	C	granulocytopoietic_cell	2	GTTTCTAGTAGCTAAA	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr6	39202768	39202768	T	C	granulocytopoietic_cell	2	CTGATCCAGGTGTTAA	granulocytopoietic_cell	C	2
-1-M-62	10X_P5_10	chr6	39202768	39202768	T	C	granulocytopoietic_cell	2	TGAAAGAGTGTTAAGA	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr6	39202768	39202768	T	C	granulocytopoietic_cell	2	GTTCATTTCTCAAGTG	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr6	39202768	39202768	T	C	granulocytopoietic_cell	2	TGACTAGCACCGAATT	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr6	120610780	120610780	A	G	granulocyte	2	CAAGAAAGTAACGTTC	granulocytopoietic_cell	A	4
-1-M-62	10X_P5_10	chr6	120610780	120610780	A	G	granulocyte	2	TGGCGCACATTCCTGC	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr6	120610780	120610780	A	G	granulocyte	2	GGAGCAAAGGAATGGA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr6	120610780	120610780	A	G	granulocyte	2	GTTAAGCAGTCAATAG	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr6	120610780	120610780	A	G	granulocyte	2	GAATGAAGTCCGTTAA	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr6	120610780	120610780	A	G	granulocyte	2	CATGGCGAGAATGTGT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr7	25293938	25293938	A	G	granulocytopoietic_cell	3	CATGCCTGTTACGCGC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr7	25293938	25293938	A	G	granulocytopoietic_cell	3	GCTGCGAAGATGAGAG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr7	25293938	25293938	A	G	granulocytopoietic_cell	3	CGAGCACTCTCGGACG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr7	25293938	25293938	A	G	granulocytopoietic_cell	3	TTTCCTCAGATGTGGC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr7	25293938	25293938	A	G	granulocytopoietic_cell	3	GAGGTGACACCAACCG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr7	25293938	25293938	A	G	granulocytopoietic_cell	3	GTCTCGTTCGTAGGAG	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr7	25293938	25293938	A	G	granulocytopoietic_cell	3	TAAGCGTAGGCCCTTG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr7	25293938	25293938	A	G	granulocytopoietic_cell	3	TACTCGCAGTCCCACG	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr7	25293938	25293938	A	G	granulocytopoietic_cell	3	GCTGCGAAGATGAGAG	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr7	25293938	25293938	A	G	granulocytopoietic_cell	3	ATCCACCCACTTCTGC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr7	25293938	25293938	A	G	granulocytopoietic_cell	3	CAACCAATCCGCGGTA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr7	25293938	25293938	A	G	granulocytopoietic_cell	3	CGTCTACAGCGCCTCA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr7	25293938	25293938	A	G	granulocytopoietic_cell	3	GTCTTCGTCGATAGAA	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr7	25293938	25293938	A	G	granulocytopoietic_cell	3	ATCACGAGTGACCAAG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr7	25293938	25293938	A	G	granulocytopoietic_cell	3	TAAGAGAAGTGGCACA	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr7	25293938	25293938	A	G	granulocytopoietic_cell	3	CGGACACGTCAAAGAT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr7	25293938	25293938	A	G	granulocytopoietic_cell	3	GGACATTAGGACAGCT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr7	25293938	25293938	A	G	granulocytopoietic_cell	3	GTCGGGTAGTTCCACA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr7	25293938	25293938	A	G	granulocytopoietic_cell	3	AGCGTATTCTACTTAC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr7	25293938	25293938	A	G	granulocytopoietic_cell	3	ACGATGTAGAGGTTGC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr7	25293938	25293938	A	G	granulocytopoietic_cell	3	CATCGAAGTGCCTGCA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr7	25293938	25293938	A	G	granulocytopoietic_cell	3	GTCACAATCACCTCGT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr7	25293938	25293938	A	G	granulocytopoietic_cell	3	AGGGAGTGTTTGACAC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr7	25293938	25293938	A	G	granulocytopoietic_cell	3	CAACCAATCGTACCGG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr7	25293938	25293938	A	G	granulocytopoietic_cell	3	TCGCGTTCATCGACGC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr7	25293938	25293938	A	G	granulocytopoietic_cell	3	GACTACAGTCTAGAGG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr7	25293938	25293938	A	G	granulocytopoietic_cell	3	CACAGGCTCAGCACAT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr7	25293938	25293938	A	G	granulocytopoietic_cell	3	CAGCCGAAGCCACGTC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr7	25293938	25293938	A	G	granulocytopoietic_cell	3	ACTGTCCCACTCTGTC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr7	28790036	28790036	G	A	granulocytopoietic_cell	2	GCTCCTATCAGTCAGT	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr7	28790036	28790036	G	A	granulocytopoietic_cell	2	CGTCTACAGCGCCTCA	granulocytopoietic_cell	G	2
-1-M-62	10X_P5_10	chr7	28790036	28790036	G	A	granulocytopoietic_cell	2	ATTGGACTCAGAAATG	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr7	28790036	28790036	G	A	granulocytopoietic_cell	2	CCTTACGTCATTGCCC	granulocytopoietic_cell	G	5
-1-M-62	10X_P5_10	chr7	28790036	28790036	G	A	granulocytopoietic_cell	2	ATCATCTCATGAAGTA	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr7	28790036	28790036	G	A	granulocytopoietic_cell	2	TTTCCTCAGATGTGGC	granulocytopoietic_cell	G	2
-1-M-62	10X_P5_10	chr7	28790036	28790036	G	A	granulocytopoietic_cell	2	TGCACCTCAAGCTGGA	granulocytopoietic_cell	G	3
-1-M-62	10X_P5_10	chr7	28790036	28790036	G	A	granulocytopoietic_cell	2	TAGCCGGCACAGACTT	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr7	28790036	28790036	G	A	granulocytopoietic_cell	2	TGGTTCCCACGTTGGC	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr7	28790036	28790036	G	A	granulocytopoietic_cell	2	AGGCCACAGCTGTTCA	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr7	28790036	28790036	G	A	granulocytopoietic_cell	2	GCAGCCAGTAGGACAC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr7	28790036	28790036	G	A	granulocytopoietic_cell	2	TAAGAGAAGTGGCACA	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr7	28790036	28790036	G	A	granulocytopoietic_cell	2	TCGGTAATCGCGTTTC	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr7	28790036	28790036	G	A	granulocytopoietic_cell	2	ATCTACTTCGCAGGCT	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr7	28790036	28790036	G	A	granulocytopoietic_cell	2	TCGGTAATCGCGTTTC	granulocytopoietic_cell	G	3
-1-M-62	10X_P5_10	chr7	28790036	28790036	G	A	granulocytopoietic_cell	2	GTGAAGGCAGTATCTG	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr7	28790036	28790036	G	A	granulocytopoietic_cell	2	CTGCGGATCGAGCCCA	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr7	63932321	63932321	T	A	promonocyte	3	ACATGGTCAAGCGCTC	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr7	63932321	63932321	T	A	promonocyte	3	TATTACCAGGTGATAT	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr7	63932321	63932321	T	A	promonocyte	3	AACTCTTTCGGTGTCG	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr7	63932321	63932321	T	A	promonocyte	3	TGACTAGCACCGAATT	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr7	63932321	63932321	T	A	promonocyte	3	TCGCGTTCATGGTTGT	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr7	63932321	63932321	T	A	promonocyte	3	GCTGCGAAGATGAGAG	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr7	63932321	63932321	T	A	promonocyte	3	GCATGTAAGACTGGGT	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr7	63932321	63932321	T	A	promonocyte	3	GGCAATTAGCTGATAA	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr7	63932321	63932321	T	A	promonocyte	3	TCACAAGAGATGCCTT	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr7	63932321	63932321	T	A	promonocyte	3	CCTTACGCAATAGAGT	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr7	63932321	63932321	T	A	promonocyte	3	CACAGGCAGGTACTCT	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr7	63932321	63932321	T	A	promonocyte	3	CTCGAGGAGAGCTGCA	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr7	63932321	63932321	T	A	promonocyte	3	TCGTAGACACCAGATT	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr7	63932321	63932321	T	A	promonocyte	3	AGGGTGACAAGAGGCT	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr7	63932321	63932321	T	A	promonocyte	3	CGGTTAAAGAACAATC	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr7	63932321	63932321	T	A	promonocyte	3	TGAAAGAGTGTTAAGA	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr7	63932321	63932321	T	A	promonocyte	3	CAACCAATCCGCGGTA	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr7	63932321	63932321	T	A	promonocyte	3	CATATTCGTGACCAAG	granulocytopoietic_cell	T	3
-1-M-62	10X_P5_10	chr7	63932321	63932321	T	A	promonocyte	3	CCGGTAGTCTTTACAC	granulocytopoietic_cell	T	3
-1-M-62	10X_P5_10	chr7	63932321	63932321	T	A	promonocyte	3	GGCAATTTCAGTTAGC	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr7	63932321	63932321	T	A	promonocyte	3	GTCTTCGTCGATAGAA	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr7	63932321	63932321	T	A	promonocyte	3	TACGGATAGACTCGGA	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr7	63932321	63932321	T	A	promonocyte	3	TCTGAGATCAACACTG	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr7	63932321	63932321	T	A	promonocyte	3	TGTGGTACAGATAATG	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr7	63932321	63932321	T	A	promonocyte	3	CTCGAGGAGCTCCTCT	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr7	63932321	63932321	T	A	promonocyte	3	TACGGTAAGATGCCAG	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr7	63932321	63932321	T	A	promonocyte	3	GTACTTTCAGACAAAT	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr7	63932321	63932321	T	A	promonocyte	3	GTGCTTCCAGCCTTGG	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr7	63932321	63932321	T	A	promonocyte	3	TACCTATCACCATCCT	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr7	63932321	63932321	T	A	promonocyte	3	GATGCTAGTTCCATGA	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr7	101411568	101411568	A	G	monocyte	3	GAGGTGACACCAACCG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr7	101411568	101411568	A	G	monocyte	3	CGATGGCCAGGCTGAA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr7	101411568	101411568	A	G	monocyte	3	CTGAAACTCAACCAAC	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr7	101411568	101411568	A	G	monocyte	3	CGCTTCAGTCCAGTTA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr7	141157943	141157943	A	G	erythroblast	3	AGCTTGATCGGCTTGG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr7	141157943	141157943	A	G	erythroblast	3	TGCCCTAGTGCGCTTG	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr7	141157943	141157943	A	G	erythroblast	3	TTTGCGCCAGTTCATG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr7	141157943	141157943	A	G	erythroblast	3	CTTACCGCAGACGCTC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr7	141157943	141157943	A	G	erythroblast	3	CGGACTGCACATCCAA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr7	141157943	141157943	A	G	erythroblast	3	CACAGGCGTCTAGCGC	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr7	141157943	141157943	A	G	erythroblast	3	ACGATGTAGAGGTTGC	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr7	141157943	141157943	A	G	erythroblast	3	GCCTCTAGTCCATCCT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr7	141157943	141157943	A	G	erythroblast	3	ATTACTCTCTGGGCCA	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr7	141157943	141157943	A	G	erythroblast	3	CGTGTAATCTAACGGT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr8	71534117	71534117	C	T	naive_T_cell	2	AAGACCTTCCGAATGT	granulocytopoietic_cell	C	3
-1-M-62	10X_P5_10	chr8	71534117	71534117	C	T	naive_T_cell	2	AGGGAGTGTTTGACAC	granulocytopoietic_cell	C	2
-1-M-62	10X_P5_10	chr8	71534117	71534117	C	T	naive_T_cell	2	GCAAACTAGGCAGGTT	granulocytopoietic_cell	C	4
-1-M-62	10X_P5_10	chr8	71534117	71534117	C	T	naive_T_cell	2	GTTCGGGTCATGTCCC	granulocytopoietic_cell	C	2
-1-M-62	10X_P5_10	chr8	71534117	71534117	C	T	naive_T_cell	2	ACTTTCATCCTATGTT	granulocytopoietic_cell	C	3
-1-M-62	10X_P5_10	chr8	71534117	71534117	C	T	naive_T_cell	2	AACTTTCCACATAACC	granulocytopoietic_cell	C	3
-1-M-62	10X_P5_10	chr8	71534117	71534117	C	T	naive_T_cell	2	TACTTGTGTGTTGAGG	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr8	71534117	71534117	C	T	naive_T_cell	2	GATCAGTGTGATGCCC	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr8	71534117	71534117	C	T	naive_T_cell	2	CATCGGGAGACACTAA	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr8	71534117	71534117	C	T	naive_T_cell	2	TGGCCAGCAAGACACG	granulocytopoietic_cell	C	1
-1-M-62	10X_P5_10	chr8	84836265	84836265	T	C	granulocytopoietic_cell	2	TAGCCGGCACAGACTT	granulocytopoietic_cell	T	6
-1-M-62	10X_P5_10	chr8	84836265	84836265	T	C	granulocytopoietic_cell	2	TGCCCTAGTGCGCTTG	granulocytopoietic_cell	T	3
-1-M-62	10X_P5_10	chr8	84836265	84836265	T	C	granulocytopoietic_cell	2	GGTATTGTCGTTACAG	granulocytopoietic_cell	T	12
-1-M-62	10X_P5_10	chr8	84836265	84836265	T	C	granulocytopoietic_cell	2	ACTGCTCAGTGCCAGA	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr8	84836265	84836265	T	C	granulocytopoietic_cell	2	TTCTTAGGTATATCCG	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr8	84836265	84836265	T	C	granulocytopoietic_cell	2	TGCCCTAGTGCGCTTG	granulocytopoietic_cell	C	2
-1-M-62	10X_P5_10	chr8	84836265	84836265	T	C	granulocytopoietic_cell	2	TGGCCAGCAAGACACG	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr8	84836265	84836265	T	C	granulocytopoietic_cell	2	ACATCAGGTACCTACA	granulocytopoietic_cell	C	2
-1-M-62	10X_P5_10	chr8	84836265	84836265	T	C	granulocytopoietic_cell	2	CCAGCGACATATGCTG	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr8	84836265	84836265	T	C	granulocytopoietic_cell	2	CAGAATCAGCCACCTG	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr8	84836265	84836265	T	C	granulocytopoietic_cell	2	TATCTCAAGGGATCTG	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr8	84836265	84836265	T	C	granulocytopoietic_cell	2	CATGGCGAGAATGTGT	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr9	72062240	72062240	T	A	granulocytopoietic_cell	2	TTCTTAGGTATATCCG	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr9	72062240	72062240	T	A	granulocytopoietic_cell	2	TGGCCAGCAAGACACG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr9	72062240	72062240	T	A	granulocytopoietic_cell	2	TGAGGGACATGCCTAA	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr9	72062240	72062240	T	A	granulocytopoietic_cell	2	GGGCATCTCACTGGGC	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr9	72062240	72062240	T	A	granulocytopoietic_cell	2	GGGATGAAGCTGATAA	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr9	73093202	73093202	A	G	granulocytopoietic_cell	2	GCGACCACAAGGCTCC	granulocytopoietic_cell	G	1
-1-M-62	10X_P5_10	chr9	73093202	73093202	A	G	granulocytopoietic_cell	2	CACAGGCAGGTACTCT	granulocytopoietic_cell	G	3
-1-M-62	10X_P5_10	chr9	73093202	73093202	A	G	granulocytopoietic_cell	2	TGGCCAGCAAGACACG	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr9	73093202	73093202	A	G	granulocytopoietic_cell	2	TGAAAGAGTGTTAAGA	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr9	73093202	73093202	A	G	granulocytopoietic_cell	2	CATCGAATCCTAAGTG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr9	73093202	73093202	A	G	granulocytopoietic_cell	2	CTCTAATGTTAAAGAC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr9	73093202	73093202	A	G	granulocytopoietic_cell	2	CCACTACCAAGACGTG	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr9	114592136	114592136	A	G	naive_T_cell	2	ACGATGTAGAGGTTGC	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr9	114592136	114592136	A	G	naive_T_cell	2	ACGCAGCGTGCAACGA	granulocytopoietic_cell	A	4
-1-M-62	10X_P5_10	chr9	114592136	114592136	A	G	naive_T_cell	2	GTACGTAGTTCAGCGC	granulocytopoietic_cell	A	4
-1-M-62	10X_P5_10	chr9	114592136	114592136	A	G	naive_T_cell	2	GCTGGGTTCCAGTAGT	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr9	114592136	114592136	A	G	naive_T_cell	2	AGGCCGTAGCCTATGT	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr9	114592136	114592136	A	G	naive_T_cell	2	ATGAGGGGTCGTGGCT	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr9	114592136	114592136	A	G	naive_T_cell	2	GATCAGTGTGATGCCC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr9	114592136	114592136	A	G	naive_T_cell	2	CGATGGCCAGGCTGAA	granulocytopoietic_cell	A	5
-1-M-62	10X_P5_10	chr9	114592136	114592136	A	G	naive_T_cell	2	GCTCCTATCAGTCAGT	granulocytopoietic_cell	A	2
-1-M-62	10X_P5_10	chr9	114592136	114592136	A	G	naive_T_cell	2	TTCGAAGAGATGTGGC	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr9	114592136	114592136	A	G	naive_T_cell	2	AAGCCGCAGCTAAACA	granulocytopoietic_cell	A	3
-1-M-62	10X_P5_10	chr9	114592136	114592136	A	G	naive_T_cell	2	CATGGCGTCAGTTTGG	granulocytopoietic_cell	A	1
-1-M-62	10X_P5_10	chr9	114592229	114592229	T	C	granulocytopoietic_cell	2	CGATGGCCAGGCTGAA	granulocytopoietic_cell	T	3
-1-M-62	10X_P5_10	chr9	114592229	114592229	T	C	granulocytopoietic_cell	2	AAGCCGCAGCTAAACA	granulocytopoietic_cell	T	5
-1-M-62	10X_P5_10	chr9	114592229	114592229	T	C	granulocytopoietic_cell	2	GTACGTAGTTCAGCGC	granulocytopoietic_cell	T	3
-1-M-62	10X_P5_10	chr9	114592229	114592229	T	C	granulocytopoietic_cell	2	ACGATGTAGAGGTTGC	granulocytopoietic_cell	T	4
-1-M-62	10X_P5_10	chr9	114592229	114592229	T	C	granulocytopoietic_cell	2	CTGAAACTCAACCAAC	granulocytopoietic_cell	T	4
-1-M-62	10X_P5_10	chr9	114592229	114592229	T	C	granulocytopoietic_cell	2	TTCGAAGAGATGTGGC	granulocytopoietic_cell	C	5
-1-M-62	10X_P5_10	chr9	114592229	114592229	T	C	granulocytopoietic_cell	2	GACTACAGTCTAGAGG	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr9	114592229	114592229	T	C	granulocytopoietic_cell	2	GATCAGTGTGATGCCC	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr9	114592229	114592229	T	C	granulocytopoietic_cell	2	TGGTTCCTCAGGCGAA	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr9	114592229	114592229	T	C	granulocytopoietic_cell	2	TGTGTTTGTCGCGTGT	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr9	114592229	114592229	T	C	granulocytopoietic_cell	2	TGAAAGAGTGTTAAGA	granulocytopoietic_cell	T	3
-1-M-62	10X_P5_10	chr9	114592229	114592229	T	C	granulocytopoietic_cell	2	GCTGGGTTCCAGTAGT	granulocytopoietic_cell	T	2
-1-M-62	10X_P5_10	chr9	114592229	114592229	T	C	granulocytopoietic_cell	2	CCTAGCTTCTTCGAGA	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr9	114592229	114592229	T	C	granulocytopoietic_cell	2	GTCTCGTTCGTAGGAG	granulocytopoietic_cell	T	1
-1-M-62	10X_P5_10	chr9	114592229	114592229	T	C	granulocytopoietic_cell	2	ACGCAGCGTGCAACGA	granulocytopoietic_cell	C	1
+#CHROM	Start	End	REF	ALT_expected	CB	Cell_type_observed	Base_observed	Num_reads
+chr1	64528070	64528070	A	G	CGTCTACCAGCTCCGA	granulocytopoietic_cell	A	3
+chr1	64528070	64528070	A	G	CTACGTCTCGGTCTAA	granulocytopoietic_cell	A	1
+chr1	64528070	64528070	A	G	ACTGTCCAGCGTGTCC	granulocytopoietic_cell	G	4
+chr1	64528070	64528070	A	G	TACTTGTAGATGTTAG	granulocytopoietic_cell	G	1
+chr1	64528070	64528070	A	G	TCAGGATAGCTCCTCT	granulocytopoietic_cell	G	1
+chr1	88259005	88259005	A	G	TATTACCTCGGTTAAC	granulocytopoietic_cell	A	1
+chr1	88259005	88259005	A	G	TCGGTAATCGCGTTTC	granulocytopoietic_cell	A	2
+chr1	88259005	88259005	A	G	CACAGGCTCAGCACAT	granulocytopoietic_cell	A	1
+chr1	88259005	88259005	A	G	GTCTCGTTCGTAGGAG	granulocytopoietic_cell	G	1
+chr1	88259005	88259005	A	G	TACTTGTAGATGTTAG	granulocytopoietic_cell	G	1
+chr1	88259005	88259005	A	G	GCTTCCACAACCGCCA	granulocytopoietic_cell	G	1
+chr10	43605520	43605520	A	G	AGCTTGATCGGCTTGG	granulocytopoietic_cell	A	3
+chr10	43605520	43605520	A	G	CACTCCAGTCGCGGTT	granulocytopoietic_cell	A	5
+chr10	43605520	43605520	A	G	CATTCGCAGGGCACTA	granulocytopoietic_cell	A	8
+chr10	43605520	43605520	A	G	CCACTACAGTGTACGG	granulocytopoietic_cell	A	12
+chr10	43605520	43605520	A	G	CCTACCAAGCTCCTTC	granulocytopoietic_cell	A	6
+chr10	43605520	43605520	A	G	CATGGCGAGAATGTGT	granulocytopoietic_cell	A	3
+chr10	43605520	43605520	A	G	CCTAGCTCATATGCTG	granulocytopoietic_cell	A	5
+chr10	43605520	43605520	A	G	CTCTACGCACGAAACG	granulocytopoietic_cell	A	8
+chr10	43605520	43605520	A	G	GTTCATTTCTCAAGTG	granulocytopoietic_cell	A	6
+chr10	43605520	43605520	A	G	TCGTAGATCTTGTTTG	granulocytopoietic_cell	A	4
+chr10	43605520	43605520	A	G	ACATCAGGTACCTACA	granulocytopoietic_cell	A	5
+chr10	43605520	43605520	A	G	AGGGTGACAAGAGGCT	granulocytopoietic_cell	A	6
+chr10	43605520	43605520	A	G	CACAGGCGTCTAGCGC	granulocytopoietic_cell	A	3
+chr10	43605520	43605520	A	G	CGTCACTGTACCTACA	granulocytopoietic_cell	A	7
+chr10	43605520	43605520	A	G	ACAGCTATCCGATATG	granulocytopoietic_cell	A	12
+chr10	43605520	43605520	A	G	CTCATTATCCGCGTTT	granulocytopoietic_cell	A	4
+chr10	43605520	43605520	A	G	GCATGTAAGACTGGGT	granulocytopoietic_cell	A	3
+chr10	43605520	43605520	A	G	GTTCGGGTCATGTCCC	granulocytopoietic_cell	A	3
+chr10	43605520	43605520	A	G	CGGCTAGAGCCACGTC	granulocytopoietic_cell	A	5
+chr10	43605520	43605520	A	G	CTCACACGTACAGACG	granulocytopoietic_cell	A	4
+chr10	43605520	43605520	A	G	GATCAGTAGTGATCGG	granulocytopoietic_cell	A	2
+chr10	43605520	43605520	A	G	GGACGTCAGCACACAG	granulocytopoietic_cell	A	5
+chr10	43605520	43605520	A	G	ACTGCTCAGTGCCAGA	granulocytopoietic_cell	A	7
+chr10	43605520	43605520	A	G	CGTGAGCAGGCGTACA	granulocytopoietic_cell	A	1
+chr10	43605520	43605520	A	G	GCGAGAAAGAGTAAGG	granulocytopoietic_cell	A	5
+chr10	43605520	43605520	A	G	GTGCGGTCAAGTCATC	granulocytopoietic_cell	A	6
+chr10	43605520	43605520	A	G	TGCCCTAGTGCGCTTG	granulocytopoietic_cell	A	3
+chr10	43605520	43605520	A	G	ACTTTCATCGCAAACT	granulocytopoietic_cell	A	7
+chr10	43605520	43605520	A	G	ATTACTCTCTGGGCCA	granulocytopoietic_cell	A	2
+chr10	43605520	43605520	A	G	CCAGCGACATATGCTG	granulocytopoietic_cell	A	5
+chr10	43605520	43605520	A	G	GCAAACTTCCGCATCT	granulocytopoietic_cell	A	4
+chr10	43605520	43605520	A	G	TATCTCAAGGGATCTG	granulocytopoietic_cell	A	3
+chr10	43605520	43605520	A	G	TGCACCTAGACACGAC	granulocytopoietic_cell	A	3
+chr10	43605520	43605520	A	G	TGAGCCGCAAACTGTC	granulocytopoietic_cell	A	4
+chr10	43605520	43605520	A	G	ACGGGTCGTCGACTGC	granulocytopoietic_cell	A	4
+chr10	43605520	43605520	A	G	AGATCTGCAAGAGGCT	granulocytopoietic_cell	A	6
+chr10	43605520	43605520	A	G	CGGGTCAAGCGATGAC	granulocytopoietic_cell	A	1
+chr10	43605520	43605520	A	G	GAACCTACACTTCGAA	granulocytopoietic_cell	A	5
+chr10	43605520	43605520	A	G	CTCGAGGAGAGCTGCA	granulocytopoietic_cell	A	1
+chr10	43605520	43605520	A	G	CTACATTTCTGCGGCA	granulocytopoietic_cell	A	1
+chr10	43605520	43605520	A	G	GTATTCTTCTTGCATT	granulocytopoietic_cell	A	1
+chr10	43605520	43605520	A	G	CGTGTAATCTAACGGT	granulocytopoietic_cell	A	2
+chr10	43605520	43605520	A	G	GAAATGAAGCTGTTCA	granulocytopoietic_cell	A	5
+chr10	43605520	43605520	A	G	GCTGCGAAGATGAGAG	granulocytopoietic_cell	A	4
+chr10	43605520	43605520	A	G	GTTTCTAGTAGCTAAA	granulocytopoietic_cell	A	3
+chr10	43605520	43605520	A	G	GTGCATACAACTGCGC	granulocytopoietic_cell	A	3
+chr10	43605520	43605520	A	G	CACATTTCACGGCTAC	granulocytopoietic_cell	A	2
+chr10	43605520	43605520	A	G	ACACCGGGTTGGAGGT	granulocytopoietic_cell	A	1
+chr10	43605520	43605520	A	G	AGCGTATAGGCTAGGT	granulocytopoietic_cell	A	3
+chr10	43605520	43605520	A	G	CACCAGGAGTGGGTTG	granulocytopoietic_cell	A	1
+chr10	43605520	43605520	A	G	CTAACTTGTTCAGCGC	granulocytopoietic_cell	A	1
+chr10	43605520	43605520	A	G	GCTTCCAAGGACTGGT	granulocytopoietic_cell	A	1
+chr10	43605520	43605520	A	G	GGAGCAAAGGAATGGA	granulocytopoietic_cell	A	2
+chr10	43605520	43605520	A	G	CTTGGCTGTTAAGACA	granulocytopoietic_cell	A	3
+chr10	43605520	43605520	A	G	GACGTGCTCGGTGTTA	granulocytopoietic_cell	A	1
+chr10	43605520	43605520	A	G	CCTAGCTCATATGCTG	granulocytopoietic_cell	G	1
+chr10	43605520	43605520	A	G	GTCAAGTCAGGGCATA	granulocytopoietic_cell	A	1
+chr10	43605520	43605520	A	G	AACTCAGGTCAGAAGC	granulocytopoietic_cell	A	2
+chr10	43605520	43605520	A	G	GTATCTTAGATCTGAA	granulocytopoietic_cell	A	1
+chr10	43605520	43605520	A	G	GTTAAGCAGTCAATAG	granulocytopoietic_cell	A	2
+chr10	43605520	43605520	A	G	GGGTCTGAGACGACGT	granulocytopoietic_cell	A	1
+chr10	43605520	43605520	A	G	GGAACTTCAGACGCCT	granulocytopoietic_cell	A	2
+chr10	43605520	43605520	A	G	GACGTGCTCGTTACGA	granulocytopoietic_cell	A	2
+chr10	43605520	43605520	A	G	CAACTAGTCCTGCCAT	granulocytopoietic_cell	A	1
+chr10	43605520	43605520	A	G	GCATGATGTAGCTCCG	granulocytopoietic_cell	A	1
+chr10	43605520	43605520	A	G	TGTGGTATCAAGGCTT	granulocytopoietic_cell	A	1
+chr10	62644429	62644429	T	C	CAGCCGAAGCCACGTC	granulocytopoietic_cell	T	6
+chr10	62644429	62644429	T	C	CATCGAAGTGCCTGCA	granulocytopoietic_cell	T	1
+chr10	62644429	62644429	T	C	CATGCCTGTTACGCGC	granulocytopoietic_cell	T	2
+chr10	62644429	62644429	T	C	AACTCAGGTCAGAAGC	granulocytopoietic_cell	T	2
+chr10	62644429	62644429	T	C	ACTATCTAGTGGAGAA	granulocytopoietic_cell	T	1
+chr10	62644429	62644429	T	C	GTCACAATCACCTCGT	granulocytopoietic_cell	T	1
+chr10	62644429	62644429	T	C	TAAGAGAGTGCAACTT	granulocytopoietic_cell	T	1
+chr10	81136924	81136924	T	G	TACCTATCACCATCCT	granulocytopoietic_cell	T	4
+chr10	81136924	81136924	T	G	CAAGAAAGTAACGTTC	granulocytopoietic_cell	T	1
+chr10	81136924	81136924	T	G	ATCACGAGTGACCAAG	granulocytopoietic_cell	T	6
+chr10	81136924	81136924	T	G	TGTGTTTAGTTACCCA	granulocytopoietic_cell	T	2
+chr10	81136924	81136924	T	G	AGCGTATCAGCTCGAC	granulocytopoietic_cell	T	1
+chr10	81136924	81136924	T	G	CATATTCGTGACCAAG	granulocytopoietic_cell	T	4
+chr10	81136924	81136924	T	G	GATCAGTGTGATGCCC	granulocytopoietic_cell	T	2
+chr10	81136924	81136924	T	G	ATAAGAGCAATGACCT	granulocytopoietic_cell	T	2
+chr10	81136924	81136924	T	G	CATCGAAGTGCCTGCA	granulocytopoietic_cell	T	2
+chr10	81136924	81136924	T	G	CATCGAATCCTAAGTG	granulocytopoietic_cell	T	2
+chr10	81136924	81136924	T	G	CTGAAACCAATCTGCA	granulocytopoietic_cell	G	1
+chr10	81136924	81136924	T	G	AGTAGTCCATTGGTAC	granulocytopoietic_cell	T	2
+chr10	81136924	81136924	T	G	TCTATTGCAGATGGCA	granulocytopoietic_cell	T	1
+chr10	81136924	81136924	T	G	ATCCACCCACTTCTGC	granulocytopoietic_cell	T	2
+chr10	81136924	81136924	T	G	TTGGAACAGCGTCAAG	granulocytopoietic_cell	T	1
+chr10	81136924	81136924	T	G	GGCAATTTCAGTTAGC	granulocytopoietic_cell	T	1
+chr10	81136924	81136924	T	G	CATCAGAAGGCAAAGA	granulocytopoietic_cell	T	6
+chr10	81136924	81136924	T	G	CGATGGCCAGGCTGAA	granulocytopoietic_cell	T	3
+chr10	81136924	81136924	T	G	GGTGCGTCAGCCAGAA	granulocytopoietic_cell	T	1
+chr10	81136924	81136924	T	G	CACATTTCACGGCTAC	granulocytopoietic_cell	T	1
+chr10	81136924	81136924	T	G	AATCCAGTCTGGAGCC	granulocytopoietic_cell	T	1
+chr10	81136924	81136924	T	G	CATCAGACATCTACGA	granulocytopoietic_cell	T	1
+chr10	81136924	81136924	T	G	GTCACGGCAGATCTGT	granulocytopoietic_cell	T	1
+chr10	81136924	81136924	T	G	CGAACATGTTAAGGGC	granulocytopoietic_cell	T	1
+chr10	81136924	81136924	T	G	ACGTCAAGTAAATGAC	granulocytopoietic_cell	T	1
+chr10	81136924	81136924	T	G	TGGTTCCCACGTTGGC	granulocytopoietic_cell	T	4
+chr10	81136924	81136924	T	G	TGCTACCTCCTTAATC	granulocytopoietic_cell	T	2
+chr10	81136924	81136924	T	G	GATCGTAAGTGACTCT	granulocytopoietic_cell	T	1
+chr10	81136924	81136924	T	G	GTAGGCCAGAAGGGTA	granulocytopoietic_cell	T	1
+chr10	81136924	81136924	T	G	ATTCTACAGCCGTCGT	granulocytopoietic_cell	T	1
+chr10	81136924	81136924	T	G	CTCATTACATTGCGGC	granulocytopoietic_cell	T	3
+chr10	81136924	81136924	T	G	ACAGCTAAGATGGGTC	granulocytopoietic_cell	T	1
+chr10	81136924	81136924	T	G	TGCCAAAAGGGCTTGA	granulocytopoietic_cell	T	1
+chr10	81136924	81136924	T	G	GACTAACGTGAGCGAT	granulocytopoietic_cell	T	2
+chr10	81136924	81136924	T	G	ACTTTCATCCTATGTT	granulocytopoietic_cell	T	3
+chr10	81136924	81136924	T	G	CAGAGAGTCTTGCATT	granulocytopoietic_cell	T	1
+chr10	81136924	81136924	T	G	AAGGAGCGTATAGGGC	granulocytopoietic_cell	T	1
+chr10	81136924	81136924	T	G	CCTTACGCATTCGACA	granulocytopoietic_cell	T	3
+chr10	81136924	81136924	T	G	CTGAAACCAATCTGCA	granulocytopoietic_cell	T	1
+chr10	81136924	81136924	T	G	GACTACAGTCTAGAGG	granulocytopoietic_cell	T	2
+chr10	81136924	81136924	T	G	GGTATTGTCTGCAAGT	granulocytopoietic_cell	T	3
+chr10	81136924	81136924	T	G	CGTCTACCAGCTCCGA	granulocytopoietic_cell	T	1
+chr10	81136924	81136924	T	G	GAGGTGAGTCCGAACC	granulocytopoietic_cell	T	2
+chr10	81136924	81136924	T	G	GCATGTAAGACTGGGT	granulocytopoietic_cell	T	4
+chr10	81136924	81136924	T	G	CAACCAATCCGCGGTA	granulocytopoietic_cell	T	1
+chr10	81136924	81136924	T	G	AGATCTGTCTAGCACA	granulocytopoietic_cell	T	2
+chr10	81136924	81136924	T	G	CTCGAGGAGCTCCTCT	granulocytopoietic_cell	T	2
+chr10	81136924	81136924	T	G	CTCTAATAGGATGTAT	granulocytopoietic_cell	T	1
+chr10	81136924	81136924	T	G	GTCAAGTCACGCCAGT	granulocytopoietic_cell	T	2
+chr10	81136924	81136924	T	G	CTAGTGAGTTCGCGAC	granulocytopoietic_cell	T	2
+chr10	81136924	81136924	T	G	CTACGTCTCGGTCTAA	granulocytopoietic_cell	T	1
+chr10	81136924	81136924	T	G	GGCAATTAGCTGATAA	granulocytopoietic_cell	T	1
+chr10	81136924	81136924	T	G	CAACCAATCGTACCGG	granulocytopoietic_cell	T	2
+chr10	81136924	81136924	T	G	CGACCTTGTAAGAGGA	granulocytopoietic_cell	T	1
+chr10	81136924	81136924	T	G	CGTGAGCAGCTATGCT	granulocytopoietic_cell	T	1
+chr10	81136924	81136924	T	G	GAGGTGACACCAACCG	granulocytopoietic_cell	T	1
+chr10	81136924	81136924	T	G	CGTCTACAGCGCCTCA	granulocytopoietic_cell	T	1
+chr10	81136924	81136924	T	G	CTTCTCTTCAACCATG	granulocytopoietic_cell	T	1
+chr10	81136924	81136924	T	G	AGGGAGTGTTTGACAC	granulocytopoietic_cell	T	3
+chr10	81136924	81136924	T	G	TTCTCCTTCCTGCAGG	granulocytopoietic_cell	T	2
+chr10	81136924	81136924	T	G	AAGCCGCAGCTAAACA	granulocytopoietic_cell	T	2
+chr10	81136924	81136924	T	G	GAGGTGAAGGCAATTA	granulocytopoietic_cell	T	1
+chr10	81136924	81136924	T	G	CACAGGCTCAGCACAT	granulocytopoietic_cell	T	1
+chr10	81136924	81136924	T	G	GACGTGCTCGTTACGA	granulocytopoietic_cell	T	1
+chr10	81136924	81136924	T	G	GTCTCGTTCGTAGGAG	granulocytopoietic_cell	T	1
+chr10	81136924	81136924	T	G	GTCTCGTGTCTACCTC	granulocytopoietic_cell	T	1
+chr10	81136924	81136924	T	G	GTCGGGTAGTTCCACA	granulocytopoietic_cell	T	1
+chr10	93482249	93482249	G	A	ACATACGGTGCGCTTG	granulocytopoietic_cell	G	4
+chr10	93482249	93482249	G	A	TGAGAGGGTTCAGTAC	granulocytopoietic_cell	G	3
+chr10	93482249	93482249	G	A	CGCTTCAGTCCAGTTA	granulocytopoietic_cell	G	4
+chr10	93482249	93482249	G	A	ACGTCAATCGGCGGTT	granulocytopoietic_cell	G	5
+chr10	93482249	93482249	G	A	AGGCCGTAGCCTATGT	granulocytopoietic_cell	G	3
+chr10	93482249	93482249	G	A	CCTTACGTCATTGCCC	granulocytopoietic_cell	G	2
+chr10	93482249	93482249	G	A	TGGTTCCCACGTTGGC	granulocytopoietic_cell	G	2
+chr10	93482249	93482249	G	A	CGTCTACAGCGCCTCA	granulocytopoietic_cell	A	1
+chr10	93482249	93482249	G	A	CTCTAATAGTTTAGGA	granulocytopoietic_cell	A	1
+chr10	93482249	93482249	G	A	GATCGTAAGTGACTCT	granulocytopoietic_cell	A	1
+chr11	21316279	21316279	T	C	CGGAGTCAGTCGCCGT	granulocytopoietic_cell	T	4
+chr11	21316279	21316279	T	C	CATCAGACATCTACGA	granulocytopoietic_cell	T	2
+chr11	21316279	21316279	T	C	TCACAAGAGATGCCTT	granulocytopoietic_cell	T	4
+chr11	21316279	21316279	T	C	TATTACCAGGTGATAT	granulocytopoietic_cell	C	5
+chr11	21316279	21316279	T	C	GGACATTAGAGACTTA	granulocytopoietic_cell	T	2
+chr11	21316279	21316279	T	C	TACTCGCAGTCCCACG	granulocytopoietic_cell	T	2
+chr11	21316279	21316279	T	C	TCGGTAATCCAAGCCG	granulocytopoietic_cell	T	3
+chr11	21316279	21316279	T	C	CCAGCGAGTGTTGAGG	granulocytopoietic_cell	T	1
+chr11	21316279	21316279	T	C	TGCTACCTCCTTAATC	granulocytopoietic_cell	T	1
+chr11	21316279	21316279	T	C	TGAAAGAGTGTTAAGA	granulocytopoietic_cell	T	2
+chr11	21316279	21316279	T	C	ACTATCTAGTGGAGAA	granulocytopoietic_cell	C	1
+chr11	21316279	21316279	T	C	GTCACAATCACCTCGT	granulocytopoietic_cell	T	1
+chr11	21316279	21316279	T	C	CTCGGAGAGGCTAGAC	granulocytopoietic_cell	T	2
+chr11	21316279	21316279	T	C	GGACATTAGGACAGCT	granulocytopoietic_cell	T	2
+chr11	58189199	58189199	T	C	AGGGAGTGTTTGACAC	granulocytopoietic_cell	T	4
+chr11	58189199	58189199	T	C	GGCAATTTCAGTTAGC	granulocytopoietic_cell	T	11
+chr11	58189199	58189199	T	C	TACTCGCAGTCCCACG	granulocytopoietic_cell	T	3
+chr11	58189199	58189199	T	C	TGCCAAAAGGGCTTGA	granulocytopoietic_cell	T	2
+chr11	58189199	58189199	T	C	CCTAGCTTCTTCGAGA	granulocytopoietic_cell	T	3
+chr11	58189199	58189199	T	C	CAAGGCCAGTGCGATG	granulocytopoietic_cell	T	4
+chr11	59199562	59199562	T	C	CGGACACAGAGACGAA	granulocytopoietic_cell	T	2
+chr11	59199562	59199562	T	C	TGAGAGGGTTCAGTAC	granulocytopoietic_cell	T	2
+chr11	59199562	59199562	T	C	ACTGTCCCACTCTGTC	granulocytopoietic_cell	T	2
+chr11	59199562	59199562	T	C	CATCGAAGTGCCTGCA	granulocytopoietic_cell	T	2
+chr11	59199562	59199562	T	C	TGAAAGAGTGTTAAGA	granulocytopoietic_cell	T	4
+chr11	59199562	59199562	T	C	TCGGTAATCCAAGCCG	granulocytopoietic_cell	T	2
+chr11	59199562	59199562	T	C	GTCACAAGTAAACCTC	granulocytopoietic_cell	T	2
+chr11	59199562	59199562	T	C	CGTCTACAGCGCCTCA	granulocytopoietic_cell	T	2
+chr11	59199562	59199562	T	C	ACATACGGTGCGCTTG	granulocytopoietic_cell	T	2
+chr11	59199562	59199562	T	C	GCATGTAAGTCATCCA	granulocytopoietic_cell	T	1
+chr11	59199562	59199562	T	C	AAACGGGGTAGAGGAA	granulocytopoietic_cell	T	1
+chr11	85038173	85038173	T	C	CAGCAGCAGGTCGGAT	granulocytopoietic_cell	T	5
+chr11	85038173	85038173	T	C	AGATCTGCAAGAGGCT	granulocytopoietic_cell	T	7
+chr11	85038173	85038173	T	C	AGGCCGTCAGCTTCGG	granulocytopoietic_cell	T	2
+chr11	85038173	85038173	T	C	CTGATCCAGGTGTTAA	granulocytopoietic_cell	T	23
+chr11	85038173	85038173	T	C	GAAATGAAGCTGTTCA	granulocytopoietic_cell	T	9
+chr11	85038173	85038173	T	C	GAGGTGAAGGCAATTA	granulocytopoietic_cell	T	9
+chr11	85038173	85038173	T	C	TATCTCAAGGGATCTG	granulocytopoietic_cell	T	9
+chr11	85038173	85038173	T	C	CACCAGGAGTGGGTTG	granulocytopoietic_cell	T	6
+chr11	85038173	85038173	T	C	GCATGATGTAGCTCCG	granulocytopoietic_cell	T	7
+chr11	85038173	85038173	T	C	ACACCGGGTTGGAGGT	granulocytopoietic_cell	T	8
+chr11	85038173	85038173	T	C	CAACTAGTCCTGCCAT	granulocytopoietic_cell	T	4
+chr11	85038173	85038173	T	C	CCTAGCTCATATGCTG	granulocytopoietic_cell	T	11
+chr11	85038173	85038173	T	C	CTCTAATAGGATGTAT	granulocytopoietic_cell	T	13
+chr11	85038173	85038173	T	C	GCAGCCAGTAGGACAC	granulocytopoietic_cell	T	1
+chr11	85038173	85038173	T	C	GCATACAGTGGCCCTA	granulocytopoietic_cell	T	6
+chr11	85038173	85038173	T	C	GGGTCTGAGACGACGT	granulocytopoietic_cell	T	14
+chr11	85038173	85038173	T	C	GGAGCAAAGGAATGGA	granulocytopoietic_cell	T	3
+chr11	85038173	85038173	T	C	CGTGTAATCTAACGGT	granulocytopoietic_cell	T	3
+chr11	85038173	85038173	T	C	CTCATTATCCGCGTTT	granulocytopoietic_cell	T	3
+chr11	85038173	85038173	T	C	CTTACCGCAGACGCTC	granulocytopoietic_cell	T	3
+chr11	85038173	85038173	T	C	GCATGTAAGACTGGGT	granulocytopoietic_cell	T	4
+chr11	85038173	85038173	T	C	GTCAAGTCAGGGCATA	granulocytopoietic_cell	T	10
+chr11	85038173	85038173	T	C	TACTCATAGACTTTCG	granulocytopoietic_cell	T	8
+chr11	85038173	85038173	T	C	TATTACCAGGTGATAT	granulocytopoietic_cell	T	3
+chr11	85038173	85038173	T	C	CGGCTAGAGCCACGTC	granulocytopoietic_cell	T	6
+chr11	85038173	85038173	T	C	CGGGTCAAGCGATGAC	granulocytopoietic_cell	T	4
+chr11	85038173	85038173	T	C	TGCACCTAGACACGAC	granulocytopoietic_cell	T	5
+chr11	85038173	85038173	T	C	TGCGGGTCAGGCTCAC	granulocytopoietic_cell	T	4
+chr11	85038173	85038173	T	C	AACTCAGGTCAGAAGC	granulocytopoietic_cell	T	9
+chr11	85038173	85038173	T	C	GATCAGTAGTGATCGG	granulocytopoietic_cell	T	1
+chr11	85038173	85038173	T	C	ACCAGTATCCCACTTG	granulocytopoietic_cell	T	2
+chr11	85038173	85038173	T	C	TACGGATAGACTCGGA	granulocytopoietic_cell	T	2
+chr11	85038173	85038173	T	C	ATTATCCTCATTATCC	granulocytopoietic_cell	T	6
+chr11	85038173	85038173	T	C	CATCGGGAGACACTAA	granulocytopoietic_cell	T	2
+chr11	85038173	85038173	T	C	TCACGAATCCTGCCAT	granulocytopoietic_cell	T	4
+chr11	85038173	85038173	T	C	GACTAACGTGAGCGAT	granulocytopoietic_cell	T	1
+chr11	85038173	85038173	T	C	TGAAAGAGTGTTAAGA	granulocytopoietic_cell	T	2
+chr11	85038173	85038173	T	C	GTCTCGTTCGTAGGAG	granulocytopoietic_cell	T	2
+chr11	85038173	85038173	T	C	TACTCGCAGTCCCACG	granulocytopoietic_cell	T	4
+chr11	85038173	85038173	T	C	ACTTTCATCGCAAACT	granulocytopoietic_cell	T	1
+chr11	85038173	85038173	T	C	CCAGCGAGTGTTGAGG	granulocytopoietic_cell	T	3
+chr11	85038173	85038173	T	C	GTGCGGTCAAGTCATC	granulocytopoietic_cell	T	2
+chr11	85038173	85038173	T	C	CTAACTTGTTCAGCGC	granulocytopoietic_cell	T	3
+chr11	85038173	85038173	T	C	GTATCTTAGATCTGAA	granulocytopoietic_cell	T	12
+chr11	85038173	85038173	T	C	CTTGGCTGTTAAGACA	granulocytopoietic_cell	T	1
+chr11	85038173	85038173	T	C	AGCTTGATCGGCTTGG	granulocytopoietic_cell	T	1
+chr11	85038173	85038173	T	C	GTCGTAACAGCCTTGG	granulocytopoietic_cell	T	2
+chr11	85038173	85038173	T	C	CTTAGGAGTGTTCGAT	granulocytopoietic_cell	T	1
+chr11	85038173	85038173	T	C	CATCAGAAGGCAAAGA	granulocytopoietic_cell	T	1
+chr11	85038173	85038173	T	C	ATGTGTGGTTCCACAA	granulocytopoietic_cell	T	2
+chr11	85038173	85038173	T	C	GTTCATTTCTCAAGTG	granulocytopoietic_cell	T	2
+chr11	85038173	85038173	T	C	CAAGATCGTATAAACG	granulocytopoietic_cell	T	1
+chr11	85038173	85038173	T	C	GGACGTCAGCACACAG	granulocytopoietic_cell	T	2
+chr11	85038173	85038173	T	C	AAGGCAGTCATTTGGG	granulocytopoietic_cell	T	1
+chr11	85038173	85038173	T	C	CTCGAGGAGAGCTGCA	granulocytopoietic_cell	T	2
+chr11	85038173	85038173	T	C	GGGATGAAGCTGATAA	granulocytopoietic_cell	T	1
+chr11	85038173	85038173	T	C	TCGCGAGTCGCCAAAT	granulocytopoietic_cell	T	1
+chr11	85038173	85038173	T	C	GTGAAGGCAGTATCTG	granulocytopoietic_cell	T	2
+chr12	4956839	4956839	A	G	GCATACAGTGGCCCTA	granulocytopoietic_cell	A	4
+chr12	4956839	4956839	A	G	AACTTTCCACATAACC	granulocytopoietic_cell	A	1
+chr12	4956839	4956839	A	G	CAAGAAAGTAACGTTC	granulocytopoietic_cell	A	3
+chr12	4956839	4956839	A	G	CTTCTCTTCCTAAGTG	granulocytopoietic_cell	A	3
+chr12	4956839	4956839	A	G	GTACGTATCGCCTGAG	granulocytopoietic_cell	A	1
+chr12	4956839	4956839	A	G	TTCTTAGGTATATCCG	granulocytopoietic_cell	A	1
+chr12	4956839	4956839	A	G	GAGGTGACACCAACCG	granulocytopoietic_cell	A	2
+chr12	4956839	4956839	A	G	AGTCTTTGTAAACACA	granulocytopoietic_cell	A	1
+chr12	4956839	4956839	A	G	GTATCTTAGATCTGAA	granulocytopoietic_cell	A	1
+chr12	4956839	4956839	A	G	CTACATTTCAAAGTAG	granulocytopoietic_cell	A	3
+chr12	4956839	4956839	A	G	AAAGTAGTCAAAGTAG	granulocytopoietic_cell	A	2
+chr12	4956839	4956839	A	G	TTGACTTGTTCAGCGC	granulocytopoietic_cell	A	1
+chr12	4956839	4956839	A	G	ACATGGTTCATAACCG	granulocytopoietic_cell	G	3
+chr12	4956839	4956839	A	G	ACTATCTAGTGGAGAA	granulocytopoietic_cell	A	1
+chr12	4956839	4956839	A	G	GCATGATCATTTCAGG	granulocytopoietic_cell	A	1
+chr12	4956839	4956839	A	G	AGTCTTTGTAAACACA	granulocytopoietic_cell	G	1
+chr12	102866805	102866805	A	T	ATCATCTCATGAAGTA	granulocytopoietic_cell	A	1
+chr12	102866805	102866805	A	T	GAGGTGAGTCCGAACC	granulocytopoietic_cell	A	1
+chr12	102866805	102866805	A	T	CGAACATGTTAAGGGC	granulocytopoietic_cell	A	1
+chr12	102866805	102866805	A	T	TGGCCAGCAAGACACG	granulocytopoietic_cell	A	1
+chr12	102866805	102866805	A	T	AACTGGTTCATTGCCC	granulocytopoietic_cell	A	1
+chr13	49544816	49544816	C	T	CTCGAGGAGAGCTGCA	granulocytopoietic_cell	C	3
+chr13	49544816	49544816	C	T	CGGGTCAAGCGATGAC	granulocytopoietic_cell	C	6
+chr13	49544816	49544816	C	T	GTGCATACAAGCCCAC	granulocytopoietic_cell	C	3
+chr13	49544816	49544816	C	T	ATTCTACAGCCGTCGT	granulocytopoietic_cell	C	2
+chr13	49544816	49544816	C	T	AACTCAGGTCAGAAGC	granulocytopoietic_cell	C	3
+chr13	49544816	49544816	C	T	ACTTTCATCGCAAACT	granulocytopoietic_cell	C	3
+chr13	49544816	49544816	C	T	TACCTATCACCATCCT	granulocytopoietic_cell	C	5
+chr13	49544816	49544816	C	T	CATCGGGAGACACTAA	granulocytopoietic_cell	C	3
+chr13	49544816	49544816	C	T	CGCTTCAGTCCAGTTA	granulocytopoietic_cell	C	3
+chr13	49544816	49544816	C	T	ATTCTACCAACGATCT	granulocytopoietic_cell	C	3
+chr13	49544816	49544816	C	T	AAAGTAGTCAAAGTAG	granulocytopoietic_cell	C	1
+chr13	49544816	49544816	C	T	GTACTCCAGGTGCAAC	granulocytopoietic_cell	C	3
+chr13	49544816	49544816	C	T	GTGAAGGCAGTATCTG	granulocytopoietic_cell	C	1
+chr13	49544816	49544816	C	T	CACAGGCTCAGCACAT	granulocytopoietic_cell	C	4
+chr13	49544816	49544816	C	T	GGAACTTCAGACGCCT	granulocytopoietic_cell	C	7
+chr13	49544816	49544816	C	T	TGGTTAGGTCTTCGTC	granulocytopoietic_cell	C	1
+chr13	49544816	49544816	C	T	GCATGTAAGTCATCCA	granulocytopoietic_cell	C	1
+chr13	49544816	49544816	C	T	CACAGGCAGGTACTCT	granulocytopoietic_cell	C	1
+chr13	49544816	49544816	C	T	CTTCTCTAGACCTTTG	granulocytopoietic_cell	C	1
+chr13	49544816	49544816	C	T	GCTTCCAAGGACTGGT	granulocytopoietic_cell	C	2
+chr13	49544816	49544816	C	T	GACAGAGGTTGGTAAA	granulocytopoietic_cell	C	1
+chr13	49544816	49544816	C	T	CTCGAGGAGCTCCTCT	granulocytopoietic_cell	C	1
+chr13	49544816	49544816	C	T	GAAATGAAGCTGTTCA	granulocytopoietic_cell	C	1
+chr13	49544816	49544816	C	T	TAAGCGTAGGCCCTTG	granulocytopoietic_cell	C	1
+chr14	74909844	74909844	A	G	AAGCCGCAGCTAAACA	granulocytopoietic_cell	A	7
+chr14	74909844	74909844	A	G	GGCAATTTCAGTTAGC	granulocytopoietic_cell	A	19
+chr14	74909844	74909844	A	G	CAAGAAAGTAACGTTC	granulocytopoietic_cell	A	6
+chr14	74909844	74909844	A	G	CTCGGAGGTCCGAACC	granulocytopoietic_cell	A	5
+chr14	74909844	74909844	A	G	GTACGTAGTTCAGCGC	granulocytopoietic_cell	A	7
+chr14	74909844	74909844	A	G	ATTCTACAGCCGTCGT	granulocytopoietic_cell	A	4
+chr14	74909844	74909844	A	G	TACTCATAGACTTTCG	granulocytopoietic_cell	A	1
+chr14	74909844	74909844	A	G	ACAGCTAAGATGGGTC	granulocytopoietic_cell	A	3
+chr14	74909844	74909844	A	G	ACTATCTCACACCGAC	granulocytopoietic_cell	A	6
+chr14	74909844	74909844	A	G	GACAGAGGTTGGTAAA	granulocytopoietic_cell	A	3
+chr14	74909844	74909844	A	G	TCTTCGGTCCGCGGTA	granulocytopoietic_cell	A	1
+chr14	74909844	74909844	A	G	TGACGGCGTTACCAGT	granulocytopoietic_cell	A	8
+chr14	74909844	74909844	A	G	CTTCTCTTCCTAAGTG	granulocytopoietic_cell	A	2
+chr14	74909844	74909844	A	G	GCAAACTGTACCAGTT	granulocytopoietic_cell	A	3
+chr14	74909844	74909844	A	G	TCAGGATAGCTCCTCT	granulocytopoietic_cell	A	2
+chr14	74909844	74909844	A	G	ATTGGACTCAGAAATG	granulocytopoietic_cell	A	2
+chr14	74909844	74909844	A	G	CATCGAAGTGCCTGCA	granulocytopoietic_cell	A	1
+chr14	74909844	74909844	A	G	GCTGCGAAGATGAGAG	granulocytopoietic_cell	A	3
+chr14	74909844	74909844	A	G	TTTCCTCAGATGTGGC	granulocytopoietic_cell	A	3
+chr14	74909844	74909844	A	G	GATCGTAAGTGACTCT	granulocytopoietic_cell	A	1
+chr14	74909844	74909844	A	G	CGTAGCGGTCTCATCC	granulocytopoietic_cell	A	1
+chr14	74909844	74909844	A	G	CTGAAACCAATCTGCA	granulocytopoietic_cell	A	6
+chr14	74909844	74909844	A	G	CTTAACTTCTGTCTCG	granulocytopoietic_cell	A	1
+chr14	74909844	74909844	A	G	ACTTTCATCCTATGTT	granulocytopoietic_cell	A	2
+chr14	74909844	74909844	A	G	CGATGGCGTAATCACC	granulocytopoietic_cell	A	3
+chr14	74909844	74909844	A	G	AAGACCTTCCGAATGT	granulocytopoietic_cell	A	1
+chr14	74909844	74909844	A	G	GAGGTGACACCAACCG	granulocytopoietic_cell	A	3
+chr14	74909844	74909844	A	G	AGTAGTCCATTGGTAC	granulocytopoietic_cell	A	2
+chr14	74909844	74909844	A	G	GTAGGCCAGAAGGGTA	granulocytopoietic_cell	A	4
+chr14	74909844	74909844	A	G	AGGGAGTGTTTGACAC	granulocytopoietic_cell	A	4
+chr14	74909844	74909844	A	G	CAACCAATCCGCGGTA	granulocytopoietic_cell	A	2
+chr14	74909844	74909844	A	G	CGAGCACAGCCACGTC	granulocytopoietic_cell	A	1
+chr14	74909844	74909844	A	G	AGGGTGACAAGAGGCT	granulocytopoietic_cell	A	2
+chr14	74909844	74909844	A	G	ATAAGAGCAATGACCT	granulocytopoietic_cell	A	1
+chr14	74909844	74909844	A	G	AGAATAGTCGGTTCGG	granulocytopoietic_cell	A	3
+chr14	74909844	74909844	A	G	CCTAGCTTCTTCGAGA	granulocytopoietic_cell	A	1
+chr14	74909844	74909844	A	G	TCTGGAAAGAGGTACC	granulocytopoietic_cell	A	2
+chr14	74909844	74909844	A	G	TGGTTAGTCTCGTATT	granulocytopoietic_cell	A	1
+chr14	74909844	74909844	A	G	AGGGTGAAGGTGCTTT	granulocytopoietic_cell	A	1
+chr14	74909844	74909844	A	G	CATCGAATCCTAAGTG	granulocytopoietic_cell	A	2
+chr14	74909844	74909844	A	G	GGGCATCTCACTGGGC	granulocytopoietic_cell	A	2
+chr14	74909844	74909844	A	G	TACGGTAAGATGCCAG	granulocytopoietic_cell	A	1
+chr14	78653230	78653230	G	A	AGTGGGATCGGTTCGG	granulocytopoietic_cell	G	3
+chr14	78653230	78653230	G	A	CACATTTAGAGCAATT	granulocytopoietic_cell	G	1
+chr14	78653230	78653230	G	A	CACCTTGGTCCGCTGA	granulocytopoietic_cell	G	8
+chr14	78653230	78653230	G	A	CCGGTAGTCTTTACAC	granulocytopoietic_cell	G	1
+chr14	78653230	78653230	G	A	TCGGTAATCGCGTTTC	granulocytopoietic_cell	G	2
+chr14	78653230	78653230	G	A	CTTAACTTCTGTCTCG	granulocytopoietic_cell	G	1
+chr14	78653230	78653230	G	A	GAACGGAGTGCCTTGG	granulocytopoietic_cell	G	1
+chr14	78653230	78653230	G	A	TGACGGCGTTACCAGT	granulocytopoietic_cell	G	1
+chr14	78653230	78653230	G	A	ACTGTCCAGCGTGTCC	granulocytopoietic_cell	G	2
+chr15	86019605	86019605	A	G	ACCAGTATCCCACTTG	granulocytopoietic_cell	A	5
+chr15	86019605	86019605	A	G	ATAAGAGTCGATCCCT	granulocytopoietic_cell	A	8
+chr15	86019605	86019605	A	G	CAAGGCCCAGCGAACA	granulocytopoietic_cell	A	5
+chr15	86019605	86019605	A	G	GTCACAAGTAAACCTC	granulocytopoietic_cell	A	1
+chr16	64823848	64823848	A	G	CGGTTAAAGAACAATC	granulocytopoietic_cell	G	1
+chr16	64823848	64823848	A	G	CATGCCTGTTACGCGC	granulocytopoietic_cell	A	2
+chr16	64823848	64823848	A	G	GTTAAGCAGTCAATAG	granulocytopoietic_cell	A	3
+chr16	64823848	64823848	A	G	CGGTTAAAGAACAATC	granulocytopoietic_cell	A	1
+chr16	64823848	64823848	A	G	CACTCCACAAAGGAAG	granulocytopoietic_cell	A	1
+chr16	64823848	64823848	A	G	CGACCTTGTAAGAGGA	granulocytopoietic_cell	A	1
+chr16	64823848	64823848	A	G	CAGAGAGTCTTGCATT	granulocytopoietic_cell	G	2
+chr16	64823848	64823848	A	G	TTCTTAGGTATATCCG	granulocytopoietic_cell	A	2
+chr17	10216516	10216516	A	G	CATCGGGAGACACTAA	granulocytopoietic_cell	A	4
+chr17	10216516	10216516	A	G	GCGACCACATGCAATC	granulocytopoietic_cell	A	8
+chr17	10216516	10216516	A	G	GAGGTGAGTCCGAACC	granulocytopoietic_cell	A	3
+chr17	10216516	10216516	A	G	CTGAAACTCAACCAAC	granulocytopoietic_cell	A	4
+chr17	10216516	10216516	A	G	CTGTGCTGTGGGTCAA	granulocytopoietic_cell	A	2
+chr17	10216516	10216516	A	G	CCTAGCTTCTTCGAGA	granulocytopoietic_cell	A	1
+chr17	10216516	10216516	A	G	CTAGTGAGTTCGCGAC	granulocytopoietic_cell	A	2
+chr17	10216516	10216516	A	G	GTCTCGTTCGTAGGAG	granulocytopoietic_cell	A	1
+chr17	10216516	10216516	A	G	AAAGTAGTCAAAGTAG	granulocytopoietic_cell	A	1
+chr17	10216516	10216516	A	G	CACCTTGGTCCGCTGA	granulocytopoietic_cell	G	2
+chr17	10216516	10216516	A	G	CGAGCACCAGGACGTA	granulocytopoietic_cell	G	1
+chr18	31796444	31796444	T	C	CCTACACAGATGGGTC	granulocytopoietic_cell	T	1
+chr18	31796444	31796444	T	C	CTTAACTTCTGTCTCG	granulocytopoietic_cell	T	1
+chr18	31796444	31796444	T	C	GTATCTTAGATCTGAA	granulocytopoietic_cell	T	1
+chr18	31796444	31796444	T	C	CAAGTTGGTCCTCTTG	granulocytopoietic_cell	T	1
+chr18	31796444	31796444	T	C	AGCGTATCAGCTCGAC	granulocytopoietic_cell	T	1
+chr18	31796444	31796444	T	C	TGGTTAGGTCTTCGTC	granulocytopoietic_cell	T	2
+chr18	31796444	31796444	T	C	TGCCAAAAGGGCTTGA	granulocytopoietic_cell	T	2
+chr18	31796444	31796444	T	C	GTCGGGTAGTTCCACA	granulocytopoietic_cell	T	2
+chr18	31796444	31796444	T	C	ACTATCTCACACCGAC	granulocytopoietic_cell	T	1
+chr18	31796444	31796444	T	C	CAGCCGAAGCCACGTC	granulocytopoietic_cell	T	1
+chr18	31796444	31796444	T	C	CATGCCTGTTACGCGC	granulocytopoietic_cell	T	1
+chr18	31796444	31796444	T	C	TCGCGTTCATGGTTGT	granulocytopoietic_cell	T	1
+chr18	31796444	31796444	T	C	TGTGTTTGTCGCGTGT	granulocytopoietic_cell	T	1
+chr18	31796444	31796444	T	C	TACTTGTAGATGTTAG	granulocytopoietic_cell	T	1
+chr18	31796444	31796444	T	C	TAAGCGTAGGCCCTTG	granulocytopoietic_cell	T	2
+chr18	31796444	31796444	T	C	GCAAACTAGGCAGGTT	granulocytopoietic_cell	T	1
+chr18	31796444	31796444	T	C	TGGCTGGGTCGCATAT	granulocytopoietic_cell	T	1
+chr18	31796444	31796444	T	C	ACGTCAAGTAAATGAC	granulocytopoietic_cell	T	1
+chr18	31796444	31796444	T	C	CTCTAATGTTAAAGAC	granulocytopoietic_cell	T	1
+chr18	31796444	31796444	T	C	ATAAGAGTCGATCCCT	granulocytopoietic_cell	T	1
+chr18	31796444	31796444	T	C	CAGCAGCAGGTCGGAT	granulocytopoietic_cell	T	1
+chr18	31796444	31796444	T	C	GAGGTGACACCAACCG	granulocytopoietic_cell	T	1
+chr18	31796444	31796444	T	C	GCATGATCATTTCAGG	granulocytopoietic_cell	T	1
+chr18	31796444	31796444	T	C	GTCTCGTTCGTAGGAG	granulocytopoietic_cell	T	1
+chr18	31796444	31796444	T	C	AACTTTCCACATAACC	granulocytopoietic_cell	T	1
+chr18	31796444	31796444	T	C	CACAGGCTCAGCACAT	granulocytopoietic_cell	T	1
+chr18	31796444	31796444	T	C	CTTCTCTGTCTCGTTC	granulocytopoietic_cell	T	1
+chr18	31796444	31796444	T	C	GGGTCTGCAATGACCT	granulocytopoietic_cell	T	1
+chr18	31796444	31796444	T	C	GACTACAGTCTAGAGG	granulocytopoietic_cell	T	1
+chr18	31796444	31796444	T	C	AGTGGGATCGGTTCGG	granulocytopoietic_cell	T	1
+chr18	31796444	31796444	T	C	GTCACAAGTAAACCTC	granulocytopoietic_cell	T	1
+chr18	56921198	56921198	A	G	GTATTCTTCTTGCATT	granulocytopoietic_cell	A	2
+chr18	56921198	56921198	A	G	GCATGTAAGACTGGGT	granulocytopoietic_cell	A	4
+chr18	56921198	56921198	A	G	AACTCCCTCTACTATC	granulocytopoietic_cell	A	4
+chr18	56921198	56921198	A	G	GAAATGAAGCTGTTCA	granulocytopoietic_cell	A	8
+chr18	56921198	56921198	A	G	CGGTTAAGTTCTCATT	granulocytopoietic_cell	A	2
+chr18	56921198	56921198	A	G	TATCTCAAGGGATCTG	granulocytopoietic_cell	A	1
+chr18	56921198	56921198	A	G	GCTTCCAAGGACTGGT	granulocytopoietic_cell	A	2
+chr18	56921198	56921198	A	G	GTTCGGGTCATGTCCC	granulocytopoietic_cell	G	1
+chr18	56921198	56921198	A	G	TCTTTCCAGACCTAGG	granulocytopoietic_cell	A	1
+chr18	56921198	56921198	A	G	AACTCTTTCGGTGTCG	granulocytopoietic_cell	A	1
+chr18	56921198	56921198	A	G	GAATGAAGTCCGTTAA	granulocytopoietic_cell	G	2
+chr19	5802672	5802672	G	C	CTACGTCTCGGTCTAA	granulocytopoietic_cell	G	2
+chr19	5802672	5802672	G	C	TAAGAGAGTGCAACTT	granulocytopoietic_cell	C	1
+chr19	5802672	5802672	G	C	AAAGTAGGTGCACTTA	granulocytopoietic_cell	C	1
+chr19	5802672	5802672	G	C	GAGGTGAAGGCAATTA	granulocytopoietic_cell	C	1
+chr19	5802672	5802672	G	C	CCAGCGACATATGCTG	granulocytopoietic_cell	G	1
+chr19	5802672	5802672	G	C	CTTGGCTGTTAAGACA	granulocytopoietic_cell	G	1
+chr19	5802672	5802672	G	C	ACGATGTAGAGGTTGC	granulocytopoietic_cell	G	3
+chr19	5802672	5802672	G	C	CCACTACAGTGTACGG	granulocytopoietic_cell	G	1
+chr19	11393010	11393010	A	G	ATCCACCCACTTCTGC	granulocytopoietic_cell	A	1
+chr19	11393010	11393010	A	G	GTACGTAGTTCAGCGC	granulocytopoietic_cell	A	1
+chr19	11393010	11393010	A	G	ACTATCTCACACCGAC	granulocytopoietic_cell	A	1
+chr19	11393010	11393010	A	G	GGACATTAGAGACTTA	granulocytopoietic_cell	A	1
+chr2	43829510	43829510	A	G	CCTACACAGATGGGTC	granulocytopoietic_cell	A	3
+chr2	43829510	43829510	A	G	AGGCCGTAGCCTATGT	granulocytopoietic_cell	G	4
+chr2	43829510	43829510	A	G	GAAGCAGCACTGTTAG	granulocytopoietic_cell	A	2
+chr2	43829510	43829510	A	G	ATTGGTGAGGCAGGTT	granulocytopoietic_cell	A	1
+chr2	43829510	43829510	A	G	GACAGAGTCTGACCTC	granulocytopoietic_cell	G	3
+chr2	43829510	43829510	A	G	CTCTAATGTTAAAGAC	granulocytopoietic_cell	A	1
+chr2	43829510	43829510	A	G	AAGACCTTCCGAATGT	granulocytopoietic_cell	A	2
+chr2	43829510	43829510	A	G	GTACGTATCGCCTGAG	granulocytopoietic_cell	A	2
+chr2	43829510	43829510	A	G	TATCTCAGTAGTGAAT	granulocytopoietic_cell	A	1
+chr2	43829510	43829510	A	G	AGAATAGTCGGTTCGG	granulocytopoietic_cell	A	2
+chr2	43829510	43829510	A	G	AGTAGTCCATTGGTAC	granulocytopoietic_cell	A	1
+chr2	43829510	43829510	A	G	GACTACAGTCTAGAGG	granulocytopoietic_cell	A	1
+chr2	43829510	43829510	A	G	TTCTTAGGTATATCCG	granulocytopoietic_cell	A	2
+chr2	43829510	43829510	A	G	GGGTCTGCAATGACCT	granulocytopoietic_cell	A	2
+chr2	48974709	48974709	T	C	CAAGATCGTATAAACG	granulocytopoietic_cell	T	5
+chr2	48974709	48974709	T	C	ATAAGAGTCGATCCCT	granulocytopoietic_cell	T	1
+chr2	48974709	48974709	T	C	CTTAACTTCTGTCTCG	granulocytopoietic_cell	T	5
+chr2	48974709	48974709	T	C	CTTGGCTGTTAAGACA	granulocytopoietic_cell	T	6
+chr2	48974709	48974709	T	C	AGAATAGTCGGTTCGG	granulocytopoietic_cell	T	1
+chr2	48974709	48974709	T	C	CACCAGGAGTGGGTTG	granulocytopoietic_cell	T	1
+chr2	48974709	48974709	T	C	CCACTACCAAGACGTG	granulocytopoietic_cell	T	2
+chr2	48974709	48974709	T	C	CCCAGTTGTCGAACAG	granulocytopoietic_cell	T	3
+chr2	48974709	48974709	T	C	CTCGAGGAGCTCCTCT	granulocytopoietic_cell	T	1
+chr2	73909284	73909284	C	T	AAACGGGGTAGAGGAA	granulocytopoietic_cell	C	5
+chr2	73909284	73909284	C	T	CGAACATGTTAAGGGC	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	ACCAGTATCCCACTTG	granulocytopoietic_cell	C	2
+chr2	73909284	73909284	C	T	GATCGTAAGTGACTCT	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	CCAGCGACATATGCTG	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	GGTATTGTCGTTACAG	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	GTCGGGTAGTTCCACA	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	AGGGAGTGTTTGACAC	granulocytopoietic_cell	C	2
+chr2	73909284	73909284	C	T	CATCGGGAGACACTAA	granulocytopoietic_cell	C	2
+chr2	73909284	73909284	C	T	GAAATGAAGCTGTTCA	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	GGACGTCGTGCGATAG	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	CACAGGCTCAGCACAT	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	GACACGCAGATCCCAT	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	TTTGCGCCAGTTCATG	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	TTCTTAGGTATATCCG	granulocytopoietic_cell	C	2
+chr2	73909284	73909284	C	T	CGATGGCCAGGCTGAA	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	TCAATCTCATAAAGGT	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	TGGTTCCTCAGGCGAA	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	CCTTACGCAATAGAGT	granulocytopoietic_cell	C	2
+chr2	73909284	73909284	C	T	TGGCCAGCAAGACACG	granulocytopoietic_cell	C	2
+chr2	73909284	73909284	C	T	ACGTCAAGTAAATGAC	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	CAGCGACCAATCAGAA	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	TGAGGGACATGCCTAA	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	TGCACCTAGACACGAC	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	TACTTGTAGATGTTAG	granulocytopoietic_cell	C	4
+chr2	73909284	73909284	C	T	CTTCTCTGTCTCGTTC	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	GCAGTTACACGTTGGC	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	GGCAATTTCAGTTAGC	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	AACTCTTTCGGTGTCG	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	GCTGGGTTCCAGTAGT	granulocytopoietic_cell	C	2
+chr2	73909284	73909284	C	T	AGAGTGGGTTGGTTTG	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	TGAGCCGCAAACTGTC	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	CGTCTACCAGCTCCGA	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	CATCAAGTCAGCTGGC	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	CGGTTAAGTTCTCATT	granulocytopoietic_cell	C	2
+chr2	73909284	73909284	C	T	AAGCCGCAGCTAAACA	granulocytopoietic_cell	C	2
+chr2	73909284	73909284	C	T	CCTAGCTCATATGCTG	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	TCAGGATAGCTCCTCT	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	TTGGAACAGCGTCAAG	granulocytopoietic_cell	C	2
+chr2	73909284	73909284	C	T	CAAGTTGGTCCTCTTG	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	TCTTCGGTCCGCGGTA	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	GCAAACTTCCGCATCT	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	GCAAACTAGGCAGGTT	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	CACATTTAGAGCAATT	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	ACATACGGTGCGCTTG	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	AGTCTTTGTAAACACA	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	CGCTTCAGTCCAGTTA	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	CCTAGCTTCTTCGAGA	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	TTAACTCCAATGGAGC	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	CTCGAGGAGAGCTGCA	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	ATCATCTCATGAAGTA	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	CACTCCACAAAGGAAG	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	TGGTTAGGTCTTCGTC	granulocytopoietic_cell	C	2
+chr2	73909284	73909284	C	T	GGGATGAAGCTGATAA	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	AGAATAGTCGGTTCGG	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	CAGATCAAGGCCCTTG	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	CATTATCGTCACACGC	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	GACAGAGCACCGGAAA	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	GCATGTAAGACTGGGT	granulocytopoietic_cell	C	1
+chr2	73909284	73909284	C	T	GTCTCGTTCGTAGGAG	granulocytopoietic_cell	C	1
+chr2	119609836	119609836	T	C	AGCTTGATCGGCTTGG	granulocytopoietic_cell	C	1
+chr2	119609836	119609836	T	C	CTCGAGGAGAGCTGCA	granulocytopoietic_cell	T	1
+chr2	119609836	119609836	T	C	GATCAGTAGTGATCGG	granulocytopoietic_cell	T	1
+chr2	119609836	119609836	T	C	GACAGAGGTTGGTAAA	granulocytopoietic_cell	T	1
+chr2	119609836	119609836	T	C	GCATACAGTGGCCCTA	granulocytopoietic_cell	T	1
+chr2	119609836	119609836	T	C	CTAACTTGTTCAGCGC	granulocytopoietic_cell	T	1
+chr2	119609836	119609836	T	C	TCAGCTCAGAGCCCAA	granulocytopoietic_cell	C	1
+chr2	119609836	119609836	T	C	TCTTTCCAGACCTAGG	granulocytopoietic_cell	T	1
+chr2	119609836	119609836	T	C	AGAATAGTCGGTTCGG	granulocytopoietic_cell	T	1
+chr2	119609836	119609836	T	C	TATCTCAAGGGATCTG	granulocytopoietic_cell	C	1
+chr2	119609836	119609836	T	C	TACGGTATCTAACTGG	granulocytopoietic_cell	T	1
+chr2	119609836	119609836	T	C	TGGCGCACATTCCTGC	granulocytopoietic_cell	T	1
+chr2	119609836	119609836	T	C	CGGGTCAAGCGATGAC	granulocytopoietic_cell	T	1
+chr2	119609836	119609836	T	C	CGATGGCCACAGCCCA	granulocytopoietic_cell	C	1
+chr2	119609836	119609836	T	C	TACAGTGTCGTGACAT	granulocytopoietic_cell	C	1
+chr2	151720301	151720301	A	G	GCAAACTTCCGCATCT	granulocytopoietic_cell	G	2
+chr2	151720301	151720301	A	G	TCTGAGATCAACACTG	granulocytopoietic_cell	A	9
+chr2	151720301	151720301	A	G	CATTATCGTCACACGC	granulocytopoietic_cell	A	4
+chr2	151720301	151720301	A	G	CTTGGCTGTTAAGACA	granulocytopoietic_cell	A	12
+chr2	151720301	151720301	A	G	CACCAGGAGTGGGTTG	granulocytopoietic_cell	A	2
+chr2	151720301	151720301	A	G	CTCGAGGAGCTCCTCT	granulocytopoietic_cell	A	2
+chr2	151720301	151720301	A	G	CGGCTAGAGCCACGTC	granulocytopoietic_cell	A	1
+chr2	151720301	151720301	A	G	CTCTACGCACGAAACG	granulocytopoietic_cell	A	2
+chr2	151720301	151720301	A	G	CGTGAGCAGGCGTACA	granulocytopoietic_cell	A	3
+chr2	151720301	151720301	A	G	CTTGGCTGTTAAGACA	granulocytopoietic_cell	G	1
+chr2	151720301	151720301	A	G	TACAGTGTCGTGACAT	granulocytopoietic_cell	A	3
+chr2	163635040	163635040	C	T	CAGAATCAGCCACCTG	granulocytopoietic_cell	T	2
+chr2	163635040	163635040	C	T	GACGTGCTCGGTGTTA	granulocytopoietic_cell	T	1
+chr2	163635040	163635040	C	T	ACACCGGTCTGTCAAG	granulocytopoietic_cell	C	3
+chr2	163635040	163635040	C	T	CCCAGTTGTCGAACAG	granulocytopoietic_cell	C	1
+chr2	163635040	163635040	C	T	GCAAACTTCCGCATCT	granulocytopoietic_cell	C	1
+chr2	163635040	163635040	C	T	TCTCATACAGCTCGAC	granulocytopoietic_cell	C	1
+chr2	163635040	163635040	C	T	GCGACCACATGCAATC	granulocytopoietic_cell	C	1
+chr2	163635040	163635040	C	T	AAAGTAGGTGCACTTA	granulocytopoietic_cell	C	1
+chr2	163635040	163635040	C	T	TACGGATAGACTCGGA	granulocytopoietic_cell	C	1
+chr2	166047296	166047296	C	T	GTACTTTCAGACAAAT	granulocytopoietic_cell	C	1
+chr2	166047296	166047296	C	T	CACTCCACAAAGGAAG	granulocytopoietic_cell	C	1
+chr2	166047296	166047296	C	T	CGCTTCAGTCCAGTTA	granulocytopoietic_cell	C	3
+chr2	166047296	166047296	C	T	ATCACGAGTGACCAAG	granulocytopoietic_cell	C	8
+chr2	166047296	166047296	C	T	CTTTGCGTCAACACAC	granulocytopoietic_cell	C	4
+chr2	166047296	166047296	C	T	CCCAGTTGTCGAACAG	granulocytopoietic_cell	C	3
+chr2	166047296	166047296	C	T	CACATTTAGAGCAATT	granulocytopoietic_cell	C	2
+chr3	105728678	105728678	G	A	ACATGGTCAAGCGCTC	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	CAAGGCCAGTGCGATG	granulocytopoietic_cell	G	2
+chr3	105728678	105728678	G	A	CTGAAACTCAACCAAC	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	GTGCATACAAGCCCAC	granulocytopoietic_cell	G	2
+chr3	105728678	105728678	G	A	CGTCACTGTACCTACA	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	GTCGTAACAGCCTTGG	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	TAAACCGTCTATCCTA	granulocytopoietic_cell	G	2
+chr3	105728678	105728678	G	A	ACTGTCCCACTCTGTC	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	ACCAGTATCCCACTTG	granulocytopoietic_cell	G	2
+chr3	105728678	105728678	G	A	ACTGCTCAGTGCCAGA	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	CTACGTCTCGGTCTAA	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	CTCGAGGAGCTCCTCT	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	CTCTAATAGGATGTAT	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	CTCTAATGTTAAAGAC	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	CTTACCGCAGACGCTC	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	GGGATGAAGCTGATAA	granulocytopoietic_cell	G	2
+chr3	105728678	105728678	G	A	GGGTCTGAGACGACGT	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	TCACAAGAGATGCCTT	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	TCGGTAATCAAACCGT	granulocytopoietic_cell	G	2
+chr3	105728678	105728678	G	A	TAAGCGTAGGCCCTTG	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	TGCACCTAGACACGAC	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	GGCAATTTCAGTTAGC	granulocytopoietic_cell	G	3
+chr3	105728678	105728678	G	A	TGACTAGCACCGAATT	granulocytopoietic_cell	G	2
+chr3	105728678	105728678	G	A	AAACCTGGTGCAGTAG	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	ATTACTCTCTGGGCCA	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	TACGGATAGACTCGGA	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	AGCGTATCAGCTCGAC	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	CATCAAGTCAGCTGGC	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	CATCGGGAGACACTAA	granulocytopoietic_cell	G	3
+chr3	105728678	105728678	G	A	CGCTTCAGTCCAGTTA	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	CTTCTCTAGACCTTTG	granulocytopoietic_cell	G	2
+chr3	105728678	105728678	G	A	GACAGAGGTTGGTAAA	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	ACATGGTAGCCAACAG	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	CATGCCTGTTACGCGC	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	CATGGCGAGAATGTGT	granulocytopoietic_cell	G	2
+chr3	105728678	105728678	G	A	GACACGCGTTCCTCCA	granulocytopoietic_cell	G	2
+chr3	105728678	105728678	G	A	GACTAACGTGAGCGAT	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	AGGCCGTAGCCTATGT	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	CTGATCCAGGTGTTAA	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	TGGTTAGGTCTTCGTC	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	AGCGTATTCTACTTAC	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	CTGAAACCAATCTGCA	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	GGACGTCAGCACACAG	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	TTGACTTTCAGGCCCA	granulocytopoietic_cell	G	2
+chr3	105728678	105728678	G	A	CTTAGGAGTGTTCGAT	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	CTTCTCTTCAACCATG	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	CTAACTTGTTCAGCGC	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	ACTATCTCACACCGAC	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	ACACCGGGTTGGAGGT	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	TGAGCCGCAAACTGTC	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	CGACCTTGTCACCTAA	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	AACTCTTTCGGTGTCG	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	CCCAGTTGTCGAACAG	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	ATCACGAGTGACCAAG	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	CGACCTTCACATGGGA	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	GATCAGTAGTGATCGG	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	AAAGTAGTCAAAGTAG	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	AGAATAGTCGGTTCGG	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	CTACATTTCTGCGGCA	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	TAAGAGAAGTGGCACA	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	GTATCTTAGATCTGAA	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	TGAAAGAGTGTTAAGA	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	ATGGGAGCAACACGCC	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	CAAGGCCCAGCGAACA	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	CAGCCGAAGCCACGTC	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	TGCCAAATCAACGAAA	granulocytopoietic_cell	G	2
+chr3	105728678	105728678	G	A	CGGGTCAAGCGATGAC	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	TGTGTTTAGTTACCCA	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	TGTGGTACAGATAATG	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	TTGACTTGTTCAGCGC	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	TTCGAAGGTAGAGCTG	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	TGGTTCCTCAGGCGAA	granulocytopoietic_cell	G	2
+chr3	105728678	105728678	G	A	CGGACACAGAGACGAA	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	GAAATGAAGCTGTTCA	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	GTCTCGTTCGTAGGAG	granulocytopoietic_cell	G	2
+chr3	105728678	105728678	G	A	CGGCTAGAGCCACGTC	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	CGTCTACAGCGCCTCA	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	TTTATGCTCAGGCAAG	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	GCAGCCAGTAGGACAC	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	ACGATGTAGAGGTTGC	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	AGCGTATAGGCTAGGT	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	CTCATTATCCGCGTTT	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	TTCTCCTAGGCCATAG	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	CAACTAGTCCTGCCAT	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	GCGACCACATGCAATC	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	TGTGTTTTCTTGACGA	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	ATTCTACCAACGATCT	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	TAAGTGCGTTAAGATG	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	CCTAGCTTCTTCGAGA	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	GCGGGTTGTTAAGGGC	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	TACAGTGTCGTGACAT	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	TATTACCTCGGTTAAC	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	TGCCAAAAGGGCTTGA	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	GACGTGCTCGTTACGA	granulocytopoietic_cell	G	2
+chr3	105728678	105728678	G	A	GCAAACTTCCGCATCT	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	GTTCGGGCACCGAATT	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	GACAGAGCACCGGAAA	granulocytopoietic_cell	G	1
+chr3	105728678	105728678	G	A	ACGTCAAGTAAATGAC	granulocytopoietic_cell	G	1
+chr5	34575655	34575655	A	G	CTAACTTGTTCAGCGC	granulocytopoietic_cell	A	3
+chr5	34575655	34575655	A	G	ACGGGTCGTCGACTGC	granulocytopoietic_cell	A	1
+chr5	34575655	34575655	A	G	AGTAGTCCATTGGTAC	granulocytopoietic_cell	A	2
+chr5	34575655	34575655	A	G	CGACCTTCACATGGGA	granulocytopoietic_cell	A	3
+chr5	34575655	34575655	A	G	TCGCGAGTCGCCAAAT	granulocytopoietic_cell	A	2
+chr5	34575655	34575655	A	G	ATCATCTCATGAAGTA	granulocytopoietic_cell	A	1
+chr5	34575655	34575655	A	G	ATTCTACAGCCGTCGT	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	CATGGCGTCAGTTTGG	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	GCATGATCATTTCAGG	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	TACTCGCAGTCCCACG	granulocytopoietic_cell	A	2
+chr5	88783005	88783005	A	G	TTTATGCTCAGGCAAG	granulocytopoietic_cell	A	2
+chr5	88783005	88783005	A	G	CATTCGCAGGGCACTA	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	AGATCTGTCTAGCACA	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	AGGCCGTCAGCTTCGG	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	CCTAGCTCATATGCTG	granulocytopoietic_cell	A	2
+chr5	88783005	88783005	A	G	ATTCTACAGCCGTCGT	granulocytopoietic_cell	A	2
+chr5	88783005	88783005	A	G	AGTAGTCCATTGGTAC	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	CACAGGCTCAGCACAT	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	CAGAGAGTCTTGCATT	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	CGGACACGTATGGTTC	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	CTAACTTGTTCAGCGC	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	CTTCTCTTCCTAAGTG	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	GACAGAGCACCGGAAA	granulocytopoietic_cell	A	3
+chr5	88783005	88783005	A	G	TACTTGTAGATGTTAG	granulocytopoietic_cell	A	2
+chr5	88783005	88783005	A	G	TCTATTGCATCACCCT	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	GTGCTTCCAGCCTTGG	granulocytopoietic_cell	A	3
+chr5	88783005	88783005	A	G	TCAGCTCAGAGCCCAA	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	GATCGTAAGTGACTCT	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	TGTGTTTTCTTGACGA	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	TTGGAACAGCGTCAAG	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	AGCGTATTCTACTTAC	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	CGAGCACAGCCACGTC	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	GGCAATTTCAGTTAGC	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	CAACCAATCGTACCGG	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	ATGAGGGGTCGTGGCT	granulocytopoietic_cell	A	2
+chr5	88783005	88783005	A	G	CATCAGACATCTACGA	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	CTACGTCTCGGTCTAA	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	TGCCCTAGTGCGCTTG	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	TGTGTTTAGTTACCCA	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	CCTAGCTTCTTCGAGA	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	CGGACTGCACATCCAA	granulocytopoietic_cell	A	3
+chr5	88783005	88783005	A	G	CTCGGAGGTCCGAACC	granulocytopoietic_cell	A	2
+chr5	88783005	88783005	A	G	CGGGTCAAGCGATGAC	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	CGCTTCAAGGTAGCCA	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	TGCCAAAAGGGCTTGA	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	ATTACTCTCTGGGCCA	granulocytopoietic_cell	A	2
+chr5	88783005	88783005	A	G	ACATGGTAGCCAACAG	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	CCAGCGACATATGCTG	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	CGGCTAGAGCCACGTC	granulocytopoietic_cell	A	3
+chr5	88783005	88783005	A	G	CTCGAGGAGCTCCTCT	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	CTCTAATAGGATGTAT	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	CTTGGCTGTTAAGACA	granulocytopoietic_cell	A	2
+chr5	88783005	88783005	A	G	GATGCTAGTTCCATGA	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	CACCACTAGCATGGCA	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	GTCAAGTCACGCCAGT	granulocytopoietic_cell	A	3
+chr5	88783005	88783005	A	G	CGTCTACAGCGCCTCA	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	TGAGGGACATGCCTAA	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	AGGGTGACAAGAGGCT	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	CTGAAACCAATCTGCA	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	TACGGTAAGATGCCAG	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	ACTGAGTAGGTGCAAC	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	ATTGGACTCAGAAATG	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	AGAGCGACAGTATCTG	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	CAACTAGTCCTGCCAT	granulocytopoietic_cell	A	2
+chr5	88783005	88783005	A	G	GAAATGAAGCTGTTCA	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	GCAAACTAGGCAGGTT	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	GTCTCGTGTCTACCTC	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	TATCTCAGTAGTGAAT	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	GGACGTCAGCACACAG	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	ACCAGTATCCCACTTG	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	CATGGCGAGAATGTGT	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	CTTCTCTAGACCTTTG	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	TCACGAATCCTGCCAT	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	GACACGCAGATCCCAT	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	CGATGGCCACAGCCCA	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	GAGGTGAGTCCGAACC	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	GGGTCTGAGACGACGT	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	GTGCATACAAGCCCAC	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	GTCTCGTTCGTAGGAG	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	TTTACTGCAGATTGCT	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	CTCTACGCACGAAACG	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	TGTGGTACAGATAATG	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	ACGATGTAGAGGTTGC	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	AGCGTATCAGCTCGAC	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	CCTTACGCAATAGAGT	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	GGGTCTGCAATGACCT	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	GACAGAGGTTGGTAAA	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	ACGCCGACAGTAACGG	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	GTATCTTAGATCTGAA	granulocytopoietic_cell	A	1
+chr5	88783005	88783005	A	G	CGTCACTGTACCTACA	granulocytopoietic_cell	A	1
+chr5	108071370	108071370	A	G	GATCGTAAGTGACTCT	granulocytopoietic_cell	A	3
+chr5	108071370	108071370	A	G	TCAGCTCAGAGCCCAA	granulocytopoietic_cell	A	2
+chr5	108071370	108071370	A	G	GTACTTTCAGACAAAT	granulocytopoietic_cell	A	2
+chr5	108071370	108071370	A	G	GACAGAGTCTGACCTC	granulocytopoietic_cell	A	4
+chr5	108071370	108071370	A	G	TACTCATAGACTTTCG	granulocytopoietic_cell	A	1
+chr5	108071370	108071370	A	G	AGGGTGAAGGTGCTTT	granulocytopoietic_cell	A	3
+chr5	108071370	108071370	A	G	ATGTGTGGTTCCACAA	granulocytopoietic_cell	A	1
+chr5	144160117	144160117	T	C	GTACGTAGTTCAGCGC	granulocytopoietic_cell	T	4
+chr5	144160117	144160117	T	C	TACTTGTAGATGTTAG	granulocytopoietic_cell	T	2
+chr5	144160117	144160117	T	C	GTCACAAGTAAACCTC	granulocytopoietic_cell	T	2
+chr5	144160117	144160117	T	C	ACCAGTATCCCACTTG	granulocytopoietic_cell	T	2
+chr5	144160117	144160117	T	C	AGCTTGACAGTCAGCC	granulocytopoietic_cell	T	1
+chr6	39202768	39202768	T	C	CCTTACGCATTCGACA	granulocytopoietic_cell	C	6
+chr6	39202768	39202768	T	C	TAAGAGAGTGCAACTT	granulocytopoietic_cell	T	6
+chr6	39202768	39202768	T	C	ACATACGGTGCGCTTG	granulocytopoietic_cell	T	5
+chr6	39202768	39202768	T	C	CATTCGCAGGGCACTA	granulocytopoietic_cell	T	4
+chr6	39202768	39202768	T	C	CTCACACGTACAGACG	granulocytopoietic_cell	T	4
+chr6	39202768	39202768	T	C	GTTTCTAGTAGCTAAA	granulocytopoietic_cell	T	1
+chr6	39202768	39202768	T	C	CTGATCCAGGTGTTAA	granulocytopoietic_cell	C	2
+chr6	39202768	39202768	T	C	TGAAAGAGTGTTAAGA	granulocytopoietic_cell	T	1
+chr6	39202768	39202768	T	C	GTTCATTTCTCAAGTG	granulocytopoietic_cell	T	2
+chr6	39202768	39202768	T	C	TGACTAGCACCGAATT	granulocytopoietic_cell	T	1
+chr6	120610780	120610780	A	G	CAAGAAAGTAACGTTC	granulocytopoietic_cell	A	4
+chr6	120610780	120610780	A	G	TGGCGCACATTCCTGC	granulocytopoietic_cell	A	3
+chr6	120610780	120610780	A	G	GGAGCAAAGGAATGGA	granulocytopoietic_cell	A	1
+chr6	120610780	120610780	A	G	GTTAAGCAGTCAATAG	granulocytopoietic_cell	A	3
+chr6	120610780	120610780	A	G	GAATGAAGTCCGTTAA	granulocytopoietic_cell	A	2
+chr6	120610780	120610780	A	G	CATGGCGAGAATGTGT	granulocytopoietic_cell	A	1
+chr7	25293938	25293938	A	G	CATGCCTGTTACGCGC	granulocytopoietic_cell	A	1
+chr7	25293938	25293938	A	G	GCTGCGAAGATGAGAG	granulocytopoietic_cell	A	1
+chr7	25293938	25293938	A	G	CGAGCACTCTCGGACG	granulocytopoietic_cell	A	1
+chr7	25293938	25293938	A	G	TTTCCTCAGATGTGGC	granulocytopoietic_cell	A	1
+chr7	25293938	25293938	A	G	GAGGTGACACCAACCG	granulocytopoietic_cell	A	1
+chr7	25293938	25293938	A	G	GTCTCGTTCGTAGGAG	granulocytopoietic_cell	A	2
+chr7	25293938	25293938	A	G	TAAGCGTAGGCCCTTG	granulocytopoietic_cell	A	1
+chr7	25293938	25293938	A	G	TACTCGCAGTCCCACG	granulocytopoietic_cell	A	2
+chr7	25293938	25293938	A	G	GCTGCGAAGATGAGAG	granulocytopoietic_cell	G	1
+chr7	25293938	25293938	A	G	ATCCACCCACTTCTGC	granulocytopoietic_cell	A	1
+chr7	25293938	25293938	A	G	CAACCAATCCGCGGTA	granulocytopoietic_cell	A	1
+chr7	25293938	25293938	A	G	CGTCTACAGCGCCTCA	granulocytopoietic_cell	A	1
+chr7	25293938	25293938	A	G	GTCTTCGTCGATAGAA	granulocytopoietic_cell	G	1
+chr7	25293938	25293938	A	G	ATCACGAGTGACCAAG	granulocytopoietic_cell	A	1
+chr7	25293938	25293938	A	G	TAAGAGAAGTGGCACA	granulocytopoietic_cell	G	1
+chr7	25293938	25293938	A	G	CGGACACGTCAAAGAT	granulocytopoietic_cell	A	1
+chr7	25293938	25293938	A	G	GGACATTAGGACAGCT	granulocytopoietic_cell	A	1
+chr7	25293938	25293938	A	G	GTCGGGTAGTTCCACA	granulocytopoietic_cell	A	1
+chr7	25293938	25293938	A	G	AGCGTATTCTACTTAC	granulocytopoietic_cell	A	1
+chr7	25293938	25293938	A	G	ACGATGTAGAGGTTGC	granulocytopoietic_cell	A	1
+chr7	25293938	25293938	A	G	CATCGAAGTGCCTGCA	granulocytopoietic_cell	A	1
+chr7	25293938	25293938	A	G	GTCACAATCACCTCGT	granulocytopoietic_cell	A	1
+chr7	25293938	25293938	A	G	AGGGAGTGTTTGACAC	granulocytopoietic_cell	A	1
+chr7	25293938	25293938	A	G	CAACCAATCGTACCGG	granulocytopoietic_cell	A	1
+chr7	25293938	25293938	A	G	TCGCGTTCATCGACGC	granulocytopoietic_cell	A	1
+chr7	25293938	25293938	A	G	GACTACAGTCTAGAGG	granulocytopoietic_cell	A	1
+chr7	25293938	25293938	A	G	CACAGGCTCAGCACAT	granulocytopoietic_cell	A	1
+chr7	25293938	25293938	A	G	CAGCCGAAGCCACGTC	granulocytopoietic_cell	A	1
+chr7	25293938	25293938	A	G	ACTGTCCCACTCTGTC	granulocytopoietic_cell	A	1
+chr7	28790036	28790036	G	A	GCTCCTATCAGTCAGT	granulocytopoietic_cell	G	1
+chr7	28790036	28790036	G	A	CGTCTACAGCGCCTCA	granulocytopoietic_cell	G	2
+chr7	28790036	28790036	G	A	ATTGGACTCAGAAATG	granulocytopoietic_cell	G	1
+chr7	28790036	28790036	G	A	CCTTACGTCATTGCCC	granulocytopoietic_cell	G	5
+chr7	28790036	28790036	G	A	ATCATCTCATGAAGTA	granulocytopoietic_cell	G	1
+chr7	28790036	28790036	G	A	TTTCCTCAGATGTGGC	granulocytopoietic_cell	G	2
+chr7	28790036	28790036	G	A	TGCACCTCAAGCTGGA	granulocytopoietic_cell	G	3
+chr7	28790036	28790036	G	A	TAGCCGGCACAGACTT	granulocytopoietic_cell	G	1
+chr7	28790036	28790036	G	A	TGGTTCCCACGTTGGC	granulocytopoietic_cell	G	1
+chr7	28790036	28790036	G	A	AGGCCACAGCTGTTCA	granulocytopoietic_cell	G	1
+chr7	28790036	28790036	G	A	GCAGCCAGTAGGACAC	granulocytopoietic_cell	A	1
+chr7	28790036	28790036	G	A	TAAGAGAAGTGGCACA	granulocytopoietic_cell	G	1
+chr7	28790036	28790036	G	A	TCGGTAATCGCGTTTC	granulocytopoietic_cell	A	2
+chr7	28790036	28790036	G	A	ATCTACTTCGCAGGCT	granulocytopoietic_cell	G	1
+chr7	28790036	28790036	G	A	TCGGTAATCGCGTTTC	granulocytopoietic_cell	G	3
+chr7	28790036	28790036	G	A	GTGAAGGCAGTATCTG	granulocytopoietic_cell	G	1
+chr7	28790036	28790036	G	A	CTGCGGATCGAGCCCA	granulocytopoietic_cell	G	1
+chr7	63932321	63932321	T	A	ACATGGTCAAGCGCTC	granulocytopoietic_cell	T	1
+chr7	63932321	63932321	T	A	TATTACCAGGTGATAT	granulocytopoietic_cell	T	1
+chr7	63932321	63932321	T	A	AACTCTTTCGGTGTCG	granulocytopoietic_cell	T	1
+chr7	63932321	63932321	T	A	TGACTAGCACCGAATT	granulocytopoietic_cell	T	1
+chr7	63932321	63932321	T	A	TCGCGTTCATGGTTGT	granulocytopoietic_cell	T	1
+chr7	63932321	63932321	T	A	GCTGCGAAGATGAGAG	granulocytopoietic_cell	T	1
+chr7	63932321	63932321	T	A	GCATGTAAGACTGGGT	granulocytopoietic_cell	T	1
+chr7	63932321	63932321	T	A	GGCAATTAGCTGATAA	granulocytopoietic_cell	T	1
+chr7	63932321	63932321	T	A	TCACAAGAGATGCCTT	granulocytopoietic_cell	T	1
+chr7	63932321	63932321	T	A	CCTTACGCAATAGAGT	granulocytopoietic_cell	T	1
+chr7	63932321	63932321	T	A	CACAGGCAGGTACTCT	granulocytopoietic_cell	T	1
+chr7	63932321	63932321	T	A	CTCGAGGAGAGCTGCA	granulocytopoietic_cell	T	1
+chr7	63932321	63932321	T	A	TCGTAGACACCAGATT	granulocytopoietic_cell	T	1
+chr7	63932321	63932321	T	A	AGGGTGACAAGAGGCT	granulocytopoietic_cell	T	1
+chr7	63932321	63932321	T	A	CGGTTAAAGAACAATC	granulocytopoietic_cell	T	2
+chr7	63932321	63932321	T	A	TGAAAGAGTGTTAAGA	granulocytopoietic_cell	T	1
+chr7	63932321	63932321	T	A	CAACCAATCCGCGGTA	granulocytopoietic_cell	T	1
+chr7	63932321	63932321	T	A	CATATTCGTGACCAAG	granulocytopoietic_cell	T	3
+chr7	63932321	63932321	T	A	CCGGTAGTCTTTACAC	granulocytopoietic_cell	T	3
+chr7	63932321	63932321	T	A	GGCAATTTCAGTTAGC	granulocytopoietic_cell	T	1
+chr7	63932321	63932321	T	A	GTCTTCGTCGATAGAA	granulocytopoietic_cell	T	1
+chr7	63932321	63932321	T	A	TACGGATAGACTCGGA	granulocytopoietic_cell	T	1
+chr7	63932321	63932321	T	A	TCTGAGATCAACACTG	granulocytopoietic_cell	T	1
+chr7	63932321	63932321	T	A	TGTGGTACAGATAATG	granulocytopoietic_cell	T	1
+chr7	63932321	63932321	T	A	CTCGAGGAGCTCCTCT	granulocytopoietic_cell	T	2
+chr7	63932321	63932321	T	A	TACGGTAAGATGCCAG	granulocytopoietic_cell	T	2
+chr7	63932321	63932321	T	A	GTACTTTCAGACAAAT	granulocytopoietic_cell	T	1
+chr7	63932321	63932321	T	A	GTGCTTCCAGCCTTGG	granulocytopoietic_cell	T	1
+chr7	63932321	63932321	T	A	TACCTATCACCATCCT	granulocytopoietic_cell	T	1
+chr7	63932321	63932321	T	A	GATGCTAGTTCCATGA	granulocytopoietic_cell	T	1
+chr7	101411568	101411568	A	G	GAGGTGACACCAACCG	granulocytopoietic_cell	A	1
+chr7	101411568	101411568	A	G	CGATGGCCAGGCTGAA	granulocytopoietic_cell	A	1
+chr7	101411568	101411568	A	G	CTGAAACTCAACCAAC	granulocytopoietic_cell	G	1
+chr7	101411568	101411568	A	G	CGCTTCAGTCCAGTTA	granulocytopoietic_cell	A	1
+chr7	141157943	141157943	A	G	AGCTTGATCGGCTTGG	granulocytopoietic_cell	A	1
+chr7	141157943	141157943	A	G	TGCCCTAGTGCGCTTG	granulocytopoietic_cell	A	2
+chr7	141157943	141157943	A	G	TTTGCGCCAGTTCATG	granulocytopoietic_cell	A	1
+chr7	141157943	141157943	A	G	CTTACCGCAGACGCTC	granulocytopoietic_cell	A	1
+chr7	141157943	141157943	A	G	CGGACTGCACATCCAA	granulocytopoietic_cell	A	1
+chr7	141157943	141157943	A	G	CACAGGCGTCTAGCGC	granulocytopoietic_cell	A	2
+chr7	141157943	141157943	A	G	ACGATGTAGAGGTTGC	granulocytopoietic_cell	A	2
+chr7	141157943	141157943	A	G	GCCTCTAGTCCATCCT	granulocytopoietic_cell	A	1
+chr7	141157943	141157943	A	G	ATTACTCTCTGGGCCA	granulocytopoietic_cell	A	1
+chr7	141157943	141157943	A	G	CGTGTAATCTAACGGT	granulocytopoietic_cell	A	1
+chr8	71534117	71534117	C	T	AAGACCTTCCGAATGT	granulocytopoietic_cell	C	3
+chr8	71534117	71534117	C	T	AGGGAGTGTTTGACAC	granulocytopoietic_cell	C	2
+chr8	71534117	71534117	C	T	GCAAACTAGGCAGGTT	granulocytopoietic_cell	C	4
+chr8	71534117	71534117	C	T	GTTCGGGTCATGTCCC	granulocytopoietic_cell	C	2
+chr8	71534117	71534117	C	T	ACTTTCATCCTATGTT	granulocytopoietic_cell	C	3
+chr8	71534117	71534117	C	T	AACTTTCCACATAACC	granulocytopoietic_cell	C	3
+chr8	71534117	71534117	C	T	TACTTGTGTGTTGAGG	granulocytopoietic_cell	C	1
+chr8	71534117	71534117	C	T	GATCAGTGTGATGCCC	granulocytopoietic_cell	C	1
+chr8	71534117	71534117	C	T	CATCGGGAGACACTAA	granulocytopoietic_cell	C	1
+chr8	71534117	71534117	C	T	TGGCCAGCAAGACACG	granulocytopoietic_cell	C	1
+chr8	84836265	84836265	T	C	TAGCCGGCACAGACTT	granulocytopoietic_cell	T	6
+chr8	84836265	84836265	T	C	TGCCCTAGTGCGCTTG	granulocytopoietic_cell	T	3
+chr8	84836265	84836265	T	C	GGTATTGTCGTTACAG	granulocytopoietic_cell	T	12
+chr8	84836265	84836265	T	C	ACTGCTCAGTGCCAGA	granulocytopoietic_cell	T	2
+chr8	84836265	84836265	T	C	TTCTTAGGTATATCCG	granulocytopoietic_cell	T	2
+chr8	84836265	84836265	T	C	TGCCCTAGTGCGCTTG	granulocytopoietic_cell	C	2
+chr8	84836265	84836265	T	C	TGGCCAGCAAGACACG	granulocytopoietic_cell	T	1
+chr8	84836265	84836265	T	C	ACATCAGGTACCTACA	granulocytopoietic_cell	C	2
+chr8	84836265	84836265	T	C	CCAGCGACATATGCTG	granulocytopoietic_cell	T	1
+chr8	84836265	84836265	T	C	CAGAATCAGCCACCTG	granulocytopoietic_cell	T	1
+chr8	84836265	84836265	T	C	TATCTCAAGGGATCTG	granulocytopoietic_cell	T	1
+chr8	84836265	84836265	T	C	CATGGCGAGAATGTGT	granulocytopoietic_cell	T	2
+chr9	72062240	72062240	T	A	TTCTTAGGTATATCCG	granulocytopoietic_cell	A	2
+chr9	72062240	72062240	T	A	TGGCCAGCAAGACACG	granulocytopoietic_cell	A	1
+chr9	72062240	72062240	T	A	TGAGGGACATGCCTAA	granulocytopoietic_cell	T	2
+chr9	72062240	72062240	T	A	GGGCATCTCACTGGGC	granulocytopoietic_cell	T	1
+chr9	72062240	72062240	T	A	GGGATGAAGCTGATAA	granulocytopoietic_cell	T	1
+chr9	73093202	73093202	A	G	GCGACCACAAGGCTCC	granulocytopoietic_cell	G	1
+chr9	73093202	73093202	A	G	CACAGGCAGGTACTCT	granulocytopoietic_cell	G	3
+chr9	73093202	73093202	A	G	TGGCCAGCAAGACACG	granulocytopoietic_cell	A	2
+chr9	73093202	73093202	A	G	TGAAAGAGTGTTAAGA	granulocytopoietic_cell	A	2
+chr9	73093202	73093202	A	G	CATCGAATCCTAAGTG	granulocytopoietic_cell	A	1
+chr9	73093202	73093202	A	G	CTCTAATGTTAAAGAC	granulocytopoietic_cell	A	1
+chr9	73093202	73093202	A	G	CCACTACCAAGACGTG	granulocytopoietic_cell	A	2
+chr9	114592136	114592136	A	G	ACGATGTAGAGGTTGC	granulocytopoietic_cell	A	3
+chr9	114592136	114592136	A	G	ACGCAGCGTGCAACGA	granulocytopoietic_cell	A	4
+chr9	114592136	114592136	A	G	GTACGTAGTTCAGCGC	granulocytopoietic_cell	A	4
+chr9	114592136	114592136	A	G	GCTGGGTTCCAGTAGT	granulocytopoietic_cell	A	3
+chr9	114592136	114592136	A	G	AGGCCGTAGCCTATGT	granulocytopoietic_cell	A	1
+chr9	114592136	114592136	A	G	ATGAGGGGTCGTGGCT	granulocytopoietic_cell	A	2
+chr9	114592136	114592136	A	G	GATCAGTGTGATGCCC	granulocytopoietic_cell	A	1
+chr9	114592136	114592136	A	G	CGATGGCCAGGCTGAA	granulocytopoietic_cell	A	5
+chr9	114592136	114592136	A	G	GCTCCTATCAGTCAGT	granulocytopoietic_cell	A	2
+chr9	114592136	114592136	A	G	TTCGAAGAGATGTGGC	granulocytopoietic_cell	A	1
+chr9	114592136	114592136	A	G	AAGCCGCAGCTAAACA	granulocytopoietic_cell	A	3
+chr9	114592136	114592136	A	G	CATGGCGTCAGTTTGG	granulocytopoietic_cell	A	1
+chr9	114592229	114592229	T	C	CGATGGCCAGGCTGAA	granulocytopoietic_cell	T	3
+chr9	114592229	114592229	T	C	AAGCCGCAGCTAAACA	granulocytopoietic_cell	T	5
+chr9	114592229	114592229	T	C	GTACGTAGTTCAGCGC	granulocytopoietic_cell	T	3
+chr9	114592229	114592229	T	C	ACGATGTAGAGGTTGC	granulocytopoietic_cell	T	4
+chr9	114592229	114592229	T	C	CTGAAACTCAACCAAC	granulocytopoietic_cell	T	4
+chr9	114592229	114592229	T	C	TTCGAAGAGATGTGGC	granulocytopoietic_cell	C	5
+chr9	114592229	114592229	T	C	GACTACAGTCTAGAGG	granulocytopoietic_cell	T	1
+chr9	114592229	114592229	T	C	GATCAGTGTGATGCCC	granulocytopoietic_cell	T	2
+chr9	114592229	114592229	T	C	TGGTTCCTCAGGCGAA	granulocytopoietic_cell	T	2
+chr9	114592229	114592229	T	C	TGTGTTTGTCGCGTGT	granulocytopoietic_cell	T	1
+chr9	114592229	114592229	T	C	TGAAAGAGTGTTAAGA	granulocytopoietic_cell	T	3
+chr9	114592229	114592229	T	C	GCTGGGTTCCAGTAGT	granulocytopoietic_cell	T	2
+chr9	114592229	114592229	T	C	CCTAGCTTCTTCGAGA	granulocytopoietic_cell	T	1
+chr9	114592229	114592229	T	C	GTCTCGTTCGTAGGAG	granulocytopoietic_cell	T	1
+chr9	114592229	114592229	T	C	ACGCAGCGTGCAACGA	granulocytopoietic_cell	C	1

@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-import re
 from pathlib import Path
 
 import numpy as np
@@ -28,81 +27,49 @@ ORDERED_LABELS = [
 WEIGHT_BY = "cells"
 DONOR_FILTER = {"1-M-62"}
 
-GENO_RE = re.compile(r"^(?P<celltype>.+?)\.single_cell_genotype(?:\s*\d+)?\.tsv$", re.IGNORECASE)
-SITES_RE = re.compile(r"^(?P<donor>[^\.]+)\.(?P<celltype>.+?)\.SitesPerCell\.tsv$", re.IGNORECASE)
+GENO_SUFFIX = ".single_cell_genotype.tsv"
+SITES_SUFFIX = ".SitesPerCell.tsv"
 
 
-def detect_sep(p: Path) -> str:
-    with p.open("r", errors="ignore") as f:
-        line = f.readline()
-    return "\t" if ("\t" in line and line.count("\t") >= line.count(",")) else ","
+def read_sites_per_cell(fp):
+    df = pd.read_csv(fp, sep="\t", low_memory=False)
+    if "CB" not in df.columns or "SitesPerCell" not in df.columns:
+        return None
+    df["CB"] = df["CB"].astype(str).str.strip().str.upper()
+    return df.groupby("CB", as_index=False)["SitesPerCell"].max()
 
 
-def pick_sites_col(cols):
-    def norm(c):
-        return re.sub(r"[^a-z0-9]", "", str(c).lower())
-    normed = {norm(c): c for c in cols}
-    for key in [
-        "sitespercell",
-        "sites",
-        "callablesites",
-        "numcallablesites",
-        "numsites",
-        "sitecount",
-        "sitespercellrounded",
-    ]:
-        if key in normed:
-            return normed[key]
-    for c in cols:
-        if "site" in str(c).lower():
-            return c
-    return None
-
-
-def read_sites_per_cell(fp: Path) -> pd.DataFrame:
-    df = pd.read_csv(fp, sep=detect_sep(fp), low_memory=False)
-    df.columns = [c.strip() for c in df.columns]
-    if "CB" not in df.columns and "cell_barcode" in df.columns:
-        df = df.rename(columns={"cell_barcode": "CB"})
-    col_sites = pick_sites_col(df.columns)
-    if col_sites is None:
-        raise ValueError(f"No callable-sites column detected in {fp}")
-    out = df[["CB", col_sites]].copy()
-    out["CB"] = out["CB"].astype(str).str.strip().str.upper()
-    out = out.rename(columns={col_sites: "SitesPerCell"})
-    return out.groupby("CB", as_index=False)["SitesPerCell"].max()
-
-
-def read_genotype(fp: Path) -> pd.DataFrame:
-    df = pd.read_csv(fp, sep=detect_sep(fp), low_memory=False)
-    if "CB" not in df.columns and "cell_barcode" in df.columns:
-        df = df.rename(columns={"cell_barcode": "CB"})
+def read_genotype(fp):
+    df = pd.read_csv(fp, sep="\t", low_memory=False)
+    if "CB" not in df.columns:
+        return None
     df["CB"] = df["CB"].astype(str).str.strip().str.upper()
     return df
 
 
-def parse_celltype(name: str) -> str:
-    m = GENO_RE.match(name)
-    if not m:
-        raise ValueError(f"Unrecognized genotype filename: {name}")
-    return m.group("celltype")
+def parse_celltype(name):
+    if not name.endswith(GENO_SUFFIX):
+        return None
+    return name[: -len(GENO_SUFFIX)]
 
 
-def build_sites_index(root: Path):
+def build_sites_index(donor_dir, donor):
     idx = {}
-    for p in root.rglob("*.SitesPerCell.tsv"):
-        m = SITES_RE.match(p.name)
-        if m:
-            idx[(m.group("donor"), m.group("celltype"))] = p
+    for p in donor_dir.glob(f"{donor}.*{SITES_SUFFIX}"):
+        base = p.name[: -len(SITES_SUFFIX)]
+        parts = base.split(".", 1)
+        if len(parts) != 2:
+            continue
+        idx[parts[1]] = p
     return idx
 
 
-def bad(s: pd.Series):
+def bad(s):
     ss = s.astype(str).str.strip()
     return ss.eq("") | ss.str.lower().isin({"na", "unknown", "nan", "none"})
 
 
-def mode_one(x: pd.Series):
+def mode_one(x):
     x = x.dropna()
     m = x.mode(dropna=False)
     return m.iat[0] if not m.empty else np.nan
@@ -118,12 +85,12 @@ def classify_stage(n_layers, n_tissues, n_cells):
     return "Cell type-specific"
 
 
-def parse_mouse_age_months(donor_id: str):
-    m = re.match(r"^(?P<age>\d+)-", str(donor_id))
-    return int(m.group("age")) if m else None
+def parse_mouse_age_months(donor_id):
+    head = str(donor_id).split("-", 1)[0]
+    return int(head) if head.isdigit() else None
 
 
-def load_reference_weights(weights_dir: Path):
+def load_reference_weights(weights_dir):
     w_gl = pd.read_csv(weights_dir / "weights_germ_layer.csv").set_index("germ_layer")["weight"]
     w_tissue_gl = (
         pd.read_csv(weights_dir / "weights_tissue_within_germ_layer.csv")
@@ -136,32 +103,25 @@ def load_reference_weights(weights_dir: Path):
     return w_gl, w_tissue_gl, w_cell_tissue
 
 
-def build_cb_map(cb_table: Path) -> pd.DataFrame:
+def build_cb_map(cb_table):
     m = pd.read_csv(cb_table, usecols=["donor", "CB", "tissue", "germ_layer"])
     m["CB"] = m["CB"].astype(str).str.strip().str.upper()
     m = m[~bad(m["tissue"]) & ~bad(m["germ_layer"])].copy()
-    return (
-        m.groupby(["donor", "CB"])
-        .agg(tissue=("tissue", mode_one), germ_layer=("germ_layer", mode_one))
-        .reset_index()
+    return m.groupby(["donor", "CB"], as_index=False).agg(
+        tissue=("tissue", mode_one), germ_layer=("germ_layer", mode_one)
     )
 
 
-def derive_keep_donors(cb_map: pd.DataFrame, min_layers=2, min_tissues=2):
+def derive_keep_donors(cb_map, min_layers=2, min_tissues=2):
     x = cb_map.loc[
         ~bad(cb_map["germ_layer"]) & ~bad(cb_map["tissue"]),
         ["donor", "germ_layer", "tissue"],
     ]
-    summary = (
-        x.groupby("donor")
-        .agg(n_layers=("germ_layer", "nunique"), n_tissues=("tissue", "nunique"))
-        .sort_index()
-    )
-    keep = set(summary.index[(summary["n_layers"] >= min_layers) & (summary["n_tissues"] >= min_tissues)])
-    return keep
+    summary = x.groupby("donor").agg(n_layers=("germ_layer", "nunique"), n_tissues=("tissue", "nunique"))
+    return set(summary.index[(summary["n_layers"] >= min_layers) & (summary["n_tissues"] >= min_tissues)])
 
 
-def build_cb_level(df: pd.DataFrame) -> pd.DataFrame:
+def build_cb_level(df):
     exp_cb = (
         df[["donor", "CB", "SitesPerCell"]]
         .dropna(subset=["SitesPerCell"])
@@ -182,16 +142,14 @@ def build_cb_level(df: pd.DataFrame) -> pd.DataFrame:
     return cb_full
 
 
-def compute_reference_weights(cb_full: pd.DataFrame, keep_donors: set, weight_by="exposure"):
+def compute_reference_weights(cb_full, keep_donors, weight_by="exposure"):
     x = cb_full[cb_full["donor"].isin(keep_donors)].copy()
     if x.empty:
         return pd.Series(dtype=float), pd.Series(dtype=float), pd.Series(dtype=float)
     if weight_by == "exposure":
         x["_w"] = x["SitesPerCell"].astype(float)
-    elif weight_by == "cells":
-        x["_w"] = 1.0
     else:
-        raise ValueError("weight_by must be 'exposure' or 'cells'")
+        x["_w"] = 1.0
     w_gl = x.groupby("germ_layer")["_w"].sum()
     w_gl = w_gl / w_gl.sum() if w_gl.sum() > 0 else w_gl
     w_tissue_gl = x.groupby(["germ_layer", "tissue"])["_w"].sum()
@@ -302,7 +260,6 @@ def standardize_all_stages_3level(
 
 
 def main():
-    sites_idx = build_sites_index(ROOT)
     cb_map = build_cb_map(CB_TABLE)
     donors_present = {d.name for d in ROOT.iterdir() if d.is_dir()}
     keep_donors = derive_keep_donors(cb_map, min_layers=2, min_tissues=2) & donors_present
@@ -310,23 +267,25 @@ def main():
         raise SystemExit("No donors kept after filters.")
 
     rows = []
-    for donor_dir in sorted([d for d in ROOT.iterdir() if d.is_dir()]):
-        donor = donor_dir.name
-        if donor not in keep_donors:
-            continue
-        gfiles = sorted(donor_dir.glob("*.single_cell_genotype*.tsv"))
-        for gfp in gfiles:
+    for donor in sorted(keep_donors):
+        donor_dir = ROOT / donor
+        sites_idx = build_sites_index(donor_dir, donor)
+        for gfp in sorted(donor_dir.glob(f"*{GENO_SUFFIX}")):
             ct = parse_celltype(gfp.name)
+            if not ct:
+                continue
             g = read_genotype(gfp)
-            spath = sites_idx.get((donor, ct))
-            if not spath or not spath.exists():
+            if g is None:
+                continue
+            spath = sites_idx.get(ct)
+            if not spath:
                 continue
             s = read_sites_per_cell(spath)
-
+            if s is None:
+                continue
             m = g.merge(s, on="CB", how="inner")
             if m.empty:
                 continue
-
             need = {"ALT_expected", "Base_observed", "#CHROM", "Start", "REF"}
             if not need.issubset(m.columns):
                 continue
@@ -334,19 +293,16 @@ def main():
             m["is_mutated"] = (
                 m["Base_observed"].astype(str) == m["ALT_expected"].astype(str)
             ).astype(int)
-
-            if "donor" not in m.columns:
-                m.insert(0, "donor", donor)
-            else:
-                col = m.pop("donor")
-                m.insert(0, "donor", col)
-
-            if "cell_type_parsed" not in m.columns:
-                m.insert(1, "cell_type_parsed", ct)
-
+            m["donor"] = donor
+            m["cell_type_parsed"] = ct
             m["var_id"] = (
-                m["#CHROM"].astype(str) + ":" + m["Start"].astype(str) + "_" +
-                m["REF"].astype(str) + ">" + m["ALT_expected"].astype(str)
+                m["#CHROM"].astype(str)
+                + ":"
+                + m["Start"].astype(str)
+                + "_"
+                + m["REF"].astype(str)
+                + ">"
+                + m["ALT_expected"].astype(str)
             )
 
             if "Cell_type_observed" in m.columns and m["Cell_type_observed"].notna().any():
@@ -354,9 +310,7 @@ def main():
             else:
                 m["cell_type_stage"] = m["cell_type_parsed"].astype(str)
 
-            if "tissue" not in m.columns or "germ_layer" not in m.columns:
-                m = m.merge(cb_map, on=["donor", "CB"], how="left")
-
+            m = m.merge(cb_map, on=["donor", "CB"], how="left")
             rows.append(m)
 
     if not rows:
@@ -388,19 +342,11 @@ def main():
         )
 
         unique = mut.drop_duplicates(subset=["var_id", "cell_type_stage", "germ_layer"])
-        layer_counts = (
-            unique.groupby("var_id")["germ_layer"]
-            .nunique()
-            .rename("n_layers")
-            .reset_index()
-        )
-
+        layer_counts = unique.groupby("var_id")["germ_layer"].nunique().rename("n_layers").reset_index()
         stage = base.merge(layer_counts, on="var_id", how="left")
         stage["stage_label"] = stage.apply(
-            lambda r: classify_stage(r["n_layers"], r["n_tissues"], r["n_cells"]),
-            axis=1,
+            lambda r: classify_stage(r["n_layers"], r["n_tissues"], r["n_cells"]), axis=1
         )
-
         mut = mut.merge(stage[["donor", "var_id", "stage_label"]], on=["donor", "var_id"], how="left")
 
     ref_weights = load_reference_weights(REF_WEIGHTS_DIR) if REF_WEIGHTS_DIR.exists() else None
@@ -419,8 +365,8 @@ def main():
 
     std_path = OUT_DIR / f"stage_burden_per_donor_perkb_STANDARDIZED_3LEVEL_{tag}.csv"
     std_cum_path = OUT_DIR / f"stage_burden_per_donor_perkb_cumsum_STANDARDIZED_3LEVEL_{tag}.csv"
-    std_path.write_text(std_per_kb.to_csv(index=True))
-    std_cum_path.write_text(std_per_kb_cum.to_csv(index=True))
+    std_per_kb.to_csv(std_path, index=True)
+    std_per_kb_cum.to_csv(std_cum_path, index=True)
 
     donor_to_age = {donor: parse_mouse_age_months(donor) for donor in std_per_kb_cum.index}
     age_color_map = {
@@ -432,11 +378,9 @@ def main():
         30: "#2171B5",
     }
     default_color = "#6BAED6"
-
-    donor_to_color = {}
-    for donor in std_per_kb_cum.index:
-        age = donor_to_age.get(donor, None)
-        donor_to_color[donor] = age_color_map.get(age, default_color)
+    donor_to_color = {
+        donor: age_color_map.get(donor_to_age.get(donor), default_color) for donor in std_per_kb_cum.index
+    }
 
     fig, ax = plt.subplots(figsize=(10, 6), dpi=1000)
     for donor in std_per_kb_cum.index:
