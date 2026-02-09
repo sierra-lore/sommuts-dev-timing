@@ -1,11 +1,11 @@
-# Developmental timing classification (Demo code)
+# Developmental timing classification 
 
 This package provides source code and a small dataset to compute cohort-standardized developmental stage mutation burden for TabMur donor 1-M-62 and save a cumulative plot. 
 
 ## Package contents
 
 - Source code only: `run_stage_burden_demo_single_donor.py`, `build_merged_outputs_single_donor.py`, `build_cell_metadata_table_single_donor.py`
-- Demo dataset: `demo_data/merged_outputs_demo/1-M-62/`, `demo_data/cell_metadata_table_1-M-62.csv`
+- Demo dataset: `demo_data/merged_outputs_demo/1-M-62/` (genotype + SitesPerCell), `demo_data/cell_metadata_table_1-M-62.csv`
 - Cohort reference data (precomputed for 1-M-62): `demo_data/reference_weights_cells/*.csv`, `demo_data/reference_stage_labels_1-M-62.csv`
 
 ## System requirements
@@ -50,6 +50,12 @@ To run on your own data, you need external inputs that are not included in this 
 - Cell barcode metadata and germ-layer mapping tables.
 - Optional (for cohort-standardized results): full cohort outputs and cohort CB table.
 
+Input format assumptions (strict):
+- Genotype files are TSV with columns: `#CHROM`, `Start`, `End`, `REF`, `ALT_expected`, `CB`, `Cell_type_observed`, `Base_observed`, `Num_reads`.
+- SitesPerCell files are comma-separated with header `CB,SitesPerCell`.
+- Cellbarcodes file has columns `mouse.id`, `tissue`, `CB`.
+- Germ-layer map has columns `cell_type`, `tissue_type`, `germ_layer`.
+
 1) Build merged outputs for your donor:
 
 ```bash
@@ -59,6 +65,8 @@ python3 build_merged_outputs_single_donor.py \
   --sites-root <UniqueCellCallableSites_root> \
   --dest-root demo_data/merged_outputs_demo
 ```
+
+Note: this writes genotype and SitesPerCell files into `demo_data/merged_outputs_demo/<DONOR_ID>/` with names like `<DONOR_ID>.<celltype>.SitesPerCell.tsv`.
 
 2) Build a cell metadata table (donor, CB, tissue, germ_layer):
 

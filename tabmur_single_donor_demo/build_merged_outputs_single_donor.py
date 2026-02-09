@@ -123,7 +123,7 @@ def merge_and_write_for_donor(donor, geno_root, sites_root, dest_root):
             if sdfs:
                 s_all = pd.concat(sdfs, ignore_index=True)
                 s_all = s_all.groupby("CB", as_index=False)["SitesPerCell"].max()
-                out_s = dest_root / f"{donor}.{ct}.SitesPerCell.tsv"
+                out_s = dest_geno_dir / f"{donor}.{ct}.SitesPerCell.tsv"
                 s_all.to_csv(out_s, sep="\t", index=False)
                 sites_written += 1
 
