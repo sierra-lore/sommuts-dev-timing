@@ -4,7 +4,7 @@ This package provides source code and a small dataset to compute cohort-standard
 
 ## Package contents
 
-- Source code only (no compiled binaries): `run_stage_burden_demo_single_donor.py`, `build_merged_outputs_single_donor.py`, `build_cell_metadata_table_single_donor.py`, `build_reference_cohort_files.py`
+- Source code only (no compiled binaries): `run_stage_burden_demo_single_donor.py`, `build_merged_outputs_single_donor.py`, `build_cell_metadata_table_single_donor.py`
 - Demo dataset (small, real): `demo_data/merged_outputs_demo/1-M-62/`, `demo_data/cell_metadata_table_1-M-62.csv`
 - Cohort reference data (precomputed for 1-M-62): `demo_data/reference_weights_cells/*.csv`, `demo_data/reference_stage_labels_1-M-62.csv`
 
